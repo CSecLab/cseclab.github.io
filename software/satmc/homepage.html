@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Home Page</title>
+  <link href="style.css" type="text/css" rel="stylesheet"/>
+</head>
+
+<body bgcolor="white">
+
+<h1> SATMC: a SAT-based Model-Checker for Security Protocols and Security-sensitive Applications</h1>
+
+<!-- <p>SATMC (SAT-based Model Checker) is a bounded model checker for -->
+<!-- security protocols and security-sensitive applications.</p> -->
+
+<p>
+Even under the assumption of perfect cryptography, the design of
+security protocols is notoriously error-prone.  Many published
+protocols have been implemented and deployed in real applications only
+to be found flawed years later.  The problem is that often security
+protocols hide subtle flaws that are difficult to detect by a human
+inspection.
+</p>
+
+<ul id="list">
+<li><b>Approach:</b> SATMC reduces the problem of checking whether a
+protocol is vulnerable to attacks of bounded length to the
+satisfiability of a propositional formula which is then solved by a
+state-of-the-art SAT solver.  This is done by combining a reduction
+technique of protocol insecurity problems to planning problems and
+SAT-reduction techniques developed for planning and LTL that allows
+for leveraging state-of-the-art SAT solvers.
+</li>
+
+<li><b>Features:</b> SATMC provides a number of distinguishing
+features, including the ability to
+<ul>
+<li>check the protocol against complex temporal properties (e.g. fair
+exchange);</li>
+<li>analyze protocols (e.g. browser-based protocols) that assume
+messages are carried over <i>secure channels</i> (e.g. SSL/TLS
+channels).</li>
+</ul></li>
+
+<li><b>Success Stories:</b> SATMC has been used to detect
+<ul>
+<li> a <a
+href="http://www.ai-lab.it/armando/GoogleSSOVulnerability.html"
+target="_blank">serious vulnerability</a> on the <a
+href="http://code.google.com/apis/apps/sso/saml_reference_implementation.html">SAML-based
+Single Sign-On service for Google Apps</a>;</li>
+<li> a flaw in a "patched" version of the Asokan, Weidner, Shoup
+protocol for optimistic fair exchange [<a
+href="publications.html#csf2007">csf2007</a>];</li>
+<li> an authentication flaw in the SAML 2.0 Web Browser SSO Profile
+[<a href="publications.html#sec2011">sec2011</a>].</li>
+</ul>
+SATMC has also been used by SAP Research to perform a complete formal
+analysis of the SAP NetWeaver SAML Next Generation Single Sign-On.
+</li>
+
+<li><b>Usage:</b> SATMC is used in several advanced research
+prototypes and industrial tools:
+<ul>
+<li>SATMC is one of the back-ends of the <a
+href="http://www.avispa-project.org" target="_blank">AVISPA Tool</a>
+and of the <a href="http://www.avantssar.eu" target="_blank">AVANTSSAR
+Platform</a>.</li>
+<li>SATMC is used as an automated testcase generator
+in <a href="http://secgroup.ext.dsi.unive.it/tookan">Tookan</a>, a
+tool for analysing PKCS#11 security tokens;</li>
+<li>
+SATMC lies at the core of a Security Validator for business processes
+developed by SAP Research which is currently being experimented within
+<a
+href="http://www.sap.com/platform/netweaver/components/sapnetweaverbpm/index.epx">SAP
+Netweaver BPM</a>.</li>
+
+<!-- <li><b>More info:</b> Details about SATMC are available in [<a -->
+<!-- href="publications.html#csf2007">csf2007</a>] and in [<a -->
+<!-- href="publications.html#ijis2007">ijis2007</a>].</li> -->
+
+<!-- <li><b>News:</b> <a href="software.html">SATMC v3.0</a> is out!  A new -->
+<!-- version of SATMC, SATMC v3.0 has been released and is available for -->
+<!-- download.  The new version features: -->
+<!-- <ul> -->
+<!-- <li>...</li> -->
+<!-- <li>...</li> -->
+<!-- </ul> -->
+<!-- </li> -->
+</ul>
+
+</body>
+</html>
