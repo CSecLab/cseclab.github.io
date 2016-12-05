@@ -1,104 +1,121 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html><head>
+<html>
+<head>
 
-  
-  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>Software</title>
-  
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Software - CSecLab</title>
 
-  
-  
-  <link rel="stylesheet" type="text/css" href="../css/style.css"></head><body style="color: rgb(0, 0, 0);" alink="#ee0000" link="#0000ee" vlink="#551a8b">
-<ul class="nav">
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <link rel="stylesheet" href="/libs/bootstrap/dist/css/bootstrap.min.css">
 
-<li><big><a href="http://www.csec.it">Home</a></big></li>
-<li><big><a href="research.html">Research</a></big></li>
-<li><big><a href="people.html">People</a></big></li>
-<li><big><a href="software.html">Software</a></big></li>
-<li><big><a href="teaching.html">Teaching</a></big></li>
-<li><big><a href="events.html">Events</a></big></li>
-</ul>
+
+    <!-- TODO: Move offline -->
+    <script src="http://www.w3schools.com/lib/w3data.js"></script>
+
+    <script src="/libs/jquery/dist/jquery.js"></script>
+
+    <script src="/libs/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <script src="/active_navbar.js"></script>
+
+</head>
+
+<body>
+
+<!-- includes navbar menu -->
+<div w3-include-html="/navbar.html"></div>
+
+<script>
+    w3IncludeHTML();
+</script>
 
 <div align="center">
-<br>
-<br>
-<br>
-<h1 style="text-align: center;"><br>
-</h1>
-<h1 style="text-align: center;">Software Tools</h1>
-<br>
-<div style="margin-left: 40px; margin-right: 40px;" id="text" align="justify">
-<a href="../software/byodroid/index.html">BYODroid</a> is an
-Android-based
-implementation of a Secure Meta-Market, allowing to define and enforce
-formal "Bring Your Own Device" policies on mobile apps. The theoretical
-background of BYODroid can be found in <a href="../pubs/BYODroid-extended.pdf">[SAC2013]</a> and <a href="../pubs/IJIS-2014.pdf">[IJIS2014]</a>, while the experimental
-assessment is discussed in <a href="../pubs/Computer2014.pdf">[Computer2014]</a>
-and <a href="../pubs/WISEC-2014.pdf">[WiSec2014]</a>. <br>
-<br>
-The <a href="http://avantssar.eu/platform/" target="_parent">AVANTSSAR
-Platform</a> The AVANTSSAR Validation Platform, an automated toolset
-for validating trust and security aspects of service-oriented
-architectures. An overview of the AVANTSSAR Platform can be found <a href="../pubs/avantssar-tacas12.pdf">here</a>. <br>
-<br>
-<a href="http://st.fbk.eu/ASASP" target="_parent">ASASP</a>
-(short for
-Automated Symbolic Analysis of Security Policies) is an implementation
-of the analysis techniques for Administrative RBAC (ARBAC) policies. It
-implements a symbolic backward reachability analysis to solve user-role
-reachability problems. An overview of ASASP can be found <a href="../pubs/asasp.pdf">here</a>. <br>
-<br>
-<a href="../software/Eureka-0.1-Linux-i686.tgz" target="_parent">Eureka</a>
-is a model checker for sequential software based on the
-counterexample-guided abstraction refinement (CEGAR) paradigm. Unlike
-many other software model checkers based on the CEGAR paradigm Eureka
-analyses arrays precisely. An overview of Eureka can be found <a href="../pubs/ase2007.pdf">here</a>. <br>
-<br>
-<a href="http://www.ai-lab.it/eureka/smt-cbmc.php" target="_parent">SMT-CBMC</a>
-is a bounded model checker for sequential software. SMT-CBMC reduces
-the problem of checking whether an input program has an execution path
-of bounded length violating an assertion to the satisfiability of a
-formula with respect to a decidable theory. The resulting formula is
-fed and solved by a state-of-the-art SMT-solver taken off-the-shelf. An
-overview of SMT-CBMC can be found <a href="../pubs/spin06.pdf">here</a>.
-<br>
-<br>
-The <a href="http://www.avispa-project.org/" target="_parent">AVISPA
-Tool</a> is a fully automatic analyser for large-scale Internet
-security-sensitive protocols. It comprises 4 back-ends implementing a
-variety of security protocol verification techniques. An overview of
-the AVISPA Tool can be found <a href="../pubs/cav05.pdf">here</a>. <br>
-<br>
-The <a href="http://www.avispa-project.org/aviss-project/" target="_parent">AVISS Tool</a> is a fully automatic security protocol
-analyser. It is capable to analyse a large portion of the protocols
-collected in the <a href="http://www.cs.york.ac.uk/%7Ejac/papers/drareviewps.ps">Clark
-&amp; Jacob library of security protocols</a>. An overview of the AVISS
-Tool can be found <a href="../pubs/cav02.pdf">here</a>.
-The AVISS Tool is the predecessor of the AVISPA Tool. <br>
-<br>
-<a href="http://www.ai-lab.it/satmc" target="_parent">SATMC</a>
-(SAT-based Model Checker)
-is a bounded model checker for security protocols. SATMC reduces the
-problem of checking whether a protocol is vulnerable to attacks of
-bounded length to the satisfiability of a propositional formula which
-is solved by a state-of-the-art SAT solver taken off-the-shelf. SATMC
-is one of the back-ends of the AVISPA Tool. An overview of SATMC can be
-found <a href="http://www.csec.it/pubs/tacas2014.pdf" target="_parent">here</a>. <br>
-<br>
-<a href="http://www.star.dist.unige.it/%7Emarco/Tsat/default.htm" target="_parent">TSAT++</a> is an open platform for satisfiability
-modulo theories (SMT) based on a tight coupling of satisfiability
-procedures and a SAT-solver. The current version of TSAT++ supports
-Separation Logic (also known as Difference Logic). An overview of
-TSAT++ can be found <a href="../pubs/pdpar04.pdf">here</a>. <br>
-<br>
-<a href="../software/ccr/index.html" target="_parent">RDL</a>
-(Rewrite and Decision Procedures Laboratory). RDL is a fully automatic
-tool for formula simplification in a quantifier-free first-order
-theories. RDL is based on the Constraint Contextual Rewriting paradigm
-and features a tight integration of rewriting and decision procedures.
-An overview of RDL can be found <a href="../pubs/rdl.pdf">here</a>.<br>
+    <br>
+    <br>
+    <br>
+    <h1 style="text-align: center;"><br>
+    </h1>
+    <h1 style="text-align: center;">Software Tools</h1>
+    <br>
+    <div style="margin-left: 40px; margin-right: 40px;" id="text" align="justify">
+        <a href="../software/byodroid/index.html">BYODroid</a> is an
+        Android-based
+        implementation of a Secure Meta-Market, allowing to define and enforce
+        formal "Bring Your Own Device" policies on mobile apps. The theoretical
+        background of BYODroid can be found in <a href="../pubs/BYODroid-extended.pdf">[SAC2013]</a> and <a
+            href="../pubs/IJIS-2014.pdf">[IJIS2014]</a>, while the experimental
+        assessment is discussed in <a href="../pubs/Computer2014.pdf">[Computer2014]</a>
+        and <a href="../pubs/WISEC-2014.pdf">[WiSec2014]</a>. <br>
+        <br>
+        The <a href="http://avantssar.eu/platform/" target="_parent">AVANTSSAR
+        Platform</a> The AVANTSSAR Validation Platform, an automated toolset
+        for validating trust and security aspects of service-oriented
+        architectures. An overview of the AVANTSSAR Platform can be found <a
+            href="../pubs/avantssar-tacas12.pdf">here</a>. <br>
+        <br>
+        <a href="http://st.fbk.eu/ASASP" target="_parent">ASASP</a>
+        (short for
+        Automated Symbolic Analysis of Security Policies) is an implementation
+        of the analysis techniques for Administrative RBAC (ARBAC) policies. It
+        implements a symbolic backward reachability analysis to solve user-role
+        reachability problems. An overview of ASASP can be found <a href="../pubs/asasp.pdf">here</a>. <br>
+        <br>
+        <a href="../software/Eureka-0.1-Linux-i686.tgz" target="_parent">Eureka</a>
+        is a model checker for sequential software based on the
+        counterexample-guided abstraction refinement (CEGAR) paradigm. Unlike
+        many other software model checkers based on the CEGAR paradigm Eureka
+        analyses arrays precisely. An overview of Eureka can be found <a href="../pubs/ase2007.pdf">here</a>. <br>
+        <br>
+        <a href="http://www.ai-lab.it/eureka/smt-cbmc.php" target="_parent">SMT-CBMC</a>
+        is a bounded model checker for sequential software. SMT-CBMC reduces
+        the problem of checking whether an input program has an execution path
+        of bounded length violating an assertion to the satisfiability of a
+        formula with respect to a decidable theory. The resulting formula is
+        fed and solved by a state-of-the-art SMT-solver taken off-the-shelf. An
+        overview of SMT-CBMC can be found <a href="../pubs/spin06.pdf">here</a>.
+        <br>
+        <br>
+        The <a href="http://www.avispa-project.org/" target="_parent">AVISPA
+        Tool</a> is a fully automatic analyser for large-scale Internet
+        security-sensitive protocols. It comprises 4 back-ends implementing a
+        variety of security protocol verification techniques. An overview of
+        the AVISPA Tool can be found <a href="../pubs/cav05.pdf">here</a>. <br>
+        <br>
+        The <a href="http://www.avispa-project.org/aviss-project/" target="_parent">AVISS Tool</a> is a fully automatic
+        security protocol
+        analyser. It is capable to analyse a large portion of the protocols
+        collected in the <a href="http://www.cs.york.ac.uk/%7Ejac/papers/drareviewps.ps">Clark
+        &amp; Jacob library of security protocols</a>. An overview of the AVISS
+        Tool can be found <a href="../pubs/cav02.pdf">here</a>.
+        The AVISS Tool is the predecessor of the AVISPA Tool. <br>
+        <br>
+        <a href="http://www.ai-lab.it/satmc" target="_parent">SATMC</a>
+        (SAT-based Model Checker)
+        is a bounded model checker for security protocols. SATMC reduces the
+        problem of checking whether a protocol is vulnerable to attacks of
+        bounded length to the satisfiability of a propositional formula which
+        is solved by a state-of-the-art SAT solver taken off-the-shelf. SATMC
+        is one of the back-ends of the AVISPA Tool. An overview of SATMC can be
+        found <a href="http://www.csec.it/pubs/tacas2014.pdf" target="_parent">here</a>. <br>
+        <br>
+        <a href="http://www.star.dist.unige.it/%7Emarco/Tsat/default.htm" target="_parent">TSAT++</a> is an open
+        platform for satisfiability
+        modulo theories (SMT) based on a tight coupling of satisfiability
+        procedures and a SAT-solver. The current version of TSAT++ supports
+        Separation Logic (also known as Difference Logic). An overview of
+        TSAT++ can be found <a href="../pubs/pdpar04.pdf">here</a>. <br>
+        <br>
+        <a href="../software/ccr/index.html" target="_parent">RDL</a>
+        (Rewrite and Decision Procedures Laboratory). RDL is a fully automatic
+        tool for formula simplification in a quantifier-free first-order
+        theories. RDL is based on the Constraint Contextual Rewriting paradigm
+        and features a tight integration of rewriting and decision procedures.
+        An overview of RDL can be found <a href="../pubs/rdl.pdf">here</a>.<br>
+    </div>
+    <br>
+    <br>
+    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <a href="http://www.csec.it"><span
+        style="font-style: italic; font-weight: bold;">Home</span></a><br>
 </div>
-<br>
-<br>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <a href="http://www.csec.it"><span style="font-style: italic; font-weight: bold;">Home</span></a><br>
-</div>
-</body></html>
+</body>
+</html>
