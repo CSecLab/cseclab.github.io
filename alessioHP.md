@@ -1,55 +1,36 @@
----
+--- 
 layout: page
-title: Alessio Merlo
+title: Alessio Merlo's HomePage
 ---
 
-Homepage of Alessio Merlo
-=============
+# Alessio Merlo's HomePage
 
-<table>
-  <tr>
-    <th colspan="6">
-    <img src="http://www.dibris.unige.it/public/staff/img/foto_701287.jpg" alt="Alessio's pic is missing."  ></th>
-  </tr>
-  <tr>
-    <th><a href="#bio">Short Bio</a></th>
-    <th><a href="#pubs">Publications</a></th>
-    <th><a href="#serv">Services to the Profession</a></th>
-    <th><a href="#proj">Projects and Grants</a></th>
-    <th><a href="#teach">Teaching Activity</a></th>
-    <th><a href="#contacts">Contacts</a></th>
-  </tr>
-</table>
+
+![Alessio's pic is missing.](http://www.dibris.unige.it/public/staff/img/foto_701287.jpg)
+
 
 -----------
-<a name="bio">Short Bio</a>
---
-  - Born in [Savona](https://en.wikipedia.org/wiki/Savona), [Liguria](https://en.wikipedia.org/wiki/Liguria), the **6th of Feb. 1980**.
-  - **Oct. 2003**: B.Sc. *cum laude* in Computer Science at University of Genova.
-  - **Sept. 2005**: M.Sc. *cum laude* in Computer Science at University of Genova.
-  - **From Dec. 2006 to Jan. 2010**: research grants at [IEIIT-CNR](http://www.ieiit.cnr.it/ge/index.php), Branch of Genova.
-  - **Apr. 2010**: Ph.D. in Computer Science at University of Genova on HPC and Grid technologies.
-  - **From Feb. 2010 to Mar. 2011**: PostDoc in Computer Security at [AI-Lab](http://www.ai-lab.it), DIST, University of Genova.
-  - **From Apr. 2011 to Aug. 2014**: Assistant Professor at [E-Campus University](http://www.ecampus.it) and Associate Researcher at AI-Lab, [DIBRIS](http://www.dibris.unige.it), University of Genova.
+## Short Bio
+
+- Born in [Savona](https://en.wikipedia.org/wiki/Savona), [Liguria](https://en.wikipedia.org/wiki/Liguria), the **6th of Feb. 1980**.
+- **Oct. 2003**: B.Sc. *cum laude* in Computer Science at University of Genova.
+- **Sept. 2005**: M.Sc. *cum laude* in Computer Science at University of Genova.
+- **From Dec. 2006 to Jan. 2010**: research grants at [IEIIT-CNR](http://www.ieiit.cnr.it/ge/index.php), Branch of Genova.
+- **Apr. 2010**: Ph.D. in Computer Science at University of Genova on HPC and Grid technologies.
+- **From Feb. 2010 to Mar. 2011**: PostDoc in Computer Security at [AI-Lab](http://www.ai-lab.it), DIST, University of Genova.
+- **From Apr. 2011 to Aug. 2014**: Assistant Professor at [E-Campus University](http://www.ecampus.it) and Associate Researcher at AI-Lab, [DIBRIS](http://www.dibris.unige.it), University of Genova.
 
 
-#### Current positions
- - **Assistant Professor** at DIBRIS, University of Genova. 
+### Current positions
+- **Assistant Professor** at DIBRIS, University of Genova. 
 - **Founder and C.T.O.** at [Talos  s.r.l.s](http://www.talos-sec.com).
 
 
----------------
-<a name="pubs">Publications</a>
---
+## Publications
 
-<table>
-  <tr>
-    <th><a href="https://scholar.google.com/citations?update_op=accept_invitation&email_for_op=alessio.mrl%40gmail.com&invitation_id=9656939844049668502&user=F3Bkg_MAAAAJ&cstart=40&pagesize=20">Google Scholar</a></th>
-    <th><a href="https://www.scopus.com/authid/detail.uri?authorId=15136674200">Scopus</a></th>
-    <th><a href="http://dblp.uni-trier.de/pers/hd/m/Merlo:Alessio">DBLP</a></th>
-    <th><a href="https://www.semanticscholar.org/author/Alessio-Merlo/2611687">Semantic Scholar</a></th>
-  </tr>
-</table>
+
+| [Google Scholar](https://scholar.google.com/citations?update_op=accept_invitation&email_for_op=alessio.mrl%40gmail.com&invitation_id=9656939844049668502&user=F3Bkg_MAAAAJ&cstart=40&pagesize=20) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=15136674200) | [DBLP](http://dblp.uni-trier.de/pers/hd/m/Merlo:Alessio) | [Semantic Scholar](https://www.semanticscholar.org/author/Alessio-Merlo/2611687) |
+|---|---|---|---|
 
 ### Books
 1. A. Merlo, M. Migliardi, S. Al-Haj Baddar (Eds.). "Adaptive Mobile Computing: Advances in Processing of Mobile Data Sets" Elsevier. Expected release: 2017, 1Q.
@@ -134,32 +115,54 @@ Homepage of Alessio Merlo
 1. A. Clematis, A. Corana, D. D’Agostino, V. Gianuzzi, A. Merlo, A. Quarati. "A Distributed Approach for Structured Resource Discovery on Grid", in *Proc. of the 2nd International Conference on Complex, Intelligent and Software Intensive Systems* ([CISIS 2008](http://voyager.ce.fit.ac.jp/conf/cisis/2013/)), pp. 117-125. IEEE, [DOI: 10.1109/CISIS.2008.112](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4606671).
 1. A. Clematis, A. Corana, D. D’Agostino, V. Gianuzzi, A. Merlo. "Resource selection and application execution in a Grid: A migration experience from GT2 to GT4", in *Proc. of the International Conference on Grid computing, high-performAnce and Distributed Applications* ([GADA 2006](http://www.onthemove-conferences.org/index.php/previousevents/otm06/conf06/gada06)), LNCS, n. 4276, pp. 1132-1142, Springer, [DOI: 10.1007/11914952_4](http://link.springer.com/chapter/10.1007%2F11914952_4#page-1).
 
----------------
-<a name="serv">Services to the Profession</a>
---
+
+## Services to the Profession
 
 ### Editorial Activity
 
 - **Lead Guest Editor** of the [Special Issue on Advances in High Performance Computing and Simulations](http://www.cc-pe.net/journalinfo/issues/2016.html#HPCS2016), [Concurrency and Computation: Practice and Experience](http://www.cc-pe.net/journalinfo/), Wiley.
--  **Member of the Editorial Advisory Board** of the book [Security Solutions and Applied Cryptography in Smart Grid Communications](http://www.igi-global.com/book/security-solutions-applied-cryptography-smart/166368), IGI-Global.- **Associate Editor** at [Journal of High Speed Networks](http://www.iospress.nl/journal/journal-of-high-speed-networks/), IoS Press.- I am a **reviewer** for [ACM Transactions on Cyber-Physical Systems](http://tcps.acm.org/), [The Journal of Supercomputing](http://link.springer.com/journal/11227), [Computers & Electrical Engineering](https://www.journals.elsevier.com/computers-and-electrical-engineering/), [Telematics and Informatics](https://www.journals.elsevier.com/telematics-and-informatics/),  [Mobile Information Systems](https://www.hindawi.com/journals/misy/),  [Journal of Systems and Software](https://www.journals.elsevier.com/journal-of-systems-and-software/), [Journal of High Speed Networks](http://www.iospress.nl/journal/journal-of-high-speed-networks/), [Computers & Security](https://www.journals.elsevier.com/computers-and-security/), [Future Generation Computer Systems](https://www.journals.elsevier.com/future-generation-computer-systems/), [Journal of Network and Computer Applications](https://www.journals.elsevier.com/journal-of-network-and-computer-applications), [Concurrency and Computation: Practice and Experience](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1532-0634).
+-  **Member of the Editorial Advisory Board** of the book [Security Solutions and Applied Cryptography in Smart Grid Communications](http://www.igi-global.com/book/security-solutions-applied-cryptography-smart/166368), IGI-Global.
+- **Associate Editor** at [Journal of High Speed Networks](http://www.iospress.nl/journal/journal-of-high-speed-networks/), IoS Press.
+- I am a **reviewer** for [ACM Transactions on Cyber-Physical Systems](http://tcps.acm.org/), [The Journal of Supercomputing](http://link.springer.com/journal/11227), [Computers & Electrical Engineering](https://www.journals.elsevier.com/computers-and-electrical-engineering/), [Telematics and Informatics](https://www.journals.elsevier.com/telematics-and-informatics/),  [Mobile Information Systems](https://www.hindawi.com/journals/misy/),  [Journal of Systems and Software](https://www.journals.elsevier.com/journal-of-systems-and-software/), [Journal of High Speed Networks](http://www.iospress.nl/journal/journal-of-high-speed-networks/), [Computers & Security](https://www.journals.elsevier.com/computers-and-security/), [Future Generation Computer Systems](https://www.journals.elsevier.com/future-generation-computer-systems/), [Journal of Network and Computer Applications](https://www.journals.elsevier.com/journal-of-network-and-computer-applications), [Concurrency and Computation: Practice and Experience](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1532-0634).
 
 ### International Conference Chair
-- **General Chair**
-	- 15th International Conference on High Performance Computing & Simulation ([HPCS 2017](http://hpcs2017.cisedu.info)), July 17-21, 2017, Genoa. 
-- **Local Chair**
-	- 15th International Conference of the Italian Association for Artificial Intelligence ([AIxIA 2016]()), Nov. 21-25, 2016.
-- **Workshop Chair**
-	- 7th International Workshop on Security and Performance in Cloud Computing (SPCloud 2017), July 17- 21, 2017, Genoa, Italy.	- 13th International Workshop on Security and High Performance Computing (SHPCS 2017), July 17-21, 2017, Genoa, Italy.	- 6th International Workshop on Security and Performance in Cloud Computing ([SPCloud 2016](http://hpcs2016.cisedu.info/2-conference/workshops---hpcs2016/workshop10-spcloud)), July 18- 22, 2016, Innsbruck, Austria.
-	- 12th International Workshop on Security and High Performance Computing ([SHPCS 2016](http://hpcs2016.cisedu.info/2-conference/workshops---hpcs2016/workshop09-shpcs)), July 18-22, 2016, Innsbruck, Austria.	- 5th International Workshop on Security and Performance in Cloud Computing ([SPCloud 2015]([SPCloud 2016](http://hpcs2016.cisedu.info/2-conference/workshops---hpcs2016/workshop10-spcloud))), July 20- 24, 2015, Amsterdam, the Netherlands.	- 11th International Workshop on Security and High Performance Computing ([SHPCS 2015](http://hpcs2015.cisedu.info/2-conference/hpcs-2015-workshops/hpcs-2015-workshop-10-shcps)), July 20-24, 2015, Amsterdam, the Netherlands.	- 4th International Workshop on Security and Performance in Cloud Computing ([SPCloud 2014](http://hpcs2014.cisedu.info/2-conference/workshops/workshop-11-spcloud)), July, 21- 25, 2014, Bologna, Italy.
+
+#### General Chair
+- 15th International Conference on High Performance Computing & Simulation ([HPCS 2017](http://hpcs2017.cisedu.info)), July 17-21, 2017, Genoa. 
+
+#### Local Chair
+- 15th International Conference of the Italian Association for Artificial Intelligence ([AIxIA 2016]()), Nov. 21-25, 2016.
+
+#### Workshop Chair
+- 7th International Workshop on Security and Performance in Cloud Computing (SPCloud 2017), July 17- 21, 2017, Genoa, Italy.
+- 13th International Workshop on Security and High Performance Computing (SHPCS 2017), July 17-21, 2017, Genoa, Italy.
+- 6th International Workshop on Security and Performance in Cloud Computing ([SPCloud 2016](http://hpcs2016.cisedu.info/2-conference/workshops---hpcs2016/workshop10-spcloud)), July 18- 22, 2016, Innsbruck, Austria.
+- 12th International Workshop on Security and High Performance Computing ([SHPCS 2016](http://hpcs2016.cisedu.info/2-conference/workshops---hpcs2016/workshop09-shpcs)), July 18-22, 2016, Innsbruck, Austria.
+- 5th International Workshop on Security and Performance in Cloud Computing ([SPCloud 2015]([SPCloud 2016](http://hpcs2016.cisedu.info/2-conference/workshops---hpcs2016/workshop10-spcloud))), July 20- 24, 2015, Amsterdam, the Netherlands.
+- 11th International Workshop on Security and High Performance Computing ([SHPCS 2015](http://hpcs2015.cisedu.info/2-conference/hpcs-2015-workshops/hpcs-2015-workshop-10-shcps)), July 20-24, 2015, Amsterdam, the Netherlands.
+- 4th International Workshop on Security and Performance in Cloud Computing ([SPCloud 2014](http://hpcs2014.cisedu.info/2-conference/workshops/workshop-11-spcloud)), July, 21- 25, 2014, Bologna, Italy.
 
 	
-- **Track Chair**
-	- Track: Demos. 1st Italian Conference on Cyber Security ([ITA-SEC 2017](http://ita-sec2017.dais.unive.it)).	- Track: Smart Spaces and Intelligent Environments, 9th International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing ([IMIS 2015](http://voyager.ce.fit.ac.jp/conf/imis/2015/)).	- Track: Security, Trust and Privacy, 8th International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing ([IMIS 2014](http://voyager.ce.fit.ac.jp/conf/imis/2014/)).	- Track Mobile Collaborative Systems, 6th International Conference on Intelligent Networking and Collaborative Systems ([INCoS 2014](http://voyager.ce.fit.ac.jp/conf/incos/2014/)), Sep. 10-12, 2014, Salerno, Italy.
+#### Track Chair
+- Track: Demos. 1st Italian Conference on Cyber Security ([ITA-SEC 2017](http://ita-sec2017.dais.unive.it)).
+- Track: Smart Spaces and Intelligent Environments, 9th International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing ([IMIS 2015](http://voyager.ce.fit.ac.jp/conf/imis/2015/)).
+- Track: Security, Trust and Privacy, 8th International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing ([IMIS 2014](http://voyager.ce.fit.ac.jp/conf/imis/2014/)).
+- Track Mobile Collaborative Systems, 6th International Conference on Intelligent Networking and Collaborative Systems ([INCoS 2014](http://voyager.ce.fit.ac.jp/conf/incos/2014/)), Sep. 10-12, 2014, Salerno, Italy.
 
-- **Session Chair**
-	- Session: SHPCS I, 31st International Conference on High Performance Computing & Simulation ([HPCS 2016](http://hpcs2016.cisedu.info/)), July 18-22, 2016, Innsbruck, Austria.	- Session: SHPCS II, 31st International Conference on High Performance Computing & Simulation ([HPCS 2016](http://hpcs2016.cisedu.info/)), July 18-22, 2016, Innsbruck, Austria.	- Session: Tutorial V, 31st International Conference on High Performance Computing & Simulation ([HPCS 2016](http://hpcs2016.cisedu.info/)), July 18-22, 2016, Innsbruck, Austria.	- Session: Mobile Security II, 11th ACM Asia Conference on Computer and Communications Security ([AsiaCCS 2016](http://meeting.xidian.edu.cn/conference/AsiaCCS2016/home.html)), May 30 - June 3, 2016, Xi’an, China.Session: SHPCS I, 30th International Conference on High Performance Computing & Simulation ([HPCS 2015](http://hpcs2015.cisedu.info/)), July 20-24, 2015, Amsterdam, the Netherlands.	- Session: SHPCS II, 29th International Conference on High Performance Computing & Simulation ([HPCS 2014](http://hpcs2014.cisedu.info/)), July, 21-25, Bologna, Italy.	- Session Infrastructure and Network Security II, 7th International Conference on Computational Intelligence in Security for Information Systems ([CISIS (Sec) 2014](http://cisis.usal.es/)), June 25-27, 2014, Bilbao, Spain.	- Session: Parallel Computing, 8th International Conference on Complex, Intelligent and Software Intensive Systems ([CISIS 2014](http://voyager.ce.fit.ac.jp/conf/cisis/2014/)), July 2-4, 2014, Birmingham, UK.	- Session High Performance Mobile Systems, Location-Based Services, and Applications in Ubiquitous Computing, 29th International Conference on High Performance Computing & Simulation ([HPCS 2013](http://hpcs2013.cisedu.info/)), July 1-5, 2013, Helsinki, Finland.	- Session: Job Scheduling and Environment Sensing, 27th IEEE International Conference on Advanced Information Networking and Applications ([AINA 2013](http://voyager.ce.fit.ac.jp/conf/aina/2013/)), Mar. 25-28, 2013, Barcelona, Spain.
+#### Session Chair
+- Session: SHPCS I, 31st International Conference on High Performance Computing & Simulation ([HPCS 2016](http://hpcs2016.cisedu.info/)), July 18-22, 2016, Innsbruck, Austria.
+- Session: SHPCS II, 31st International Conference on High Performance Computing & Simulation ([HPCS 2016](http://hpcs2016.cisedu.info/)), July 18-22, 2016, Innsbruck, Austria.
+- Session: Tutorial V, 31st International Conference on High Performance Computing & Simulation ([HPCS 2016](http://hpcs2016.cisedu.info/)), July 18-22, 2016, Innsbruck, Austria.
+- Session: Mobile Security II, 11th ACM Asia Conference on Computer and Communications Security ([AsiaCCS 2016](http://meeting.xidian.edu.cn/conference/AsiaCCS2016/home.html)), May 30 - June 3, 2016, Xi’an, China.
+Session: SHPCS I, 30th International Conference on High Performance Computing & Simulation ([HPCS 2015](http://hpcs2015.cisedu.info/)), July 20-24, 2015, Amsterdam, the Netherlands.
+- Session: SHPCS II, 29th International Conference on High Performance Computing & Simulation ([HPCS 2014](http://hpcs2014.cisedu.info/)), July, 21-25, Bologna, Italy.
+- Session Infrastructure and Network Security II, 7th International Conference on Computational Intelligence in Security for Information Systems ([CISIS (Sec) 2014](http://cisis.usal.es/)), June 25-27, 2014, Bilbao, Spain.
+- Session: Parallel Computing, 8th International Conference on Complex, Intelligent and Software Intensive Systems ([CISIS 2014](http://voyager.ce.fit.ac.jp/conf/cisis/2014/)), July 2-4, 2014, Birmingham, UK.
+- Session High Performance Mobile Systems, Location-Based Services, and Applications in Ubiquitous Computing, 29th International Conference on High Performance Computing & Simulation ([HPCS 2013](http://hpcs2013.cisedu.info/)), July 1-5, 2013, Helsinki, Finland.
+- Session: Job Scheduling and Environment Sensing, 27th IEEE International Conference on Advanced Information Networking and Applications ([AINA 2013](http://voyager.ce.fit.ac.jp/conf/aina/2013/)), Mar. 25-28, 2013, Barcelona, Spain.
 
 ### TCP Membership
+
 - 3rd International Conference on Mobile, Secure and Programmable Networking ([MSPN 2017](http://cedric.cnam.fr/workshops/mspn2017/)), June 29-30, 2017, Paris, France.
 - 8th International Conference on Emerging Ubiquitous Systems and Pervasive Networks ([EUSPN 2017](http://cs-conferences.acadiau.ca/euspn-17/organizing-commitee.html)), Sep. 18-20, 2017, Lund, Sweden.
 - 31st IEEE International Conference on Advanced Information Networking and Applications ([AINA 2017](http://voyager.ce.fit.ac.jp/conf/aina/2017/tpc.html)), Mar. 27-29, Taipei, Taiwan.
@@ -200,20 +203,21 @@ Homepage of Alessio Merlo
 - 7th International Workshop on Security and High Performance Computing Systems ([SHPCS 2012](http://hpcs2012.cisedu.info/2-conference/workshops/workshop-12-shocs)), July 2-6, 2012, Madrid, Spain.
 - 7th IEEE International Conference on Information Assurance and Security ([IAS 2011](http://www.mirlabs.org/ias11/committee.html)), Dec. 5-8, 2011, Malacca, Malaysia.
 
--------------------------
-<a name="proj">Projects and Grants</a>
---
 
-- **BYODCert Project**, funded by the University of Genoa. Total funding: € 16.000. *Principal Investigator*.- **[EduOpen Project](http://en.eduopen.org/)**, funded by the Italian Ministry of Education, University and Research (MIUR). *Faculty participant*. - **[Smart Intelligent and Eco-friendly Mobility Project](http://www.s3lab.polito.it/progetti/progetti_in_corso/mie)**, funded by the Italian Ministry of Education, University and Research (MIUR). Total funding: € 7.782.800. *Faculty participant*. 
+## Projects and Grants
+
+- **BYODCert Project**, funded by the University of Genoa. Total funding: € 16.000. *Principal Investigator*.
+- **[EduOpen Project](http://en.eduopen.org/)**, funded by the Italian Ministry of Education, University and Research (MIUR). *Faculty participant*. 
+- **[Smart Intelligent and Eco-friendly Mobility Project](http://www.s3lab.polito.it/progetti/progetti_in_corso/mie)**, funded by the Italian Ministry of Education, University and Research (MIUR). Total funding: € 7.782.800. *Faculty participant*. 
 - **[PLUG-IN Project](http://www.siitscpa.it/index.php/progetti/2011-09-24-14-26-55/plug-in)**, funded by the Italian Ministry of Education, University and Research (MIUR). Total funding: € 3.408.950. *Faculty participant*.
 - **[Security Horizons](http://people.unica.it/bart/2012/10/24/security-horizons/)** (PRIN Project no. 2010XSEMLC), funded by the Italian Ministry of Education, University and Research (MIUR). Total funding: € 572.157. *Faculty participant*.
 - **[Security and Cloud Computing Project](https://sites.google.com/a/manydesigns.com/cloud_security/)**, POR Liguria, funded by Liguria Region. Total funding: € 150.000. *Faculty participant*.
 - **[SPaCIoS Project](http://www.spacios.eu)**, Project no. 257876, FP7-ICT-2009-5, ICT-2009.1.4: Trustworthy ICT, funded by EC. Total funding: €3.610.000. *Faculty participant*. 
 - **[SINTESIS Project](http://www.siitscpa.it/index.php/progetti/2011-09-24-14-26-54/sintesis)**, funded by the Italian Ministry of Education, University and Research (MIUR). Total funding: € 3.600.00. *Faculty participant*.
 
-------------------
-<a name="teach">Teaching Activity</a>
---
+
+## Teaching Activity
+
 
 ### (2014- ) Assistant Professor, DIBRIS, University of Genoa.
 
@@ -248,47 +252,15 @@ Homepage of Alessio Merlo
 - **2017-2019**: Doctoral Supervisor of *[Simone Aonzo](https://it.linkedin.com/pub/simone-aonzo/88/ab6/796)* (Cycle XXXII), DIBRIS, University of Genoa. 
 - **2013-2016**: Doctoral Supervisor of *[Luca Verderame](https://it.linkedin.com/in/lucaverderame)* (Cycle XXVIII), DIBRIS, University of Genoa.
 
------------------
-<a name="contacts">Contacts</a>
---
-<!--**Office (Address):** Villa Bonino, Viale Francesco Causa, 13, I-16145, Genoa, Italy.
-**Office (Location):** [44°24'07.0" N, 8°57'38.7" E](https://www.google.it/maps/place/44°24'07.0%22N+8°57'38.7%22E/@44.4019444,8.9596557,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d44.401932!4d8.960757).
-**Email:** alessio.merlo@unige.it
-**Phone:** +39 010 353 2344
-**Fax:** +39 010 353 2948
-**My PGP Key** is available here.
-**My Curriculum Vitae** is available here.-->
-<table>
-  <tr>
-    <th>Office (Address):</th>
-    <td>Viale Francesco Causa, 13, <br>I-16145, Genoa, Italy.</td>
-  </tr>
-  <tr>
-    <th>Office (Location):</th>
-    <td><a href="https://www.google.it/maps/place/44°24'07.0%22N+8°57'38.7%22E/@44.4019444,8.9596557,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d44.401932!4d8.960757">44°24'07.0" N, 8°57'38.7" E</a></td>
-  </tr>
-  <tr>
-    <th>Email:</th>
-    <td><img src="./mail.png" alt="Alesssio's mail should be here!" height="26" width="269"></td>
-  </tr>
-  <tr>
-    <th>Phone:</th>
-    <td>+39 010 353 2344</td>
-  </tr>
-  <tr>
-    <th>Fax:</th>
-    <td>+39 010 353 2948</td>
-  </tr>
-  <tr>
-    <th>PGP Key:</th>
-    <td><a href="./C81BCD20.asc">C81BCD20</a></td>
-  </tr>
-  <tr>
-    <th>Complete CV:</th>
-    <td><a href="http://www.dibris.unige.it/public/staff/cv_pdf/cv_701287.pdf">Italian version</a> - <a href="http://www.dibris.unige.it/public/staff/cv_pdf_en/cv_en_701287.pdf">English version</a></td>
-  </tr>
-</table>
+
+## Contacts
+
+- **Office**: [Viale Francesco Causa, 13, I-16145, Genoa, Italy.](https://www.google.it/maps/place/44°24'07.0%22N+8°57'38.7%22E/@44.4019444,8.9596557,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d44.401932!4d8.960757)
+- **Email**: ![Alessio's mail should be here.](mail.png)
+- **Phone**: +39 010 353 2344
+- **Fax**: +39 010 353 2948
+- **PGP Key**: [C81BCD20](C81BCD20.asc)
+- **Complete CV**: [Italian version](http://www.dibris.unige.it/public/staff/cv_pdf/cv_701287.pdf) - [English version](http://www.dibris.unige.it/public/staff/cv_pdf_en/cv_en_701287.pdf)
 
 
-----------------------
 
