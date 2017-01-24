@@ -4,7 +4,6 @@ email: info@csec.it
 description: "Computer Security Lab - UniGe"
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: -
 github_username:  CSecLab
 
 # Build settings
