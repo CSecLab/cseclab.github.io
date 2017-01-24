@@ -74,6 +74,8 @@ title: Homepage of Alessio Merlo
 1. A. Merlo, D. D’Agostino, V. Gianuzzi, A. Clematis, A. Corana. "GridWalker: a visual tool for supporting the advanced discovery of Grid resources", in *Remote Instrumentation Services in the e-infrastructure*, pp. 103-112, Springer, ISBN 978-1-4419-5573-9, [DOI: 10.1007/978-1-4419-5574-6_8](http://link.springer.com/chapter/10.1007%2F978-1-4419-5574-6_8).
 1. A. Merlo, A. Clematis, A. Corana, D. D’Agostino, V. Gianuzzi, A. Quarati, SoRTGrid: a Grid framework compliant with Soft Real Time requirements, in Remote Instrumentation and Virtual Laboratories: Service Architecture and Networking, pp. 145-161, Springer, ISBN 978-1-4419-5595-1, [DOI: 10.1007/978-1-4419-5597-5_13](http://www.springer.com/us/book/9781441955951).
 1. A. Clematis, A. Corana, D. D’Agostino, V. Gianuzzi, A. Merlo, Grid services for 3D data analysis in Virtual Laboratories, in Grid Enabled Remote Instrumentation, pp. 481-498, Springer, ISBN 978-0-387-09662-9, [DOI: 10.1007/978-0-387-09663-6_32](http://link.springer.com/chapter/10.1007%2F978-0-387-09663-6_32).
+{: reversed="reversed"}
+
 
 ### International Conference Proceedings
 
@@ -114,6 +116,7 @@ title: Homepage of Alessio Merlo
 1. V. Gianuzzi, A. Merlo, A. Clematis, D. D’Agostino. "Managing Networks of Mobile Entities using the HyVonNe P2P Architecture", in *Proc. of the 2nd International Conference on Complex, Intelligent and Software Intensive Systems* ([CISIS 2008](http://voyager.ce.fit.ac.jp/conf/cisis/2013/)), pp. 335-341, IEEE, [DOI: 10.1109/CISIS.2008.62](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4606701).
 1. A. Clematis, A. Corana, D. D’Agostino, V. Gianuzzi, A. Merlo, A. Quarati. "A Distributed Approach for Structured Resource Discovery on Grid", in *Proc. of the 2nd International Conference on Complex, Intelligent and Software Intensive Systems* ([CISIS 2008](http://voyager.ce.fit.ac.jp/conf/cisis/2013/)), pp. 117-125. IEEE, [DOI: 10.1109/CISIS.2008.112](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4606671).
 1. A. Clematis, A. Corana, D. D’Agostino, V. Gianuzzi, A. Merlo. "Resource selection and application execution in a Grid: A migration experience from GT2 to GT4", in *Proc. of the International Conference on Grid computing, high-performAnce and Distributed Applications* ([GADA 2006](http://www.onthemove-conferences.org/index.php/previousevents/otm06/conf06/gada06)), LNCS, n. 4276, pp. 1132-1142, Springer, [DOI: 10.1007/11914952_4](http://link.springer.com/chapter/10.1007%2F11914952_4#page-1).
+{: reversed="reversed"}
 
 
 ## Services to the Profession
