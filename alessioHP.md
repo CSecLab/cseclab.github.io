@@ -33,6 +33,7 @@ title: Alessio Merlo's HomePage
 ### Books
 1. A. Merlo, M. Migliardi, S. Al-Haj Baddar (Eds.). "Adaptive Mobile Computing: Advances in Processing of Mobile Data Sets" Elsevier. Expected release: 2017, 1Q.
 1. L. Caviglione, M. Coccoli, A. Merlo (Eds.). "Social Network Engineering for Secure Web Data and Services". [DOI: 10.4018/978-1-4666-3926-3](http://www.igi-global.com/book/social-network-engineering-secure-web/72359), IGI-Global.
+{: reversed="reversed"}
 
 ### International Journals
 1.  M. Guerar, A. Merlo, M. Migliardi. "Completely Automated Public Physical test to tell Computers and Humans Apart: A Usability Study on Mobile Devices". *Future Generation Computer Systems*, Elsevier (to appear). 
@@ -62,6 +63,7 @@ title: Alessio Merlo's HomePage
 1. A. Merlo. "A Cooperative Model for Resource Sharing on Grid", *Journal of Information Assurance and Security*, (2011) 6(1):106-114, Dynamic Publishers Inc., USA.
 1. A. Merlo, A. Clematis, A. Corana, V. Gianuzzi. "Quality of Service on Grid: architectural and methodological issues", * Concurrency and Computation: Practice and Experience*, (2011) 23(8):745-766,Wiley, [DOI: 10.1002/cpe.1641](http://onlinelibrary.wiley.com/doi/10.1002/cpe.1641/abstract).
 1. V. Gianuzzi, D. D’Agostino, A. Merlo, A. Clematis. "Efficient management of resources and entities using the HyVonNe P2P architecture", *International Journal of Grid and Utility Computing*, (2009) 1(3):216-226, [DOI: 10.1504/IJGUC.2009.027649](http://dl.acm.org/citation.cfm?id=1593540).
+{: reversed="reversed"}
 
 ### Book Chapters
 
