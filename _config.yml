@@ -1,0 +1,14 @@
+# Site settings
+title: CSecLab
+email: info@csec.it
+description: "Computer Security Lab - UniGe"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: -
+github_username:  CSecLab
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+gems: ['kramdown']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
