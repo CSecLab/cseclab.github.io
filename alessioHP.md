@@ -1,9 +1,9 @@
 --- 
 layout: page
-title: Alessio Merlo's HomePage
+title: Homepage of Alessio Merlo
 ---
 
-# Alessio Merlo's HomePage
+# Homepage of Alessio Merlo
 
 
 ![Alessio's pic is missing.](http://www.dibris.unige.it/public/staff/img/foto_701287.jpg)
