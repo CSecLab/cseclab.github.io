@@ -27,7 +27,7 @@ title: Homepage of Alessio Merlo
 
 ## Publications
 
-[Google Scholar](https://scholar.google.com/citations?update_op=accept_invitation&email_for_op=alessio.mrl%40gmail.com&invitation_id=9656939844049668502&user=F3Bkg_MAAAAJ&cstart=40&pagesize=20) - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=15136674200) - [DBLP](http://dblp.uni-trier.de/pers/hd/m/Merlo:Alessio) - [Semantic Scholar](https://www.semanticscholar.org/author/Alessio-Merlo/2611687) |
+[Google Scholar](https://scholar.google.com/citations?update_op=accept_invitation&email_for_op=alessio.mrl%40gmail.com&invitation_id=9656939844049668502&user=F3Bkg_MAAAAJ&cstart=40&pagesize=20) - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=15136674200) - [DBLP](http://dblp.uni-trier.de/pers/hd/m/Merlo:Alessio) - [Semantic Scholar](https://www.semanticscholar.org/author/Alessio-Merlo/2611687)
 
 
 ### Books
@@ -38,11 +38,9 @@ title: Homepage of Alessio Merlo
 ### International Journals
 1.  M. Guerar, A. Merlo, M. Migliardi. "Completely Automated Public Physical test to tell Computers and Humans Apart: A Usability Study on Mobile Devices". *Future Generation Computer Systems*, Elsevier (to appear). 
 1. M. Guerar, M. Migliardi, A. Merlo, M. Benmohammed, F. Palmieri, A. Castiglione. "Using Screen Brightness to Improve Security in Mobile Social Network Access", *IEEE Trans. on Dependable and Secure Computing*. [DOI: 10.1109/TDSC.2016.2601603](http://dx.doi.org/10.1109/TDSC.2016.2601603).
-1. G. Costa, A. Merlo, L. Verderame, A. Armando. "Automatic Security Verification of Mobile App Configurations", *Future Generation Computer Systems*, Elsevier.
-[DOI: 10.1016/j.future.2016.06.014](http://dx.doi.org/10.1016/j.future.2016.06.014).
+1. G. Costa, A. Merlo, L. Verderame, A. Armando. "Automatic Security Verification of Mobile App Configurations", *Future Generation Computer Systems*, Elsevier. [DOI: 10.1016/j.future.2016.06.014](http://dx.doi.org/10.1016/j.future.2016.06.014).
 1. A. Merlo, M. Migliardi, E. Spadacini. "IPS-Based Reduction of Network Energy Consumption", *Logic Journal of the IGPL*, Oxford Press. [DOI: 10.1093/jigpal/jzw053](http://dx.doi.org/10.1093/jigpal/jzw053).
-1. A. Merlo, G. Costa, L. Verderame, A. Armando. "Android vs. SEAndroid: an Empirical Assessment", *Pervasive & Mobile Computing*, Vol. 30, pp. 113-131, Elsevier.
-[DOI: 10.1016/j.pmcj.2016.01.006](http://dx.doi.org/10.1016/j.pmcj.2016.01.006).
+1. A. Merlo, G. Costa, L. Verderame, A. Armando. "Android vs. SEAndroid: an Empirical Assessment", *Pervasive & Mobile Computing*, Vol. 30, pp. 113-131, Elsevier. [DOI: 10.1016/j.pmcj.2016.01.006](http://dx.doi.org/10.1016/j.pmcj.2016.01.006).
 1. S. Al-Haj Baddar, A. Merlo, M. Migliardi. "Generating Statistical Insights into Network Behavior Using SKETURE", *Journal of High Speed Networks*, Vol. 22, N. 1, pp. 65-76, IoS Press. [DOI: 10.3233/JHS-160539](http://content.iospress.com/articles/journal-of-high-speed-networks/jhs539).
 1. A. Merlo, M. Migliardi, P. Fontanelli. "Measuring and Estimating Power Consumption in Android to Support Energy-based Intrusion Detection", *Journal of Computer Security*, 23(5):611-637, IoS Press. [DOI: 10.3233/JCS-150530](http://content.iospress.com/articles/journal-of-computer-security/jcs530).
 1. A. Merlo, M. Migliardi, L. Caviglione. "A Survey on Energy-Aware Security Mechanisms", *Pervasive & Mobile Computing*, Vol. 24, pp. 77-90, Dec. 2015, Elsevier. [DOI:10.1016/j.pmcj.2015.05.005](http://dx.doi.org/10.1016/j.pmcj.2015.05.005).
@@ -156,8 +154,7 @@ title: Homepage of Alessio Merlo
 - Session: SHPCS I, 31st International Conference on High Performance Computing & Simulation ([HPCS 2016](http://hpcs2016.cisedu.info/)), July 18-22, 2016, Innsbruck, Austria.
 - Session: SHPCS II, 31st International Conference on High Performance Computing & Simulation ([HPCS 2016](http://hpcs2016.cisedu.info/)), July 18-22, 2016, Innsbruck, Austria.
 - Session: Tutorial V, 31st International Conference on High Performance Computing & Simulation ([HPCS 2016](http://hpcs2016.cisedu.info/)), July 18-22, 2016, Innsbruck, Austria.
-- Session: Mobile Security II, 11th ACM Asia Conference on Computer and Communications Security ([AsiaCCS 2016](http://meeting.xidian.edu.cn/conference/AsiaCCS2016/home.html)), May 30 - June 3, 2016, Xi’an, China.
-Session: SHPCS I, 30th International Conference on High Performance Computing & Simulation ([HPCS 2015](http://hpcs2015.cisedu.info/)), July 20-24, 2015, Amsterdam, the Netherlands.
+- Session: Mobile Security II, 11th ACM Asia Conference on Computer and Communications Security ([AsiaCCS 2016](http://meeting.xidian.edu.cn/conference/AsiaCCS2016/home.html)), May 30 - June 3, 2016, Xi’an, China. Session: SHPCS I, 30th International Conference on High Performance Computing & Simulation ([HPCS 2015](http://hpcs2015.cisedu.info/)), July 20-24, 2015, Amsterdam, the Netherlands.
 - Session: SHPCS II, 29th International Conference on High Performance Computing & Simulation ([HPCS 2014](http://hpcs2014.cisedu.info/)), July, 21-25, Bologna, Italy.
 - Session Infrastructure and Network Security II, 7th International Conference on Computational Intelligence in Security for Information Systems ([CISIS (Sec) 2014](http://cisis.usal.es/)), June 25-27, 2014, Bilbao, Spain.
 - Session: Parallel Computing, 8th International Conference on Complex, Intelligent and Software Intensive Systems ([CISIS 2014](http://voyager.ce.fit.ac.jp/conf/cisis/2014/)), July 2-4, 2014, Birmingham, UK.
