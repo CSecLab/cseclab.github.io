@@ -28,7 +28,7 @@ title: Alessio Merlo's HomePage
 ## Publications
 
 | [Google Scholar](https://scholar.google.com/citations?update_op=accept_invitation&email_for_op=alessio.mrl%40gmail.com&invitation_id=9656939844049668502&user=F3Bkg_MAAAAJ&cstart=40&pagesize=20) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=15136674200) | [DBLP](http://dblp.uni-trier.de/pers/hd/m/Merlo:Alessio) | [Semantic Scholar](https://www.semanticscholar.org/author/Alessio-Merlo/2611687) |
-|---|---|---|---|
+
 
 ### Books
 1. A. Merlo, M. Migliardi, S. Al-Haj Baddar (Eds.). "Adaptive Mobile Computing: Advances in Processing of Mobile Data Sets" Elsevier. Expected release: 2017, 1Q.
@@ -254,10 +254,10 @@ Session: SHPCS I, 30th International Conference on High Performance Computing & 
 ## Contacts
 
 - **Office**: [Viale Francesco Causa, 13, I-16145, Genoa, Italy.](https://www.google.it/maps/place/44°24'07.0%22N+8°57'38.7%22E/@44.4019444,8.9596557,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d44.401932!4d8.960757)
-- **Email**: ![Alessio's mail should be here.](mail.png)
+- **Email**: ![Alessio's mail should be here.](/mail.png)
 - **Phone**: +39 010 353 2344
 - **Fax**: +39 010 353 2948
-- **PGP Key**: [C81BCD20](C81BCD20.asc)
+- **PGP Key**: [C81BCD20](/C81BCD20.asc)
 - **Complete CV**: [Italian version](http://www.dibris.unige.it/public/staff/cv_pdf/cv_701287.pdf) - [English version](http://www.dibris.unige.it/public/staff/cv_pdf_en/cv_en_701287.pdf)
 
 
