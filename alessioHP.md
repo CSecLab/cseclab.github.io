@@ -8,6 +8,7 @@ title: Alessio Merlo's HomePage
 
 ![Alessio's pic is missing.](http://www.dibris.unige.it/public/staff/img/foto_701287.jpg)
 
+
 ## Short Bio
 
 - Born in [Savona](https://en.wikipedia.org/wiki/Savona), [Liguria](https://en.wikipedia.org/wiki/Liguria), the **6th of Feb. 1980**.
