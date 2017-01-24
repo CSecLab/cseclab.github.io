@@ -27,7 +27,7 @@ title: Homepage of Alessio Merlo
 
 ## Publications
 
-| [Google Scholar](https://scholar.google.com/citations?update_op=accept_invitation&email_for_op=alessio.mrl%40gmail.com&invitation_id=9656939844049668502&user=F3Bkg_MAAAAJ&cstart=40&pagesize=20) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=15136674200) | [DBLP](http://dblp.uni-trier.de/pers/hd/m/Merlo:Alessio) | [Semantic Scholar](https://www.semanticscholar.org/author/Alessio-Merlo/2611687) |
+[Google Scholar](https://scholar.google.com/citations?update_op=accept_invitation&email_for_op=alessio.mrl%40gmail.com&invitation_id=9656939844049668502&user=F3Bkg_MAAAAJ&cstart=40&pagesize=20) - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=15136674200) - [DBLP](http://dblp.uni-trier.de/pers/hd/m/Merlo:Alessio) - [Semantic Scholar](https://www.semanticscholar.org/author/Alessio-Merlo/2611687) |
 
 
 ### Books
