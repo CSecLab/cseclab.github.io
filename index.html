@@ -1,69 +1,775 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE html>
 <html>
-  <head>
 
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>CSecLab - Computer Security Lab</title>
+<head>
 
-    <!-- OLD CSS <link rel="stylesheet" type="text/css" href="css/style.css"> -->
-    <link rel="stylesheet" href="libs/bootstrap/dist/css/bootstrap.min.css">
-
-    <script src="http://www.w3schools.com/lib/w3data.js"></script>
-
-  </head>
-  
-  <body>
-    
-
-
-    <!-- includes navbar menu -->
-    <div w3-include-html="navbar.html"></div>
-
-    <div class="container">
-
-        <div class="page-header">
-            <div class="row">
-                <div class="col-md-12">
-                    <img class="img-responsive center-block" alt="CSec Lab" src="img/logo.png" style="width: 800px; height: 409px;">
-                </div>
-            </div>
-            <h1 class="text-center">Computer Security Lab</h1>
-            <h3><a href="http://www.dibris.unige.it/">DIBRIS - Dipartimento di Informatica, Bioingegneria, Robotica e Ingegneria dei Sistemi</a></h2>
-            <h3><a href="http://www.unige.it">Università degli Studi di Genova</a></h3>
-        </div>
-
-      
-
-
-        <!-- MAP <iframe marginheight="0" marginwidth="0" src="https://maps.google.it/maps?q=44.401917,8.960754&amp;num=1&amp;t=h&amp;ie=UTF8&amp;z=13&amp;ll=44.401901,8.960767&amp;output=embed" frameborder="0" height="200" scrolling="no" width="400"></iframe> 
-        Villa Bonino <br>
-        Viale Causa 13, 16145 Genova, Italy <br>
-        Phone: +39.010.3536545 <br>
-        Phone:+39.010.3532344 <br>
-        Fax: +39.010.3532948 <br>
-        -->
-
-
-      <!-- CINI BANNER
-      <div align="center">
-        <h2> CSec Lab is part of the Cyber Security National Lab</h2>
-        <a href="http://www.consorzio-cini.it/index.php/en/national-laboratories-left/lab-cyber-security" title="Cyber Security National Lab"> <img src="http://www.consorzio-cini.it/images/logo_scnl_long_xlarge.png" alt="Cyber Security National Lab">
-        </a>
-      </div>
-      -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 
-      <script src="libs/jquery/dist/jquery.js"></script>
+<style type="text/css">
+body {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+  padding: 30px; }
 
-      <script src="libs/bootstrap/dist/js/bootstrap.min.js"></script>
+body > *:first-child {
+  margin-top: 0 !important; }
+body > *:last-child {
+  margin-bottom: 0 !important; }
 
-      <script src="active_navbar.js"></script>
+a {
+  color: #4183C4; }
+a.absent {
+  color: #cc0000; }
+a.anchor {
+  display: block;
+  padding-left: 30px;
+  margin-left: -30px;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0; }
 
-      <script>
-w3IncludeHTML();
-      </script>
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  cursor: text;
+  position: relative; }
 
-    </div>
-  </body>
+h1:hover a.anchor, h2:hover a.anchor, h3:hover a.anchor, h4:hover a.anchor, h5:hover a.anchor, h6:hover a.anchor {
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA09pVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoMTMuMCAyMDEyMDMwNS5tLjQxNSAyMDEyLzAzLzA1OjIxOjAwOjAwKSAgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OUM2NjlDQjI4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OUM2NjlDQjM4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo5QzY2OUNCMDg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo5QzY2OUNCMTg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PsQhXeAAAABfSURBVHjaYvz//z8DJYCRUgMYQAbAMBQIAvEqkBQWXI6sHqwHiwG70TTBxGaiWwjCTGgOUgJiF1J8wMRAIUA34B4Q76HUBelAfJYSA0CuMIEaRP8wGIkGMA54bgQIMACAmkXJi0hKJQAAAABJRU5ErkJggg==) no-repeat 10px center;
+  text-decoration: none; }
+
+h1 tt, h1 code {
+  font-size: inherit; }
+
+h2 tt, h2 code {
+  font-size: inherit; }
+
+h3 tt, h3 code {
+  font-size: inherit; }
+
+h4 tt, h4 code {
+  font-size: inherit; }
+
+h5 tt, h5 code {
+  font-size: inherit; }
+
+h6 tt, h6 code {
+  font-size: inherit; }
+
+h1 {
+  font-size: 28px;
+  color: black; }
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #cccccc;
+  color: black; }
+
+h3 {
+  font-size: 18px; }
+
+h4 {
+  font-size: 16px; }
+
+h5 {
+  font-size: 14px; }
+
+h6 {
+  color: #777777;
+  font-size: 14px; }
+
+p, blockquote, ul, ol, dl, li, table, pre {
+  margin: 15px 0; }
+
+hr {
+  background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAYAAACtBE5DAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OENDRjNBN0E2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OENDRjNBN0I2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4Q0NGM0E3ODY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4Q0NGM0E3OTY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqqezsUAAAAfSURBVHjaYmRABcYwBiM2QSA4y4hNEKYDQxAEAAIMAHNGAzhkPOlYAAAAAElFTkSuQmCC) repeat-x 0 0;
+  border: 0 none;
+  color: #cccccc;
+  height: 4px;
+  padding: 0;
+}
+
+body > h2:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+body > h1:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+  body > h1:first-child + h2 {
+    margin-top: 0;
+    padding-top: 0; }
+body > h3:first-child, body > h4:first-child, body > h5:first-child, body > h6:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0; }
+
+h1 p, h2 p, h3 p, h4 p, h5 p, h6 p {
+  margin-top: 0; }
+
+li p.first {
+  display: inline-block; }
+li {
+  margin: 0; }
+ul, ol {
+  padding-left: 30px; }
+
+ul :first-child, ol :first-child {
+  margin-top: 0; }
+
+dl {
+  padding: 0; }
+  dl dt {
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 0;
+    margin: 15px 0 5px; }
+    dl dt:first-child {
+      padding: 0; }
+    dl dt > :first-child {
+      margin-top: 0; }
+    dl dt > :last-child {
+      margin-bottom: 0; }
+  dl dd {
+    margin: 0 0 15px;
+    padding: 0 15px; }
+    dl dd > :first-child {
+      margin-top: 0; }
+    dl dd > :last-child {
+      margin-bottom: 0; }
+
+blockquote {
+  border-left: 4px solid #dddddd;
+  padding: 0 15px;
+  color: #777777; }
+  blockquote > :first-child {
+    margin-top: 0; }
+  blockquote > :last-child {
+    margin-bottom: 0; }
+
+table {
+  padding: 0;border-collapse: collapse; }
+  table tr {
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0; }
+    table tr:nth-child(2n) {
+      background-color: #f8f8f8; }
+    table tr th {
+      font-weight: bold;
+      border: 1px solid #cccccc;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr td {
+      border: 1px solid #cccccc;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr th :first-child, table tr td :first-child {
+      margin-top: 0; }
+    table tr th :last-child, table tr td :last-child {
+      margin-bottom: 0; }
+
+img {
+  max-width: 100%; }
+
+span.frame {
+  display: block;
+  overflow: hidden; }
+  span.frame > span {
+    border: 1px solid #dddddd;
+    display: block;
+    float: left;
+    overflow: hidden;
+    margin: 13px 0 0;
+    padding: 7px;
+    width: auto; }
+  span.frame span img {
+    display: block;
+    float: left; }
+  span.frame span span {
+    clear: both;
+    color: #333333;
+    display: block;
+    padding: 5px 0 0; }
+span.align-center {
+  display: block;
+  overflow: hidden;
+  clear: both; }
+  span.align-center > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px auto 0;
+    text-align: center; }
+  span.align-center span img {
+    margin: 0 auto;
+    text-align: center; }
+span.align-right {
+  display: block;
+  overflow: hidden;
+  clear: both; }
+  span.align-right > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px 0 0;
+    text-align: right; }
+  span.align-right span img {
+    margin: 0;
+    text-align: right; }
+span.float-left {
+  display: block;
+  margin-right: 13px;
+  overflow: hidden;
+  float: left; }
+  span.float-left span {
+    margin: 13px 0 0; }
+span.float-right {
+  display: block;
+  margin-left: 13px;
+  overflow: hidden;
+  float: right; }
+  span.float-right > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px auto 0;
+    text-align: right; }
+
+code, tt {
+  margin: 0 2px;
+  padding: 0 5px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px; }
+
+pre code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent; }
+
+.highlight pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
+  pre code, pre tt {
+    background-color: transparent;
+    border: none; }
+
+sup {
+    font-size: 0.83em;
+    vertical-align: super;
+    line-height: 0;
+}
+
+kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font-size: 11px;
+  line-height: 10px;
+  color: #555;
+  vertical-align: middle;
+  background-color: #fcfcfc;
+  border: solid 1px #ccc;
+  border-bottom-color: #bbb;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #bbb
+}
+
+* {
+	-webkit-print-color-adjust: exact;
+}
+@media screen and (min-width: 914px) {
+    body {
+        width: 854px;
+        margin:0 auto;
+    }
+}
+@media print {
+	table, pre {
+		page-break-inside: avoid;
+	}
+	pre {
+		word-wrap: break-word;
+	}
+}
+</style>
+
+
+</head>
+
+<body>
+
+<hr>
+
+<!--
+<p>layout: page</p>
+
+<h2 id="toc_0">title: Homepage of Alessio Merlo</h2>
+-->
+
+<h1 id="toc_1">Homepage of Alessio Merlo</h1>
+
+<p><img src="http://www.dibris.unige.it/public/staff/img/foto_701287.jpg" alt="Alessio&#39;s pic is missing."></p>
+
+<h2 id="toc_2">Short Bio</h2>
+
+<ul>
+<li>Born in <a href="https://en.wikipedia.org/wiki/Savona">Savona</a>, <a href="https://en.wikipedia.org/wiki/Liguria">Liguria</a>, the <strong>6th of Feb. 1980</strong>.</li>
+<li><strong>Oct. 2003</strong>: B.Sc. <em>cum laude</em> in Computer Science at University of Genova.</li>
+<li><strong>Sept. 2005</strong>: M.Sc. <em>cum laude</em> in Computer Science at University of Genova.</li>
+<li><strong>From Dec. 2006 to Jan. 2010</strong>: research grants at <a href="http://www.ieiit.cnr.it/ge/index.php">IEIIT-CNR</a>, Branch of Genova.</li>
+<li><strong>Apr. 2010</strong>: Ph.D. in Computer Science at University of Genova on HPC and Grid technologies.</li>
+<li><strong>From Feb. 2010 to Mar. 2011</strong>: PostDoc in Computer Security at <a href="http://www.ai-lab.it">AI-Lab</a>, DIST, University of Genova.</li>
+<li><strong>From Apr. 2011 to Aug. 2014</strong>: Assistant Professor at <a href="http://www.ecampus.it">E-Campus University</a> and Associate Researcher at AI-Lab, <a href="http://www.dibris.unige.it">DIBRIS</a>, University of Genova.</li>
+</ul>
+
+<h3 id="toc_3">Current positions</h3>
+
+<ul>
+<li><strong>Assistant Professor</strong> at DIBRIS, University of Genova. </li>
+<li><strong>Founder and C.T.O.</strong> at <a href="http://www.talos-sec.com">Talos  s.r.l.s</a>.</li>
+</ul>
+
+<h2 id="toc_4">Publications</h2>
+
+<p><a href="https://scholar.google.com/citations?update_op=accept_invitation&amp;email_for_op=alessio.mrl%40gmail.com&amp;invitation_id=9656939844049668502&amp;user=F3Bkg_MAAAAJ&amp;cstart=40&amp;pagesize=20">Google Scholar</a> - <a href="https://www.scopus.com/authid/detail.uri?authorId=15136674200">Scopus</a> - <a href="http://dblp.uni-trier.de/pers/hd/m/Merlo:Alessio">DBLP</a> - <a href="https://www.semanticscholar.org/author/Alessio-Merlo/2611687">Semantic Scholar</a></p>
+
+<h3 id="toc_5">Books</h3>
+
+<ol reversed>
+<li>A. Merlo, M. Migliardi, S. Al-Haj Baddar (Eds.). &quot;Adaptive Mobile Computing: Advances in Processing of Mobile Data Sets&quot; Elsevier. Expected release: 2017, 1Q.</li>
+<li>L. Caviglione, M. Coccoli, A. Merlo (Eds.). &quot;Social Network Engineering for Secure Web Data and Services&quot;. <a href="http://www.igi-global.com/book/social-network-engineering-secure-web/72359">DOI: 10.4018/978-1-4666-3926-3</a>, IGI-Global.
+</li>
+</ol>
+
+<h3 id="toc_6">International Journals</h3>
+
+<ol reversed>
+<li> M. Guerar, A. Merlo, M. Migliardi. &quot;Completely Automated Public Physical test to tell Computers and Humans Apart: A Usability Study on Mobile Devices&quot;. <em>Future Generation Computer Systems</em>, Elsevier (to appear). </li>
+<li>M. Guerar, M. Migliardi, A. Merlo, M. Benmohammed, F. Palmieri, A. Castiglione. &quot;Using Screen Brightness to Improve Security in Mobile Social Network Access&quot;, <em>IEEE Trans. on Dependable and Secure Computing</em>. <a href="http://dx.doi.org/10.1109/TDSC.2016.2601603">DOI: 10.1109/TDSC.2016.2601603</a>.</li>
+<li>G. Costa, A. Merlo, L. Verderame, A. Armando. &quot;Automatic Security Verification of Mobile App Configurations&quot;, <em>Future Generation Computer Systems</em>, Elsevier. <a href="http://dx.doi.org/10.1016/j.future.2016.06.014">DOI: 10.1016/j.future.2016.06.014</a>.</li>
+<li>A. Merlo, M. Migliardi, E. Spadacini. &quot;IPS-Based Reduction of Network Energy Consumption&quot;, <em>Logic Journal of the IGPL</em>, Oxford Press. <a href="http://dx.doi.org/10.1093/jigpal/jzw053">DOI: 10.1093/jigpal/jzw053</a>.</li>
+<li>A. Merlo, G. Costa, L. Verderame, A. Armando. &quot;Android vs. SEAndroid: an Empirical Assessment&quot;, <em>Pervasive &amp; Mobile Computing</em>, Vol. 30, pp. 113-131, Elsevier. <a href="http://dx.doi.org/10.1016/j.pmcj.2016.01.006">DOI: 10.1016/j.pmcj.2016.01.006</a>.</li>
+<li>S. Al-Haj Baddar, A. Merlo, M. Migliardi. &quot;Generating Statistical Insights into Network Behavior Using SKETURE&quot;, <em>Journal of High Speed Networks</em>, Vol. 22, N. 1, pp. 65-76, IoS Press. <a href="http://content.iospress.com/articles/journal-of-high-speed-networks/jhs539">DOI: 10.3233/JHS-160539</a>.</li>
+<li>A. Merlo, M. Migliardi, P. Fontanelli. &quot;Measuring and Estimating Power Consumption in Android to Support Energy-based Intrusion Detection&quot;, <em>Journal of Computer Security</em>, 23(5):611-637, IoS Press. <a href="http://content.iospress.com/articles/journal-of-computer-security/jcs530">DOI: 10.3233/JCS-150530</a>.</li>
+<li>A. Merlo, M. Migliardi, L. Caviglione. &quot;A Survey on Energy-Aware Security Mechanisms&quot;, <em>Pervasive &amp; Mobile Computing</em>, Vol. 24, pp. 77-90, Dec. 2015, Elsevier. <a href="http://dx.doi.org/10.1016/j.pmcj.2015.05.005">DOI:10.1016/j.pmcj.2015.05.005</a>.</li>
+<li>A. Armando, G. Costa, A. Merlo, L. Verderame. &quot;Modeling and Enforcing Bring Your Own Device Policies&quot;, <em>International Journal of Information Security</em>, (2015) 14(2):123-140, Springer, <a href="http://link.springer.com/article/10.1007%2Fs10207-014-0252-y">DOI: 10.1007/s10207-014-0252-y</a>.</li>
+<li>A. Armando, G. Bocci, G. Chiarelli, G. Costa, G. De Maglie, R. Mammoliti, A. Merlo. &quot;Mobile App Security Analysis with the MAVeriC Static Analysis Module&quot;, <em>Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications</em>, (2014) 5(4):103-119.</li>
+<li>S. Al-Haj Baddar, A. Merlo, M. Migliardi. &quot;Anomaly Detection in Computer Networks: A State of-the-Art Review&quot;, <em>Journal of Wireless Mobile Networks</em>, Ubiquitous Computing, and Dependable Applications, (2014) 5(4):29-64.</li>
+<li>A. Armando, A. Merlo, L. Verderame. &quot;Security considerations related to the use of mobile devices in the operation of critical infrastructures&quot;, <em>International Journal of Critical Infrastructure Protection</em>, (2015) 7(4):247-256, Elsevier, <a href="http://www.sciencedirect.com/science/article/pii/S1874548214000626">DOI: 10.1016/j.ijcip.2014.10.002</a>.</li>
+<li>A. Armando, G. Costa, A. Merlo, L. Verderame. &quot;Securing the Bring Your Own Device Paradigm&quot;, <em>IEEE Computer</em>, (2014) 47(6):26-34. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6838866">DOI: 10.1109/MC.2014.164</a>.</li>
+<li>A. Merlo, M. Migliardi, N. Gobbo, F. Palmieri, A. Castiglione. &quot;A Denial of Service Attack to UMTS Networks Using SIM-less Devices&quot;, <em>IEEE Transactions on Dependable and Secure Computing</em>, (2014) 11(3):280–291, <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6782287">DOI: 10.1109/TDSC.2014.2315198</a>. <strong>Featured Article at <a href="http://cybersecurity.ieee.org/">IEEE CyberSecurity Initiative</a>, 2015</strong>.</li>
+<li>L. Caviglione, M. Coccoli, A. Merlo. &quot;A Taxonomy-based Model of Security and Privacy in Online Social Networks&quot;, <em>International Journal of Computational Science and Engineering</em>, (2014) 49(4):325-338, Inderscience, <a href="http://www.inderscience.com/info/inarticle.php?artid=60717">DOI: 10.1504/IJCSE.2014.060717</a>.</li>
+<li>A. Armando, A. Merlo, M. Migliardi, L. Verderame. &quot;Breaking and Fixing the Android Launching Flow&quot;, <em>Computer &amp; Security</em>, (2013) 39A:104-115, Elsevier, <a href="http://www.sciencedirect.com/science/article/pii/S0167404813000540">DOI: 10.1016/j.cose.2013.03.009</a>.</li>
+<li>M. Migliardi, A. Merlo. &quot;Improving Energy Efficiency in Distributed Intrusion Detection Systems&quot;, <em>Journal of High Speed Networks</em>, (2013) 19(3):251-264, IoS Press, <a href="http://dl.acm.org/citation.cfm?id=2595811">DOI: 10.3233/JHS-130476</a>. </li>
+<li>A. Merlo. &quot;Secure Cooperative Access Control on Grid&quot;, <em>Future Generation Computer Systems</em>, (2013) 29(2):497–508, Elsevier. <a href="http://www.sciencedirect.com/science/article/pii/S0167739X12001574">DOI: 10.1016/j.future.2012.08.001</a>.</li>
+<li>A. Armando, G. Costa, A. Merlo, L. Verderame. &quot;Securing the Bring Your Own Device Policy&quot;, <em>Journal of Internet Services and Information Security</em> (2012), 2(3):3-16. <strong>Best Paper Award at <a href="http://isyou.info/conf/mist12/">MIST 2012</a></strong>.</li>
+<li>L. Caviglione, A. Merlo, M. Migliardi. &quot;Green-Aware Security: Towards a new Research Field&quot;, <em>Journal of Information Assurance and Security</em>, (2012) 7(7):338-346, Dynamic Publishers Inc., USA.</li>
+<li>L. Caviglione, A. Merlo. &quot;The Energy Impact of Security Mechanisms in Modern Mobile Devices&quot;, <em>Network Security</em>, 2012(2):11-14, Elsevier. <a href="http://www.sciencedirect.com/science/article/pii/S1353485812700156">DOI : 10.1016/S1353-4858(12)70015-6</a>. </li>
+<li>M. Aiello, A. Merlo, G. Papaleo. &quot;Performance Assessment of DNS Tunneling Tools&quot;, <em>Logic Journal of the IGPL</em>, (2012) 21(4):592-602, Oxford Journals. <a href="http://jigpal.oxfordjournals.org/content/early/2012/08/03/jigpal.jzs029.refs">DOI: 10.1093/jigpal/jzs029</a>.</li>
+<li>A. Merlo. &quot;A Cooperative Model for Resource Sharing on Grid&quot;, <em>Journal of Information Assurance and Security</em>, (2011) 6(1):106-114, Dynamic Publishers Inc., USA.</li>
+<li>A. Merlo, A. Clematis, A. Corana, V. Gianuzzi. &quot;Quality of Service on Grid: architectural and methodological issues&quot;, * Concurrency and Computation: Practice and Experience*, (2011) 23(8):745-766,Wiley, <a href="http://onlinelibrary.wiley.com/doi/10.1002/cpe.1641/abstract">DOI: 10.1002/cpe.1641</a>.</li>
+<li>V. Gianuzzi, D. D’Agostino, A. Merlo, A. Clematis. &quot;Efficient management of resources and entities using the HyVonNe P2P architecture&quot;, <em>International Journal of Grid and Utility Computing</em>, (2009) 1(3):216-226, <a href="http://dl.acm.org/citation.cfm?id=1593540">DOI: 10.1504/IJGUC.2009.027649</a>.
+</li>
+</ol>
+
+<h3 id="toc_7">Book Chapters</h3>
+
+<ol reversed>
+<li>L. Caviglione, M. Coccoli, A. Merlo. &quot;A Graph-based Approach to Model Privacy and Security Issues of Online Social Networks&quot;, in <em>Social Network Engineering for Secure Web Data and Services</em>, pp. 184-205, IGI-Global. <a href="http://www.igi-global.com/chapter/graph-based-approach-model-privacy/75893">DOI: 10.4018/978-1-4666-3926-3.ch009</a>.</li>
+<li>L. Caviglione, M. Coccoli, A. Merlo. &quot;On Social Network Engineering for Secure Web Data and Services&quot;, in <em>Social Network Engineering for Secure Web Data and Services</em>, pp. 1-4, IGI Global. <a href="http://www.igi-global.com/chapter/social-network-engineering-secure-web/75885">DOI: 10.4018/978-1-4666-3926-3.ch001</a>. </li>
+<li>L. Caviglione, A. Merlo. &quot;Analysis and Development of Green-Aware Security Mechanisms for Modern Internet Applications&quot;, in <em>Handbook of Green Information and Communication Systems</em>, pp. 589-610, Wiley. <a href="http://www.elsevier.com/books/handbook-of-green-information-and-communication-systems/obaidat/978-0-12-415844-3">DOI: 10.1016/B978-0-12-415844-3.00023-1</a>.</li>
+<li>A. Merlo, A. Corana, V. Gianuzzi, A. Clematis. &quot;SoRTSim: A high-level simulator for the evaluation of QoS models on Grid&quot;, <em>Remote Instrumentation for eScience and Related Aspects</em>, Springer, pp. 161-176, Springer, ISBN 978-1-4614-0507-8, <a href="http://www.springer.com/us/book/9781461405078">DOI: 10.1007/978-1-4614-0508-5_11</a>.</li>
+<li>A. Merlo, D. D’Agostino, V. Gianuzzi, A. Clematis, A. Corana. &quot;GridWalker: a visual tool for supporting the advanced discovery of Grid resources&quot;, in <em>Remote Instrumentation Services in the e-infrastructure</em>, pp. 103-112, Springer, ISBN 978-1-4419-5573-9, <a href="http://link.springer.com/chapter/10.1007%2F978-1-4419-5574-6_8">DOI: 10.1007/978-1-4419-5574-6_8</a>.</li>
+<li>A. Merlo, A. Clematis, A. Corana, D. D’Agostino, V. Gianuzzi, A. Quarati, SoRTGrid: a Grid framework compliant with Soft Real Time requirements, in Remote Instrumentation and Virtual Laboratories: Service Architecture and Networking, pp. 145-161, Springer, ISBN 978-1-4419-5595-1, <a href="http://www.springer.com/us/book/9781441955951">DOI: 10.1007/978-1-4419-5597-5_13</a>.</li>
+<li>A. Clematis, A. Corana, D. D’Agostino, V. Gianuzzi, A. Merlo, Grid services for 3D data analysis in Virtual Laboratories, in Grid Enabled Remote Instrumentation, pp. 481-498, Springer, ISBN 978-0-387-09662-9, <a href="http://link.springer.com/chapter/10.1007%2F978-0-387-09663-6_32">DOI: 10.1007/978-0-387-09663-6_32</a>.
+</li>
+</ol>
+
+<h3 id="toc_8">International Conference Proceedings</h3>
+
+<ol reversed>
+<li>A. Merlo, L. Lorrai, L. Verderame. Efficient Trusted Host-based Card Emulation on TEE-enabled Android Devices, in Proc. of the 11th International Conference on High Performance Computing Systems (<a href="http://hpcs2016.cisedu.info/">HPCS 2016</a>), pp. 454-459, Innsbruck, Austria. <a href="https://doi.org/10.1109/HPCSim.2016.7568370">DOI: 10.1109/HPCSim.2016.7568370</a>.</li>
+<li>G. Costa, P. Gasti, A. Merlo, S.-H. Yu. &quot;FLEX: A Flexible Code Authentication Framework for Delegating Mobile App Customization&quot;, in <em>Proc. of the 11th ACM Asia Conference on Computer and Communications Security</em> (<a href="http://meeting.xidian.edu.cn/conference/AsiaCCS2016/home.html">AsiaCCS 2016</a>), pp. 389-400, Xi’an, China. <a href="http://dl.acm.org/citation.cfm?id=2897887">DOI: 10.1145/2897845.2897887</a>.</li>
+<li>A. Armando, G. Costa, A. Merlo, L. Verderame, K. Wrona. &quot;Developing the NATO BYOD Security Policy&quot;, in <em>Proc. of the 15th International Conference on Military Communications and Information Systems</em> (<a href="http://www.icmcis2016.eu/">ICMCIS 2016</a>), pp. 1-6, Brussels, Belgium. <a href="http://dx.doi.org/10.1109/ICMCIS.2016.7496587">DOI: 10.1109/ICMCIS.2016.7496587</a>.</li>
+<li>A. Merlo, M. Migliardi, E. Spadacini. &quot;Balancing Delays and Energy Consumption in IPS-Enabled Networks&quot;, in <em>Proc. of the 30th IEEE International Conference on Advanced Information Networking and Applications</em> (<a href="http://voyager.ce.fit.ac.jp/conf/aina/2016/">AINA 2016</a>), pp. 267-272, Crans-Montana, Switzerland. <a href="http://dx.doi.org/10.1109/WAINA.2016.109">DOI: 10.1109/WAINA.2016.109</a>.</li>
+<li>S. Al-Haj Baddar, A. Merlo, M. Migliardi. &quot;SKETURE: A Sketch-based Packet Analysis tool&quot;, in <em>Proc. of the 7th ACM CCS International Workshop on Managing Insider Security Threats</em> (<a href="http://www.sigsac.org/ccs/CCS2015/">MIST@CCS 2015</a>), pp. 67–70, Denver, USA. <a href="http://dx.doi.org/10.1145/2808783.2808791">DOI: 10.1145/2808783.2808791</a>. </li>
+<li>A. Armando, G. Bocci, G. Costa, R. Mammoliti, A. Merlo, S. Ranise, R. Traverso, A. Valenza. &quot;Mobile App Security Assessment with the MAVeriC Dynamic Analysis Module&quot;, in <em>Proc. of the 7th ACM CCS International Workshop on Managing Insider Security Threats</em> (<a href="http://www.sigsac.org/ccs/CCS2015/">MIST@CCS 2015</a>), pp. 41–49, Denver, USA. <a href="http://dx.doi.org/10.1145/2808783.2808786">DOI: 10.1145/2808783.2808786</a>.</li>
+<li>M. Migliardi, A. Merlo, A. Passaglia. &quot;On the Feasibility of Moderating a Peer-to-Peer CDN System: A Proof-of-Concept Implementation&quot;, in <em>Proc. of the 10th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing</em> (<a href="http://www.cs.upc.edu/%7Enet4all/3PGCIC-2015/">3PGCIC 2015</a>) , Krakow, Poland. <a href="http://dx.doi.org/10.1109/3PGCIC.2015.53">DOI: 10.1109/3PGCIC.2015.53</a>.</li>
+<li>A. Armando, R. Carbone, G. Costa, A. Merlo. &quot;Android Permissions Unleashed&quot;, in <em>Proc. of the 28th IEEE Computer Security Foundations Symposium</em> (<a href="http://csf2015.di.univr.it/">CSF 2015</a>), IEEE. <a href="https://doi.org/10.1109/CSF.2015.29">DOI: 10.1109/CSF.2015.29</a>.</li>
+<li>A. Armando, G. Bocci, G. Chiarelli, G. Costa, G. De Maglie, R. Mammoliti, and A. Merlo. &quot;SAM: the Static Analysis Module of the MAVERIC Mobile App Security Verification Platform&quot;, in <em>Proc. of 2015 European Joint Conferences on Theory and Practice of Software</em> (<a href="http://www.etaps.org/index.php/2015">ETAPS 2015</a>), LNCS Vol. 9035, 2015, pp 225-230, Springer, <a href="http://link.springer.com/chapter/10.1007%2F978-3-662-46681-0_19">DOI: 10.1007/978-3-662-46681-0_19</a>.</li>
+<li>A. Armando, A. Merlo, L. Verderame. &quot;Trusted Host-Based Card Emulation&quot;, in <em>Proc. of the 10th International Conference on High Performance Computing Systems</em> (<a href="http://hpcs2015.cisedu.info/">HPCS 2015</a>), IEEE. <a href="http://dx.doi.org/10.1109/HPCSim.2015.7237043">DOI: 10.1109/HPCSim.2015.7237043</a>.</li>
+<li>M. Guerar, M. Migliardi, A. Merlo, M. Benmohammed, B. Messabih. &quot;A Completely Automatic Public Physical test to tell Computers and Humans Apart: a way to enhance authentication schemes in mobile devices&quot;, in <em>Proc. of the 10th International Conference on High Performance Computing Systems</em> (<a href="http://hpcs2015.cisedu.info/">HPCS 2015</a>), IEEE. <a href="http://dx.doi.org/10.1109/HPCSim.2015.7237041">DOI: 10.1109/HPCSim.2015.7237041</a>.</li>
+<li>A. Armando, G. Costa, A. Merlo, L. Verderame. &quot;Enabling BYOD through Secure Meta-Market&quot;, in <em>Proc. of the 7th ACM Conference on Security and Privacy in Wireless and Mobile Networks</em> (<a href="http://www.sigsac.org/wisec/WiSec2014/">WiSec 2014</a>), pp. 219-230, ACM NY, <a href="http://dl.acm.org/citation.cfm?id=2627410">DOI: 10.1145/2627393.2627410</a>.</li>
+<li>A. Merlo, M. Migliardi, P. Fontanelli. &quot;On Energy-Based Profiling of Malware in Android&quot;, in <em>Proc. of the 9th International Conference on High Performance Computing Systems</em> (<a href="http://hpcs2014.cisedu.info/">HPCS 2014</a>), pp. 535-542, IEEE, <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6903732">DOI: 10.1109/HPCSim.2014.6903732</a>.</li>
+<li>A. Merlo, M. Migliardi, D. Raso, E. Spadacini. &quot;Optimizing Network Energy Consumption through Intrusion Prevention Systems&quot;, in <em>Proc. of the 7th International Conference on Computational Intelligence in Security for Information Systems</em> (<a href="http://cisis.usal.es/">CISIS 2014</a>), AISC, Vol. 299, 2014, pp. 505-515, Springer, <a href="http://link.springer.com/chapter/10.1007%2F978-3-319-07995-0_50">DOI: 10.1007/978-3-319-07995-0_50</a>.</li>
+<li>M. Migliardi, A. Merlo, L. Caviglione. &quot;A Survey of Green, Energy-Aware Security and Some of Its Recent Developments in Networking and Mobile Computing&quot;, in <em>Proc. of the 8th International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing</em> (<a href="http://voyager.ce.fit.ac.jp/conf/imis/2014/">IMIS 2014</a>), pp. 241-246, IEEE, <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6975470">DOI: 10.1109/IMIS.2014.30</a>.</li>
+<li>M. Migliardi, A. Merlo, M. Tettamanti. &quot;Reducing Energy Consumption in Prospective Memory Support System through Hierarchical Positioning Algorithm&quot;, in <em>Proc. of 6th International Conference on Intelligent Networking and Collaborative Systems</em> (<a href="http://voyager.ce.fit.ac.jp/conf/incos/2014/index.html">INCoS 2014</a>), pp. 575-580, IEEE, <a href="(http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7057152)">DOI: e10.1109/INCoS.2014.47</a>.</li>
+<li>M. Migliardi, A. Merlo. &quot;Energy Consumption Simulation of Different Distributed Intrusion Detection Approaches&quot;, in <em>Proc. of 27th IEEE International Conference on Advanced Information Networking and Applications</em> (<a href="http://www.aina-conference.org/2013">AINA 2013</a>), pp. 1547-1552, IEEE, <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6550615">DOI: 10.1109/WAINA.2013.214</a>. <strong>Best Paper Award</strong>.</li>
+<li>A. Armando, G. Costa, A. Merlo, L. Verderame. &quot;Bring Your Own Device, Securely&quot;, in <em>Proc. of the 28th ACM Symposium on Applied Computing</em> (<a href="http://www.acm.org/conferences/sac/sac2013/">SAC 2013</a>), Vol. 2, pp. 1852-1858, ACM, <a href="http://dl.acm.org/citation.cfm?id=2480707">DOI: 10.1145/2480362.2480707</a>.</li>
+<li>A. Armando, A. Merlo, L. Verderame. &quot;An Empirical Evaluation of the Android Security Framework&quot;, in <em>Proc. of the 28th International Conference on ICT Systems Security and Privacy Protection</em> (<a href="http://www.ifipsec.org/">IFIP-SEC 2013</a>), LNCS, Vol. 405, pp. 176-189, Springer, <a href="http://link.springer.com/chapter/10.1007%2F978-3-642-39218-4_14">DOI: 10.1007/978-3-642-39218-4_14</a>.</li>
+<li>N. Gobbo, A. Merlo, M. Migliardi. &quot;A Denial of Service attack to GSM networks via attach procedure*, in <em>Proc. of the 8th International Conference on Availability, Reliability and Security</em> (<a href="http://www.ares-conference.eu/ares2013/www.ares-conference.eu/conf/index.html">ARES 2013</a>), LNCS, Vol. 8128, pp. 361-376, Springer, <a href="http://link.springer.com/chapter/10.1007%2F978-3-642-40588-4_25">DOI: 10.1007/978-3-642-40588-4_25</a>.</li>
+<li>M. Curti, A. Merlo, M. Migliardi, S. Schiappacasse. &quot;Towards Energy-Aware Intrusion Detection Systems on Mobile Devices&quot;, in <em>Proc. of the 8th International Conference on High Performance Computing Systems</em> (<a href="http://hpcs2013.cisedu.info/">HPCS 2013</a>), pp. 289-296, IEEE, <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6641428&amp;tag=1">DOI: 10.1109/HPCSim.2013.6641428</a>.</li>
+<li>A. Armando, A. Castiglione, G. Costa, U. Fiore, A. Merlo, L. Verderame, I. You. &quot;Trustworthy Opportunistic Access to the Internet of Services&quot;, in <em>Proc. of the 1st Information and Communication Technology Eurasia Conference</em> (<a href="http://www.ifs.tuwien.ac.at/ict-eurasia/history/eurasia2013/">EurAsia 2013</a>), LNCS, Vol. 7804, 2013, pp. 469-478, Springer, <a href="http://link.springer.com/chapter/10.1007%2F978-3-642-36818-9_52">DOI: 10.1007/978-3-642-36818-9_52</a>.</li>
+<li>A. Armando, A. Merlo, A. Migliardi, L. Verderame. &quot;Would you mind forking this process? A Denial-of-Service attack on Android (and some countermeasures)&quot;, in <em>Proc. of the 27th International Conference on ICT Systems Security and Privacy Protection</em> (<a href="http://www.ifipsec.org/">IFIP-SEC 2012</a>), LNCS IFIP AICT n.376, pp. 13-24, Springer, <a href="http://link.springer.com/chapter/10.1007%2F978-3-642-30436-1_2">DOI: 10.1007/978-3-642-30436-1_2</a>. <strong>Best Paper Award</strong>.</li>
+<li>A. Armando, G. Costa, A. Merlo. &quot;Formal Modeling and Reasoning about the Android Security Framework&quot;, in <em>Proc. of the 7th International Symposium on Trustworthy Global Computing</em> (<a href="http://www.cs.bham.ac.uk/%7Emdr/research/projects/12-TGC/">TGC 2012</a>), LNCS Vol. 8191, 2013, pp 64-81, Springer. <a href="http://link.springer.com/chapter/10.1007%2F978-3-642-41157-1_5">DOI: 10.1007/978-3-642-41157-1_5</a>. </li>
+<li>A. Armando, G. Pellegrino, R. Carbone, A. Merlo, D. Balzarotti. &quot;From Model-checking to Automated Testing of Security Protocols: Bridging the Gap&quot;, in <em>Proc. of the 6th International Conference on Tests &amp; Proofs</em> (<a href="http://lifc.univ-fcomte.fr/tap2012/">TAP 2012</a>), LNCS Vol. 7305, 2012, pp 3-18, Springer, <a href="http://link.springer.com/chapter/10.1007%2F978-3-642-30473-6_3">DOI: 10.1007/978-3-642-30473-6_3</a>.</li>
+<li>A. Armando, R. Carbone, A. Merlo. &quot;Formal Analysis of a Privacy-Preserving Billing Protocol&quot;, in <em>Proc. of the 1st Workshop on Smart Grid Security</em> (<a href="https://distrinet.cs.kuleuven.be/events/essos/2014/calls-workshop-SmartGridSecurity.html">SGSec 2012</a>), LNCS 7823, 2013, pp. 108-119, Springer, <a href="http://link.springer.com/chapter/10.1007%2F978-3-642-38030-3_8">DOI: 10.1007/978-3-642-38030-3_8</a>. </li>
+<li>P. Maresca, A. Merlo, M. Arrigoni Neri, L. Stanganelli. &quot;Using ETC framework in virtual laboratories for online students&quot; in <em>Proc. of the 7th Workshop of the Italian Eclipse Community</em> (<a href="http://2012.eclipse-it.org/">ECL-IT 2012</a>).</li>
+<li>L. Caviglione, A. Merlo, M. Migliardi. &quot;What is Green Security?&quot;, in <em>Proc. of the 7th International Conference on Information Assurance and Security</em> (<a href="http://www.mirlabs.org/ias11/">IAS 2011</a>), Malacca (Malaysia), pp. 366-371, IEEE. <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6122781&amp;tag=1">DOI: 10.1109/ISIAS.2011.6122781</a>.</li>
+<li>P. Gasti, A. Merlo. &quot;On Re-Use of Randomness in Broadcast Encryption&quot;, in <em>Proc. of the 9th IEEE International Conference on Privacy, Security and Trust</em> (<a href="http://www2.unb.ca/pstnet/pst2011/">PST 2011</a>), Canada, pp. 36-43, IEEE, <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5971961">DOI: 10.1109/PST.2011.5971961</a>.</li>
+<li>A. Merlo, G. Papaleo, S. Veneziano, M. Aiello, &quot;A Comparative Performance Evaluation of DNS Tunneling Tools&quot;, in <em>Proc. of the 4th International Conference on Computational intelligence in Security for Information Systems</em> (<a href="http://cisis.usal.es/">CISIS 2011</a>), LNCS Vol. 6694, 2011, pp. 84-91, Springer, <a href="http://link.springer.com/chapter/10.1007%2F978-3-642-21323-6_11">DOI: 10.1007/978-3-642-21323-6_11</a>.</li>
+<li>M. Migliardi, A. Merlo. &quot;Modeling the energy consumption of a distributed IDS: a step towards Green Security&quot;, in <em>Proc. of the 34th IEEE International Convention on Information and Communication Technology</em> (<a href="http://www.mipro.hr/MIPRO2011/ELink.aspx">MiPro 2011</a>), Electronics and Microelectronics, pp. 1452 - 1457, IEEE.</li>
+<li>P. Gasti, A. Merlo, G. Ciaccio, G. Chiola. &quot;On the Integrity of Network Coding-based Anonymous P2P File Sharing Networks&quot;, in <em>Proc. of the 9th IEEE International Symposium on Network Computing and Applications</em> (<a href="http://www.ieee-nca.org/">NCA 2010</a>), pp.192-197, IEEE, <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5598212">DOI: 10.1109/NCA.2010.34</a>.</li>
+<li>A. Merlo, A. Armando. &quot;Cooperative Access Control for the Grid&quot; (<a href="http://www.mirlabs.org/ias10/">IAS 2010</a>), in <em>Proc. of the 6th International Conference on Information Assurance and Security</em>, pp. 228-233, IEEE, <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5604068">DOI: 10.1109/ISIAS.2010.5604068</a>.</li>
+<li>V. Gianuzzi, A. Merlo. &quot;Beaconing support in Publish-Subscribe Middleware for Vehicular Applications&quot;, in <em>Proc. of the 2nd International Workshop on Pervasive Mobile and Embedded Computing</em> (<a href="http://www.smartlab.cis.strath.ac.uk/M-MPAC/2010/">M-MPAC 2010</a>), pp. 1-8, ACM, <a href="http://dl.acm.org/citation.cfm?id=1890795">DOI: 10.1145/1890791.1890795</a>.</li>
+<li>V. Gianuzzi, A. Merlo, A. Clematis, D. D’Agostino. &quot;Managing Networks of Mobile Entities using the HyVonNe P2P Architecture&quot;, in <em>Proc. of the 2nd International Conference on Complex, Intelligent and Software Intensive Systems</em> (<a href="http://voyager.ce.fit.ac.jp/conf/cisis/2013/">CISIS 2008</a>), pp. 335-341, IEEE, <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4606701">DOI: 10.1109/CISIS.2008.62</a>.</li>
+<li>A. Clematis, A. Corana, D. D’Agostino, V. Gianuzzi, A. Merlo, A. Quarati. &quot;A Distributed Approach for Structured Resource Discovery on Grid&quot;, in <em>Proc. of the 2nd International Conference on Complex, Intelligent and Software Intensive Systems</em> (<a href="http://voyager.ce.fit.ac.jp/conf/cisis/2013/">CISIS 2008</a>), pp. 117-125. IEEE, <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4606671">DOI: 10.1109/CISIS.2008.112</a>.</li>
+<li>A. Clematis, A. Corana, D. D’Agostino, V. Gianuzzi, A. Merlo. &quot;Resource selection and application execution in a Grid: A migration experience from GT2 to GT4&quot;, in <em>Proc. of the International Conference on Grid computing, high-performAnce and Distributed Applications</em> (<a href="http://www.onthemove-conferences.org/index.php/previousevents/otm06/conf06/gada06">GADA 2006</a>), LNCS, n. 4276, pp. 1132-1142, Springer, <a href="http://link.springer.com/chapter/10.1007%2F11914952_4#page-1">DOI: 10.1007/11914952_4</a>.
+</li>
+</ol>
+
+<h2 id="toc_9">Services to the Profession</h2>
+
+<h3 id="toc_10">Editorial Activity</h3>
+
+<ul>
+<li><strong>Lead Guest Editor</strong> of the <a href="http://www.cc-pe.net/journalinfo/issues/2016.html#HPCS2016">Special Issue on Advances in High Performance Computing and Simulations</a>, <a href="http://www.cc-pe.net/journalinfo/">Concurrency and Computation: Practice and Experience</a>, Wiley.</li>
+<li> <strong>Member of the Editorial Advisory Board</strong> of the book <a href="http://www.igi-global.com/book/security-solutions-applied-cryptography-smart/166368">Security Solutions and Applied Cryptography in Smart Grid Communications</a>, IGI-Global.</li>
+<li><strong>Associate Editor</strong> at <a href="http://www.iospress.nl/journal/journal-of-high-speed-networks/">Journal of High Speed Networks</a>, IoS Press.</li>
+<li>I am a <strong>reviewer</strong> for <a href="http://tcps.acm.org/">ACM Transactions on Cyber-Physical Systems</a>, <a href="http://link.springer.com/journal/11227">The Journal of Supercomputing</a>, <a href="https://www.journals.elsevier.com/computers-and-electrical-engineering/">Computers &amp; Electrical Engineering</a>, <a href="https://www.journals.elsevier.com/telematics-and-informatics/">Telematics and Informatics</a>,  <a href="https://www.hindawi.com/journals/misy/">Mobile Information Systems</a>,  <a href="https://www.journals.elsevier.com/journal-of-systems-and-software/">Journal of Systems and Software</a>, <a href="http://www.iospress.nl/journal/journal-of-high-speed-networks/">Journal of High Speed Networks</a>, <a href="https://www.journals.elsevier.com/computers-and-security/">Computers &amp; Security</a>, <a href="https://www.journals.elsevier.com/future-generation-computer-systems/">Future Generation Computer Systems</a>, <a href="https://www.journals.elsevier.com/journal-of-network-and-computer-applications">Journal of Network and Computer Applications</a>, <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1532-0634">Concurrency and Computation: Practice and Experience</a>.</li>
+</ul>
+
+<h3 id="toc_11">International Conference Chair</h3>
+
+<h4 id="toc_12">General Chair</h4>
+
+<ul>
+<li>15th International Conference on High Performance Computing &amp; Simulation (<a href="http://hpcs2017.cisedu.info">HPCS 2017</a>), July 17-21, 2017, Genoa. </li>
+</ul>
+
+<h4 id="toc_13">Local Chair</h4>
+
+<ul>
+<li>15th International Conference of the Italian Association for Artificial Intelligence (<a href="">AIxIA 2016</a>), Nov. 21-25, 2016.</li>
+</ul>
+
+<h4 id="toc_14">Workshop Chair</h4>
+
+<ul>
+<li>7th International Workshop on Security and Performance in Cloud Computing (SPCloud 2017), July 17- 21, 2017, Genoa, Italy.</li>
+<li>13th International Workshop on Security and High Performance Computing (SHPCS 2017), July 17-21, 2017, Genoa, Italy.</li>
+<li>6th International Workshop on Security and Performance in Cloud Computing (<a href="http://hpcs2016.cisedu.info/2-conference/workshops---hpcs2016/workshop10-spcloud">SPCloud 2016</a>), July 18- 22, 2016, Innsbruck, Austria.</li>
+<li>12th International Workshop on Security and High Performance Computing (<a href="http://hpcs2016.cisedu.info/2-conference/workshops---hpcs2016/workshop09-shpcs">SHPCS 2016</a>), July 18-22, 2016, Innsbruck, Austria.</li>
+<li>5th International Workshop on Security and Performance in Cloud Computing (<a href="%5BSPCloud%202016%5D(http://hpcs2016.cisedu.info/2-conference/workshops---hpcs2016/workshop10-spcloud)">SPCloud 2015</a>), July 20- 24, 2015, Amsterdam, the Netherlands.</li>
+<li>11th International Workshop on Security and High Performance Computing (<a href="http://hpcs2015.cisedu.info/2-conference/hpcs-2015-workshops/hpcs-2015-workshop-10-shcps">SHPCS 2015</a>), July 20-24, 2015, Amsterdam, the Netherlands.</li>
+<li>4th International Workshop on Security and Performance in Cloud Computing (<a href="http://hpcs2014.cisedu.info/2-conference/workshops/workshop-11-spcloud">SPCloud 2014</a>), July, 21- 25, 2014, Bologna, Italy.</li>
+</ul>
+
+<h4 id="toc_15">Track Chair</h4>
+
+<ul>
+<li>Track: Demos. 1st Italian Conference on Cyber Security (<a href="http://ita-sec2017.dais.unive.it">ITA-SEC 2017</a>).</li>
+<li>Track: Smart Spaces and Intelligent Environments, 9th International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing (<a href="http://voyager.ce.fit.ac.jp/conf/imis/2015/">IMIS 2015</a>).</li>
+<li>Track: Security, Trust and Privacy, 8th International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing (<a href="http://voyager.ce.fit.ac.jp/conf/imis/2014/">IMIS 2014</a>).</li>
+<li>Track Mobile Collaborative Systems, 6th International Conference on Intelligent Networking and Collaborative Systems (<a href="http://voyager.ce.fit.ac.jp/conf/incos/2014/">INCoS 2014</a>), Sep. 10-12, 2014, Salerno, Italy.</li>
+</ul>
+
+<h4 id="toc_16">Session Chair</h4>
+
+<ul>
+<li>Session: SHPCS I, 31st International Conference on High Performance Computing &amp; Simulation (<a href="http://hpcs2016.cisedu.info/">HPCS 2016</a>), July 18-22, 2016, Innsbruck, Austria.</li>
+<li>Session: SHPCS II, 31st International Conference on High Performance Computing &amp; Simulation (<a href="http://hpcs2016.cisedu.info/">HPCS 2016</a>), July 18-22, 2016, Innsbruck, Austria.</li>
+<li>Session: Tutorial V, 31st International Conference on High Performance Computing &amp; Simulation (<a href="http://hpcs2016.cisedu.info/">HPCS 2016</a>), July 18-22, 2016, Innsbruck, Austria.</li>
+<li>Session: Mobile Security II, 11th ACM Asia Conference on Computer and Communications Security (<a href="http://meeting.xidian.edu.cn/conference/AsiaCCS2016/home.html">AsiaCCS 2016</a>), May 30 - June 3, 2016, Xi’an, China. Session: SHPCS I, 30th International Conference on High Performance Computing &amp; Simulation (<a href="http://hpcs2015.cisedu.info/">HPCS 2015</a>), July 20-24, 2015, Amsterdam, the Netherlands.</li>
+<li>Session: SHPCS II, 29th International Conference on High Performance Computing &amp; Simulation (<a href="http://hpcs2014.cisedu.info/">HPCS 2014</a>), July, 21-25, Bologna, Italy.</li>
+<li>Session Infrastructure and Network Security II, 7th International Conference on Computational Intelligence in Security for Information Systems (<a href="http://cisis.usal.es/">CISIS (Sec) 2014</a>), June 25-27, 2014, Bilbao, Spain.</li>
+<li>Session: Parallel Computing, 8th International Conference on Complex, Intelligent and Software Intensive Systems (<a href="http://voyager.ce.fit.ac.jp/conf/cisis/2014/">CISIS 2014</a>), July 2-4, 2014, Birmingham, UK.</li>
+<li>Session High Performance Mobile Systems, Location-Based Services, and Applications in Ubiquitous Computing, 29th International Conference on High Performance Computing &amp; Simulation (<a href="http://hpcs2013.cisedu.info/">HPCS 2013</a>), July 1-5, 2013, Helsinki, Finland.</li>
+<li>Session: Job Scheduling and Environment Sensing, 27th IEEE International Conference on Advanced Information Networking and Applications (<a href="http://voyager.ce.fit.ac.jp/conf/aina/2013/">AINA 2013</a>), Mar. 25-28, 2013, Barcelona, Spain.</li>
+</ul>
+
+<h3 id="toc_17">TCP Membership</h3>
+
+<ul>
+<li>3rd International Conference on Mobile, Secure and Programmable Networking (<a href="http://cedric.cnam.fr/workshops/mspn2017/">MSPN 2017</a>), June 29-30, 2017, Paris, France.</li>
+<li>8th International Conference on Emerging Ubiquitous Systems and Pervasive Networks (<a href="http://cs-conferences.acadiau.ca/euspn-17/organizing-commitee.html">EUSPN 2017</a>), Sep. 18-20, 2017, Lund, Sweden.</li>
+<li>31st IEEE International Conference on Advanced Information Networking and Applications (<a href="http://voyager.ce.fit.ac.jp/conf/aina/2017/tpc.html">AINA 2017</a>), Mar. 27-29, Taipei, Taiwan.</li>
+<li>12th International Conference on Green, Pervasive and Cloud Computing (<a href="http://gpc2017.di.unisa.it/gpc2017/">GPC 2017</a>), May 11-14, Cetara, Italy.</li>
+<li>32nd International Conference on High Performance Computing &amp; Simulation (<a href="http://hpcs2017.cisedu.info/">HPCS 2017</a>), July 17-21, 2017, Genoa, Italy.</li>
+<li>7th International Workshop on Security and Performance in Cloud Computing (SPCloud 2017), July 17-21, 2017, Genoa, Italy.</li>
+<li>13th International Workshop on Security and High Performance Computing (SHPCS 2017), July 17-21, 2017, Genoa, Italy.</li>
+<li>32nd ACM SIGAPP Symposium On Applied Computing (<a href="http://infohost.nmt.edu/%7Ezheng/doku.php?id=sac2017">SAC 2017</a>), Apr. 3-7, 2017, Marrakech, Morocco.</li>
+<li>8th ACM CCS International Workshop on Managing Insider Security Threats (<a href="http://isyou.info/conf/mist16/">MIST@CCS 2016</a>), In Conjunction with ACM CCS 2016, Oct. 24-28, 2016, Vienna, Austria.</li>
+<li>10th International Conference on Information Security Theory and Practice (<a href="http://www.wistp.org/committees/">WISTP 2016</a>), Sep. 26-27, 2016, Heraklion, Crete, Greece.</li>
+<li>2016 International Symposium on Mobile Internet Security (<a href="http://isyou.info/conf/mobisec16/">MobiSec 2016</a>), Jul. 14-15, 2016, Taichung, Taiwan.</li>
+<li>2nd International Conference on Mobile, Secure and Programmable Networking (<a href="http://cedric.cnam.fr/workshops/mspn2016/committee.html">MSPN 2016</a>), June 1-3, 2016, Paris, France.</li>
+<li>3rd International Workshop on Energy-Aware Systems, Communications and Security (<a href="http://wpage.unina.it/fpalmier/EAsyCoSe2016/EAsyCoSe2016/Home.html">EASyCoSe 2016</a>), March 23-25, 2016, Crans-Montana, Switzerland.</li>
+<li>31st International Conference on High Performance Computing &amp; Simulation (<a href="http://hpcs2016.cisedu.info/">HPCS 2016</a>), July 18-22, 2016, Innsbruck, Austria.</li>
+<li>6th International Workshop on Security and Performance in Cloud Computing (<a href="http://hpcs2016.cisedu.info/2-conference/workshops---hpcs2016/workshop10-spcloud">SPCloud 2016</a>), July 18-22, 2016, Innsbruck, Austria.</li>
+<li>12th International Workshop on Security and High Performance Computing (<a href="http://hpcs2016.cisedu.info/2-conference/workshops---hpcs2016/workshop09-shpcs">SHPCS 2016</a>), July 18-22, 2016, Innsbruck, Austria.</li>
+<li>9th International Conference on Information Security Theory and Practice (<a href="http://www.wistp.org/committees/">WISTP 2015</a>), Aug. 24-25, 2015, Heraklion, Crete, Greece.</li>
+<li>30th International Conference on High Performance Computing &amp; Simulation (<a href="http://hpcs2015.cisedu.info/">HPCS 2015</a>), July 20-24, 2015, Amsterdam, the Netherlands.</li>
+<li>1st International Conference on Mobile, Secure and Programmable Networking (<a href="http://cedric.cnam.fr/workshops/mspn2015/committee.html">MSPN 2015</a>), June 15-17, 2015, Paris, France.</li>
+<li>5th Int. Workshop on Security, Privacy and Performance in Cloud Computing (<a href="http://hpcs2015.cisedu.info/2-conference/hpcs-2015-workshops/hpcs-2015-workshop-11-spcloud">SPCloud 2015</a>), July 20-24,  2015, Amsterdam, the Netherlands.</li>
+<li>10th International Workshop on Security and High Performance Computing Systems (<a href="http://hpcs2015.cisedu.info/2-conference/hpcs-2015-workshops/hpcs-2015-workshop-10-shcps">SHPCS 2015</a>), July 20-24, 2015, Amsterdam, the Netherlands.</li>
+<li>7th International Conference on Intelligent Networking and Collaborative Systems (<a href="http://voyager.ce.fit.ac.jp/conf/incos/2015/committees.html">INCoS 2015</a>), Sep. 2-4, 2015, Taipei, Taiwan.</li>
+<li>4th International Workshop on Security, Privacy and Performance in Cloud Computing (<a href="http://hpcs2014.cisedu.info/2-conference/workshops/workshop-11-spcloud">SPCloud 2014</a>), July, 21-25, Bologna, Italy.</li>
+<li>29th International Conference on High Performance Computing &amp; Simulation (<a href="http://hpcs2014.cisedu.info/3-committees/tpc">HPCS 2014</a>), July, 21-25, Bologna, Italy.</li>
+<li>17th International Conference on Network-based Information Systems (<a href="http://voyager.ce.fit.ac.jp/conf/nbis/2014/committee.html">NBiS 2014</a>), Sept. 10-12, 2014, Salerno, Italy.</li>
+<li>6th International Conference on Intelligent Networking and Collaborative Systems (<a href="http://voyager.ce.fit.ac.jp/conf/incos/2014/committees.html">INCoS 2014</a>), Sept. 10-12, 2014, Salerno, Italy.</li>
+<li>2nd International Workshop on Energy-Aware Systems, Communications and Security (<a href="http://wpage.unina.it/fpalmier/EAsyCoSe2014/EAsyCoSe2014/Home.html">EASyCoSe 2014</a>), Sept. 10-12, 2014, Salerno, Italy.</li>
+<li>8th International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing (<a href="http://voyager.ce.fit.ac.jp/conf/imis/2014/committee.html">IMIS 2014</a>), July 2-4, 2014, Birmingham, UK.</li>
+<li>8th International Conference on Complex, Intelligent, and Software Intensive Systems (<a href="http://voyager.ce.fit.ac.jp/conf/cisis/2014/committee.html">CISIS 2014</a>), July 2-4, 2014, Birmingham, UK.</li>
+<li>9th International Workshop on Security and High Performance Computing Systems (<a href="http://hpcs2014.cisedu.info/2-conference/workshops/workshop-10-shpcs">SHPCS 2014</a>), July 25-29, 2014, Bologna, Italy.</li>
+<li>10th IEEE International Conference on Information Assurance and Security (<a href="http://www.mirlabs.org/ias14/committees.php">IAS 2014</a>), Nov. 27-29, 2014, Okinawa, Japan.</li>
+<li>16th International Conference on Network-based Information Systems (<a href="http://voyager.ce.fit.ac.jp/conf/nbis/2013/committee.html">NBiS 2013</a>), Sept. 4-6, 2013, Gwangju, China.</li>
+<li>28th IFIP International Information Security and Privacy Conference (<a href="http://www.ifipsec.org/">IFIP-SEC 2013</a>), July 8-10, 2013, Auckland, New Zealand.</li>
+<li>9th IEEE International Conference on Information Assurance and Security (<a href="http://www.mirlabs.org/ias13/committees.php">IAS 2013</a>), Dec. 4-6, 2013, Yassmine Hammamet, Tunisia.</li>
+<li>8th International Workshop on Security and High Performance Computing Systems (<a href="http://hpcs2013.cisedu.info/2-conference/workshops/workshop-10-shpcs">SHPCS 2013</a>), July 1-5, 2013, Helsinki, Finland.</li>
+<li>1st International Workshop on Energy-Aware Systems, Communications and Security (<a href="http://wpage.unina.it/fpalmier/EAsyCoSe2013/EAsyCoSe2013/Home.html">EASyCoSe 2013</a>), Mar. 25-28, 2013, Barcelona, Spain.</li>
+<li>8th IEEE International Conference on Information Assurance and Security (<a href="http://www.mirlabs.net/ias12/#committees">IAS 2012</a>), Nov. 21-23, 2012, Sao Carlos, Brazil.</li>
+<li>7th International Workshop on Security and High Performance Computing Systems (<a href="http://hpcs2012.cisedu.info/2-conference/workshops/workshop-12-shocs">SHPCS 2012</a>), July 2-6, 2012, Madrid, Spain.</li>
+<li>7th IEEE International Conference on Information Assurance and Security (<a href="http://www.mirlabs.org/ias11/committee.html">IAS 2011</a>), Dec. 5-8, 2011, Malacca, Malaysia.</li>
+</ul>
+
+<h2 id="toc_18">Projects and Grants</h2>
+
+<ul>
+<li><strong>BYODCert Project</strong>, funded by the University of Genoa. Total funding: € 16.000. <em>Principal Investigator</em>.</li>
+<li><strong><a href="http://en.eduopen.org/">EduOpen Project</a></strong>, funded by the Italian Ministry of Education, University and Research (MIUR). <em>Faculty participant</em>. </li>
+<li><strong><a href="http://www.s3lab.polito.it/progetti/progetti_in_corso/mie">Smart Intelligent and Eco-friendly Mobility Project</a></strong>, funded by the Italian Ministry of Education, University and Research (MIUR). Total funding: € 7.782.800. <em>Faculty participant</em>. </li>
+<li><strong><a href="http://www.siitscpa.it/index.php/progetti/2011-09-24-14-26-55/plug-in">PLUG-IN Project</a></strong>, funded by the Italian Ministry of Education, University and Research (MIUR). Total funding: € 3.408.950. <em>Faculty participant</em>.</li>
+<li><strong><a href="http://people.unica.it/bart/2012/10/24/security-horizons/">Security Horizons</a></strong> (PRIN Project no. 2010XSEMLC), funded by the Italian Ministry of Education, University and Research (MIUR). Total funding: € 572.157. <em>Faculty participant</em>.</li>
+<li><strong><a href="https://sites.google.com/a/manydesigns.com/cloud_security/">Security and Cloud Computing Project</a></strong>, POR Liguria, funded by Liguria Region. Total funding: € 150.000. <em>Faculty participant</em>.</li>
+<li><strong><a href="http://www.spacios.eu">SPaCIoS Project</a></strong>, Project no. 257876, FP7-ICT-2009-5, ICT-2009.1.4: Trustworthy ICT, funded by EC. Total funding: €3.610.000. <em>Faculty participant</em>. </li>
+<li><strong><a href="http://www.siitscpa.it/index.php/progetti/2011-09-24-14-26-54/sintesis">SINTESIS Project</a></strong>, funded by the Italian Ministry of Education, University and Research (MIUR). Total funding: € 3.600.00. <em>Faculty participant</em>.</li>
+</ul>
+
+<h2 id="toc_19">Teaching Activity</h2>
+
+<h3 id="toc_20">(2014- ) Assistant Professor, DIBRIS, University of Genoa.</h3>
+
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Degree</th>
+<th style="text-align: center">Course Taught</th>
+<th style="text-align: center">ECTS</th>
+<th style="text-align: center">From: (a.y.)</th>
+<th style="text-align: center">To: (a.y.)</th>
+<th style="text-align: center">Tot. yrs.</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td style="text-align: center">M.Sc. Computer Science</td>
+<td style="text-align: center">Data Privacy</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">2016/17</td>
+<td style="text-align: center">now</td>
+<td style="text-align: center">1</td>
+</tr>
+<tr>
+<td style="text-align: center">B. Eng. Computer Engineering</td>
+<td style="text-align: center">Android Programming</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">2014/15</td>
+<td style="text-align: center">now</td>
+<td style="text-align: center">3</td>
+</tr>
+<tr>
+<td style="text-align: center">Ph.D. Computer Science</td>
+<td style="text-align: center">Mobile Security</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">2014/15</td>
+<td style="text-align: center">now</td>
+<td style="text-align: center">3</td>
+</tr>
+<tr>
+<td style="text-align: center">Postgrad. Diploma in Cyber Security</td>
+<td style="text-align: center">Web Security</td>
+<td style="text-align: center">3</td>
+<td style="text-align: center">2014/15</td>
+<td style="text-align: center">now</td>
+<td style="text-align: center">3</td>
+</tr>
+<tr>
+<td style="text-align: center">Undergrad. Diploma in ICT (ITS-ICT)</td>
+<td style="text-align: center">MySQL Programming</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">2014/15</td>
+<td style="text-align: center">now</td>
+<td style="text-align: center">3</td>
+</tr>
+<tr>
+<td style="text-align: center">Undergrad. Diploma in ICT (ITS-ICT)</td>
+<td style="text-align: center">Web Programming</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">2014/15</td>
+<td style="text-align: center">2014/15</td>
+<td style="text-align: center">1</td>
+</tr>
+<tr>
+<td style="text-align: center">Tirocinio Formativo Assistito</td>
+<td style="text-align: center">Found. of Comp. Science</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">2014/15</td>
+<td style="text-align: center">2014/15</td>
+<td style="text-align: center">1</td>
+</tr>
+<tr>
+<td style="text-align: center">Percorsi Abilitativi Speciali</td>
+<td style="text-align: center">Found. of Comp. Science</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">2014/15</td>
+<td style="text-align: center">2014/15</td>
+<td style="text-align: center">1</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="toc_21">(2014- ) Lecturer, Telecommunication School for Italian Armed Forces, Chiavari, Italy.</h3>
+
+<table>
+<thead>
+<tr>
+<th style="text-align: center">Degree</th>
+<th style="text-align: center">Course Taught</th>
+<th style="text-align: center">ECTS</th>
+<th style="text-align: center">From: (a.y.)</th>
+<th style="text-align: center">To: (a.y.)</th>
+<th style="text-align: center">Tot. yrs.</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td style="text-align: center">Vocat. Training in ICT Systems</td>
+<td style="text-align: center">ASP.NET Programming</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">2016/17</td>
+<td style="text-align: center">now</td>
+<td style="text-align: center">1</td>
+</tr>
+<tr>
+<td style="text-align: center">Vocat. Training in ICT Systems</td>
+<td style="text-align: center">Java Programming</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">2016/17</td>
+<td style="text-align: center">now</td>
+<td style="text-align: center">1</td>
+</tr>
+<tr>
+<td style="text-align: center">Vocat. Training in ICT Systems</td>
+<td style="text-align: center">Basics of Programming</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">2014/15</td>
+<td style="text-align: center">now</td>
+<td style="text-align: center">3</td>
+</tr>
+<tr>
+<td style="text-align: center">Vocat. Training in ICT Systems</td>
+<td style="text-align: center">C/C++ Programming</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">2014/15</td>
+<td style="text-align: center">now</td>
+<td style="text-align: center">3</td>
+</tr>
+<tr>
+<td style="text-align: center">Vocat. Training in ICT Systems</td>
+<td style="text-align: center">Java Programming</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">2011/12</td>
+<td style="text-align: center">2014/15</td>
+<td style="text-align: center">4</td>
+</tr>
+<tr>
+<td style="text-align: center">Postgrad. Diploma in ICT Systems</td>
+<td style="text-align: center">Computer Security</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">2013/14</td>
+<td style="text-align: center">2013/14</td>
+<td style="text-align: center">1</td>
+</tr>
+<tr>
+<td style="text-align: center">Postgrad. Diploma in ICT Systems</td>
+<td style="text-align: center">Java Programming</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">2013/14</td>
+<td style="text-align: center">2013/14</td>
+<td style="text-align: center">1</td>
+</tr>
+<tr>
+<td style="text-align: center">Postgrad. Diploma in ICT Systems</td>
+<td style="text-align: center">Databases</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">2013/14</td>
+<td style="text-align: center">2013/14</td>
+<td style="text-align: center">1</td>
+</tr>
+<tr>
+<td style="text-align: center">Postgrad. Diploma in ICT Systems</td>
+<td style="text-align: center">Information Systems</td>
+<td style="text-align: center">6</td>
+<td style="text-align: center">2013/14</td>
+<td style="text-align: center">2013/14</td>
+<td style="text-align: center">1</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="toc_22">Ph.D. Supervision</h3>
+
+<ul>
+<li><strong>2017-2019</strong>: Doctoral Supervisor of <em><a href="https://it.linkedin.com/pub/simone-aonzo/88/ab6/796">Simone Aonzo</a></em> (Cycle XXXII), DIBRIS, University of Genoa. </li>
+<li><strong>2013-2016</strong>: Doctoral Supervisor of <em><a href="https://it.linkedin.com/in/lucaverderame">Luca Verderame</a></em> (Cycle XXVIII), DIBRIS, University of Genoa.</li>
+</ul>
+
+<h2 id="toc_23">Contacts</h2>
+
+<ul>
+<li><strong>Office</strong>: <a href="https://www.google.it/maps/place/44%C2%B024&#x27;07.0%22N+8%C2%B057&#x27;38.7%22E/@44.4019444,8.9596557,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d44.401932!4d8.960757">Viale Francesco Causa, 13, I-16145, Genoa, Italy.</a></li>
+<li><strong>Email</strong>: <img src="/mail.png" alt="Alessio&#39;s mail should be here."></li>
+<li><strong>Phone</strong>: +39 010 353 2344</li>
+<li><strong>Fax</strong>: +39 010 353 2948</li>
+<li><strong>PGP Key</strong>: <a href="/C81BCD20.asc">C81BCD20</a></li>
+<li><strong>Complete CV</strong>: <a href="http://www.dibris.unige.it/public/staff/cv_pdf/cv_701287.pdf">Italian version</a> - <a href="http://www.dibris.unige.it/public/staff/cv_pdf_en/cv_en_701287.pdf">English version</a></li>
+</ul>
+
+
+
+
+</body>
+
 </html>
