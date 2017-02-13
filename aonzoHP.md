@@ -14,6 +14,13 @@ title: Homepage of Simone Aonzo
 - **Oct. 2015**: Laurea Magistrale (LM-18) *cum laude* in Computer Science at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 - **From Jan. 2017**: PhD student in Computer Science and Systems Engineering of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 
+## Research topics
+- Cyber Security
+  * Mobile (Android & iOS)
+  * Reverse Engineering
+  * Binary Analysis
+
+
 ## Previous Jobs
 - **Network and Computer Systems Administrators** at [Tekmeria](http://teknoos.it)
 - **Software Developer** at [Talos  s.r.l.s](http://www.talos-sec.com)
