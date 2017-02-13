@@ -23,7 +23,7 @@ title: Homepage of Simone Aonzo
 
 ## Previous Jobs
 - **Network and Computer Systems Administrators** at [Tekmeria](http://teknoos.it)
-- **Software Developer** at [Talos  s.r.l.s](http://www.talos-sec.com)
+- **Security Software Developer** at [Talos  s.r.l.s](http://www.talos-sec.com)
 
 ## Personal Links
 - [Blog](https://sixthevicious.wordpress.com/) 
