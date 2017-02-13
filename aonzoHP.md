@@ -6,7 +6,7 @@ title: Homepage of Simone Aonzo
 # Homepage of Simone Aonzo
 
 
-![Simone's pic is missing.](./pics/aonzo.jpg)
+![Simone's pic is missing.](/pics/aonzo.jpg)
 
 
 ## Short Bio
