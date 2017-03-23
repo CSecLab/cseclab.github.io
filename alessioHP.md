@@ -31,12 +31,12 @@ title: Homepage of Alessio Merlo
 
 
 ### Books
-1. A. Merlo, M. Migliardi, S. Al-Haj Baddar (Eds.). "Adaptive Mobile Computing: Advances in Processing of Mobile Data Sets" Elsevier. Expected release: 2017, 1Q.
+1. A. Merlo, M. Migliardi, S. Al-Haj Baddar (Eds.). "Adaptive Mobile Computing: Advances in Processing of Mobile Data Sets" Elsevier. ISBN: [9780128046036](https://www.elsevier.com/books/adaptive-mobile-computing/migliardi/978-0-12-804603-6). Expected release: 2017, 2Q.
 1. L. Caviglione, M. Coccoli, A. Merlo (Eds.). "Social Network Engineering for Secure Web Data and Services". [DOI: 10.4018/978-1-4666-3926-3](http://www.igi-global.com/book/social-network-engineering-secure-web/72359), IGI-Global.
 {: reversed="reversed"}
 
 ### International Journals
-1.  M. Guerar, A. Merlo, M. Migliardi. "Completely Automated Public Physical test to tell Computers and Humans Apart: A Usability Study on Mobile Devices". *Future Generation Computer Systems*, Elsevier (to appear). 
+1.  M. Guerar, A. Merlo, M. Migliardi. "Completely Automated Public Physical test to tell Computers and Humans Apart: A Usability Study on Mobile Devices". *Future Generation Computer Systems*, Elsevier (to appear). [DOI: http://dx.doi.org/10.1016/j.future.2017.03.012](http://dx.doi.org/10.1016/j.future.2017.03.012). 
 1. M. Guerar, M. Migliardi, A. Merlo, M. Benmohammed, F. Palmieri, A. Castiglione. "Using Screen Brightness to Improve Security in Mobile Social Network Access", *IEEE Trans. on Dependable and Secure Computing*. [DOI: 10.1109/TDSC.2016.2601603](http://dx.doi.org/10.1109/TDSC.2016.2601603).
 1. G. Costa, A. Merlo, L. Verderame, A. Armando. "Automatic Security Verification of Mobile App Configurations", *Future Generation Computer Systems*, Elsevier. [DOI: 10.1016/j.future.2016.06.014](http://dx.doi.org/10.1016/j.future.2016.06.014).
 1. A. Merlo, M. Migliardi, E. Spadacini. "IPS-Based Reduction of Network Energy Consumption", *Logic Journal of the IGPL*, Oxford Press. [DOI: 10.1093/jigpal/jzw053](http://dx.doi.org/10.1093/jigpal/jzw053).
