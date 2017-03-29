@@ -1,36 +1,40 @@
-* {
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  background-position:  center center;
+html,body {
+  height:100%;
 }
-html {
-  height: 100%;
-  overflow-x: hidden;
+
+.row-flex, .row-flex > div[class*='col-'] {  
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex:1 1 auto;
 }
-body {
-  height: 100%;
-  background-image: url(back.jpg);
+
+.row-flex-wrap {
+  -webkit-flex-flow: row wrap;
+  align-content: flex-start;
+  flex:0;
 }
-ul {
-  background: #ffffff url(back.jpg) repeat scroll 0% 50%;
-  height: 40px;
-  width: 100%;
-  line-height: 40px;
-  text-align: center;
-  position: fixed;
+
+.row-flex > div[class*='col-'], .container-flex > div[class*='col-'] {
+  margin:-.2px; /* hack adjust for wrapping */
 }
-li {
-  margin: 0 50px;
-  display: inline;
+
+.container-flex > div[class*='col-'] div,.row-flex > div[class*='col-'] div {
+  width:100%;
 }
-p {
-  margin: 50px;
-  text-align: center;
+
+
+.flex-col {
+  display: flex;
+  display: -webkit-flex;
+  flex: 1 100%;
+  flex-flow: column nowrap;
 }
-* html ul {
-  position: absolute;
-}
-* html {
-  background: transparent url(fake.jpg) repeat scroll 0% 50%;
+
+.flex-grow {
+  display: flex;
+  -webkit-flex: 2;
+  flex: 2;
 }
