@@ -33,7 +33,6 @@ title: Homepage of Alessio Merlo
 ### Books
 - A. Merlo, M. Migliardi, S. Al-Haj Baddar (Eds.). "Adaptive Mobile Computing: Advances in Processing of Mobile Data Sets" Elsevier. ISBN: [9780128046036](https://www.elsevier.com/books/adaptive-mobile-computing/migliardi/978-0-12-804603-6). Expected release: 2017, 2Q.
 -- L. Caviglione, M. Coccoli, A. Merlo (Eds.). "Social Network Engineering for Secure Web Data and Services". [DOI: 10.4018/978-1-4666-3926-3](http://www.igi-global.com/book/social-network-engineering-secure-web/72359), IGI-Global.
-{: reversed="reversed"}
 
 ### International Journals
 -  M. Guerar, A. Merlo, M. Migliardi. "Completely Automated Public Physical test to tell Computers and Humans Apart: A Usability Study on Mobile Devices". *Future Generation Computer Systems*, Elsevier (to appear). [DOI: http://dx.doi.org/10.1016/j.future.2017.03.012](http://dx.doi.org/10.1016/j.future.2017.03.012). 
