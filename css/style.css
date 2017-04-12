@@ -1,40 +1,35 @@
-html,body {
-  height:100%;
+* {
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  background-position:  center center;
 }
-
-.row-flex, .row-flex > div[class*='col-'] {  
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex;
-  flex:1 1 auto;
+html {
+  height: 100%;
+  overflow-x: hidden;
 }
-
-.row-flex-wrap {
-  -webkit-flex-flow: row wrap;
-  align-content: flex-start;
-  flex:0;
+body {
+  height: 100%;
+  background-image: url(back.jpg);
 }
-
-.row-flex > div[class*='col-'], .container-flex > div[class*='col-'] {
-  margin:-.2px; /* hack adjust for wrapping */
+ul {
+  background: #ffffff url(back.jpg) repeat scroll 0% 50%;
+  height: 40px;
+  width: 100%;
+  line-height: 40px;
+  text-align: center;
+  position: fixed;
 }
-
-.container-flex > div[class*='col-'] div,.row-flex > div[class*='col-'] div {
-  width:100%;
+li {
+  margin: 0 50px;
+  display: inline;
 }
-
-
-.flex-col {
-  display: flex;
-  display: -webkit-flex;
-  flex: 1 100%;
-  flex-flow: column nowrap;
+p {
+  margin: 50px;
+  text-align: center;
 }
-
-.flex-grow {
-  display: flex;
-  -webkit-flex: 2;
-  flex: 2;
+* html ul {
+  position: absolute;
 }
+* html {
+  background: transparent url(fake.jpg) repeat scroll 0% 50%;
