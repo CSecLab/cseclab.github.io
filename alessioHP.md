@@ -18,6 +18,7 @@ title: Homepage of Alessio Merlo
 - **Apr. 2010**: Ph.D. in Computer Science at University of Genova on HPC and Grid technologies.
 - **From Feb. 2010 to Mar. 2011**: PostDoc in Computer Security at [AI-Lab](http://www.ai-lab.it), DIST, University of Genova.
 - **From Apr. 2011 to Aug. 2014**: Assistant Professor at [E-Campus University](http://www.ecampus.it) and Associate Researcher at AI-Lab, [DIBRIS](http://www.dibris.unige.it), University of Genova.
+- **Apr. 2017**: *Habilitation* as "Associate Professor" both in *Computer Engineering* (S.C. 09/H1)  and in *Computer Science* (S.C. 01/B1), according to the Italian National Scientific Habilitation Procedure ([ASN 2016-2018](http://abilitazione.miur.it)).
 
 
 ### Current positions
@@ -32,7 +33,7 @@ title: Homepage of Alessio Merlo
 
 ### Books
 - A. Merlo, M. Migliardi, S. Al-Haj Baddar (Eds.). "Adaptive Mobile Computing: Advances in Processing of Mobile Data Sets" Elsevier. ISBN: [9780128046036](https://www.elsevier.com/books/adaptive-mobile-computing/migliardi/978-0-12-804603-6). Expected release: 2017, 2Q.
--- L. Caviglione, M. Coccoli, A. Merlo (Eds.). "Social Network Engineering for Secure Web Data and Services". [DOI: 10.4018/978-1-4666-3926-3](http://www.igi-global.com/book/social-network-engineering-secure-web/72359), IGI-Global.
+- L. Caviglione, M. Coccoli, A. Merlo (Eds.). "Social Network Engineering for Secure Web Data and Services". [DOI: 10.4018/978-1-4666-3926-3](http://www.igi-global.com/book/social-network-engineering-secure-web/72359), IGI-Global.
 
 ### International Journals
 -  M. Guerar, A. Merlo, M. Migliardi. "Completely Automated Public Physical test to tell Computers and Humans Apart: A Usability Study on Mobile Devices". *Future Generation Computer Systems*, Elsevier (to appear). [DOI: http://dx.doi.org/10.1016/j.future.2017.03.012](http://dx.doi.org/10.1016/j.future.2017.03.012). 
