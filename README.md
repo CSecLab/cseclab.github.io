@@ -4,7 +4,15 @@
 
 ## Adding a page
 
-1. Create a file with this template:
+0. [If you never did it before] Clone the whole repository
+
+    `git clone https://github.com/CSecLab/cseclab-it.git`
+    
+    *or*
+
+    `git clone git@github.com:CSecLab/cseclab-it.git`
+    (you need to deploy your SSH Key on GitHub)
+0. Create a file named `name_surname.md` with this template:
 ```
 ---
 layout: page
@@ -34,3 +42,5 @@ title: Page title
 ![Image alt text](http://images.address.com/image.jpg)
 
 ```
+0. Customize the file as you see fit
+0. Add the file to the repository
