@@ -56,7 +56,7 @@ The complete Git Flavoured Markdown syntax can be found [here](https://guides.gi
 
 * Commit the file 
 
-`git commit -am "Add Homepage for Nome Cognome"`
+`git commit -m "Add Homepage for Nome Cognome"`
 
 * Commit the file 
 
