@@ -11,19 +11,32 @@ title: Homepage of Alessandro Armando
 
 ## Short Bio
 
-- Born in [Savona](https://en.wikipedia.org/wiki/Savona), [Liguria](https://en.wikipedia.org/wiki/Liguria), the **6th of Feb. 1980**.
-- **Oct. 2003**: B.Sc. *cum laude* in Computer Science at University of Genova.
-- **Sept. 2005**: M.Sc. *cum laude* in Computer Science at University of Genova.
-- **From Dec. 2006 to Jan. 2010**: research grants at [IEIIT-CNR](http://www.ieiit.cnr.it/ge/index.php), Branch of Genova.
-- **Apr. 2010**: Ph.D. in Computer Science at University of Genova on HPC and Grid technologies.
-- **From Feb. 2010 to Mar. 2011**: PostDoc in Computer Security at [AI-Lab](http://www.ai-lab.it), DIST, University of Genova.
-- **From Apr. 2011 to Aug. 2014**: Assistant Professor at [E-Campus University](http://www.ecampus.it) and Associate Researcher at AI-Lab, [DIBRIS](http://www.dibris.unige.it), University of Genova.
-- **Apr. 2017**: *Habilitation* as "Associate Professor" both in *Computer Engineering* (S.C. 09/H1)  and in *Computer Science* (S.C. 01/B1), according to the Italian National Scientific Habilitation Procedure ([ASN 2016-2018](http://abilitazione.miur.it)).
+Alessandro Armando is full professor at the <a
+    href="http://www.unige.it">University of Genova</a>, where he
+    received his Laurea degree in Electronic Engineering in 1988 and
+    his Ph.D in Electronic and Computer Engineering in 1994. His
+    appointments include a postdoctoral research position at the
+    University of Edinburgh (1994-1995) and one as visiting researcher
+    at INRIA-Lorraine in Nancy (1998-1999). He is co-founder and
+    leader (since 2003) of the <a
+    href="http://www.ai-lab.it">Artificial Intelligence Laboratory
+    (AI-Lab)</a> at <a href="www.unige.it">DIST</a>.  He is also head
+    of the <a href="http://st.fbk.eu">Security and Trust Research
+    Unit</a> at the <a href="http://cit.fbk.eu">Center for Information
+    Technologies</a> of <a href="http://www.fbk.eu">Bruno Kessler
+    Foundation</a> in Trento.  He has contributed to the <a
+    href="http://www.ai-lab.it/armando/GoogleSSOVulnerability.html">discovery
+    of a serious vulnerability on the SAML-based Single Sign-On for
+    Google Apps</a> and to the discovery and fixing of <a
+    href="http://www.ai-lab.it/bugAndroid/bugAndroid.html">a
+    vulnerability that leads to a Denial of Service attack on
+    all Android devices</a>.  He is co-founder of the [Talos](http://www.talos-sec.com), a spin-off of the University of Genova focused on Cybersecurity. 
 
-
-### Current positions
-- **Assistant Professor** at DIBRIS, University of Genova. 
-- **Founder and C.T.O.** at [Talos  s.r.l.s](http://www.talos-sec.com).
+      His current focus is on developing cutting-edge automated
+      reasoning techniques and on using them to build a new generation
+      of push-button software verification and debugging tools
+      supporting the development of complex, large-scale, distributed
+      IT applications.
 
 
 ## Publications
