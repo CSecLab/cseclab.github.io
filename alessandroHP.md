@@ -12,36 +12,35 @@ title: Homepage of Alessandro Armando
 ## Short Bio
 
 Alessandro Armando is full professor at the <a
-    href="http://www.unige.it">University of Genova</a>, where he
-    received his Laurea degree in Electronic Engineering in 1988 and
-    his Ph.D in Electronic and Computer Engineering in 1994. His
-    appointments include a postdoctoral research position at the
-    University of Edinburgh (1994-1995) and one as visiting researcher
-    at INRIA-Lorraine in Nancy (1998-1999). He is co-founder and
-    leader (since 2003) of the <a
-    href="http://www.ai-lab.it">Artificial Intelligence Laboratory
-    (AI-Lab)</a> at <a href="www.unige.it">DIST</a>.  He is also head
-    of the <a href="http://st.fbk.eu">Security and Trust Research
-    Unit</a> at the <a href="http://cit.fbk.eu">Center for Information
-    Technologies</a> of <a href="http://www.fbk.eu">Bruno Kessler
-    Foundation</a> in Trento.  He has contributed to the <a
-    href="http://www.ai-lab.it/armando/GoogleSSOVulnerability.html">discovery
-    of a serious vulnerability on the SAML-based Single Sign-On for
-    Google Apps</a> and to the discovery and fixing of <a
-    href="http://www.ai-lab.it/bugAndroid/bugAndroid.html">a
-    vulnerability that leads to a Denial of Service attack on
-    all Android devices</a>.  He is co-founder of the [Talos](http://www.talos-sec.com), a spin-off of the University of Genova focused on Cybersecurity. 
+href="http://www.unige.it">University of Genova</a>, where he received
+his Laurea degree in Electronic Engineering in 1988 and his Ph.D in
+Electronic and Computer Engineering in 1994. His appointments include
+a postdoctoral research position at the University of Edinburgh
+(1994-1995) and one as visiting researcher at INRIA-Lorraine in Nancy
+(1998-1999). He is co-founder and leader (since 2003) of the <a
+href="http://www.ai-lab.it">Artificial Intelligence Laboratory
+(AI-Lab)</a> at <a href="www.unige.it">DIST</a>.  He is also head of
+the <a href="http://st.fbk.eu">Security and Trust Research Unit</a> at
+the <a href="http://cit.fbk.eu">Center for Information
+Technologies</a> of <a href="http://www.fbk.eu">Bruno Kessler
+Foundation</a> in Trento.  He has contributed to the <a
+href="http://www.ai-lab.it/armando/GoogleSSOVulnerability.html">discovery
+of a serious vulnerability on the SAML-based Single Sign-On for Google
+Apps</a> and to the discovery and fixing of <a
+href="http://www.ai-lab.it/bugAndroid/bugAndroid.html">a vulnerability
+that leads to a Denial of Service attack on all Android devices</a>.
+He is co-founder of the [Talos](http://www.talos-sec.com), a spin-off
+of the University of Genova focused on Cybersecurity.
 
-      His current focus is on developing cutting-edge automated
-      reasoning techniques and on using them to build a new generation
-      of push-button software verification and debugging tools
-      supporting the development of complex, large-scale, distributed
-      IT applications.
+His current focus is on developing cutting-edge automated reasoning
+techniques and on using them to build a new generation of push-button
+software verification and debugging tools supporting the development
+of complex, large-scale, distributed IT applications.
 
 
 ## Publications
 
-[Google Scholar](https://scholar.google.com/citations?update_op=accept_invitation&email_for_op=alessio.mrl%40gmail.com&invitation_id=9656939844049668502&user=F3Bkg_MAAAAJ&cstart=40&pagesize=20) - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=15136674200) - [DBLP](http://dblp.uni-trier.de/pers/hd/m/Merlo:Alessio) - [Semantic Scholar](https://www.semanticscholar.org/author/Alessio-Merlo/2611687)
+[Google Scholar](https://scholar.google.it/citations?user=ezKhT68AAAAJ&hl=en) - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57190072464) - [DBLP](http://dblp.uni-trier.de/pers/hd/m/Armando:Alessandro) - [Semantic Scholar](https://www.semanticscholar.org/author/Alessandro-Armando/3077487)
 
 
 ### Books
