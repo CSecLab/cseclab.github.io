@@ -147,14 +147,11 @@ projects:
 - IST FET Open Project AVISPA: Automated Validation of Internet Security Protocols and Applications (IST-2001-39252) funded by the European Commission in the context of the 5th Framework Programme.  Partner Institutions: DIST, U. di Genova (Prof. A. Armando, coordinator); Eidgenoessische Technische Hochschule Zurich (ETHZ), Switzerland (Prof. D. Basin); INRIA Lorraine, France (Dr. M. Rusinowitch); Siemens AG,
   Munich, Germany (Dr.J. Cuellar).  URL: www.avispa-project.org.  Duration: 30 months, starting on January 1, 2003.  
 
-  In 2006 the AVISPA Project received the nomination for the Descartes Prize for excellence in scientific collaborative research.  (It was one the 13 projects
-  shortlisted out of 65 submissions.)  This prize is described in the
-  Descartes Prizes web page (http://cordis.europa.eu/science-society/descartes/home.html) in the following way:
-  
->    ``This prize is awarded to teams of researchers who have achieved
->    outstanding scientific or technological results through
->    collaborative research in any field of science, including the
->    social sciences, humanities and economics.''
+>  In 2006 the AVISPA Project received the nomination for the Descartes Prize for excellence in scientific collaborative research.  (It was one the 13 projects shortlisted out of 65 submissions.)  This prize is described in the Descartes Prizes web page (http://cordis.europa.eu/science-society/descartes/home.html) in the following way:
+>>    ``This prize is awarded to teams of researchers who have achieved
+>>    outstanding scientific or technological results through
+>>    collaborative research in any field of science, including the
+>>    social sciences, humanities and economics.''
   
 - International project for the co-tutoring of PhD students and mutual recognition of the degree in the area of integration of Deduction and Symbolic Computation.  The project has been funded by the Italian Ministry of Scientific and Technological Research in the context of the Program of Internationalisation of the Italian University System (D.M. 21.6.99, art.7 - Internazionalizzazione, URL: interlink.murst.it).  Duration: 4 years starting from November 1, 2000. 
 - Verifica automatica dei protocolli di sicurezza (RBAU01P5SS) funded by the Italian Ministry of Scientific and Technological Research in the context of the FIRB 2001 Programme. Partner Institutions: DIST, U. di Genova (Prof. A. Armando, coordinator); University of Trento (Prof. F. Massacci); University of Napoli (Prof.M. Benerecetti).  Duration: 36 months starting from July 1, 2003.  
