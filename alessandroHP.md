@@ -67,6 +67,7 @@ His focus is on developing cutting-edge automated reasoning techniques and on us
 ## Involvement in Scientific Events
 
 I served in the Steering Committees of the following scientific events:
+
 - International Workshop on Security Testing, 2011-present.
 - Workshop on Semantic Computing for Security and Privacy, sponsored by the IEEE Computer Society's Technical Committees Security and Privacy (TCSP) and Semantic Computing (TCSEM),  2011-2013.
 - International Conference on Automated Deduction (ex officio, 2008-2009), http://www.cadeconference.org/.
@@ -76,11 +77,9 @@ I served in the Steering Committees of the following scientific events:
 - Frontiers of Combining Systems (FroCoS) Workshop Series (ex-officio 2001-2005), http://combination.cs.uiowa.edu/frocos/.
 - CALCULEMUS Interest Group.  (Ex-officio from 1999 to 2001; elected for the period 2001-2004), http://www.calculemus.net.
 
-
 I also served in the Management Committee of
 
 - COST Action IC0901: Rich-Model Toolkit - An Infrastructure for Reliable Computer Systems (2009-2013).
-
 
 I have been Program Chair of the following scientific events:
 
@@ -92,8 +91,7 @@ I have been Program Chair of the following scientific events:
 - (with A. Cimatti) 3rd Workshop on Pragmatics of Decision Procedures in Automated Reasoning (PDPAR'05), Edinburgh (UK), July 12, 2005.
 - (with Luca Vigano) Automated Reasoning for Security Protocols Analysis (ARSPA'04), Cork, Ireland, July 4, 2004.
 - 4th International Workshop on Frontiers of Combining Systems (FroCoS 2002), Santa Margherita Ligure, April 8-10, 2002.  
-- (with Tudor Jabelean) 7th Symposium CALCULEMUS: Systems for Integrated Computation and Deduction held in Trento on July 11-12, 1999 in the context of the 1999 Federated Logic
-  Conference (FLoC'99).
+- (with Tudor Jabelean) 7th Symposium CALCULEMUS: Systems for Integrated Computation and Deduction held in Trento on July 11-12, 1999 in the context of the 1999 Federated Logic Conference (FLoC'99).
 
 I served in the Program Committee of the following scientific events:
 
