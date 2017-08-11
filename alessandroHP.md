@@ -67,7 +67,6 @@ His focus is on developing cutting-edge automated reasoning techniques and on us
 ## Involvement in Scientific Events
 
 I served in the Steering Committees of the following scientific events:
-
 - International Workshop on Security Testing, 2011-present.
 - Workshop on Semantic Computing for Security and Privacy, sponsored by the IEEE Computer Society's Technical Committees Security and Privacy (TCSP) and Semantic Computing (TCSEM),  2011-2013.
 - International Conference on Automated Deduction (ex officio, 2008-2009), http://www.cadeconference.org/.
