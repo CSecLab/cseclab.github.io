@@ -11,19 +11,19 @@ title: Homepage of Alessandro Armando
 
 ## Short Bio
 
-Alessandro Armando is full professor at the <a
-href="http://www.unige.it">University of Genova</a>, where he received
+Alessandro Armando is full professor at the <a href="http://www.unige.it">University of Genova</a>, where he received
 his Laurea degree in Electronic Engineering in 1988 and his Ph.D in
 Electronic and Computer Engineering in 1994. His appointments include
 a postdoctoral research position at the University of Edinburgh
 (1994-1995) and one as visiting researcher at INRIA-Lorraine in Nancy
-(1998-1999). He is co-founder and leader (since 2003) of the <a
+(1998-1999). He has been co-founder and director of the <a
 href="http://www.ai-lab.it">Artificial Intelligence Laboratory
-(AI-Lab)</a> at <a href="www.unige.it">DIST</a>.  He is also head of
-the <a href="http://st.fbk.eu">Security and Trust Research Unit</a> at
+(AI-Lab)</a> at <a href="www.unige.it">DIST</a> (2003-2011), of the 
+<a href="http://st.fbk.eu">Security and Trust Research Unit</a> at
 the <a href="http://cit.fbk.eu">Center for Information
 Technologies</a> of <a href="http://www.fbk.eu">Bruno Kessler
-Foundation</a> in Trento.  He has contributed to the <a
+Foundation</a> in Trento (2010-2016), and of the Computer Security Laboratory (CSec) at [DIBRIS](http://www.dibris.unige.it).
+He has contributed to the <a
 href="http://www.ai-lab.it/armando/GoogleSSOVulnerability.html">discovery
 of a serious vulnerability on the SAML-based Single Sign-On for Google
 Apps</a> and to the discovery and fixing of <a
