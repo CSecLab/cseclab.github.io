@@ -29,8 +29,8 @@ His focus is on developing cutting-edge automated reasoning techniques and on us
 
 ## Invited Talks and Lectures
 
-- ``Formal Methods for Security: Challenges and Opportunities'', IACR Cryptology School on Security  Correctness in the Internet of Things 2017, Graz (Austria), May 8-12, 2017.
-- ``Countering the Cyber Threat: Automated Vulnerability Assessment'', seminario internazionale ``Il pericolo corre in rete la nuova frontiera della minaccia cibernetica'' organizzato dalla Delegazione italiana presso l'Assemblea parlamentare della NATO in collaborazione con il Centro Studi Americani, Roma, Camera dei Deputati, 15 giugno 2017.
+- ``Formal Methods for Security: Challenges and Opportunities'', IACR Cryptology School on Security Correctness in the Internet of Things 2017, Graz (Austria), May 8-12, 2017.
+- ``Countering the Cyber Threat: Automated Vulnerability Assessment'', seminario internazionale "Il pericolo corre in rete la nuova frontiera della minaccia cibernetica" organizzato dalla Delegazione italiana presso l'Assemblea parlamentare della NATO in collaborazione con il Centro Studi Americani, Roma, Camera dei Deputati, 15 giugno 2017.
 - ``Automated Security Analysis of Applications'', Workshop ``Cyber Risk e Mercato Assicurativo'', Genova, May 5, 2017.
 - ``Innovation in Cyber Security Research - Directions and Opportunities'', Workshop 4: ``Technical Perspectives'' at the NIAS2015 Cyber Security Symposium, Mons (Belgium), September 16, 2015.
 - ``Automated Analysis of Security Protocols and Multi-party Web Applications'' at the Interdisciplinary Centre for Security, Reliability and Trust, University of Luxembourg, September 18, 2015.
