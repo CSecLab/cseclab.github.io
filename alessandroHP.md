@@ -40,7 +40,9 @@ of complex, large-scale, distributed IT applications.
 
 ## Publications
 
-[Google Scholar](https://scholar.google.it/citations?user=ezKhT68AAAAJ&hl=en) - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57190072464) - [DBLP](http://dblp.uni-trier.de/pers/hd/m/Armando:Alessandro) - [Semantic Scholar](https://www.semanticscholar.org/author/Alessandro-Armando/3077487)
+- [Google Scholar](https://scholar.google.it/citations?user=ezKhT68AAAAJ&hl=en)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57190072464)
+- [DBLP](http://dblp.uni-trier.de/pers/hd/m/Armando:Alessandro)
 
 
 ### Books
