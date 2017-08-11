@@ -15,15 +15,14 @@ title: Homepage of Alessandro Armando
 - **Email**: *firstname*.*surname*@unige.it
 - **Phone**: +39 010 353 2216
 - **Fax**: +39 010 353 2948
-- **PGP Key**: [C81BCD20](/C81BCD20.asc)
+- **PGP Key**: [1B184B03](/alessandro.gpg)
 
 
 ## Short Bio
 
 Alessandro Armando is full professor at the <a href="http://www.unige.it">University of Genova</a>, where he received his Laurea degree in Electronic Engineering in 1988 and his Ph.D in Electronic and Computer Engineering in 1994. His appointments include a postdoctoral research position at the University of Edinburgh (1994-1995) and one as visiting researcher at INRIA-Lorraine in Nancy (1998-1999).
 
-He has been co-founder and director of the <a href="http://www.ai-lab.it">Artificial Intelligence Laboratory
-(AI-Lab)</a> at <a href="www.unige.it">DIST</a> (2003-2011), of the <a href="http://st.fbk.eu">Security and Trust Research Unit</a> at the <a href="http://cit.fbk.eu">Center for Information Technologies</a> of <a href="http://www.fbk.eu">Bruno Kessler Foundation</a> in Trento (2010-2016), and of the Computer Security Laboratory (CSec) at [DIBRIS](http://www.dibris.unige.it). He is co-founder of the [Talos](http://www.talos-sec.com), a spin-off of DIBRIS focused on Cybersecurity.
+He has been co-founder and director of the <a href="http://www.ai-lab.it">Artificial Intelligence Laboratory (AI-Lab)</a> at <a href="www.unige.it">DIST</a> (2003-2011), of the <a href="http://st.fbk.eu">Security and Trust Research Unit</a> at the <a href="http://cit.fbk.eu">Center for Information Technologies</a> of <a href="http://www.fbk.eu">Bruno Kessler Foundation</a> in Trento (2010-2016), and of the Computer Security Laboratory (CSec) at [DIBRIS](http://www.dibris.unige.it). He is co-founder of the [Talos](http://www.talos-sec.com), a spin-off of DIBRIS focused on Cybersecurity.
 
 He has contributed to the discovery of <a href="http://www.ai-lab.it/armando/GoogleSSOVulnerability.html">a vulnerability on the SAML-based Single Sign-On for Google Apps</a>, <a href="https://doi.org/10.1016/j.cose.2012.08.007">an authentication flaw in emerging SSO protocols (namely SAML SSO v2.0 and OpenID)</a>, and <a href="http://www.ai-lab.it/bugAndroid/bugAndroid.html">a vulnerability that leads to a Denial of Service attack on all Android devices</a>. 
 
