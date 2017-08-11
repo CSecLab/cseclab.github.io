@@ -165,6 +165,33 @@ Principal investigator of the following research projects:
 - Automation of Program Synthesis in Proof-Planning in collaboration with Prof.Alan Bundy of the Department of Artificial Intelligence of the University of Edinburgh.  Funded by CRUI (Conferenza dei Rettori delle Universita Italiane) and the British Council in the context of the British-Italian Cooperation Programme for Research and High Education (1996 Edition).
 - Reflective Architectures for Automated Deduction in collaboration with Prof.Alan Bundy (University of Edinburgh), Prof.David Basin (Max-Planck Institut fur Informatik -- Saarbrucken), Prof. Fausto Giunchiglia (University of Trento).  Funded by CNR (Consiglio Nazionale delle Ricerche).
 
+## Patents
+
+- L. Compagna, A. Sudhodanan, R. Carbone, A. Armando. [Dynamic Analysis Security Testing of Multi-Party Web Applications Via Attack Patterns](https://www.google.com/patents/US20170109534). Publication number: US 20170109534 A1, April 20, 2017.
+
+
+## Software Tools
+
+I have contributed to the design and/or development of the following
+software tools:
+
+- RDL (Rewrite and Decision Procedures Laboratory).  RDL is a fully automatic tool for formula simplification in quantifier-free first-order theories (Linear Arithmetics, Theory of Equality,and their combination).  RDL is based on the Constraint Contextual Rewriting paradigm and features a tight integration of rewriting and decision procedures.  
+- TSAT++ is an open platform for satisfiability modulo theories (SMT) based on a tight coupling of satisfiability procedures and a SAT-solver.  The current version of TSAT++ supports Separation Logic (also known as Difference Logic).
+- The AVISS Tool is a fully automatic security protocol analyser.  It is capable to analyse a large portion of the protocols collected in the Clark  Jacob library of security protocols (http://www.cs.york.ac.uk/ jac/papers/drareviewps.ps). It is the predecessor of the AVISPA Tool.
+- The AVISPA Tool is a fully automatic analyser for large-scale Internet security-sensitive protocols.  It comprises 4 back-ends implementing a variety of security protocol verification techniques.  It is described in  and is available on line at http://www.avispa-project.org.
+- SATMC (SAT-based Model Checker) is a bounded model checker for security protocols.  SATMC reduces the problem of checking whether a protocol is vulnerable to attacks of bounded length to the satisfiability of a propositional formula which is then solved by a state-of-the-art SAT solver taken off-the-shelf. SATMC is one of the back-ends of the AVISPA Tool.  SATMC is described in  and is available on line at http://www.ai-lab.it/satmc/.
+- The AVANTSSAR Platform is an integrated toolset supporting the formal specification and automated validation of the trust and security of service-oriented architectures.  It is described in  and is available on line at http://www.avantssar.eu/.
+- The SPaCiOS Tool is an automated tool that supports security analysts in the security analysis of on-line applications. This is achieved by leveraging several techniques, including formal modeling, abstract attacks detection, and security testing. The tool is available at http://www.spacios.eu/.
+- Eureka is a model checker for sequential software (C code) based on the counterexample-guided abstraction refinement (CEGAR) paradigm.  Unlike many other software model checkers based on the CEGAR paradigm Eureka analyses arrays precisely.  Eureka is described in  and is available on line at http://www.ai-lab.it/eureka/.
+- SMT-CBMC is a bounded model checker for sequential software (C code).  SMT-CBMC reduces the problem of checking whether an input program has an execution path of bounded length violating an assertion to the satisfiability of a formula with respect to a decidable theory which is then solved by a state-of-the-art SMT solver taken off-the-shelf.
+- BYODroid implements the Bring Your Own Device (BYOD) paradigm on Android devices.  This is done by automatically checking mobile applications against the security policy set by the organization.  The innovation potential of BYODroid is witnessed by the following recognitions:
+
+-- BYODroid has been selected (1st place in the ranking) in the Start Cup of the University of Genova, 2013 edition.
+-- BYODroid entered the final of the Idea Challenge 2014 of the EIC ICT Labs of the European Institute of Innovation and Technology.
+-- BYODroid has been selected by the NATO Communications and Information Agency (NCIA) in the context of the Cyber Security Incubator 2015 Program.
+  
+- MAVERIC is a platform for the automatic security analysis and monitoring of mobile applications whose development has been funded by Poste Italiane.  MAVERIC is now routinely used by the Computer Emergency Response Team (CERT) of Poste Italiane to monitor and analyze the Poste Italiane mobile apps ecosystem.
+
 
 ## Teaching Activity
 
