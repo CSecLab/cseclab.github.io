@@ -214,6 +214,7 @@ software tools:
 - 1995--1999 (4 academic years) Fondamenti di Informatica (Fundamentals of Computer Science), MSc in Computer Engineering and MSc in Telecommunication Engineering,  University of Genova.
 - 1995--98 (3 academic years) Fondamenti di Informatica (Fundamentals of Computer Science), course of ``Diploma Universitario'' in Logistics and Production Engineering, University of Genova.
 
+- President of the Management Committee (Presidente del Comitato di Gestione) of the Master Universitario di II Livello on ``Cyber Security and Data Protection'', academic years 2014/2015 and 2016/2017, University of Genova (www.MasterCyberSecurity.it).
 
 ### Supervision
 
