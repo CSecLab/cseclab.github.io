@@ -27,15 +27,88 @@ His focus is on developing cutting-edge automated reasoning techniques and on us
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57190072464)
 - [DBLP](http://dblp.uni-trier.de/pers/hd/m/Armando:Alessandro)
 
+## Invited Talks and Lectures
+
+- ``Formal Methods for Security: Challenges and Opportunities'', IACR Cryptology School on Security  Correctness in the Internet of Things 2017, Graz (Austria), May 8-12, 2017.
+- ``Countering the Cyber Threat: Automated Vulnerability Assessment'', seminario internazionale ``Il pericolo corre in rete la nuova frontiera della minaccia cibernetica'' organizzato dalla Delegazione italiana presso l'Assemblea parlamentare della NATO in collaborazione con il Centro Studi Americani, Roma, Camera dei Deputati, 15 giugno 2017.
+- ``Automated Security Analysis of Applications'', Workshop ``Cyber Risk e Mercato Assicurativo'', Genova, May 5, 2017.
+- ``Innovation in Cyber Security Research - Directions and Opportunities'', Workshop 4: ``Technical Perspectives'' at the NIAS2015 Cyber Security Symposium, Mons (Belgium), September 16, 2015.
+- ``Automated Analysis of Security Protocols and Multi-party Web Applications'' at the Interdisciplinary Centre for Security, Reliability and Trust, University of Luxembourg, September 18, 2015.
+- ``Enforcing BYOD policies on Android Devices'',  keynote speech at the Seminar on Road-mapping Cybersecurity Research and Innovation co-organized by the EU NIS platform  WG3
+ and the European projects SECCORD and CAPITAL, Firenze, Oct 8, 2014.
+Invited talk on ``Android Security  Secure Meta-Markets'', NeSSoS Meeting, September 5, 2013, Bertinoro, Italy.
+- ``The SPaCIoS Tool: property-driven and vulnerability-driven security testing for Web-based apps'', lecture at the 13th International School on Foundations of Security Analysis and Design (FOSAD'13), September 4, 2013, Bertinoro, Italy.
+- ``Security and Privacy of Web-based Single Sign-On Protocols: Pitfalls and Solutions'', keynote speech at the IFIP Summer School on Privacy and
+  Identity Management for Life, September 7, 2011, Trento, Italy.
+- ``The Rewriting Approach to Decision Procedures'', lecture at the Summer
+  School on Verification Technology, Systems  Applications (VTSA'11),
+  September 23, 2011, Montefiore Institute (University of Liege),
+  Belgium.
+- ``Automatic Symbolic Analysis of Access Control
+  Policies'', lecture at the Summer School on Verification Technology, Systems 
+  Applications (VTSA'11), September 23, 2011, Montefiore Institute
+  (University of Liege), Belgium.
+- ``Building SMT-based Software Model Checkers: an Experience
+  Report'', 7th International Symposium on Frontiers of Combining
+  Systems, Trento, Italy, September 16-18, 2009.
+- ``Formal Analysis of SAML 2.0 Web Browser Single Sign-On:
+  Breaking the SAML-based Single Sign-On for Google Apps'', Istituto
+  per la Ricerca Scientifica e Tecnologica, Trento, Italy, March 2,
+  2009.
+- ``LTL Model Checking for Security Protocol
+  Analysis'', Workshop on Logic and Information Security, September
+  22-28, 2008, Lorentz Center, Leiden, Holland.
+- ``Verifica Automatica della Sicurezza delle Applicazioni Web:
+  come abbiamo scoperto la vulnerabilita al servizio di Single
+  Sign-On di Google'', Security Seminar after the Silicon Valley
+  Study Tour 2008, Genova, Italy, November 4, 2008.
+- ``LTL Model Checking for Security Protocol Analysis'', Workshop
+  on Workshop Logic and Information Security, Leiden University,
+  Holland, September 22-28, 2008.
+- ``Software Model Checking: new challenges and opportunities for
+  Automated Reasoning'', invited talk at Workshop on Practical
+  Aspects of Automated Reasoning (PAAR-2008) and at the Workshop on
+  Complexity, Expressibility, and Decidability in Automated Reasoning
+  (CEDAR'08), Sydney, Australia, August 10, 2008.
+- ``Automatic Validation of Internet Security Protocols'', lecture
+  at the AEOLUS Summer School on Global Computing, Salerno, September
+  20, 2007.
+- ``Big proof engines as little proof engines: new results on
+  rewrite-based satisfiability procedures'', CISA Talk, Division of
+  Informatics, University of Edinburgh, August 23, 2007.
+- ``Decision Procedures for Automated Verification'', lecture at
+  the Scuola Estiva di Logica, Palazzo Feltrinelli, Gargnano,
+  September 5, 2006.
+- ``Bounded Model Checking of C Programs using a SMT solver
+  instead of a SAT solver'', Forum on Decision Procedures, Microsoft
+  Research, Cambridge (UK), September 13, 2005.
+- ``The AVISPA Project: Automatic Validation of Internet Security
+  Protocols'', Security Area Advisory Group (SAAG) Meeting, in the
+  context of the 62nd IETF Meeting, Minneapolis, March 5, 2005.
+- ``Automatic SAT-Compilation of Protocol Insecurity Problems via
+  Reduction to Planning'', Computer Science Department, University of
+  Texas, November 11, 2002.
+- ``Integration of Decision Procedures in Automated Reasoning''
+  lecture series at the CALCULEMUS Autumn School, Pisa, September 30 -
+  Oct 1, 2002.
+- ``An Overview of the AVISS Project'', Workshop on Specification,
+  Analysis and Validation for Emerging Technologies (SAVE 2002),
+  Copenhagen, Denmark, July 27, 2002.
+- ``Proof-planning: an Overview'', DEIS - University of Bologna,
+  July 2, 2002.
+- ``A Rule-Based Approach to Specifying the Integration of
+  Decision Procedures in Formula Simplification'', INRIA-Lorraine,
+  Nancy, June 29, 2001.
+- ``An Overview of the Open Mechanized Reasoning Systems
+  Project'', Prosper Research Workshop, University of Cambridge,
+  November 22, 1999.
+- ``Integrating decision procedures with rewriting'', NASA Ames
+  Research Center (California), November 7, 1997.
+- ``Constraint Contextual Rewriting'', Institute for Algorithms
+  and Cognitive Systems, University of Karlsruhe (Germany), 1997.
+
 
 ## Services to the Profession
-
-### Editorial Activity
-
-- **Lead Guest Editor** of the [Special Issue on Advances in High Performance Computing and Simulations](http://www.cc-pe.net/journalinfo/issues/2016.html#HPCS2016), [Concurrency and Computation: Practice and Experience](http://www.cc-pe.net/journalinfo/), Wiley.
--  **Member of the Editorial Advisory Board** of the book [Security Solutions and Applied Cryptography in Smart Grid Communications](http://www.igi-global.com/book/security-solutions-applied-cryptography-smart/166368), IGI-Global.
-- **Associate Editor** at [Journal of High Speed Networks](http://www.iospress.nl/journal/journal-of-high-speed-networks/), IoS Press.
-- **Reviewer** for [ACM Transactions on Cyber-Physical Systems](http://tcps.acm.org/), [The Journal of Supercomputing](http://link.springer.com/journal/11227), [Computers & Electrical Engineering](https://www.journals.elsevier.com/computers-and-electrical-engineering/), [Telematics and Informatics](https://www.journals.elsevier.com/telematics-and-informatics/),  [Mobile Information Systems](https://www.hindawi.com/journals/misy/),  [Journal of Systems and Software](https://www.journals.elsevier.com/journal-of-systems-and-software/), [Journal of High Speed Networks](http://www.iospress.nl/journal/journal-of-high-speed-networks/), [Computers & Security](https://www.journals.elsevier.com/computers-and-security/), [Future Generation Computer Systems](https://www.journals.elsevier.com/future-generation-computer-systems/), [Journal of Network and Computer Applications](https://www.journals.elsevier.com/journal-of-network-and-computer-applications), [Concurrency and Computation: Practice and Experience](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1532-0634).
 
 ### International Conference Chair
 
