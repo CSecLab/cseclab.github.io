@@ -148,6 +148,7 @@ projects:
   Munich, Germany (Dr.J. Cuellar).  URL: www.avispa-project.org.  Duration: 30 months, starting on January 1, 2003.  
 
   >  In 2006 the AVISPA Project received the nomination for the Descartes Prize for excellence in scientific collaborative research.  (It was one the 13 projects shortlisted out of 65 submissions.)  This prize is described in the Descartes Prizes web page (http://cordis.europa.eu/science-society/descartes/home.html) in the following way:
+
   >>    ``This prize is awarded to teams of researchers who have achieved
   >>    outstanding scientific or technological results through
   >>    collaborative research in any field of science, including the
