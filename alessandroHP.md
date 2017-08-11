@@ -16,9 +16,9 @@ Alessandro Armando is full professor at the <a href="http://www.unige.it">Univer
 He has been co-founder and director of the <a href="http://www.ai-lab.it">Artificial Intelligence Laboratory
 (AI-Lab)</a> at <a href="www.unige.it">DIST</a> (2003-2011), of the <a href="http://st.fbk.eu">Security and Trust Research Unit</a> at the <a href="http://cit.fbk.eu">Center for Information Technologies</a> of <a href="http://www.fbk.eu">Bruno Kessler Foundation</a> in Trento (2010-2016), and of the Computer Security Laboratory (CSec) at [DIBRIS](http://www.dibris.unige.it). He is co-founder of the [Talos](http://www.talos-sec.com), a spin-off of the University of Genova focused on Cybersecurity.
 
-He has contributed to the <a href="http://www.ai-lab.it/armando/GoogleSSOVulnerability.html">discovery of a serious vulnerability on the SAML-based Single Sign-On for Google Apps</a> and to the discovery and fixing of <a href="http://www.ai-lab.it/bugAndroid/bugAndroid.html">a vulnerability that leads to a Denial of Service attack on all Android devices</a>. 
+He has contributed to the discovery of <a href="http://www.ai-lab.it/armando/GoogleSSOVulnerability.html">a vulnerability on the SAML-based Single Sign-On for Google Apps</a>, <a href="https://doi.org/10.1016/j.cose.2012.08.007">an authentication flaw in emerging SSO protocols (namely SAML SSO v2.0 and OpenID)</a>, and <a href="http://www.ai-lab.it/bugAndroid/bugAndroid.html">a vulnerability that leads to a Denial of Service attack on all Android devices</a>. 
 
-His current focus is on developing cutting-edge automated reasoning techniques and on using them to build a new generation of push-button software verification and debugging tools supporting the development of complex, large-scale, distributed IT applications.
+His focus is on developing cutting-edge automated reasoning techniques and on using them to build a new generation of push-button software verification and debugging tools supporting the development of complex, large-scale, distributed IT applications.
 
 
 ## Publications
