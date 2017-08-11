@@ -15,7 +15,7 @@ title: Homepage of Alessandro Armando
 - **Email**: *firstname*.*surname*@unige.it
 - **Phone**: +39 010 353 2216
 - **Fax**: +39 010 353 2948
-- **PGP Key**: [1B184B03](alessandro.gpg)
+- **PGP Key**: [1B184B03](/alessandro.gpg)
 
 
 ## Short Bio
