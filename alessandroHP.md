@@ -9,6 +9,15 @@ title: Homepage of Alessandro Armando
 ![Alessandro's pic is missing.](http://www.dibris.unige.it/public/staff/img/foto_54567.jpg)
 
 
+## Contacts
+
+- **Office**: [Viale Francesco Causa, 13, I-16145, Genoa, Italy.](https://www.google.it/maps/place/44°24'07.0%22N+8°57'38.7%22E/@44.4019444,8.9596557,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d44.401932!4d8.960757)
+- **Email**: *firstname*.*surname*@unige.it
+- **Phone**: +39 010 353 2216
+- **Fax**: +39 010 353 2948
+- **PGP Key**: [C81BCD20](/C81BCD20.asc)
+
+
 ## Short Bio
 
 Alessandro Armando is full professor at the <a href="http://www.unige.it">University of Genova</a>, where he received his Laurea degree in Electronic Engineering in 1988 and his Ph.D in Electronic and Computer Engineering in 1994. His appointments include a postdoctoral research position at the University of Edinburgh (1994-1995) and one as visiting researcher at INRIA-Lorraine in Nancy (1998-1999).
@@ -193,49 +202,34 @@ software tools:
 
 ## Teaching Activity
 
-
-### (2014- ) Assistant Professor, DIBRIS, University of Genoa.
-
-|                Degree               |      Course Taught      | ECTS | From: (a.y.) | To: (a.y.) | Tot. yrs. |
-|:-----------------------------------:|:-----------------------:|:----:|:------------:|:----------:|:---------:|
-|        M.Sc. Computer Science       |       Data Privacy      |   6  |    2016/17   |     now    |     1     |
-|     B. Eng. Computer Engineering    |   Android Programming   |   6  |    2014/15   |     now    |     3     |
-|        Ph.D. Computer Science       |     Mobile Security     |   3  |    2014/15   |     now    |     3     |
-| Postgrad. Diploma in Cyber Security |       Web Security      |   3  |    2014/15   |     now    |     3     |
-| Undergrad. Diploma in ICT (ITS-ICT) |    MySQL Programming    |   6  |    2014/15   |     now    |     3     |
-| Undergrad. Diploma in ICT (ITS-ICT) |     Web Programming     |   6  |    2014/15   |   2014/15  |     1     |
-|    Tirocinio Formativo Assistito    | Found. of Comp. Science |   6  |    2014/15   |   2014/15  |     1     |
-|    Percorsi Abilitativi Speciali    | Found. of Comp. Science |   6  |    2014/15   |   2014/15  |     1     |
-
-
-### (2014- ) Lecturer, Telecommunication School for Italian Armed Forces, Chiavari, Italy.
-
-|              Degree              |     Course Taught     | ECTS | From: (a.y.) | To: (a.y.) | Tot. yrs. |
-|:--------------------------------:|:---------------------:|:----:|:------------:|:----------:|:---------:|
-|  Vocat. Training in ICT Systems  |  ASP.NET Programming  |   6  |    2016/17   |     now    |     1     |
-|  Vocat. Training in ICT Systems  |    Java Programming   |   6  |    2016/17   |     now    |     1     |
-|  Vocat. Training in ICT Systems  | Basics of Programming |   6  |    2014/15   |     now    |     3     |
-|  Vocat. Training in ICT Systems  |   C/C++ Programming   |   6  |    2014/15   |     now    |     3     |
-|  Vocat. Training in ICT Systems  |    Java Programming   |   6  |    2011/12   |   2014/15  |     4     |
-| Postgrad. Diploma in ICT Systems |   Computer Security   |   6  |    2013/14   |   2013/14  |     1     |
-| Postgrad. Diploma in ICT Systems |    Java Programming   |   6  |    2013/14   |   2013/14  |     1     |
-| Postgrad. Diploma in ICT Systems |       Databases       |   6  |    2013/14   |   2013/14  |     1     |
-| Postgrad. Diploma in ICT Systems |  Information Systems  |   6  |    2013/14   |   2013/14  |     1     |
-
-### Ph.D. Supervision
-
-- **2017-2019**: Doctoral Supervisor of *[Simone Aonzo](https://it.linkedin.com/pub/simone-aonzo/88/ab6/796)* (Cycle XXXII), DIBRIS, University of Genoa. 
-- **2013-2016**: Doctoral Supervisor of *[Luca Verderame](https://it.linkedin.com/in/lucaverderame)* (Cycle XXVIII), DIBRIS, University of Genoa.
+- 2014--present (3 academic years) Computer Security, MSc in Computer Engineering, University of Genova.
+- 2010--2013 (3 academic years) Sistemi Operativi e Sicurezza Informatica, (Operating Systems and Computer Security), MSc in Computer Engineering, University of
+  Genova.
+- 2007--2009 (2 academic years) Tecnologie Software per il Web 1 (Software Technologies for the Web 1), MSc in Computer Engineering, University of Genova.
+- 2005--2009 (4 academic years) Sicurezza Informatica 1 (Computer Security 1), MSc in Computer Engineering, University of Genova.
+- 2005--2007 (2 academic years) Fondamenti di Informatica (Fundamentals of Computer Science), MSc in Mechanical Engineering, University of Genova.
+- 2003--2005 (2 academic years) Internet e E-Government (Internet and E-Government), MSc in Science of Communication, University of Genova.
+- 1999--2009 (10 academic years) Intelligenza Artificiale 1 (Artificial Intelligence 1), MSc in Computer Engineering, University of Genova.
+- 2001--2002 (1 academic year) Fondamenti di Informatica (Fundamentals of Computer Science), MSc in Telecommunication Engineering, University of Genova.
+- 1999--2001 (2 academic years) Fondamenti di Informatica -- II Modulo (Fundamentals of Computer Science -- Module 2), MSc in Computer Engineering and MSc in Telecommunication Engineering, University of Genova.
+- 1995--1999 (4 academic years) Fondamenti di Informatica (Fundamentals of Computer Science), MSc in Computer Engineering and MSc in Telecommunication Engineering,  University of Genova.
+- 1995--98 (3 academic years) Fondamenti di Informatica (Fundamentals of Computer Science), course of ``Diploma Universitario'' in Logistics and Production Engineering, University of Genova.
 
 
-## Contacts
+### Supervision
 
-- **Office**: [Viale Francesco Causa, 13, I-16145, Genoa, Italy.](https://www.google.it/maps/place/44°24'07.0%22N+8°57'38.7%22E/@44.4019444,8.9596557,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d44.401932!4d8.960757)
-- **Email**: ![Alessio's mail should be here.](/pics/merlo_mail.png)
-- **Phone**: +39 010 353 2344
-- **Fax**: +39 010 353 2948
-- **PGP Key**: [C81BCD20](/C81BCD20.asc)
-- **Complete CV**: [Italian version](http://www.dibris.unige.it/public/staff/cv_pdf/cv_701287.pdf) - [English version](http://www.dibris.unige.it/public/staff/cv_pdf_en/cv_en_701287.pdf)
+I have supervised more than 30 students during the preparation of their M.Eng. Thesis.  I have also been PhD advisor of the following people: 
+
+- Avinash Sudhodanan, "Automatic Security Testing of Browser-Based Security Protocols", U. of Trento \& FBK in the context of the SECENTIS project, 2017.
+- Tuan Anh Truong, "Efficient Automated Security Analysis of Complex Authorization Policies", University of  Trento  FBK, 2015.  
+- Serena Elisa Ponta, "Formal Specification and Automatic Analysis of Security-sensitive Business Processes", University of Genova, 2011.  Current position:  Researcher at SAP Research, Sophia Antipolis.
+- Roberto Carbone, "LTL Model-Checking for Security Protocols", University of Genova 2009.  The PhD thesis has been awarded the the CLUSIT Prize in 2009.  Current position: researcher at FBK, Trento.
+- Lorenzo Platania, "Software Verification using Satisfiability Modulo Theories", University of Genova, 2009.
+- Jacopo Mantovani, "Automatic Software Verification for Robotics", University of Genova, 2007.
+- Pierre Ganty, "The Fixpoint Checking Problem: An Abstraction Refinement Perspective", 2007.  Joint supervision with Prof. Prof. Jean-Francois Raskin (Computer Science Department, Universite Libre de Bruxelles) and Prof. Giorgio Delzanno (DISI, University of Genova) in the context of a bilateral agreement between the University of Genova and the Universite Libre de Bruxelles. Current position: Assistant Research Professor at IMDEA Software Institute, Madrid.
+- Luca Compagna, "SAT-based Model Checking of Security Protocols", 2004.  Joint supervision with Dr.Alan Smaill (Division of Informatics of the University of Edinburgh) in the context of a bilateral agreement between the University of Genova and the University of Edinburgh.   Current position:  Senior Researcher at SAP Research, Sophia Antipolis.
+- Silvio Ranise, "Integration of Decision Procedures in Automated Theorem Provers", 2001.  Joint supervision with Dr.Michael Rusinowitch of INRIA Lorraine (Nancy, France) in the context of a bilateral agreement between the University of Genova and the University of Henri Poincare--Nancy 1.  Current position:  Senior Researcher at FBK, Trento.
+
 
 
 
