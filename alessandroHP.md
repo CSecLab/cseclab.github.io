@@ -201,6 +201,7 @@ software tools:
 
 ## Teaching Activity
 
+- President of the Management Committee (Presidente del Comitato di Gestione) of the [Master Universitario di II Livello on ``Cyber Security and Data Protection''](http://www.mastercybersecurity.it), academic years 2014/2015 and 2016/2017, University of Genova.
 - 2014--present (3 academic years) Computer Security, MSc in Computer Engineering, University of Genova.
 - 2010--2013 (3 academic years) Sistemi Operativi e Sicurezza Informatica, (Operating Systems and Computer Security), MSc in Computer Engineering, University of
   Genova.
@@ -214,7 +215,6 @@ software tools:
 - 1995--1999 (4 academic years) Fondamenti di Informatica (Fundamentals of Computer Science), MSc in Computer Engineering and MSc in Telecommunication Engineering,  University of Genova.
 - 1995--98 (3 academic years) Fondamenti di Informatica (Fundamentals of Computer Science), course of ``Diploma Universitario'' in Logistics and Production Engineering, University of Genova.
 
-- President of the Management Committee (Presidente del Comitato di Gestione) of the [Master Universitario di II Livello on ``Cyber Security and Data Protection''](http://www.mastercybersecurity.it), academic years 2014/2015 and 2016/2017, University of Genova (www.MasterCyberSecurity.it).
 
 ### Supervision
 
