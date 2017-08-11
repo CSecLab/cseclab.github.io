@@ -185,11 +185,9 @@ software tools:
 - Eureka is a model checker for sequential software (C code) based on the counterexample-guided abstraction refinement (CEGAR) paradigm.  Unlike many other software model checkers based on the CEGAR paradigm Eureka analyses arrays precisely.  Eureka is described in  and is available on line at http://www.ai-lab.it/eureka/.
 - SMT-CBMC is a bounded model checker for sequential software (C code).  SMT-CBMC reduces the problem of checking whether an input program has an execution path of bounded length violating an assertion to the satisfiability of a formula with respect to a decidable theory which is then solved by a state-of-the-art SMT solver taken off-the-shelf.
 - BYODroid implements the Bring Your Own Device (BYOD) paradigm on Android devices.  This is done by automatically checking mobile applications against the security policy set by the organization.  The innovation potential of BYODroid is witnessed by the following recognitions:
-
--- BYODroid has been selected (1st place in the ranking) in the Start Cup of the University of Genova, 2013 edition.
--- BYODroid entered the final of the Idea Challenge 2014 of the EIC ICT Labs of the European Institute of Innovation and Technology.
--- BYODroid has been selected by the NATO Communications and Information Agency (NCIA) in the context of the Cyber Security Incubator 2015 Program.
-  
+  - BYODroid has been selected (1st place in the ranking) in the Start Cup of the University of Genova, 2013 edition.
+  - BYODroid entered the final of the Idea Challenge 2014 of the EIC ICT Labs of the European Institute of Innovation and Technology.
+  - BYODroid has been selected by the NATO Communications and Information Agency (NCIA) in the context of the Cyber Security Incubator 2015 Program.
 - MAVERIC is a platform for the automatic security analysis and monitoring of mobile applications whose development has been funded by Poste Italiane.  MAVERIC is now routinely used by the Computer Emergency Response Team (CERT) of Poste Italiane to monitor and analyze the Poste Italiane mobile apps ecosystem.
 
 
