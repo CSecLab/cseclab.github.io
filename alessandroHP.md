@@ -64,84 +64,75 @@ His focus is on developing cutting-edge automated reasoning techniques and on us
 - "Constraint Contextual Rewriting", Institute for Algorithms and Cognitive Systems, University of Karlsruhe (Germany), 1997.
 
 
-## Services to the Profession
+## Involvement in Scientific Events
 
-### International Conference Chair
+I served in the Steering Committees of the following scientific events:
 
-#### General Chair
-- 15th International Conference on High Performance Computing & Simulation ([HPCS 2017](http://hpcs2017.cisedu.info)), July 17-21, 2017, Genoa. 
+- International Workshop on Security Testing, 2011-present.
+- Workshop on Semantic Computing for Security and Privacy, sponsored by the IEEE Computer Society's Technical Committees Security and Privacy (TCSP) and Semantic Computing (TCSEM),  2011-2013.
+- International Conference on Automated Deduction (ex officio, 2008-2009), http://www.cadeconference.org/.
+- International Joint Conference on Automated Reasoning, (2002-2007 and ex-officio 2008-2009), http://www.ijcar.org/.
+- The First Order Theorem Proving (FTP) Workshop Series. (Elected for the period 2001-2006),
+ http://www.csc.liv.ac.uk/FTP-WS/
+- Frontiers of Combining Systems (FroCoS) Workshop Series (ex-officio 2001-2005), http://combination.cs.uiowa.edu/frocos/.
+- CALCULEMUS Interest Group.  (Ex-officio from 1999 to 2001; elected for the period 2001-2004), http://www.calculemus.net.
 
-#### Local Chair
-- 15th International Conference of the Italian Association for Artificial Intelligence ([AIxIA 2016]()), Nov. 21-25, 2016.
 
-#### Workshop Chair
-- 7th International Workshop on Security and Performance in Cloud Computing ([SPCloud 2017](http://hpcs2017.cisedu.info/conference/workshops---hpcs2017/workshop12-spcloud), July 17- 21, 2017, Genoa, Italy.
-- 13th International Workshop on Security and High Performance Computing ([SHPCS 2017](http://hpcs2017.cisedu.info/conference/workshops---hpcs2017/workshop11-shpcs)), July 17-21, 2017, Genoa, Italy.
-- 6th International Workshop on Security and Performance in Cloud Computing ([SPCloud 2016](http://hpcs2016.cisedu.info/2-conference/workshops---hpcs2016/workshop10-spcloud)), July 18- 22, 2016, Innsbruck, Austria.
-- 12th International Workshop on Security and High Performance Computing ([SHPCS 2016](http://hpcs2016.cisedu.info/2-conference/workshops---hpcs2016/workshop09-shpcs)), July 18-22, 2016, Innsbruck, Austria.
-- 5th International Workshop on Security and Performance in Cloud Computing ([SPCloud 2015]([SPCloud 2016](http://hpcs2016.cisedu.info/2-conference/workshops---hpcs2016/workshop10-spcloud))), July 20- 24, 2015, Amsterdam, the Netherlands.
-- 11th International Workshop on Security and High Performance Computing ([SHPCS 2015](http://hpcs2015.cisedu.info/2-conference/hpcs-2015-workshops/hpcs-2015-workshop-10-shcps)), July 20-24, 2015, Amsterdam, the Netherlands.
-- 4th International Workshop on Security and Performance in Cloud Computing ([SPCloud 2014](http://hpcs2014.cisedu.info/2-conference/workshops/workshop-11-spcloud)), July, 21- 25, 2014, Bologna, Italy.
+I also served in the Management Committee of
 
-	
-#### Track Chair
-- Track: Demos. 1st Italian Conference on Cyber Security ([ITA-SEC 2017](http://ita-sec2017.dais.unive.it)).
-- Track: Smart Spaces and Intelligent Environments, 9th International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing ([IMIS 2015](http://voyager.ce.fit.ac.jp/conf/imis/2015/)).
-- Track: Security, Trust and Privacy, 8th International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing ([IMIS 2014](http://voyager.ce.fit.ac.jp/conf/imis/2014/)).
-- Track Mobile Collaborative Systems, 6th International Conference on Intelligent Networking and Collaborative Systems ([INCoS 2014](http://voyager.ce.fit.ac.jp/conf/incos/2014/)), Sep. 10-12, 2014, Salerno, Italy.
+- COST Action IC0901: Rich-Model Toolkit - An Infrastructure for Reliable Computer Systems (2009-2013).
 
-#### Session Chair
-- Session: SHPCS I, 31st International Conference on High Performance Computing & Simulation ([HPCS 2016](http://hpcs2016.cisedu.info/)), July 18-22, 2016, Innsbruck, Austria.
-- Session: SHPCS II, 31st International Conference on High Performance Computing & Simulation ([HPCS 2016](http://hpcs2016.cisedu.info/)), July 18-22, 2016, Innsbruck, Austria.
-- Session: Tutorial V, 31st International Conference on High Performance Computing & Simulation ([HPCS 2016](http://hpcs2016.cisedu.info/)), July 18-22, 2016, Innsbruck, Austria.
-- Session: Mobile Security II, 11th ACM Asia Conference on Computer and Communications Security ([AsiaCCS 2016](http://meeting.xidian.edu.cn/conference/AsiaCCS2016/home.html)), May 30 - June 3, 2016, Xi’an, China. Session: SHPCS I, 30th International Conference on High Performance Computing & Simulation ([HPCS 2015](http://hpcs2015.cisedu.info/)), July 20-24, 2015, Amsterdam, the Netherlands.
-- Session: SHPCS II, 29th International Conference on High Performance Computing & Simulation ([HPCS 2014](http://hpcs2014.cisedu.info/)), July, 21-25, Bologna, Italy.
-- Session Infrastructure and Network Security II, 7th International Conference on Computational Intelligence in Security for Information Systems ([CISIS (Sec) 2014](http://cisis.usal.es/)), June 25-27, 2014, Bilbao, Spain.
-- Session: Parallel Computing, 8th International Conference on Complex, Intelligent and Software Intensive Systems ([CISIS 2014](http://voyager.ce.fit.ac.jp/conf/cisis/2014/)), July 2-4, 2014, Birmingham, UK.
-- Session High Performance Mobile Systems, Location-Based Services, and Applications in Ubiquitous Computing, 29th International Conference on High Performance Computing & Simulation ([HPCS 2013](http://hpcs2013.cisedu.info/)), July 1-5, 2013, Helsinki, Finland.
-- Session: Job Scheduling and Environment Sensing, 27th IEEE International Conference on Advanced Information Networking and Applications ([AINA 2013](http://voyager.ce.fit.ac.jp/conf/aina/2013/)), Mar. 25-28, 2013, Barcelona, Spain.
 
-### TCP Membership
+I have been Program Chair of the following scientific events:
 
-- 3rd International Conference on Mobile, Secure and Programmable Networking ([MSPN 2017](http://cedric.cnam.fr/workshops/mspn2017/)), June 29-30, 2017, Paris, France.
-- 8th International Conference on Emerging Ubiquitous Systems and Pervasive Networks ([EUSPN 2017](http://cs-conferences.acadiau.ca/euspn-17/organizing-commitee.html)), Sep. 18-20, 2017, Lund, Sweden.
-- 31st IEEE International Conference on Advanced Information Networking and Applications ([AINA 2017](http://voyager.ce.fit.ac.jp/conf/aina/2017/tpc.html)), Mar. 27-29, Taipei, Taiwan.
-- 12th International Conference on Green, Pervasive and Cloud Computing ([GPC 2017](http://gpc2017.di.unisa.it/gpc2017/)), May 11-14, Cetara, Italy.
-- 32nd International Conference on High Performance Computing & Simulation ([HPCS 2017](http://hpcs2017.cisedu.info/)), July 17-21, 2017, Genoa, Italy.
-- 7th International Workshop on Security and Performance in Cloud Computing (SPCloud 2017), July 17-21, 2017, Genoa, Italy.
-- 13th International Workshop on Security and High Performance Computing (SHPCS 2017), July 17-21, 2017, Genoa, Italy.
-- 32nd ACM SIGAPP Symposium On Applied Computing ([SAC 2017](http://infohost.nmt.edu/~zheng/doku.php?id=sac2017)), Apr. 3-7, 2017, Marrakech, Morocco.
-- 8th ACM CCS International Workshop on Managing Insider Security Threats ([MIST@CCS 2016](http://isyou.info/conf/mist16/)), In Conjunction with ACM CCS 2016, Oct. 24-28, 2016, Vienna, Austria.
-- 10th International Conference on Information Security Theory and Practice ([WISTP 2016](http://www.wistp.org/committees/)), Sep. 26-27, 2016, Heraklion, Crete, Greece.
-- 2016 International Symposium on Mobile Internet Security ([MobiSec 2016](http://isyou.info/conf/mobisec16/)), Jul. 14-15, 2016, Taichung, Taiwan.
-- 2nd International Conference on Mobile, Secure and Programmable Networking ([MSPN 2016](http://cedric.cnam.fr/workshops/mspn2016/committee.html)), June 1-3, 2016, Paris, France.
-- 3rd International Workshop on Energy-Aware Systems, Communications and Security ([EASyCoSe 2016](http://wpage.unina.it/fpalmier/EAsyCoSe2016/EAsyCoSe2016/Home.html)), March 23-25, 2016, Crans-Montana, Switzerland.
-- 31st International Conference on High Performance Computing & Simulation ([HPCS 2016](http://hpcs2016.cisedu.info/)), July 18-22, 2016, Innsbruck, Austria.
-- 6th International Workshop on Security and Performance in Cloud Computing ([SPCloud 2016](http://hpcs2016.cisedu.info/2-conference/workshops---hpcs2016/workshop10-spcloud)), July 18-22, 2016, Innsbruck, Austria.
-- 12th International Workshop on Security and High Performance Computing ([SHPCS 2016](http://hpcs2016.cisedu.info/2-conference/workshops---hpcs2016/workshop09-shpcs)), July 18-22, 2016, Innsbruck, Austria.
-- 9th International Conference on Information Security Theory and Practice ([WISTP 2015](http://www.wistp.org/committees/)), Aug. 24-25, 2015, Heraklion, Crete, Greece.
-- 30th International Conference on High Performance Computing & Simulation ([HPCS 2015](http://hpcs2015.cisedu.info/)), July 20-24, 2015, Amsterdam, the Netherlands.
-- 1st International Conference on Mobile, Secure and Programmable Networking ([MSPN 2015](http://cedric.cnam.fr/workshops/mspn2015/committee.html)), June 15-17, 2015, Paris, France.
-- 5th Int. Workshop on Security, Privacy and Performance in Cloud Computing ([SPCloud 2015](http://hpcs2015.cisedu.info/2-conference/hpcs-2015-workshops/hpcs-2015-workshop-11-spcloud)), July 20-24,  2015, Amsterdam, the Netherlands.
-- 10th International Workshop on Security and High Performance Computing Systems ([SHPCS 2015](http://hpcs2015.cisedu.info/2-conference/hpcs-2015-workshops/hpcs-2015-workshop-10-shcps)), July 20-24, 2015, Amsterdam, the Netherlands.
-- 7th International Conference on Intelligent Networking and Collaborative Systems ([INCoS 2015](http://voyager.ce.fit.ac.jp/conf/incos/2015/committees.html)), Sep. 2-4, 2015, Taipei, Taiwan.
-- 4th International Workshop on Security, Privacy and Performance in Cloud Computing ([SPCloud 2014](http://hpcs2014.cisedu.info/2-conference/workshops/workshop-11-spcloud)), July, 21-25, Bologna, Italy.
-- 29th International Conference on High Performance Computing & Simulation ([HPCS 2014](http://hpcs2014.cisedu.info/3-committees/tpc)), July, 21-25, Bologna, Italy.
-- 17th International Conference on Network-based Information Systems ([NBiS 2014](http://voyager.ce.fit.ac.jp/conf/nbis/2014/committee.html)), Sept. 10-12, 2014, Salerno, Italy.
-- 6th International Conference on Intelligent Networking and Collaborative Systems ([INCoS 2014](http://voyager.ce.fit.ac.jp/conf/incos/2014/committees.html)), Sept. 10-12, 2014, Salerno, Italy.
-- 2nd International Workshop on Energy-Aware Systems, Communications and Security ([EASyCoSe 2014](http://wpage.unina.it/fpalmier/EAsyCoSe2014/EAsyCoSe2014/Home.html)), Sept. 10-12, 2014, Salerno, Italy.
-- 8th International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing ([IMIS 2014](http://voyager.ce.fit.ac.jp/conf/imis/2014/committee.html)), July 2-4, 2014, Birmingham, UK.
-- 8th International Conference on Complex, Intelligent, and Software Intensive Systems ([CISIS 2014](http://voyager.ce.fit.ac.jp/conf/cisis/2014/committee.html)), July 2-4, 2014, Birmingham, UK.
-- 9th International Workshop on Security and High Performance Computing Systems ([SHPCS 2014](http://hpcs2014.cisedu.info/2-conference/workshops/workshop-10-shpcs)), July 25-29, 2014, Bologna, Italy.
-- 10th IEEE International Conference on Information Assurance and Security ([IAS 2014](http://www.mirlabs.org/ias14/committees.php)), Nov. 27-29, 2014, Okinawa, Japan.
-- 16th International Conference on Network-based Information Systems ([NBiS 2013](http://voyager.ce.fit.ac.jp/conf/nbis/2013/committee.html)), Sept. 4-6, 2013, Gwangju, China.
-- 28th IFIP International Information Security and Privacy Conference ([IFIP-SEC 2013](http://www.ifipsec.org/)), July 8-10, 2013, Auckland, New Zealand.
-- 9th IEEE International Conference on Information Assurance and Security ([IAS 2013](http://www.mirlabs.org/ias13/committees.php)), Dec. 4-6, 2013, Yassmine Hammamet, Tunisia.
-- 8th International Workshop on Security and High Performance Computing Systems ([SHPCS 2013](http://hpcs2013.cisedu.info/2-conference/workshops/workshop-10-shpcs)), July 1-5, 2013, Helsinki, Finland.
-- 1st International Workshop on Energy-Aware Systems, Communications and Security ([EASyCoSe 2013](http://wpage.unina.it/fpalmier/EAsyCoSe2013/EAsyCoSe2013/Home.html)), Mar. 25-28, 2013, Barcelona, Spain.
-- 8th IEEE International Conference on Information Assurance and Security ([IAS 2012](http://www.mirlabs.net/ias12/#committees)), Nov. 21-23, 2012, Sao Carlos, Brazil.
-- 7th International Workshop on Security and High Performance Computing Systems ([SHPCS 2012](http://hpcs2012.cisedu.info/2-conference/workshops/workshop-12-shocs)), July 2-6, 2012, Madrid, Spain.
-- 7th IEEE International Conference on Information Assurance and Security ([IAS 2011](http://www.mirlabs.org/ias11/committee.html)), Dec. 5-8, 2011, Malacca, Malaysia.
+- (with Hilarie Orman) 2nd Workshop on Semantic Computing for Security and Privacy (WSCS'12), May 24, 2012.
+- (with Maria Paola Bonacina) Rich-Model Toolkit Meeting, Torino, Italy October 3-4, 2011.
+(with G. Lowe) Joint Workshop on Automated
+- Reasoning for Security Protocol Analysis and Issues in the Theory of Security (ARSPA-WITS 2010), Cyprus, March 2010.
+- (with P. Baumgartner and G. Dowek) 4th International Joint Conference on Automated Reasoning (IJCAR 2008), Sidney, August 11-16, 2008.
+- (with A. Cimatti) 3rd Workshop on Pragmatics of Decision Procedures in Automated Reasoning (PDPAR'05), Edinburgh (UK), July 12, 2005.
+- (with Luca Vigano) Automated Reasoning for Security Protocols Analysis (ARSPA'04), Cork, Ireland, July 4, 2004.
+- 4th International Workshop on Frontiers of Combining Systems (FroCoS 2002), Santa Margherita Ligure, April 8-10, 2002.  
+- (with Tudor Jabelean) 7th Symposium CALCULEMUS: Systems for Integrated Computation and Deduction held in Trento on July 11-12, 1999 in the context of the 1999 Federated Logic
+  Conference (FLoC'99).
+
+I served in the Program Committee of the following scientific events:
+
+- 30th AAAI Conference on Artificial Intelligence, (AAAI-16), 2016.
+- 4th International Seminar on Program Verification, Automated Debugging and Symbolic Computation (PAS 2015), Beijing, China, October 21-23, 2015.
+- Conference on Principles of Security and Trust (POST), 2015 and 2016 (2 editions).
+- 10th International Symposium on Trustworthy Global Computing (TGC), 2015.
+- International Conference on Security and Cryptography (SECRYPT), 2013, 2014, and 2015 (3 editions).
+- 8th International Conference on Availability, Reliability and Security (AReS 2013).
+- 1st Workshop on Automated Reasoning in Security (ARSEC 2013), 2013.
+- 3rd IFIP WG 11.6 Working Conference on Policies  Research in Identity Management (IFIP IDMAN 2013).
+- European Symposium on Research in Computer Security (ESORICS), 2012, 2013, and 2015  (3 editions).
+- International Workshop on Security and Trust Management (STM), 2011 and 2012 (2 editions).
+- Theory of Security and Applications, 2011.
+- Joint Workshop on Automated Reasoning for Security Protocol Analysis and Issues in the Theory of Security (FCS-ARSPA-WITS), 2010.
+- Future Internet Symposium (FIS), 2008 and 2009 (2 editions).
+- IEEE/ACM International Conference on Automated Software Engineering (ASE), 2008, 2009, 2010 (3 editions).
+- International Workshop on Computational Intelligence in Security for Information Systems (CISIS), 2008 and 2009 (2 editions).
+- International Conference on Artificial Intelligence and Symbolic Computation (AISC), 2008 and 2010 (2 editions).
+- Joint Workshop on Foundations of Computer Security, Automated Reasoning for Security Protocol Analysis and Issues in the Theory of Security (FCS-ARSPA-WITS), 2008.
+- International Symposium on Formal Methods (FM), 2008.
+- International Symposium on Frontiers of Combining Systems (FroCoS), 2002, 2005, and 2007 (3 editions).
+- International Symposium on the Integration of Symbolic Computation and Mechanized Reasoning (CALCULEMUS), 2000, 2001, 2002, 2005, 2007 (5 editions).
+- Workshop on the Foundations of Computer Security and Automated Reasoning for Security Protocol Analysis (FCS-ARSPA), 2006, 2007 (2 editions).
+- International Conference on Rewriting Techniques and Applications (RTA), 2007.
+- Workshop on Information and Computer Security (ICS), 2006.
+- International Workshop on Pragmatics of Decision Procedures in Automated Reasoning (PDPAR), 2003, 2004, 2005 and 2006 (4 editions).
+- International Conference on Mathematical Knowledge Management (MKM), UK.
+- International Joint Conference on Automated Reasoning (IJCAR), 2004, 2006, 2008, 2010 (4 editions).
+- International Workshop on First-Order Theorem Proving (FTP), 2005.
+- IJCAI Workshop on Agents and Automated Reasoning, 2003.
+- International Conference on Automated Deduction (CADE), 2003, 2011, 2013, and 2015 (4 editions).
+- Workshop on Specification, Analysis and Validation for Emerging Technologies (SAVE), 2002.
+- International Workshop on Strategies in Automated Deduction (STRATEGIES), 2001.  
+- Workshop Future Directions in Automated Reasoning (FUTURE), 2001.  
+- Conference Automated Deduction: Putting Theory into Practice, 2000.  
+
+
 
 
 ## Projects and Grants
