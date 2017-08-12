@@ -25,7 +25,7 @@ title: Homepage of Simone Aonzo
 
 ## Research topics
 - [Cyber Security](https://en.wikipedia.org/wiki/Computer_security)
-  * [Mobile](https://en.wikipedia.org/wiki/Mobile_security)
+  * [Mobile Security](https://en.wikipedia.org/wiki/Mobile_security)
   * [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
   * [Binary/Malware Analysis](https://en.wikipedia.org/wiki/Malware_analysis)
   * [Exploitation Techniques](https://en.wikipedia.org/wiki/Exploit_(computer_security))
