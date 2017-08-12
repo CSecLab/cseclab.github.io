@@ -10,27 +10,40 @@ title: Homepage of Simone Aonzo
 
 
 ## Short Bio
-
 - Born in [Savona](https://en.wikipedia.org/wiki/Savona), [Liguria](https://en.wikipedia.org/wiki/Liguria), the **1st of Aug. 1988**
-- **Oct. 2015**: Laurea Magistrale (LM-18) *cum laude* in Computer Science at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
-- **From Jan. 2017**: PhD student in Computer Science and Systems Engineering of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
-
-## Research topics
-- Cyber Security
-  * Mobile (Android & iOS)
-  * Reverse Engineering
-  * Binary Analysis
+- **Oct. 2015**: M.Sc. (LM-18) *cum laude* in Computer Science at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 
 
 ## Previous Jobs
-
 - **Network and Computer Systems Administrators** at [Tekmeria](http://teknoos.it)
 - **Security Software Developer** at [Talos  s.r.l.s](http://www.talos-sec.com)
+
+
+## Current position
+- **From Jan. 2017**: PhD student in Computer Science and Systems Engineering of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
+
+
+## Research topics
+- [Cyber Security](https://en.wikipedia.org/wiki/Computer_security)
+  * [Mobile](https://en.wikipedia.org/wiki/Mobile_security)
+  * [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
+  * [Binary/Malware Analysis](https://en.wikipedia.org/wiki/Malware_analysis)
+  * [Exploitation Techniques](https://en.wikipedia.org/wiki/Exploit_(computer_security))
+
+
+## Teaching Activity
+
+### (2017-now) Teaching support, DIBRIS, University of Genoa.
+
+|                Degree               |      Course Taught      | From: (a.y.) | To: (a.y.) | Tot. yrs. |
+|:-----------------------------------:|:-----------------------:|:------------:|:----------:|:---------:|
+|        B.Sc. Computer Science       | Calcolatori Elettronici |    2017      |     now    |     1     |
 
 ## Personal Links
 
 - [Blog](https://sixthevicious.wordpress.com/) 
 - [GitHub](https://github.com/six110) 
+
 
 ## Contacts
 
