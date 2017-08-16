@@ -1,0 +1,23 @@
+- title: Prima tesi
+  author: Nome Cognome
+  period: 1/1/1970 - today
+  link: http://www.google.it
+  supervisor: SomeGuy at Google
+  supervisorurl: http://www.google.it
+  host: Google
+  pubblications:
+    - title: First one
+      link: http://www.google.it
+    - title: Second one
+      link: http://www.google.it
+
+- title: Seconda tesi (con dati incompleti)
+  author: Nome2 Cognome2
+  period: 1/1/1970 - today
+  supervisor: SomeOtherGuy at Google
+  supervisorurl: http://www.google.it
+  pubblications:
+    - title: First one
+    - title: Second one
+    - title: Third one
+
