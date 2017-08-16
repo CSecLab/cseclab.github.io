@@ -15,8 +15,8 @@ title: Homepage of Simone Aonzo
 
 
 ## Previous Jobs
-- **Network and Computer Systems Administrators** at [Tekmeria](http://teknoos.it)
-- **Security Software Developer** at [Talos  s.r.l.s](http://www.talos-sec.com)
+- **Network and Computer Systems Administrators** at [Tekmeria](http://teknoos.it) (2008-2010)
+- **Security Software Developer** at [Talos  s.r.l.s](http://www.talos-sec.com) (2015-2016)
 
 
 ## Current position
