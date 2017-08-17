@@ -1,16 +1,16 @@
 # CSecLab WebSite
 
-[cseclab.herokuapp.com](https://cseclab.herokuapp.com/)
+[cseclab.github.io](https://cseclab.github.io)
 
 ## Adding a page
 
 * [If you never did it before] Clone the whole repository
 
-    `git clone https://github.com/CSecLab/cseclab-it.git`
+    `git clone https://github.com/CSecLab/cseclab.github.io.git`
 
     *or*
 
-    `git clone git@github.com:CSecLab/cseclab-it.git`
+    `git clone git@github.com:CSecLab/cseclab.github.io.git`
     (you need to deploy your SSH Key on GitHub)
 
 * Update your repository
@@ -62,4 +62,4 @@ The complete Git Flavoured Markdown syntax can be found [here](https://guides.gi
 
 `git push origin master`
 
-* Check [cseclab.herokuapp.com](http://cseclab.herokuapp.com)
+* Check [cseclab.github.io](http://cseclab.github.io)
