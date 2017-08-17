@@ -13,9 +13,13 @@
     `git clone git@github.com:CSecLab/cseclab.github.io.git`
     (you need to deploy your SSH Key on GitHub)
 
+* Switch to *jekyll* branch
+
+`git checkout jekyll`
+
 * Update your repository
 
-`git pull origin master`
+`git pull origin jekyll`
 
 * Create a file named `name_surname.md` with this template:
 ```
@@ -60,6 +64,6 @@ The complete Git Flavoured Markdown syntax can be found [here](https://guides.gi
 
 * Commit the file 
 
-`git push origin master`
+`git push origin jekyll`
 
 * Check [cseclab.github.io](http://cseclab.github.io)
