@@ -1,6 +1,111 @@
+- title: Android Malware Detection Using Network Behavior Analysis And Machine Learning Classifiers
+  author: Hamidreza Aria
+  period: 07/2016 - 03/2017
+  supervisor: Gabriele Costa
+  supervisorurl: http://www.csec.it/people/gabriele
+  
+		  
+- title: A Framework for Designing Attack Strategies in Cyber Range Scenarios
+  author: Hossein Ghodrati
+  period: 01/2017 - 07/2017
+  supervisor: Gabriele Costa
+  supervisorurl: http://www.csec.it/people/gabriele
+
+		  
+- title: 
+  author: Daniele Fiori, Fabio Brizzolara
+  period: 
+  supervisor: Alessio Merlo
+  supervisorurl: http://www.csec.it/people/alessio
+  pubblications:
+    - title: 
+	  link: 
+		  
+- title: 
+  author: Gabriele De Maglie
+  period: 
+  supervisor: Alessio Merlo
+  supervisorurl: http://www.csec.it/people/alessio
+  pubblications:
+    - title: 
+	  link: 
+		  
+- title: 
+  author: Luca Verderame
+  period: 
+  supervisor: Alessio Merlo
+  supervisorurl: http://www.csec.it/people/alessio
+  pubblications:
+    - title: 
+	  link: 
+		 
+- title: 
+  author: Monica Curti, Simone. Schiappacasse
+  period: 
+  supervisor: Alessio Merlo
+  supervisorurl: http://www.csec.it/people/alessio
+  pubblications:
+    - title: 
+	  link: 
+
+- title: 
+  author: Luca Roverelli, Gabriele Zereik, Nicolò Zereik
+  period: 
+  supervisor: Alessio Merlo
+  supervisorurl: http://www.csec.it/people/alessio
+  pubblications:
+    - title: 
+	  link: 
+		  
+- title: 
+  author: Diego Raso, Elena Spadacini
+  period: 
+  supervisor: Alessio Merlo
+  supervisorurl: http://www.csec.it/people/alessio
+  pubblications:
+    - title: 
+	  link: 
+
+- title: 
+  author: Paolo Fontanelli
+  period: 
+  supervisor: Alessio Merlo
+  supervisorurl: http://www.csec.it/people/alessio
+  pubblications:
+    - title: 
+	  link: 
+
+- title: 
+  author: Giulio Puri
+  period: 
+  supervisor: Alessio Merlo
+  supervisorurl: http://www.csec.it/people/alessio
+  pubblications:
+    - title: 
+	  link: 
+		  
+- title: 
+  author: Marco Malvasio
+  period: 
+  supervisor: Alessio Merlo
+  supervisorurl: http://www.csec.it/people/alessio
+  pubblications:
+    - title: 
+	  link: 
+
+- title: 
+  author: Paolo Macco
+  period: 
+  supervisor: Alessio Merlo
+  supervisorurl: http://www.csec.it/people/alessio
+  pubblications:
+    - title: 
+	  link: 
+
+
 - title: TEA - Enabling THCE on Android devices
   author: Luca Lorrai
-  period: 1/9/2015 - 31/03/2016
+  period: 9/2015 - 03/2016
   supervisor: Alessio Merlo
   supervisorurl: http://www.csec.it/people/alessio
   pubblications:
@@ -9,7 +114,7 @@
 
 - title: RiskInDroid - Risk Analysis for Android applications
   author: Gabriel Claudiu Georgiu
-  period: 1/1/1970 - 28/10/2016
+  period: 3/3/2016 - 28/10/2016
   supervisor: Alessio Merlo
   supervisorurl: http://www.csec.it/people/alessio
   link: http://csec.it/riskindroid/
@@ -19,7 +124,7 @@
       
 - title: Building behavioural models for the security analysis of iOS applications
   author: Gianluca Barbera
-  period: 1/11/2016 - 21/7/2017
+  period: 11/2016 - 7/2017
   supervisor: Alessio Merlo
   supervisorurl: http://www.csec.it/people/alessio
 
