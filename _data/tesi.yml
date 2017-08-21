@@ -2,6 +2,7 @@
 - title: Security Analysis of the Android Operating System
   author: Luca Verderame
   period: 9/2011 - 3/2012
+  link: MSTheses/Verderame.pdf
   supervisor: Alessandro Armando
   supervisorurl: http://www.csec.it/people/alessandro  
   supervisor: Alessio Merlo
@@ -15,6 +16,7 @@
 - title: Energy-Aware Security: tools and analytic models for energy consumption in the Android OS
   author: Monica Curti, Simone Schiappacasse
   period: 09/2012 - 03/2013
+  link: MSTheses/CurtiSchiappacasse.pdf
   supervisor: Alessio Merlo
   supervisorurl: http://www.csec.it/people/alessio
   supervisor: Mauro Migliardi
@@ -47,6 +49,7 @@
 - title: EveC - 
   author: Luca Roverelli, Gabriele Zereik, Nicolò Zereik
   period: 9/2012 - 3/2013
+  link: MSTheses/RoverelliZereikZereik.pdf
   supervisor: Alessio Merlo
   supervisorurl: http://www.csec.it/people/alessio
   supervisor: Mauro Migliardi
@@ -56,6 +59,7 @@
 - title: Energy Optimisation Strategies through Intrusion Prevention Systems
   author: Diego Raso, Elena Spadacini
   period: 9/2013 - 3/2014
+  link: MSTheses/RasoSpadacini.pdf
   supervisor: Alessio Merlo
   supervisorurl: http://www.csec.it/people/alessio
   supervisor: Mauro Migliardi
@@ -72,6 +76,7 @@
 - title: Energy-Aware Security - Tools and Analytic models to estimate energetic consumption in the Android operating systems 
   author: Paolo Fontanelli
   period: 10/2013 - 7/2014
+  link: MSTheses/Fontanelli.pdf
   supervisor: Alessio Merlo
   supervisorurl: http://www.csec.it/people/alessio
   pubblications:
@@ -83,7 +88,8 @@
 - title: Dynamic verification of access permissions in an extension of the Android Security Framework
   author: Giulio Puri
   period: 3/2014 - 9/2014
-    supervisor: Alessandro Armando
+  link: MSTheses/Puri.pdf
+  supervisor: Alessandro Armando
   supervisorurl: http://www.csec.it/people/alessandro
   supervisor: Gabriele Costa
   supervisorurl: http://www.csec.it/people/gabriele  
@@ -107,6 +113,7 @@
 - title: Certifying Android devicesin BYOD environments
   author: Paolo Macco
   period: 9/2014 - 3/2015
+  link: MSTheses/Macco.pdf
   supervisor: Giovanni Lagorio
   supervisorurl: http://www.disi.unige.it/person/LagorioG/
   supervisor: Alessio Merlo
@@ -119,6 +126,7 @@
 - title: TEA - Enabling THCE on Android devices
   author: Luca Lorrai
   period: 9/2015 - 03/2016
+  link: MSTheses/Lorrai.pdf
   supervisor: Alessio Merlo
   supervisorurl: http://www.csec.it/people/alessio
   pubblications:
@@ -128,6 +136,7 @@
 - title: RiskInDroid - Risk Analysis for Android applications
   author: Gabriel Claudiu Georgiu
   period: 3/3/2016 - 28/10/2016
+  link: MSTheses/Georgiu.pdf
   supervisor: Alessio Merlo
   supervisorurl: http://www.csec.it/people/alessio
   link: http://csec.it/riskindroid/
@@ -138,19 +147,21 @@
 - title: Android Malware Detection Using Network Behavior Analysis And Machine Learning Classifiers
   author: Hamidreza Aria
   period: 07/2016 - 03/2017
+  link: MSTheses/Aria.pdf
   supervisor: Gabriele Costa
   supervisorurl: http://www.csec.it/people/gabriele
-  
-      
+        
 - title: A Framework for Designing Attack Strategies in Cyber Range Scenarios
   author: Hossein Ghodrati
   period: 01/2017 - 07/2017
+  link: MSTheses/Ghodrati.pdf
   supervisor: Gabriele Costa
   supervisorurl: http://www.csec.it/people/gabriele
       
 - title: Building behavioural models for the security analysis of iOS applications
   author: Gianluca Barbera
   period: 11/2016 - 7/2017
+  link: MSTheses/Barbera.pdf
   supervisor: Alessio Merlo
   supervisorurl: http://www.csec.it/people/alessio
 
