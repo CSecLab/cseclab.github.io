@@ -2,10 +2,11 @@
   author: Luca Verderame
   period: 9/2011 - 3/2012
   link: /MSTheses/Verderame.pdf
-  supervisor: Alessandro Armando
-  supervisorurl: /people/alessandro  
-  supervisor: Alessio Merlo
-  supervisorurl: /people/alessio
+  supervisors:
+    - name: Alessandro Armando
+      url: /people/alessandro  
+    - name: Alessio Merlo
+      url: /people/alessio
   pubblications:
     - title: A. Armando, A. Merlo, M. Migliardi, L. Verderame, "Would You Mind Forking This Process? A Denial of Service Attack on Android (and Some Countermeasures)", in Proc. od SEC 2012. 
       link: https://link.springer.com/chapter/10.1007/978-3-642-30436-1_2

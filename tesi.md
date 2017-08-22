@@ -15,12 +15,15 @@ title: Tesi
 
 *{{ tesi.period }}*
 
-Supervisor: [{{ tesi.supervisor }}]({{ tesi.supervisorurl }})
+{% for sup in tesi.supervisors %}
+Supervisor: [{{ sup.name }}]({{ sup.url }})
+{% endfor %}
 
 {% if tesi.host %}
 Hosted by {{ tesi.host }}
 {% endif %}
 
+{% if tesi.pubblications %}
 ### Publications
 {% for pub in tesi.pubblications %}
 
@@ -33,3 +36,5 @@ Hosted by {{ tesi.host }}
 {% endfor %}
 
 {% endfor %}
+
+{% endif %}
