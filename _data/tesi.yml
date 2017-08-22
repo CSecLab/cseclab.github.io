@@ -94,7 +94,7 @@
   supervisorurl: /people/alessio
   pubblications:
     - title: A. Armando, R. Carbone, G. Costa, A. Merlo, "Android Permissions Unleashed", in Proc. of CSF 2015.
-    link: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7243742
+      link: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7243742
           
 - title: Development of a framework for Symbolic Partial Model Checking
   author: Marco Malvasio
@@ -107,8 +107,8 @@
   supervisor: Alessio Merlo
   supervisorurl: /people/alessio
   pubblications:
-    - title: A. Armando, G. Costa, A. Merlo, L. Verderame, "Formal modeling and automatic enforcement of Bring Your Own Device policies", in Int. J. of Information Security, 14(2): 123-140 (2015).
-    link: https://link.springer.com/article/10.1007/s10207-014-0252-y
+    - title: A. Armando, G. Costa, A. Merlo, L. Verderame, "Formal modeling and automatic enforcement of Bring Your Own Device policies", in Int. J. of Information Security, 14(2) 123-140 (2015).
+      link: https://link.springer.com/article/10.1007/s10207-014-0252-y
 
 - title: Certifying Android devicesin BYOD environments
   author: Paolo Macco
@@ -140,19 +140,19 @@
   supervisorurl: /people/alessio
   link: /riskindroid/
   pubblications:
-    - title: A. Merlo, G. C. Georgiu, "RiskInDroid: Machine Learning-Based Risk Analysis on Android", in Proc. of IFIP-SEC 2017.
+    - title: "A. Merlo, G. C. Georgiu, RiskInDroid Machine Learning-Based Risk Analysis on Android", in Proc. of IFIP SEC 2017.
       link: https://link.springer.com/chapter/10.1007/978-3-319-58469-0_36
 
 - title: Android Malware Detection Using Network Behavior Analysis And Machine Learning Classifiers
   author: Hamidreza Aria
-  period: 07/2016 - 03/2017
+  period: 7/2016 - 3/2017
   link: /MSTheses/Aria.pdf
   supervisor: Gabriele Costa
   supervisorurl: /people/gabriele
         
 - title: A Framework for Designing Attack Strategies in Cyber Range Scenarios
   author: Hossein Ghodrati
-  period: 01/2017 - 07/2017
+  period: 1/2017 - 7/2017
   link: /MSTheses/Ghodrati.pdf
   supervisor: Gabriele Costa
   supervisorurl: /people/gabriele
