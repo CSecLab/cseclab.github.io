@@ -11,7 +11,7 @@
       link: https://link.springer.com/chapter/10.1007/978-3-642-30436-1_2
     - title: A. Armando, A. Merlo, M. Migliardi, L. Verderame, "Breaking and Fixing the Android Launching Flow", in Computers and Security, 39 104-115 (2013). 
       link: http://www.sciencedirect.com/science/article/pii/S0167404813000540
-		 
+         
 - title: "Energy-Aware Security: tools and analytic models for energy consumption in the Android OS"
   author: Monica Curti, Simone Schiappacasse
   period: 09/2012 - 03/2013
@@ -53,7 +53,7 @@
   supervisor: Mauro Migliardi
   supervisorurl: http://geas.dei.unipd.it/harness/migliardi/index.html
 
-		  
+          
 - title: Energy Optimisation Strategies through Intrusion Prevention Systems
   author: Diego Raso, Elena Spadacini
   period: 9/2013 - 3/2014
@@ -79,7 +79,7 @@
   pubblications:
     - title: A. Merlo, M. Migliardi, P. Fontanelli, "On energy-based profiling of malware in Android", Proc. of HPCS 2014.  
       link: http://ieeexplore.ieee.org/document/6903732/
-	- title: A. Merlo, M. Migliardi, P. Fontanelli, "Measuring and estimating power consumption in Android to support energy-based intrusion detection", J. of Computer Security, 23(5): 611-637 (2015). 
+    - title: A. Merlo, M. Migliardi, P. Fontanelli, "Measuring and estimating power consumption in Android to support energy-based intrusion detection", J. of Computer Security, 23(5): 611-637 (2015). 
       link: http://content.iospress.com/articles/journal-of-computer-security/jcs530
 
 - title: Dynamic verification of access permissions in an extension of the Android Security Framework
@@ -95,7 +95,7 @@
   pubblications:
     - title: A. Armando, R. Carbone, G. Costa, A. Merlo, "Android Permissions Unleashed", in Proc. of CSF 2015.
     link: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7243742
-		  
+          
 - title: Development of a framework for Symbolic Partial Model Checking
   author: Marco Malvasio
   period: 1/2014 - 12/2014
