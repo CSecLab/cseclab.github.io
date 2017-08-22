@@ -79,7 +79,7 @@
   pubblications:
     - title: A. Merlo, M. Migliardi, P. Fontanelli, "On energy-based profiling of malware in Android", Proc. of HPCS 2014.  
       link: http://ieeexplore.ieee.org/document/6903732/
-    - title: A. Merlo, M. Migliardi, P. Fontanelli, "Measuring and estimating power consumption in Android to support energy-based intrusion detection", J. of Computer Security, 23(5): 611-637 (2015). 
+    - title: A. Merlo, M. Migliardi, P. Fontanelli, "Measuring and estimating power consumption in Android to support energy-based intrusion detection", J. of Computer Security, 23(5), pp. 611-637 (2015). 
       link: http://content.iospress.com/articles/journal-of-computer-security/jcs530
 
 - title: Dynamic verification of access permissions in an extension of the Android Security Framework
