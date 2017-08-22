@@ -1,4 +1,3 @@
-	  
 - title: Security Analysis of the Android Operating System
   author: Luca Verderame
   period: 9/2011 - 3/2012
@@ -12,7 +11,7 @@
       link: https://link.springer.com/chapter/10.1007/978-3-642-30436-1_2
     - title: A. Armando, A. Merlo, M. Migliardi, L. Verderame, "Breaking and Fixing the Android Launching Flow", in Computers and Security, 39: 104-115 (2013). 
       link: http://www.sciencedirect.com/science/article/pii/S0167404813000540
-		 
+
 - title: Energy-Aware Security: tools and analytic models for energy consumption in the Android OS
   author: Monica Curti, Simone Schiappacasse
   period: 09/2012 - 03/2013
@@ -34,8 +33,7 @@
   supervisorurl: http://www.csec.it/people/gabriele
   supervisor: Alessio Merlo
   supervisorurl: http://www.csec.it/people/alessio
-      
-      
+
 - title: Inlined Reference Monitor for Android Platforms
   author: Daniele Fiori, Fabio Brizzolara
   period: 9/2012 - 3/2013
@@ -71,7 +69,6 @@
       link: http://ieeexplore.ieee.org/document/7471211/
     - title: A. Merlo, E. Spadacini, M. Migliardi, "IPS-based reduction of network energy consumption", in Logic J. of the IGPL (2016).
       link: https://academic.oup.com/jigpal/article-abstract/24/6/982/2662381/IPS-based-reduction-of-network-energy-consumption
-
 
 - title: Energy-Aware Security - Tools and Analytic models to estimate energetic consumption in the Android operating systems 
   author: Paolo Fontanelli
@@ -125,7 +122,6 @@
     - title: A. Merlo, "BYODCert: Toward a Cross-Organizational BYOD Paradigm", in Proc. of GPC 2017.
     link: https://link.springer.com/chapter/10.1007/978-3-319-57186-7_52
 
-
 - title: TEA - Enabling THCE on Android devices
   author: Luca Lorrai
   period: 9/2015 - 03/2016
@@ -167,5 +163,3 @@
   link: MSTheses/Barbera.pdf
   supervisor: Alessio Merlo
   supervisorurl: http://www.csec.it/people/alessio
-
-
