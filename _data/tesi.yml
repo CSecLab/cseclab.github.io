@@ -2,23 +2,23 @@
 - title: Security Analysis of the Android Operating System
   author: Luca Verderame
   period: 9/2011 - 3/2012
-  link: MSTheses/Verderame.pdf
+  link: /MSTheses/Verderame.pdf
   supervisor: Alessandro Armando
-  supervisorurl: http://www.csec.it/people/alessandro  
+  supervisorurl: /people/alessandro  
   supervisor: Alessio Merlo
-  supervisorurl: http://www.csec.it/people/alessio
+  supervisorurl: /people/alessio
   pubblications:
     - title: A. Armando, A. Merlo, M. Migliardi, L. Verderame, "Would You Mind Forking This Process? A Denial of Service Attack on Android (and Some Countermeasures)", in Proc. od SEC 2012. 
       link: https://link.springer.com/chapter/10.1007/978-3-642-30436-1_2
     - title: A. Armando, A. Merlo, M. Migliardi, L. Verderame, "Breaking and Fixing the Android Launching Flow", in Computers and Security, 39: 104-115 (2013). 
       link: http://www.sciencedirect.com/science/article/pii/S0167404813000540
 		 
-- title: Energy-Aware Security: tools and analytic models for energy consumption in the Android OS
+- title: "Energy-Aware Security: tools and analytic models for energy consumption in the Android OS"
   author: Monica Curti, Simone Schiappacasse
   period: 09/2012 - 03/2013
-  link: MSTheses/CurtiSchiappacasse.pdf
+  link: /MSTheses/CurtiSchiappacasse.pdf
   supervisor: Alessio Merlo
-  supervisorurl: http://www.csec.it/people/alessio
+  supervisorurl: /people/alessio
   supervisor: Mauro Migliardi
   supervisorurl: http://geas.dei.unipd.it/harness/migliardi/index.html
   pubblications:
@@ -29,29 +29,29 @@
   author: Gabriele De Maglie, Fabio Tollini
   period: 9/2012 - 3/2013
   supervisor: Alessandro Armando
-  supervisorurl: http://www.csec.it/people/alessandro
+  supervisorurl: /people/alessandro
   supervisor: Gabriele Costa
-  supervisorurl: http://www.csec.it/people/gabriele
+  supervisorurl: /people/gabriele
   supervisor: Alessio Merlo
-  supervisorurl: http://www.csec.it/people/alessio
+  supervisorurl: /people/alessio
       
       
 - title: Inlined Reference Monitor for Android Platforms
   author: Daniele Fiori, Fabio Brizzolara
   period: 9/2012 - 3/2013
   supervisor: Alessandro Armando
-  supervisorurl: http://www.csec.it/people/alessandro
+  supervisorurl: /people/alessandro
   supervisor: Gabriele Costa
-  supervisorurl: http://www.csec.it/people/gabriele
+  supervisorurl: /people/gabriele
   supervisor: Alessio Merlo
-  supervisorurl: http://www.csec.it/people/alessio
+  supervisorurl: /people/alessio
       
-- title: EveC - an object-oriented programming language for efficient computation
+- title: "EveC: an object-oriented programming language for efficient computation"
   author: Luca Roverelli, Gabriele Zereik, Nicolò Zereik
   period: 9/2012 - 3/2013
-  link: MSTheses/RoverelliZereikZereik.pdf
+  link: /MSTheses/RoverelliZereikZereik.pdf
   supervisor: Alessio Merlo
-  supervisorurl: http://www.csec.it/people/alessio
+  supervisorurl: /people/alessio
   supervisor: Mauro Migliardi
   supervisorurl: http://geas.dei.unipd.it/harness/migliardi/index.html
 
@@ -59,9 +59,9 @@
 - title: Energy Optimisation Strategies through Intrusion Prevention Systems
   author: Diego Raso, Elena Spadacini
   period: 9/2013 - 3/2014
-  link: MSTheses/RasoSpadacini.pdf
+  link: /MSTheses/RasoSpadacini.pdf
   supervisor: Alessio Merlo
-  supervisorurl: http://www.csec.it/people/alessio
+  supervisorurl: /people/alessio
   supervisor: Mauro Migliardi
   supervisorurl: http://geas.dei.unipd.it/harness/migliardi/index.html
   pubblications: 
@@ -73,28 +73,28 @@
       link: https://academic.oup.com/jigpal/article-abstract/24/6/982/2662381/IPS-based-reduction-of-network-energy-consumption
 
 
-- title: Energy-Aware Security - Tools and Analytic models to estimate energetic consumption in the Android operating systems 
+- title: "Energy-Aware Security: Tools and Analytic models to estimate energetic consumption in the Android operating systems" 
   author: Paolo Fontanelli
   period: 10/2013 - 7/2014
-  link: MSTheses/Fontanelli.pdf
+  link: /MSTheses/Fontanelli.pdf
   supervisor: Alessio Merlo
-  supervisorurl: http://www.csec.it/people/alessio
+  supervisorurl: /people/alessio
   pubblications:
     - title: A. Merlo, M. Migliardi, P. Fontanelli, "On energy-based profiling of malware in Android", Proc. of HPCS 2014.  
       link: http://ieeexplore.ieee.org/document/6903732/
-    - title: A. Merlo, M. Migliardi, P. Fontanelli, "Measuring and estimating power consumption in Android to support energy-based intrusion detection", J. of Computer Security, 23(5): 611-637 (2015). 
+	- title: A. Merlo, M. Migliardi, P. Fontanelli, "Measuring and estimating power consumption in Android to support energy-based intrusion detection", J. of Computer Security, 23(5): 611-637 (2015). 
       link: http://content.iospress.com/articles/journal-of-computer-security/jcs530
 
 - title: Dynamic verification of access permissions in an extension of the Android Security Framework
   author: Giulio Puri
   period: 3/2014 - 9/2014
-  link: MSTheses/Puri.pdf
+  link: /MSTheses/Puri.pdf
   supervisor: Alessandro Armando
-  supervisorurl: http://www.csec.it/people/alessandro
+  supervisorurl: /people/alessandro
   supervisor: Gabriele Costa
-  supervisorurl: http://www.csec.it/people/gabriele  
+  supervisorurl: /people/gabriele  
   supervisor: Alessio Merlo
-  supervisorurl: http://www.csec.it/people/alessio
+  supervisorurl: /people/alessio
   pubblications:
     - title: A. Armando, R. Carbone, G. Costa, A. Merlo, "Android Permissions Unleashed", in Proc. of CSF 2015.
     link: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7243742
@@ -102,13 +102,13 @@
 - title: Development of a framework for Symbolic Partial Model Checking
   author: Marco Malvasio
   period: 1/2014 - 12/2014
-  link: MSTheses/Malvasio.pdf
+  link: /MSTheses/Malvasio.pdf
   supervisor: Alessandro Armando
-  supervisorurl: http://www.csec.it/people/alessandro
+  supervisorurl: /people/alessandro
   supervisor: Gabriele Costa
-  supervisorurl: http://www.csec.it/people/gabriele  
+  supervisorurl: /people/gabriele  
   supervisor: Alessio Merlo
-  supervisorurl: http://www.csec.it/people/alessio
+  supervisorurl: /people/alessio
   pubblications:
     - title: A. Armando, G. Costa, A. Merlo, L. Verderame, "Formal modeling and automatic enforcement of Bring Your Own Device policies", in Int. J. of Information Security, 14(2): 123-140 (2015).
     link: https://link.springer.com/article/10.1007/s10207-014-0252-y
@@ -116,56 +116,56 @@
 - title: Certifying Android devicesin BYOD environments
   author: Paolo Macco
   period: 9/2014 - 3/2015
-  link: MSTheses/Macco.pdf
+  link: /MSTheses/Macco.pdf
   supervisor: Giovanni Lagorio
   supervisorurl: http://www.disi.unige.it/person/LagorioG/
   supervisor: Alessio Merlo
-  supervisorurl: http://www.csec.it/people/alessio
+  supervisorurl: /people/alessio
   pubblications: 
-    - title: A. Merlo, "BYODCert: Toward a Cross-Organizational BYOD Paradigm", in Proc. of GPC 2017.
+  - title: A. Merlo, "BYODCert: Toward a Cross-Organizational BYOD Paradigm", in Proc. of GPC 2017.
     link: https://link.springer.com/chapter/10.1007/978-3-319-57186-7_52
 
 
-- title: TEA - Enabling THCE on Android devices
+- title: "TEA: Enabling THCE on Android devices"
   author: Luca Lorrai
   period: 9/2015 - 03/2016
-  link: MSTheses/Lorrai.pdf
+  link: /MSTheses/Lorrai.pdf
   supervisor: Alessio Merlo
-  supervisorurl: http://www.csec.it/people/alessio
+  supervisorurl: /people/alessio
   pubblications:
     - title: A. Merlo, L. Lorrai, L. Verderame, "Efficient trusted host-based card emulation on TEE-enabled Android devices", in Proc. of HPCS 2016.
       link: http://ieeexplore.ieee.org/document/7568370/?reload=true
 
-- title: RiskInDroid - Risk Analysis for Android applications
+- title: "RiskInDroid: Risk Analysis for Android applications"
   author: Gabriel Claudiu Georgiu
   period: 3/3/2016 - 28/10/2016
-  link: MSTheses/Georgiu.pdf
+  link: /MSTheses/Georgiu.pdf
   supervisor: Alessio Merlo
-  supervisorurl: http://www.csec.it/people/alessio
-  link: http://csec.it/riskindroid/
+  supervisorurl: /people/alessio
+  link: /riskindroid/
   pubblications:
-    - title: A. Merlo, G. C. Georgiu, "RiskInDroid - Machine Learning-Based Risk Analysis on Android", in Proc. of IFIP-SEC 2017.
+    - title: A. Merlo, G. C. Georgiu, "RiskInDroid: Machine Learning-Based Risk Analysis on Android", in Proc. of IFIP-SEC 2017.
       link: https://link.springer.com/chapter/10.1007/978-3-319-58469-0_36
 
 - title: Android Malware Detection Using Network Behavior Analysis And Machine Learning Classifiers
   author: Hamidreza Aria
   period: 07/2016 - 03/2017
-  link: MSTheses/Aria.pdf
+  link: /MSTheses/Aria.pdf
   supervisor: Gabriele Costa
-  supervisorurl: http://www.csec.it/people/gabriele
+  supervisorurl: /people/gabriele
         
 - title: A Framework for Designing Attack Strategies in Cyber Range Scenarios
   author: Hossein Ghodrati
   period: 01/2017 - 07/2017
-  link: MSTheses/Ghodrati.pdf
+  link: /MSTheses/Ghodrati.pdf
   supervisor: Gabriele Costa
-  supervisorurl: http://www.csec.it/people/gabriele
+  supervisorurl: /people/gabriele
       
 - title: Building behavioural models for the security analysis of iOS applications
   author: Gianluca Barbera
   period: 11/2016 - 7/2017
-  link: MSTheses/Barbera.pdf
+  link: /MSTheses/Barbera.pdf
   supervisor: Alessio Merlo
-  supervisorurl: http://www.csec.it/people/alessio
+  supervisorurl: /people/alessio
 
 
