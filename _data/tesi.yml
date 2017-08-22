@@ -119,7 +119,7 @@
   supervisor: Alessio Merlo
   supervisorurl: /people/alessio
   pubblications: 
-  - title: A. Merlo, "BYODCert: Toward a Cross-Organizational BYOD Paradigm", in Proc. of GPC 2017.
+  - title: A. Merlo, "BYODCert - Toward a Cross-Organizational BYOD Paradigm", in Proc. of GPC 2017.
     link: https://link.springer.com/chapter/10.1007/978-3-319-57186-7_52
 
 - title: "TEA: Enabling THCE on Android devices"
@@ -140,7 +140,7 @@
   supervisorurl: /people/alessio
   link: /riskindroid/
   pubblications:
-    - title: "A. Merlo, G. C. Georgiu, RiskInDroid Machine Learning-Based Risk Analysis on Android", in Proc. of IFIP SEC 2017.
+    - title: A. Merlo, G. C. Georgiu, "RiskInDroid - Machine Learning-Based Risk Analysis on Android", in Proc. of IFIP SEC 2017.
       link: https://link.springer.com/chapter/10.1007/978-3-319-58469-0_36
 
 - title: Android Malware Detection Using Network Behavior Analysis And Machine Learning Classifiers
