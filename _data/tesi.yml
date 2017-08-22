@@ -10,7 +10,7 @@
   pubblications:
     - title: A. Armando, A. Merlo, M. Migliardi, L. Verderame, "Would You Mind Forking This Process? A Denial of Service Attack on Android (and Some Countermeasures)", in Proc. od SEC 2012. 
       link: https://link.springer.com/chapter/10.1007/978-3-642-30436-1_2
-      title: A. Armando, A. Merlo, M. Migliardi, L. Verderame, "Breaking and Fixing the Android Launching Flow", in Computers and Security, 39: 104-115 (2013). 
+    - title: A. Armando, A. Merlo, M. Migliardi, L. Verderame, "Breaking and Fixing the Android Launching Flow", in Computers and Security, 39: 104-115 (2013). 
       link: http://www.sciencedirect.com/science/article/pii/S0167404813000540
 		 
 - title: Energy-Aware Security: tools and analytic models for energy consumption in the Android OS
@@ -46,7 +46,7 @@
   supervisor: Alessio Merlo
   supervisorurl: http://www.csec.it/people/alessio
       
-- title: EveC - 
+- title: EveC - an object-oriented programming language for efficient computation
   author: Luca Roverelli, Gabriele Zereik, Nicolò Zereik
   period: 9/2012 - 3/2013
   link: MSTheses/RoverelliZereikZereik.pdf
@@ -102,6 +102,9 @@
 - title: Development of a framework for Symbolic Partial Model Checking
   author: Marco Malvasio
   period: 1/2014 - 12/2014
+  link: MSTheses/Malvasio.pdf
+  supervisor: Alessandro Armando
+  supervisorurl: http://www.csec.it/people/alessandro
   supervisor: Gabriele Costa
   supervisorurl: http://www.csec.it/people/gabriele  
   supervisor: Alessio Merlo
