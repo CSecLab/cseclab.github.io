@@ -220,8 +220,9 @@ software tools:
 
 I have supervised more than 30 students during the preparation of their M.Eng. Thesis.  I have also been PhD advisor of the following people: 
 
-- Avinash Sudhodanan, "Automatic Security Testing of Browser-Based Security Protocols", U. of Trento \& FBK in the context of the SECENTIS project, 2017.
-- Tuan Anh Truong, "Efficient Automated Security Analysis of Complex Authorization Policies", University of  Trento  FBK, 2015.  
+- Avinash Sudhodanan, "Automatic Security Testing of Browser-Based Security Protocols", U. of Trento \& FBK in the context of the SECENTIS project, 2017.  Joint supervision with Luca Compagna and Roberto Carbone. Current Position: Researcher at IMDEA. 
+- Tuan Anh Truong, "Efficient Automated Security Analysis of Complex Authorization Policies", University of  Trento  FBK, 2015. Joint supervision with Silvio Ranise. Current Position: Lecturer at the University of Technology, Vietnam.
+- Luca Verderame, "Security Analysis of Android Operating System", University of Genova, 2012. Joint supervision with Alessio Merlo and Gabriele Costa. Current Position: CEO at Talos, Genova.
 - Serena Elisa Ponta, "Formal Specification and Automatic Analysis of Security-sensitive Business Processes", University of Genova, 2011.  Current position:  Researcher at SAP Research, Sophia Antipolis.
 - Roberto Carbone, "LTL Model-Checking for Security Protocols", University of Genova 2009.  The PhD thesis has been awarded the the CLUSIT Prize in 2009.  Current position: researcher at FBK, Trento.
 - Lorenzo Platania, "Software Verification using Satisfiability Modulo Theories", University of Genova, 2009.
