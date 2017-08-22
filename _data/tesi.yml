@@ -9,7 +9,7 @@
   pubblications:
     - title: A. Armando, A. Merlo, M. Migliardi, L. Verderame, "Would You Mind Forking This Process? A Denial of Service Attack on Android (and Some Countermeasures)", in Proc. od SEC 2012. 
       link: https://link.springer.com/chapter/10.1007/978-3-642-30436-1_2
-    - title: A. Armando, A. Merlo, M. Migliardi, L. Verderame, "Breaking and Fixing the Android Launching Flow", in Computers and Security, 39: 104-115 (2013). 
+    - title: A. Armando, A. Merlo, M. Migliardi, L. Verderame, "Breaking and Fixing the Android Launching Flow", in Computers and Security, 39 104-115 (2013). 
       link: http://www.sciencedirect.com/science/article/pii/S0167404813000540
 
 - title: Energy-Aware Security: tools and analytic models for energy consumption in the Android OS
