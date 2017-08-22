@@ -1,4 +1,3 @@
-	  
 - title: Security Analysis of the Android Operating System
   author: Luca Verderame
   period: 9/2011 - 3/2012
@@ -10,10 +9,15 @@
   pubblications:
     - title: A. Armando, A. Merlo, M. Migliardi, L. Verderame, "Would You Mind Forking This Process? A Denial of Service Attack on Android (and Some Countermeasures)", in Proc. od SEC 2012. 
       link: https://link.springer.com/chapter/10.1007/978-3-642-30436-1_2
-    - title: A. Armando, A. Merlo, M. Migliardi, L. Verderame, "Breaking and Fixing the Android Launching Flow", in Computers and Security, 39: 104-115 (2013). 
+    - title: A. Armando, A. Merlo, M. Migliardi, L. Verderame, "Breaking and Fixing the Android Launching Flow", in Computers and Security, 39 104-115 (2013). 
       link: http://www.sciencedirect.com/science/article/pii/S0167404813000540
+<<<<<<< HEAD
 		 
 - title: "Energy-Aware Security: tools and analytic models for energy consumption in the Android OS"
+=======
+
+- title: Energy-Aware Security: tools and analytic models for energy consumption in the Android OS
+>>>>>>> daa5971dc9d03ad7f25eb72990f9ad4798c650fe
   author: Monica Curti, Simone Schiappacasse
   period: 09/2012 - 03/2013
   link: /MSTheses/CurtiSchiappacasse.pdf
@@ -33,9 +37,14 @@
   supervisor: Gabriele Costa
   supervisorurl: /people/gabriele
   supervisor: Alessio Merlo
+<<<<<<< HEAD
   supervisorurl: /people/alessio
       
       
+=======
+  supervisorurl: http://www.csec.it/people/alessio
+
+>>>>>>> daa5971dc9d03ad7f25eb72990f9ad4798c650fe
 - title: Inlined Reference Monitor for Android Platforms
   author: Daniele Fiori, Fabio Brizzolara
   period: 9/2012 - 3/2013
@@ -72,8 +81,12 @@
     - title: A. Merlo, E. Spadacini, M. Migliardi, "IPS-based reduction of network energy consumption", in Logic J. of the IGPL (2016).
       link: https://academic.oup.com/jigpal/article-abstract/24/6/982/2662381/IPS-based-reduction-of-network-energy-consumption
 
+<<<<<<< HEAD
 
 - title: "Energy-Aware Security: Tools and Analytic models to estimate energetic consumption in the Android operating systems" 
+=======
+- title: Energy-Aware Security - Tools and Analytic models to estimate energetic consumption in the Android operating systems 
+>>>>>>> daa5971dc9d03ad7f25eb72990f9ad4798c650fe
   author: Paolo Fontanelli
   period: 10/2013 - 7/2014
   link: /MSTheses/Fontanelli.pdf
@@ -125,8 +138,12 @@
   - title: A. Merlo, "BYODCert: Toward a Cross-Organizational BYOD Paradigm", in Proc. of GPC 2017.
     link: https://link.springer.com/chapter/10.1007/978-3-319-57186-7_52
 
+<<<<<<< HEAD
 
 - title: "TEA: Enabling THCE on Android devices"
+=======
+- title: TEA - Enabling THCE on Android devices
+>>>>>>> daa5971dc9d03ad7f25eb72990f9ad4798c650fe
   author: Luca Lorrai
   period: 9/2015 - 03/2016
   link: /MSTheses/Lorrai.pdf
@@ -166,6 +183,10 @@
   period: 11/2016 - 7/2017
   link: /MSTheses/Barbera.pdf
   supervisor: Alessio Merlo
+<<<<<<< HEAD
   supervisorurl: /people/alessio
 
 
+=======
+  supervisorurl: http://www.csec.it/people/alessio
+>>>>>>> daa5971dc9d03ad7f25eb72990f9ad4798c650fe

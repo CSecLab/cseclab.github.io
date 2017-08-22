@@ -15,7 +15,7 @@
 
 * Update your repository
 
-`git pull origin master`
+`git pull origin jekyll`
 
 * Create a file named `name_surname.md` with this template:
 ```
@@ -60,6 +60,6 @@ The complete Git Flavoured Markdown syntax can be found [here](https://guides.gi
 
 * Commit the file 
 
-`git push origin master`
+`git push origin jekyll`
 
-* Check [cseclab.github.io](http://cseclab.github.io)
+* Check [cseclab-wip.herokuapp.com](https://cseclab-wip.herokuapp.com)
