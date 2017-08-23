@@ -5,6 +5,8 @@ title: Tesi
 
 {% for tesi in site.data.tesi %}
 
+---
+
 {% if tesi.link %}
 ##[{{ tesi.title }}]({{ tesi.link }})
 {% else %}
