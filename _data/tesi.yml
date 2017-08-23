@@ -127,9 +127,9 @@
   link: /MSTheses/Macco.pdf
   supervisors: 
       - name: Giovanni Lagorio
-         url: http://www.disi.unige.it/person/LagorioG/
+        url: http://www.disi.unige.it/person/LagorioG/
       - name: Alessio Merlo
-         url: /people/alessio
+        url: /people/alessio
   pubblications: 
   - title: A. Merlo, "BYODCert - Toward a Cross-Organizational BYOD Paradigm", in Proc. of GPC 2017.
     link: https://link.springer.com/chapter/10.1007/978-3-319-57186-7_52
