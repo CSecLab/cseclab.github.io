@@ -30,7 +30,7 @@
   author: Gabriele De Maglie, Fabio Tollini
   period: 9/2012 - 3/2013
   supervisors: 
-    - name: Alessandro Armando
+      - name: Alessandro Armando
          url: /people/alessandro
       - name: Gabriele Costa
          url: /people/gabriele
@@ -41,7 +41,7 @@
   author: Daniele Fiori, Fabio Brizzolara
   period: 9/2012 - 3/2013
   supervisors: 
-    - name: Alessandro Armando
+      - name: Alessandro Armando
          url: /people/alessandro
       - name: Gabriele Costa
          url: /people/gabriele
@@ -53,7 +53,7 @@
   period: 9/2012 - 3/2013
   link: /MSTheses/RoverelliZereikZereik.pdf
   supervisors: 
-    - name: Alessio Merlo
+      - name: Alessio Merlo
         url: /people/alessio
       - name: Mauro Migliardi
         url: http://geas.dei.unipd.it/harness/migliardi/index.html
@@ -64,7 +64,7 @@
   period: 9/2013 - 3/2014
   link: /MSTheses/RasoSpadacini.pdf
   supervisors: 
-    - name: Alessio Merlo
+      - name: Alessio Merlo
         url: /people/alessio
       - name: Mauro Migliardi
         url: http://geas.dei.unipd.it/harness/migliardi/index.html
@@ -81,7 +81,7 @@
   period: 10/2013 - 7/2014
   link: /MSTheses/Fontanelli.pdf
   supervisors: 
-    - name: Alessio Merlo
+      - name: Alessio Merlo
         url: /people/alessio
       - name: Mauro Migliardi
         url: http://geas.dei.unipd.it/harness/migliardi/index.html
@@ -96,7 +96,7 @@
   period: 3/2014 - 9/2014
   link: /MSTheses/Puri.pdf
   supervisors: 
-    - name: Alessandro Armando
+      - name: Alessandro Armando
          url: /people/alessandro
       - name: Gabriele Costa
          url: /people/gabriele
@@ -111,7 +111,7 @@
   period: 1/2014 - 12/2014
   link: /MSTheses/Malvasio.pdf
   supervisors: 
-    - name: Alessandro Armando
+      - name: Alessandro Armando
          url: /people/alessandro
       - name: Gabriele Costa
          url: /people/gabriele
@@ -126,7 +126,7 @@
   period: 9/2014 - 3/2015
   link: /MSTheses/Macco.pdf
   supervisors: 
-    - name: Giovanni Lagorio
+      - name: Giovanni Lagorio
          url: http://www.disi.unige.it/person/LagorioG/
       - name: Alessio Merlo
          url: /people/alessio
@@ -139,7 +139,7 @@
   period: 9/2015 - 03/2016
   link: /MSTheses/Lorrai.pdf
   supervisors: 
-    - name: Alessio Merlo
+      - name: Alessio Merlo
          url: /people/alessio
   pubblications:
     - title: A. Merlo, L. Lorrai, L. Verderame, "Efficient trusted host-based card emulation on TEE-enabled Android devices", in Proc. of HPCS 2016.
@@ -150,7 +150,7 @@
   period: 3/3/2016 - 28/10/2016
   link: /MSTheses/Georgiu.pdf
   supervisors: 
-    - name: Alessio Merlo
+      - name: Alessio Merlo
          url: /people/alessio
   link: /riskindroid/
   pubblications:
@@ -162,7 +162,7 @@
   period: 7/2016 - 3/2017
   link: /MSTheses/Aria.pdf
   supervisors: 
-    - name: Gabriele Costa
+      - name: Gabriele Costa
          url: /people/gabriele
         
 - title: A Framework for Designing Attack Strategies in Cyber Range Scenarios
@@ -178,5 +178,5 @@
   period: 11/2016 - 7/2017
   link: /MSTheses/Barbera.pdf
   supervisors: 
-    - name: Alessio Merlo
+      - name: Alessio Merlo
          url: /people/alessio
