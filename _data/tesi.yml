@@ -31,22 +31,22 @@
   period: 9/2012 - 3/2013
   supervisors: 
       - name: Alessandro Armando
-         url: /people/alessandro
+        url: /people/alessandro
       - name: Gabriele Costa
-         url: /people/gabriele
+        url: /people/gabriele
       - name: Alessio Merlo
-         url: /people/alessio
+        url: /people/alessio
 
 - title: Inlined Reference Monitor for Android Platforms
   author: Daniele Fiori, Fabio Brizzolara
   period: 9/2012 - 3/2013
   supervisors: 
       - name: Alessandro Armando
-         url: /people/alessandro
+        url: /people/alessandro
       - name: Gabriele Costa
-         url: /people/gabriele
+        url: /people/gabriele
       - name: Alessio Merlo
-         url: /people/alessio
+        url: /people/alessio
       
 - title: "EveC: an object-oriented programming language for efficient computation"
   author: Luca Roverelli, Gabriele Zereik, Nicolò Zereik
@@ -97,11 +97,11 @@
   link: /MSTheses/Puri.pdf
   supervisors: 
       - name: Alessandro Armando
-         url: /people/alessandro
+        url: /people/alessandro
       - name: Gabriele Costa
-         url: /people/gabriele
+        url: /people/gabriele
       - name: Alessio Merlo
-         url: /people/alessio
+        url: /people/alessio
   pubblications:
     - title: A. Armando, R. Carbone, G. Costa, A. Merlo, "Android Permissions Unleashed", in Proc. of CSF 2015.
       link: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7243742
@@ -112,11 +112,11 @@
   link: /MSTheses/Malvasio.pdf
   supervisors: 
       - name: Alessandro Armando
-         url: /people/alessandro
+        url: /people/alessandro
       - name: Gabriele Costa
-         url: /people/gabriele
+        url: /people/gabriele
       - name: Alessio Merlo
-         url: /people/alessio
+        url: /people/alessio
   pubblications:
     - title: A. Armando, G. Costa, A. Merlo, L. Verderame, "Formal modeling and automatic enforcement of Bring Your Own Device policies", in Int. J. of Information Security, 14(2) 123-140 (2015).
       link: https://link.springer.com/article/10.1007/s10207-014-0252-y
@@ -140,18 +140,18 @@
   link: /MSTheses/Lorrai.pdf
   supervisors: 
       - name: Alessio Merlo
-         url: /people/alessio
+        url: /people/alessio
   pubblications:
     - title: A. Merlo, L. Lorrai, L. Verderame, "Efficient trusted host-based card emulation on TEE-enabled Android devices", in Proc. of HPCS 2016.
       link: http://ieeexplore.ieee.org/document/7568370/?reload=true
 
 - title: "RiskInDroid: Risk Analysis for Android applications"
   author: Gabriel Claudiu Georgiu
-  period: 3/3/2016 - 28/10/2016
+  period: 3/2016 - 10/2016
   link: /MSTheses/Georgiu.pdf
   supervisors: 
       - name: Alessio Merlo
-         url: /people/alessio
+        url: /people/alessio
   link: /riskindroid/
   pubblications:
     - title: A. Merlo, G. C. Georgiu, "RiskInDroid - Machine Learning-Based Risk Analysis on Android", in Proc. of IFIP SEC 2017.
@@ -163,7 +163,7 @@
   link: /MSTheses/Aria.pdf
   supervisors: 
       - name: Gabriele Costa
-         url: /people/gabriele
+        url: /people/gabriele
         
 - title: A Framework for Designing Attack Strategies in Cyber Range Scenarios
   author: Hossein Ghodrati
@@ -171,7 +171,7 @@
   link: /MSTheses/Ghodrati.pdf
   supervisors: 
     - name: Gabriele Costa
-         url: /people/gabriele
+      url: /people/gabriele
            
 - title: Building behavioural models for the security analysis of iOS applications
   author: Gianluca Barbera
@@ -179,4 +179,4 @@
   link: /MSTheses/Barbera.pdf
   supervisors: 
       - name: Alessio Merlo
-         url: /people/alessio
+        url: /people/alessio
