@@ -1,0 +1,328 @@
+<HTML>
+<HEAD>
+<TITLE> The Constraint Contextual Rewriting Project: Software </TITLE>
+<!-- Created by: Silvio Ranise, 14-Jan-2000 -->
+<META name="description" content="Constraint Contextual Rewriting Project Home Page: Software">
+<META name="keywords" content="Artificial Intelligence, Automated Reasoning,  Simplification, Rewriting, Contextual Rewriting, Conditional Rewriting, Ordered Rewriting, Decision Procedures, Logic Programming, Constraints, RDL">
+</HEAD>
+
+<BODY BGCOLOR="ccccbb" MARGINWIDTH=0 MARGINHEIGHT=0>
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=10>
+<TR>
+<TD &nbsp;</TD>
+<TD &nbsp;</TD>
+<TD &nbsp;</TD>
+</TR>
+<TR>
+<TD BGCOLOR="#ffffff" VALIGN="top">
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=2>
+  <TR><TD><A HREF="index.html">Home</A></TD></TR>
+  <TR><TD><A HREF="overview.html">Overview</A></TD></TR>
+  <TR><TD><A HREF="publications.html">Publications</A></TD></TR>
+  <TR><TD><A HREF="lectures_and_talks.html">Lectures and Talks</A></TD></TR>
+  <TR><TD><B>Software</B></TD></TR>
+  <TR><TD><A HREF="related.html">Related links</A></TD></TR>
+  <TR><TD>&nbsp;</TD></TR>
+  <TR><TD>&nbsp;</TD></TR>
+  <TR><TD><B>People</B></TD></TR>
+  <TR><TD ALIGN="left"><A HREF="http://www.ai-lab.it/armando/">Alessandro Armando</A></TD></TR>
+  <TR><TD>&nbsp;</TD></TR>
+  <TR><TD ALIGN="left"><A HREF="http://www.loria.fr/~silvio/">Silvio Ranise</A></TD></TR>
+  <TR><TD>&nbsp;</TD></TR>
+  <TR><TD ALIGN="left"><A HREF="http://www.ai-lab.it/compagna/">Luca Compagna</A></TD></TR>
+  <TR><TD>&nbsp;</TD></TR>
+  <TR><TD>&nbsp;</TD></TR>
+  <TR><TD>&nbsp;</TD></TR>
+  <TR><TD><B>Affiliation</B></TD></TR>
+  <TR><TD ALIGN="left"><A HREF="http://www.ai-lab.it">AI-Lab</A></TD></TR>
+  <TR><TD ALIGN="left"><A HREF="http://www.dist.unige.it">DIST</A></TD></TR>
+  <TR><TD ALIGN="left"><A HREF="http://www.unige.it">Universit&agrave di Genova</A></TD></TR>
+</TABLE>
+</TD>
+<TD &nbsp</TD>
+<TD VALIGN="top">
+
+<H1> The Constraint Contextual Rewriting Project </H1>
+
+<H2> Software: RDL </H2>
+
+<B>RDL</B> is a system for formula simplification developed within the
+Constraint Contextual Rewriting Project.  <B>RDL</B> is an acronym for
+<B>R</B>ewrite and <B>D</B>ecision procedure <B>L</B>aboratory.  The
+system allows for experimenting with the integration of decision
+procedures and conditional rewriting.  
+
+<UL>
+    <LI><B>RDL Version 1.1</B><img src="pictures/new.gif">
+        <UL>
+            <LI> <a href="#README">README</a>
+            <LI> <a href="#highlights">Highlights</a>
+            <LI> <a href="#tutorial">Tutorial</a>
+            <LI> <a href="#problems">Problems</a> 
+            <LI> <a href="#experiments">Experiments</a>
+            <LI> <a href="#downloading">Dowloading</a>
+        </UL>
+    <LI><a href="#News"><B>News</B></a>
+</UL>
+
+<HR>
+
+<H2> RDL Version 1.1 </H2>
+
+<H3> Excerpt from the <a name="README">README</a> </H3>
+
+<P>
+This software is being developed as a research tool.  We continue to
+make significant changes to it.  This is an alpha release which we are
+doing primarily in order to get feedback.  We want to know what you
+think of RDL, so please send comments to us at Alessandro Armando or Silvio Ranise.
+</P>
+<P>
+In order to execute RDL v. 1.1 you need SICStus 3.8 installed on your
+machine.  (If you don't have it, you can get a free 30 days evaluation
+license at the URL <a
+href="http://www.sics.se/sicstus">http://www.sics.se/sicstus</a>.)
+</P>
+
+<HR>
+
+<H3> RDL Version 1.1: <a name="highlights">Highlights</a> </H3>
+
+<UL>
+<LI> <B>RDL</B> simplifies clauses in a quantifier-free first-order
+     logic with equality using CCR.  As a consequence, RDL is sound,
+     terminating and fully automatic.
+ 
+<LI> <B>RDL</B> is an open system which can be modularly extended with
+     new decision procedures provided these offer certain interface 
+     functionalities.
+ 
+     <BR>In its current version, RDL offers <EM>`plug-and-play'</EM>
+     decision procedures for the theories of Universal Presburger
+     Arithmetic over Integers (UPAI), Universal Theory of Equality
+     (UTE), and UPAI extended with uninterpreted function symbols.
+
+<LI> <B>RDL</B> implements instances of a <EM>generic extension
+    schema</EM> for decision procedures <a
+    href="publications.html#edp-jucs2001">[edp-jucs2001]</a>.  The key 
+    ingredient of such a schema is a <EM>lemma speculation
+    mechanism</EM> which `reduces' the validity problem of a given
+    theory to the validity problem of one of its subtheory for which a
+    decision procedure is available. <img src="pictures/new.gif">
+
+<LI> <B>RDL</B> is an open reasoning module which can be integrated in
+     larger verification systems, since extensions of quantifier-free
+     first-order logic with equality are useful in practically all
+     verification efforts.
+
+<LI> <B>RDL</B> features a tight integration of the following three
+     modules: a module for <EM>ordered conditional rewriting</EM>, a
+     <EM>satisfiability  decision procedure</EM>, and a module for
+     <EM>lemma speculation</EM>.  
+
+     <BR>In the following, let <EM>cl</EM> be the clause to be
+     simplified and <EM>p</EM> be a literal in <EM>cl</EM> which is
+     going to be rewritten.  The <EM>context</EM> <EM>C</EM>
+     associated to <EM>p</EM> is the conjunction of the negation of
+     the literals occurring in <EM>cl</EM> except <EM>p</EM>.  Let
+     <EM>T</EM> be the theory decided by the decision procedure. 
+
+     <UL>
+         <LI> <EM>The decision procedure</EM>.  For efficiency reasons,
+	      this module is required to be state-based, incremental,
+	      and resettable.  The context <EM>C</EM> is stored by a
+	      specialized data structure in the state of the decision
+	      procedure.  There are three functionalities.  First,
+	      <TT>cs-unsat</TT> characterizes 
+	      a set of inconsistent (in <EM>T</EM>) contexts whose
+	      inconsistency can be checked by means of computationally
+	      inexpensive checks.  Second, given a literal <EM>l</EM>
+	      and the current context <EM>C</EM>, <TT>cs-simp</TT>
+	      computes the new context <EM>C'</EM> resulting from the
+	      addition of <EM>l</EM> to <EM>C</EM> in such a way that
+	      <EM>C'</EM> is entailed by the conjunction 
+	      of <EM>l</EM> and <EM>C</EM> in <EM>T</EM>.  Third,
+	      <TT>cs-norm</TT> computes a normal representation
+	      <EM>p'</EM> of <EM>p</EM> w.r.t. <EM>T</EM> and the 
+	      information stored in <EM>C</EM>.  This functionality
+	      must be compatible with rewriting, i.e. it is required
+	      that <EM>p'< p</EM> where < denotes a total term ordering
+	      on ground literals. (The actual implementation provides
+	      a fixed total ordering on ground RDL literals.)
+
+         <LI> <EM>Constraint Contextual Rewriting.</EM>  The rewriter
+              provides the functionality <TT>ccr</TT>.  It handles
+              conditional rules of the form <EM>h1 /\ ... /\ hn ==>
+              (l=r)</EM>, where <EM>l</EM> and <EM>r</EM> are RDL
+              terms, and <EM>h1, ..., hn</EM> are RDL literals.
+              Assume <EM>r sigma < l sigma</EM> for a ground
+              substitution <EM>sigma</EM> (otherwise, if <EM>l
+              sigma</EM> is different from <EM>r sigma</EM>, swap
+              <EM>l</EM> with <EM>r</EM> in the following).  Given
+              <EM>p[l sigma]</EM>, <TT>ccr</TT> returns
+              <EM>p[r sigma]</EM> if <EM>h1 sigma, ..., hn sigma</EM>,
+              and <EM>p[r sigma]</EM> are smaller (w.r.t. <) than
+              <EM>p[l sigma]</EM>, and for <EM>i=1,...,n</EM> either 
+              <EM>hi\sigma</EM> is (recursively) rewritten to
+              <EM>true</EM> by invoking <TT>ccr</TT> or by checking
+              whether <EM>hi sigma</EM> is entailed by <EM>C</EM>
+              (this is done by invoking <TT>cs-unsat</TT> so to check
+              that the negation of <EM>hi sigma</EM> is inconsistent
+              with <EM>C</EM>).  There are two other means of
+              rewriting.  Firstly, <EM>p</EM> is rewritten to
+              <EM>false</EM> (<EM>true</EM>) if <TT>cs-unsat</TT>
+              checks that <EM>p</EM> (the negation of <EM>p</EM>,
+              resp.) is inconsistent with <EM>C</EM>.  Secondly,
+              <EM>p</EM> is rewritten to <EM>p'</EM> if <EM>p'</EM>
+              has been obtained by invoking <TT>cs-norm</TT>.
+
+         <LI> <EM>Lemma speculation</EM>.  Three instances of the
+	      lemma speculation mechanism described in <a
+              href="publications.html#edp-jucs2001">[edp-jucs2001]</a>
+	      are implemented in RDL.  All the instances share the
+	      goal of feeding the decision procedure with new facts
+	      about function symbols which are otherwise uninterpreted
+	      in <EM>T</EM>.  More precisely, they inspect the context
+	      <EM>C</EM> and return a set of ground facts entailed by
+	      <EM>C</EM> using <EM>T</EM> as the background theory.
+	      Furthermore, these facts must enjoy some properties to
+	      ensure termination (see <a
+              href="publications.html#edp-jucs2001">[edp-jucs2001]</a>
+	      for details).
+
+	      <BR>The simplest form of lemma speculation is
+	      <TT>augment</TT> <a
+              href="publications.html#edp-jucs2001">[edp-jucs2001]</a>, 
+	      which consists of selecting and instantiating lemmas
+	      from a set of available valid formulae in order to
+	      obtain ground facts whose conclusions can be readily
+	      used by the decision procedure.  More precisely,
+	      <TT>augment</TT> finds instances of the conclusions
+	      among the conditional lemmas which can promote further
+	      inference steps in the decision procedure.  There are
+	      two crucial problems.  Firstly, we must relieve
+	      hypotheses of lemmas in order to be able to send their
+	      conclusions to the decision procedure.  We solve this
+	      problem by rewriting each hypothesis to <EM>true</EM>
+	      (if possible).  This is done by invoking <TT>ccr</TT>
+	      and it implies that the rewriter and the decision
+	      procedure are mutually recursive.  The other problem is
+	      the presence of extra variables in the hypotheses
+	      (w.r.t. the conclusion) of lemmas.  RDL avoids this
+	      problem by requiring that the conclusion contains all
+	      the variables occurring in the lemma and that all the
+	      variables get instantiated by matching the conclusion of
+	      the lemma against the largest (according to <) literal
+	      in <EM>C</EM>.  
+
+              <BR>If a suitable set of lemmas is defined,
+	      <TT>augment</TT> increases dramatically the
+	      effectiveness of the decision procedure.  Unfortunately,
+	      devising such a suitable set is a time consuming
+	      activity.  This problem can be solved for some important
+	      special cases.  In the actual version of RDL,
+	      <TT>affinize</TT> <img src="pictures/new.gif">
+	      implements the `on-the-fly' generation of lemmas about
+	      multiplication over integers.  To understand how
+	      <TT>affinize</TT> works, consider the non-linear
+	      inequality <EM>X Y =< -1</EM> (where <EM>X</EM> and
+	      <EM>Y</EM> range over integers).  By resorting to its
+	      geometrical interpretation, it is easy to verify that
+	      <EM>X Y =< -1</EM> is equivalent to <EM>(X >= 1 /\ Y =<
+	      -1) \/ (X =< -1 /\ Y >= 1)</EM>.  To avoid case
+	      splitting, we observe that the semi-planes represented
+	      by <EM>X >= 1</EM> and <EM>X =< -1</EM> as those
+	      represented by <EM>Y =< -1</EM> and <EM>Y >= 1</EM> are
+	      non-intersecting.  This allows to derive the following
+	      four lemmas: <EM>X >= 1 ==> Y =< -1</EM>, <EM>X =< -1
+	      ==> Y >= 1</EM>, <EM>Y >= 1 ==> X =< -1</EM>, and <EM>Y
+	      =< -1 ==> X >= 1</EM>.  This process can be generalized
+	      to non-linear inequalities which can be put in the form
+	      <EM>X Y =< K</EM> (where <EM>K</EM> is an integer) by
+	      factorization.  The generated (conditional) lemmas are
+	      used as for <TT>augment</TT>.
+
+	      <BR>On the one hand <TT>affinize</TT> can be seen as a
+	      significant improvement over <TT>augment</TT> since it
+	      does not require any user intervention.  On the other
+	      hand it fails to apply when inequalities cannot be
+	      transformed into a form suitable for affinization.  RDL
+	      combines augmentation and affinization <img
+	      src="pictures/new.gif"> by considering the function
+	      symbols occurring in the context <EM>C</EM>, i.e. the
+	      top-most function symbol of the largest (according to <)
+	      literal in <EM>C</EM> triggers the invocation of either
+	      affinization or augmentation. 
+     </UL>
+</UL>
+
+<HR>
+
+<H3> RDL Version 1.1: <a name="tutorial">Tutorial</a> </H3>
+
+An <a href="RDL/tutorial.html">on-line tutorial</a> to <B>RDL</B>.
+
+<HR>
+
+<H3> RDL Version 1.1: <a name="problems">Problems</a> </H3>
+
+There is a set of <a href="RDL/problems.pl">problems</a> successfully
+processed by RDL.  Many problems show proof obligations about
+non-linear inequalities and show the power of the
+<EM>affinization</EM> technique described in <a
+href="publications.html#edp-jucs2001">[edp-jucs2001]</a>.
+
+<HR>
+
+<H3> RDL Version 1.1: <a name="experiments">Experiments</a> </H3>
+A <a href="RDL/experiments.html">set of experimental results</A> on
+RDL and a comparison with other systems. 
+
+<HR>
+
+<H3> RDL Version 1.1: <a name="downloading">Downloading</a> </H3>
+
+A <a href="RDL/download.html">download area</a> containing the RDL
+distribution of Version 1.1 <img src="pictures/new.gif"> of the
+system.
+
+<HR>
+
+<H3> <a name="News">News</a> </H3>
+
+<UL>
+<LI>June 15, 2001: RDL <B>distribution</B> updated!
+    <UL>
+       <LI>RDL can now be invoked via command line
+       <LI>The RDL command-line executable does not require Sicstus
+           Prolog installed on your machine!
+    </UL>
+</UL>
+
+
+<HR>
+
+
+<P ALIGN="center">
+  [ <A HREF="index.html">Home</A>
+  | <A HREF="overview.html">Overview</A>
+  | <A HREF="publications.html">Publications</A>
+  | <A HREF="lectures_and_talks.html">Lectures and Talks</A>
+  | <B>Software</B>
+  | <A HREF="related.html">Related links</A>
+  ]
+</P>
+<HR>
+<P>
+<small>
+This web site is maintained by the AI-Lab webmaster. <BR>
+Last updated: 14-Dec-2006
+</small>
+</P>
+</TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>
+
+

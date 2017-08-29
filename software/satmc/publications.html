@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Publications</title>
+  <link href="style.css" type="text/css" rel="stylesheet"/>
+</head>
+
+<body bgcolor="white">
+
+<h1>SATMC: Publications </h1>
+
+<ol>
+<li><a name="sec2011"></a>Alessandro Armando, Roberto Carbone, Luca
+Compagna, Jorge Cuellar, Giancarlo Pellegrino, Alessandro
+Sorniotti. <b><i>From Multiple Credentials to Browser-based Single
+Sign-On: Are We More Secure?</i></b> In the Proceedings of the <a
+href="http://sec2011.org/">26th IFIP TC-11 International Information
+Security Conference (SEC 2011)</a>, June 7-9, 2011, Luzern,
+Switzerland. [<a
+href="http://www.ai-lab.it/armando/pub/sec2011.pdf"><b>pdf</b></a>]
+<p>
+<b>Abstract.</b> Browser-based Single Sign-On (SSO) is replacing
+conventional solutions based on multiple, domain-specific credentials
+by offering an improved user experience: clients log on to their
+company system once and are then able to access all services offered
+by the company's partners. By focusing on the emerging SAML standard,
+in this paper we show that the prototypical browser-based SSO use case
+suffers from an authentication flaw that allows a malicious service
+provider to hijack a client authentication attempt and force the
+latter to access a resource without its consent or intention. This may
+have serious consequences, as evidenced by a Cross-Site Scripting
+attack that we have identified in the SAML-based SSO for Google Apps:
+the attack allowed a malicious web server to impersonate a user on any
+Google application. We also describe solutions that can be used to
+mitigate and even solve the problem.
+</p> 
+</li>
+
+<li><a name="DIAMbook"></a>Alessandro Armando, Roberto Carbone, Luca
+Compagna, Giancarlo Pellegrino. <b><i>Automatic Security Analysis of
+SAML-based Single Sign-On Protocols.</i></b>  In 
+<!-- <a href="http://dx.doi.org/10.4018/978-1-61350-498-7"> -->
+<a href="http://www.igi-global.com/bookstore/titledetails.aspx?titleid=55281">
+Digital Identity and Access Management: Technologies and
+Frameworks</a>, R. Sharman, S. Das Smith and M. Gupta, editors. To
+appear.  
+<!-- [<a href=""><b>pdf</b></a>] -->
+
+<p>
+<b>Abstract.</b>  Single-Sign-On (SSO) protocols enable companies to
+establish a federated environment in which clients sign in the system
+once and yet are able to access to services offered by different
+companies. The OASIS Security Assertion Markup Language (SAML) 2.0 Web
+Browser SSO Profile is the emerging standard in this context. In
+previous work a severe security flaw in the SAML-based SSO for Google
+Apps was discovered. By leveraging this experience, this chapter will
+show that model checking techniques for security protocols can support
+the development and analysis of SSO solutions helping the designer not
+only to detect serious security flaws early in the development
+life-cycle but also to provide assurance on the security of the
+solutions identified.
+</li></p>
+
+<li><a name="google2008"></a>
+Alessandro Armando, Roberto Carbone, Luca Compagna, Jorge Cuellar, and Llanos Tobarra Abad. <b><i>Formal Analysis of SAML 2.0 Web Browser Single Sign-On: Breaking the SAML-based Single Sign-On for Google Apps.</i></b>
+In the proceedings of the
+<a href="http://www.cs.utexas.edu/~shmat/FMSE08">6th ACM Workshop on Formal Methods in Security Engineering (FMSE 2008)</a>, October 27 2008, Alexandria,
+VA, US. Pages: 1-9.  More information on the vlulnerability is available 
+<a href="http://www.ai-lab.it/armando/GoogleSSOVulnerability.html"
+target="_blank">here</a>.
+[<a href="http://doi.acm.org/10.1145/1456396.1456397"><b>pdf, bibentry</b></a>]
+
+<p>
+<b>Abstract.</b> Single-Sign-On (SSO) protocols enable companies to
+establish a federated environment in which clients sign in the system
+once and yet are able to access to services offered by different
+companies.  The OASIS Security Assertion Markup Language (SAML) 2.0
+Web Browser SSO Profile is the emerging standard in this context.  In
+this paper we provide formal models of the protocol corresponding to
+one of the most applied use case scenario (the SP-Initiated SSO with
+Redirect/POST Bindings) and of a variant of the protocol implemented
+by Google and currently in use by Google's customers (the SAML-based
+SSO for Google Applications).  We have mechanically analysed these
+formal models with SATMC, a state-of-the-art model checker for
+security protocols.  SATMC has revealed a severe security flaw in the
+protocol used by Google that allows a dishonest service provider to
+impersonate a user at another service provider.  We have also
+reproduced this attack in an actual deployment of the SAML-based SSO
+for Google Applications.  This security flaw of the SAML-based SSO for
+Google Applications was previously unknown.</p>
+</li>
+
+<li><a name="ijis2007"></a> Alessandro Armando, and Luca Compagna.
+<b><i>SAT-based Model-Checking for Security Protocols
+Analysis.</i></b> International Journal of Information Security.  ISSN
+1615-5262. 21 Sep 2007.  [<a
+href="http://www.ai-lab.it/compa/papers/IJIS-2006/paper.ps"><b>ps</b></a>,
+<a
+href="http://www.ai-lab.it/compa/papers/IJIS-2006/paper.pdf"><b>pdf</b></a>,
+<a
+href="http://www.ai-lab.it/compa/papers/IJIS-2006/bibentry.bib"><b>bibentry</b></a>]
+<p>
+<b>Abstract.</b> 
+  We present a model checking technique for security protocols based
+  on a reduction to propositional logic. 
+  At the core of our approach is a procedure that, given a description
+  of the protocol in a multi-set rewriting formalism and a positive
+  integer <i>k</i>, builds a propositional formula whose models (if any)
+  correspond to attacks on the protocol.  Thus, finding attacks on
+  protocols boils down to checking a propositional formula for
+  satisfiability, problem that is usually solved very efficiently by
+  modern SAT solvers.  
+  Experimental results indicate that the approach scales up to
+  industrial strength security protocols with performance comparable
+  with (and in some cases superior to) that of other state-of-the-art
+  protocol analysers.
+</p>
+</li>
+
+<li><a name="csf2007"></a>
+Alessandro Armando, Roberto Carbone, and Luca Compagna.
+<b><i>LTL Model Checking for Security Protocols.</i></b>
+In the proceedings of the
+<a href="http://www.dsi.unive.it/CSF20">20th IEEE Computer Security
+Foundations Symposium (CSF 2007)</a>, July 6-8 2007, Venice,
+Italy. Pages: 385-396.
+[<a href="http://www.ai-lab.it/roberto/papers/csf2007/paper.ps"><b>ps</b></a>,
+ <a href="http://www.ai-lab.it/roberto/papers/csf2007/paper.pdf"><b>pdf</b></a>,
+ <a href="http://www.ai-lab.it/roberto/papers/csf2007/bibentry.bib"><b>bibentry</b></a>]
+<p>
+<b>Abstract.</b> 
+ Most model checking techniques for security protocols make a number
+ of simplifying assumptions on the protocol and/or on its execution
+ environment that prevent their applicability in some important
+ cases. For instance, most techniques assume that communication
+ between honest principals is controlled by a Dolev-Yao intruder,
+ i.e. a malicious agent capable to overhear, divert, and fake
+ messages. Yet we might be interested in establishing the security of
+ a protocol that relies on a less unsecure channel (e.g. a
+ confidential channel provided by some other protocol sitting lower in
+ the protocol stack). In this paper we propose a general model for
+ security protocols based on the set-rewriting formalism that, coupled
+ with the use of LTL, allows for the specification of assumptions on
+ principals and communication channels as well as complex security
+ properties that are normally not handled by state-of-the-art protocol
+ analysers. By using our approach we have been able to formalise all
+ the assumptions required by the ASW protocol for optimistic fair
+ exchange as well as some of its security properties. Besides the
+ previously reported attacks on the protocol, we report a new attack
+ on a patched version of the protocol.  
+</p>
+</li>
+
+<li><a name="compagnaPhD2005"></a>
+Luca Compagna.
+<b><i>SAT-based Model-Checking of Security Protocols.</i></b>
+Ph.D. Thesis. Joint work between Università degli
+Studi di Genova and the University of Edinburgh, September 2005.
+[<a href="http://www.ai-lab.it/compa/PhD-Thesis/main.ps"><b>ps</b></a>,
+ <a href="http://www.ai-lab.it/compa/PhD-Thesis/main.pdf"><b>pdf</b></a>,
+ <a href="http://www.ai-lab.it/compa/PhD-Thesis/bibentry.bib"><b>bibentry</b></a>]
+<p>
+<b>Abstract.</b> 
+Security protocols are communication protocols that aim at providing security
+guarantees through the application of cryptographic primitives. Since
+these protocols are at the core of security-sensitive applications in a variety
+of domains (e.g. health-care, e-commerce, and e-government), their proper
+functioning is crucial as a failure may undermine the customer and, more
+in general, the public trust in these applications. In spite of their apparent
+simplicity, security protocols are notoriously error-prone. It is thus of utmost
+importance to have tools and specification languages that support the
+activity of finding flaws in protocols.
+
+This thesis presents an high level protocol specification language accessible
+to protocol designers and easily translatable into a lower-level formalism
+for protocol insecurity problems. This thesis shows that automatic SATbased
+model-checking techniques based on a reduction of protocol insecurity
+problems to propositional satisfiability problems (SAT) can be used effectively
+to find attacks on security protocols. The approach results from the
+combination of a reduction of protocol insecurity problems into planning
+problems and SAT-encoding techniques developed for planning. A modelchecker,
+SATMC, based on these ideas has been developed and experimental
+results obtained by running SATMC against industrial-scale security protocols
+confirm the effectiveness of the approach.</p>
+</li>
+
+<li><a name="arspa2004"></a>Alessandro Armando and Luca Compagna.
+<b><i>An Optimized Intruder Model for SAT-based Model-Checking of Security Protocols.</i></b>
+ENTCS volume 125, issue 1, pages 91-108, 3 March 2005. 
+Copyright &copy; <a href="http://www.elsevier.com">Elsevier B.V.</a>
+Presented to the
+<a href="http://www.avispa-project.org/arspa/workshop-index.html">Automated Reasoning for Security Protocol Analysis
+Workshop (ARSPA 2005)</a>, July 04 2004, Cork, Irland.
+[<a href="http://www.ai-lab.it/compagna/papers/ARSPA-2004/paper.ps"><b>ps</b></a>,
+<a href="http://www.ai-lab.it/compagna/papers/ARSPA-2004/paper.pdf"><b>pdf</b></a>,
+<a href="http://www.ai-lab.it/compagna/papers/ARSPA-2004/bibentry.bib"><b>bibentry</b></a>]
+<p>
+<b>Abstract.</b>
+  In previous work we showed that automatic SAT-based model-checking
+  techniques based on a reduction of protocol (in)security problems to
+  a sequence of propositional satisfiability problems can be used to
+  effectively find attacks on protocols.  In this paper we present an
+  optimized intruder model that may lead in many cases to shorter
+  attacks which can be detected in our framework by generating smaller
+  propositional formulae.  The key idea is to assume that some of the
+  abilities of the intruder have instantaneous effect, whereas in the
+  previously adopted approach all the abilities of the intruder were
+  modeled as state transitions.  This required non trivial extensions
+  to the SAT-reduction techniques which are formally described in the
+  paper.  Experimental results indicate the advantages of the proposed
+  optimization.
+</p>
+</li>
+
+<li><a name="jelia2004"></a>
+Alessandro Armando, Luca Compagna, and Yuliya Lierler.
+<b><i>Automatic Compilation of Protocol Insecurity Problems into Logic Programming.</i></b>
+In the proceedings of the
+<a href="http://centria.di.fct.unl.pt/~jelia2004/1024x768/index.html">9th European Conference 
+on Logics in Artificial Intelligence (JELIA 2004)</a>, September 27-30 2004, Lisbon, Portugal. 
+LNCS 3229, pages 730-733.  
+[<a href="http://www.ai-lab.it/compagna/papers/JELIA-SD-2004/paper.ps"><b>ps</b></a>,
+<a href="http://www.ai-lab.it/compagna/papers/JELIA-SD-2004/paper.pdf"><b>pdf</b></a>,
+<a href="http://www.ai-lab.it/compagna/papers/JELIA-SD-2004/bibentry.bib"><b>bibentry</b></a>]
+<p>
+<b>Abstract.</b>
+  We describe SATMC, a SAT-based model checker for the automatic
+  analysis of security protocols.  Given as input the specification of
+  a security protocol and of the associated security property, SATMC
+  generates a sequence of propositional formulae whose models (quickly
+  found by means of state-of-the-art SAT-solvers) correspond to
+  attacks on the protocol.  We provide experimental results that show
+  the effectiveness of the tool.
+</p>
+
+</li>
+
+<li><a name="sd-jelia2004"></a>
+Alessandro Armando and Luca Compagna.
+<b><i>SATMC: a SAT-based Model Checker for Security Protocols.</i></b>
+In the proceedings of the
+<a href="http://centria.di.fct.unl.pt/~jelia2004/1024x768/index.html">9th European Conference 
+on Logics in Artificial Intelligence (JELIA 2004)</a>, September 27-30 2004, Lisbon, Portugal. 
+LNCS 3229, pages 730-733.  
+[<a href="http://www.ai-lab.it/compagna/papers/JELIA-SD-2004/paper.ps"><b>ps</b></a>,
+<a href="http://www.ai-lab.it/compagna/papers/JELIA-SD-2004/paper.pdf"><b>pdf</b></a>,
+<a href="http://www.ai-lab.it/compagna/papers/JELIA-SD-2004/bibentry.bib"><b>bibentry</b></a>]
+<p>
+<b>Abstract.</b>
+  We describe SATMC, a SAT-based model checker for the automatic
+  analysis of security protocols.  Given as input the specification of
+  a security protocol and of the associated security property, SATMC
+  generates a sequence of propositional formulae whose models (quickly
+  found by means of state-of-the-art SAT-solvers) correspond to
+  attacks on the protocol.  We provide experimental results that show
+  the effectiveness of the tool.
+  </p>
+</li>
+
+<li><a name="sat2003"></a> Alessandro Armando and Luca Compagna.
+<b><i>"Abstraction-driven SAT-based Analysis of Security
+Protocols"</i>.</b> In LNCS 2919 - <a
+href="http://www.ai-lab.it/events/sat03/">Theory and Applications of
+Satisfiability Testing (SAT 2003)</a>, May 5-8 2003, S. Margherita
+Ligure, Italy.
+[<a href="http://www.ai-lab.it/compagna/papers/SAT-2003/paper.ps"><b>ps</b></a>,
+<a href="http://www.ai-lab.it/compagna/papers/SAT-2003/paper.pdf"><b>pdf</b></a>,
+<a href="http://www.ai-lab.it/compagna/papers/SAT-2003/bibentry.bib"><b>bibentry</b></a>]
+<p> 
+<b>Abstract.</b>
+  In previous work we proposed an approach to the automatic            
+  translation of protocol insecurity problems into propositional logic 
+  with the ultimate goal of building an automatic model-checker for    
+  security protocols based on state-of-the-art SAT solvers.  In this   
+  paper we present an improved procedure based on an                   
+  abstraction/refinement strategy which, by interleaving the encoding  
+  and solving phases, leads to a significant improvement of the        
+  overall performance of our model-checker.
+</p>
+</li>
+
+<li><a name="fme2003"></a> Alessandro Armando, Luca Compagna and
+Pierre Ganty.  <b><i>SAT-based Model-Checking of Security Protocols
+using Planning Graph Analysis.</i></b> In the proceedings of the <a
+href="http://fme03.isti.cnr.it/" target="_blank">12th International
+FME Symposium (FME 2003) </a>, September 8-14 2003, Pisa, Italy. LNCS
+2805, pages 875-893.  
+[<a href="http://www.ai-lab.it/compagna/papers/FME-2003/paper.ps"><b>ps</b></a>,
+<a href="http://www.ai-lab.it/compagna/papers/FME-2003/paper.pdf"><b>pdf</b></a>,
+<a href="http://www.ai-lab.it/compagna/papers/FME-2003/bibentry.bib"><b>bibentry</b></a>]
+<p>
+<b>Abstract.</b>
+  In previous work we showed that automatic SAT-based model-checking    
+  techniques based on a reduction of protocol insecurity problems to    
+  satisfiability problems in propositional logic (SAT) can be used      
+  effectively to find attacks on security protocols.  The approach      
+  results from the combination of a reduction of protocol insecurity    
+  problems to planning problems and well-known SAT-reduction            
+  techniques, called linear encodings, developed for planning.          
+  Experimental results confirmed the effectiveness of the approach but  
+  also showed that the time spent to generate the SAT formula largely   
+  dominates the time spent by the SAT solver to check its               
+  satisfiability.  Moreover, the SAT instances generated by the tool    
+  get of unmanageable size on the most complex protocols.  In this      
+  paper we explore the application of the Graphplan-based encoding      
+  technique to the analysis of security protocols and present           
+  experimental data showing that Graphplan-based encodings are          
+  considerably (i.e.up to 2 orders of magnitude) smaller than        
+  linear encodings.  These results confirm the effectiveness of the     
+  SAT-based approach to the analysis of security protocols and pave     
+  the way to its application to large protocols arising in practical    
+  applications.
+</p>
+</li>
+
+<li><a name="forte2002"></a> Alessandro Armando and Luca Compagna.
+<b><i>Automatic SAT-Compilation of Protocol Insecurity Problems via
+Reduction to Planning.</i></b>In the Proceedings of <a
+href="http://www.ece.utexas.edu/FORTE/" target="_blank">Formal
+Techniques for Networked and Distributed Systems (FORTE 2002)</a>,
+November 11-14 2002, Houston, Texas. LNCS 2529, pages
+210-225. 
+[<a href="http://www.ai-lab.it/compagna/papers/FORTE-2002/paper.ps"><b>ps</b></a>,
+<a href="http://www.ai-lab.it/compagna/papers/FORTE-2002/paper.pdf"><b>pdf</b></a>,
+<a href="http://www.ai-lab.it/compagna/papers/FORTE-2002/bibentry.bib"><b>bibentry</b></a>]
+<p>
+<b>Abstract.</b>
+  We provide a fully automatic translation from security protocol
+  specifications into propositional logic which can be effectively
+  used to find attacks to protocols.  Our approach results from the
+  combination of a reduction of protocol insecurity problems to planning problems
+  and well-known SAT-reduction techniques developed for planning.  We
+  also propose and discuss a set of transformations on protocol insecurity
+  problems whose application has a dramatic effect on the size of the
+  propositional encoding obtained with our SAT-compilation technique.
+  We describe a model-checker for security protocols based on our
+  ideas and show that attacks to a set of well-known authentication
+  protocols are quickly found by state-of-the-art SAT solvers.
+  </p>
+</li>
+
+</body>
+</html>

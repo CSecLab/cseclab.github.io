@@ -13,6 +13,10 @@
     `git clone git@github.com:CSecLab/cseclab.github.io.git`
     (you need to deploy your SSH Key on GitHub)
 
+* Switch to *jekyll* branch
+
+`git checkout jekyll`
+
 * Update your repository
 
 `git pull origin jekyll`

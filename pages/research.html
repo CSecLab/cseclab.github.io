@@ -1,0 +1,287 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Research - CSecLab</title>
+
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <link rel="stylesheet" href="/libs/bootstrap/dist/css/bootstrap.min.css">
+
+
+    <!-- TODO: Move offline -->
+    <script src="http://www.w3schools.com/lib/w3data.js"></script>
+
+    <script src="/libs/jquery/dist/jquery.js"></script>
+
+    <script src="/libs/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <script src="/active_navbar.js"></script>
+
+</head>
+
+<body>
+
+<!-- includes navbar menu -->
+<div w3-include-html="/navbar.html"></div>
+
+<script>
+    w3IncludeHTML();
+</script>
+
+<div class="container">
+    <div class="row text-center">
+        <div class="col-md-12">
+            <h1>Research &amp; Projects</h1>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h2>Research activity</h2>
+        </div>
+    </div>
+
+    <div class="row text-justify">
+        <div class="col-md-6">
+            <h3>Security of Mobile Operating Systems</h3>
+            Mobile Operating Systems (e.g. Android, IoS, WindowsPhone) are software stacks built upon native OS kernels.
+            The interactions between stack layers and
+            the kernel may hide unexpected security weaknesses that can be overlooked by the available security
+            mechanisms.
+            This calls for new approaches to the security assessment and enforcement of mobile OSs. We are developing
+            static
+            analysis techniques and empirical studies to assess the security of mobile OSs that have already allowed us
+            to
+            unveil a number of security holes in Android, including a <a
+                href="bugAndroid/bugAndroid.html">vulnerability</a>
+            associated with the Zygote process (affecting all Android-based devices in 2011) and other security flaws
+            affecting the privacy of the user and the usability of the device (July 2012). Our proposed solutions have
+            been
+            officially adopted in Android.
+        </div>
+
+        <div class="col-md-6">
+            <h3>Specification and Automatic Enforcement of BYOD Policies</h3>
+            It is common
+            knowledge that mobile applications can carry viruses and malwares. Modern application stores do not provide
+            actual guarantees about the behavior of the applications they host and, as a consequence, several malicious
+            applications have been discovered in the last years. The concerns about the security of mobile devices risk
+            to
+            discourage the adoption of some emerging technologies as the <em>Bring Your Own Device</em> (BYOD). We
+            research
+            and implement technologies allowing for dealing with the security issues of mobile applications under these
+            assumptions. In particular, we are investigating the notion of <em>secure meta-market</em>, i.e. web
+            services
+            specifically dedicated to applying BYOD security policies to a group of federated mobile devices. Further
+            details about the development of the meta-market can be found <a
+                href="../software/byodroid/index.html">here</a>.
+        </div>
+
+        <div class="col-md-6">
+            <h3>Model Checking of Security Protocols and Security-critical Systems.</h3>
+            <p>
+                SATMC is a SAT-based bounded model
+                checker for security-critical systems that stems from a successful combination of encoding techniques
+                originally
+                developed for planning with others developed for the analysis of reactive systems. SATMC has been
+                successfully
+                applied in variety of application domains (security protocols, security-sensitive business processes,
+                and
+                cryptographic APIs) and for different purposes (design-time security analysis and security testing).
+                SATMC
+                strikes a balance between general purpose model checkers and security protocol analyzers as witnessed by
+                a
+                number of important success stories including the discovery of a serious man-in-the-middle attack on the
+                SAML-based Single Sign-On (SSO) for Google Apps, an authentication flaw in the SAML 2.0 Web Browser SSO
+                Profile,
+                and a number of attacks on PKCS#11 Security Tokens. SATMC is integrated and used as back-end in a number
+                of
+                research prototypes (e.g. the AVISPA Tool, Tookan, the SPaCIoS Tool) and industrial-strength tools (e.g.
+                the
+                Security Validator plugin for SAP NetWeaver BPM).
+            </p>
+            <p>
+                Tools: <a href="../software/satmc/index.html" target="_parent">SATMC</a>.<br>
+                Projects: <a href="http://www.avispa-project.org/aviss/" target="_parent">AVISS</a>,
+                <a href="http://www.avispa-project.org" target="_parent">AVISPA</a>,
+                <a href="../software/vapsi/index.html" target="_parent">V@PSI</a>,
+                <a href="http://www.avantssar.eu" target="_parent">AVANTSSAR</a>,
+                <a href="http://www.spacios.eu" target="_parent">SPaCIoS</a>.
+            </p></div>
+
+        <div class="col-md-6">
+            <h3>Software Model-Checking.</h3>
+            <p>The sophistication of software systems and the safety requirements posed by
+                the increasingly complex environments they operate in call for higher and higher degrees of reliability.
+                These
+                requirements must be achieved precisely (i.e. not only at the design level, but also in the actual
+                implementation). This calls for automated and effective verification techniques in the software
+                development
+                cycle. In this context Software Model Checking has recently become one of the leading approaches to
+                automatic
+                program analysis.
+            </p>
+            <p>We contributed to the development of two software model checking techniques and tools: <a
+                    href="../software/eureka/index.html">Symbolic model checking based of programs manipulating numeric
+                data
+                and arrays</a> <a href="../software/eureka/index.html">SMT-based bounded model checking of programs</a>
+            </p>
+            Tools: <a href="../software/eureka/eureka.php" target="_parent">Eureka</a>, <a
+                    href="../software/eureka/smt-cbmc.php" target="_parent">SMT-CBMC</a>. <br>
+            Projects: <a
+                    href="http://profs.sci.univr.it/%7Ebonacina/prin2003.html" target="_parent">Decision Procedures for
+                Software Model Checking</a>
+        </div>
+
+        <div class="col-md-6">
+            <h3>Synthesis, integration and combination of decision procedures.</h3>
+            <p>
+                Decision procedures are key components
+                of verification tools. We have contributed to the development of a number of techniques for the
+                synthesis,
+                integration and combination of decision procedures for a variety of (decidable) theories of practical
+                interest.
+            </p>
+            <p>Tools: <a href="../software/ccr/index.html" target="_parent">Constraint Contextual Rewriting</a>, <a
+                    href="http://www.star.dist.unige.it/%7Emarco/Tsat/default.htm" target="_parent">TSat++</a>. <br>
+                Projects: <a
+                        href="http://profs.sci.univr.it/%7Ebonacina/prin2003.html" target="_parent">Deduction-based
+                    decision
+                    procedures for program analysis</a>, <a href="http://www.calculemus.net"
+                                                            target="_parent">Calculemus</a>.
+            </p>
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="col-md-12 text-center"><h2>Projects</h2></div>
+    </div>
+
+    <div class="row text-justify">
+        <ul>
+            <li>
+                <a href="http://people.unica.it/bart/2012/10/24/security-horizons/" target="_parent">Security
+                Horizons</a>
+                (2010XSEMLC) funded by the Italian Ministry of Scientific and Technological Research in the context of
+                the
+                PRIN
+                2010-11 programme. Duration: 36 months from
+                February 1, 2013.
+            </li>
+            <li>
+                <strong>Integrating automated reasoning in model checking: towards
+                push-button formal verification of large-scale and infinite-state
+                systems.</strong> (20079E5KM8) funded by the Italian Ministry of Scientific
+                and Technological Research in the context of the PRIN'07 programme.
+                Duration: 24 months from September 20, 2008.
+            </li>
+
+            <li>
+                <strong>IST FET Open Project</strong>
+                <a href="http://www.avispa-project.org" target="_parent">AVISPA: Automated Validation of Internet Security
+                Protocols and Applications</a> (IST-2001-39252) funded by the European
+                Commission in the context of the 5th Framework Programme. Partner
+                Institutions: DIST, University of Genova (Prof. A. Armando,
+                coordinator); Eidgenoessische Technische Hochschule Zurich, ETHZ,
+                Switzerland (Prof. D. Basin); INRIA Lorraine, France (Dr. M.
+                Rusinowitch); Siemens AG, Munich, Germany (Dr. J. Cuellar). Duration:
+                30 months, from January 1, 2003. In 2006 the AVISPA Project received
+                the nomination for the <a href="http://cordis.europa.eu/science-society/descartes/home.html"
+                                          target="_parent">Descartes
+                    Prize for excellence in scientific
+                    collaborative research</a>.
+            </li>
+
+            <li>
+                <strong>An international project for the co-tutoring of PhD students and
+                mutual recognition of the degree in the area of integration of
+                Deduction and Symbolic Computation.</strong> The project has been funded by
+                the Italian Ministry of Scientific and Technological Research in the
+                context of the Program of Internationalisation of the Italian
+                University System (D.M. 21.6.99, art. 7 - Internazionalizzazione, URL:
+                interlink.murst.it).
+            </li>
+
+            <li>
+                <a href="../software/vapsi/index.html" target="_parent">Verifica
+                automatica dei protocolli di sicurezza</a> (RBAU01P5SS) funded by the
+                Italian Ministry of Scientific and Technological Research in the
+                context of the FIRB programme 2001. Partner Institutions: DIST,
+                University of Genova (Prof. A. Armando, coordinator); University of
+                Trento (Prof. F. Massacci); University of Napoli (Prof. M.
+                Benerecetti). Duration: 36 months, from July 1st, 2003.
+            </li>
+
+            <li>
+                <a href="http://www.spacios.eu" target="_parent">SPaCIoS: Secure
+                Provision and Consumption in the Internet of Services</a>, STREP
+                project number 257876, funded by the EU in the context of the 7th
+                Framework Programme, THEME ICT-1-1.4 - Secure, dependable and trusted
+                Infrastructures. Duration: 36 months, from October 1, 2010.
+            </li>
+
+            <li>
+                <a href="http://www.avantssar.eu" target="_parent">AVANTSSAR: Automated
+                Validation of Trust and Security of Service-oriented Architectures</a>,
+                STREP project number 216471, funded by the EU in the context of the 7th
+                Framework Programme, THEME ICT-1-1.4 - Secure, dependable and trusted
+                Infrastructures. Duration: 36 months, from January 1, 2008.
+            </li>
+
+            <li>
+                <a href="http://profs.sci.univr.it/%7Ebonacina/prin2003.html" target="_parent">Decision Procedures for
+                Software
+                Model Checking</a>
+                (2003097383-002) funded by the Italian Ministry of Scientific and
+                Technological Research in the context of the PRIN'03 programme.
+                Duration: 24 months from November 1, 2003.
+            </li>
+
+            <li>
+                <a href="http://www.avispa-project.org/aviss/" target="_parent">AVISS:
+                Automated Verification of Infinite State Systems</a> (IST-2000-26410)
+                funded by the European Union in the context of the Future and Emerging
+                Technologies Programme of the 5th Framework Programme.
+            </li>
+
+            <li>
+                <strong>Integration of Decision Procedures in Automated Deduction</strong> in
+                collaboration with Dr. Michael Rusinowitch (INRIA Lorraine). Funded by
+                the French Ministry of Foreign Affairs and CRUI (Conferenza dei Rettori
+                delle Università Italiane) through the Italian Ministry of Scientific
+                and a Technological Research (MURST) in the context of the Programme
+                Galileo 1999.
+            </li>
+
+            <li>
+                Research Training Network <a href="http://www.calculemus.net" target="_parent">CALCULEMUS: Systems for
+                Integrated Computation and
+                Deduction</a> (HPRNCT-2000-00102), Funded by the European Union in the
+                context of the Programme Improving Human Research Potential and the
+                Socio-Economic Knowledge Base of the 5th Framework Program.
+            </li>
+
+            <li>
+                <strong>The Use of Metatheoretic and Analogical Reasoning in Proof Planning</strong>
+                in collaboration with Prof. Joerg Siekmann of the Department of
+                Computer Science of the University of Saarbruecken o u (Germania).
+                Funded by CRUI (Conferenza dei Rettori delle Università Italiane) and
+                DAAD in a the context of the Programme Vigoni.
+            </li>
+
+            <li>
+                <strong>Automation of Program Synthesis in Proof-Planning</strong> in
+                collaboration with Prof. Alan Bundy of the Department of Artificial
+                Intelligence of the University of Edinburgh. Funded by CRUI (Conferenza
+                dei Rettori delle Università Italiane) and the British Council in the
+                context of the a British-Italian Cooperation Programme for Research and
+                High Education.
+            </li>
+        </ul>
+    </div>
+
+</div>
+</body>
+</html>
