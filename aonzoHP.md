@@ -38,7 +38,8 @@ title: Homepage of Simone Aonzo
 |                Degree               |      Course Taught      | From: (a.y.) | To: (a.y.) | Tot. yrs. |
 |:-----------------------------------:|:-----------------------:|:------------:|:----------:|:---------:|
 |        B.Sc. Computer Engineering   | Calcolatori Elettronici |    2017      |     now    |     1     |
-|        B.Sc. Computer Engineering   | Laboratorio di Progettazione e Analisi di Algoritmi | 2017 | now | 1 |
+|        B.Sc. Computer Engineering   | Laboratorio di Progettazione e Analisi di Algoritmi | 2017 | now | 1 |
+|        B.Sc. Computer Science       | Sviluppo Applicazioni Web | 2017 | now | 1 |
 
 ## Personal Links
 
