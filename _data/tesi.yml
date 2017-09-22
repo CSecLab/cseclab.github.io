@@ -26,6 +26,32 @@
     - title: M. Curti, A. Merlo, M. Migliardi, S. Schiappacasse, "Towards energy-aware intrusion detection systems on mobile devices", in Proc. of HPCS 2013.
       link: http://ieeexplore.ieee.org/document/6641428/
 
+- title: TEA - Enabling THCE on Android devices
+  author: Luca Lorrai
+  period: 1/9/2015 - 31/03/2016
+  supervisor: Alessio Merlo
+  supervisorurl: http://www.csec.it/people/alessio
+  pubblications:
+    - title: A. Merlo, L. Lorrai, L. Verderame, "Efficient trusted host-based card emulation on TEE-enabled Android devices", in Proc. of HPCS 2016.
+      link: http://ieeexplore.ieee.org/document/7568370/?reload=true
+
+- title: RiskInDroid - Risk Analysis for Android applications
+  author: Gabriel Claudiu Georgiu
+  period: 1/1/1970 - 28/10/2016
+  supervisor: Alessio Merlo
+  supervisorurl: http://www.csec.it/people/alessio
+  link: http://csec.it/riskindroid/
+  pubblications:
+    - title: A. Merlo, G. C. Georgiu, "RiskInDroid - Machine Learning-Based Risk Analysis on Android", in Proc. of IFIP-SEC 2017.
+      link: https://link.springer.com/chapter/10.1007/978-3-319-58469-0_36
+      
+- title: Building behavioural models for the security analysis of iOS applications
+  author: Gianluca Barbera
+  period: 1/11/2016 - 21/7/2017
+  supervisor: Alessio Merlo
+  supervisorurl: http://www.csec.it/people/alessio
+
+
 - title: A Centralized Approach for the Management of Mobile Code Security Policies
   author: Gabriele De Maglie, Fabio Tollini
   period: 9/2012 - 3/2013
