@@ -8,9 +8,13 @@ title: Tesi
 ---
 
 {% if tesi.link %}
-##[{{ tesi.title }}]({{ tesi.link }})
+
+## [{{ tesi.title }}]({{ tesi.link }})
+
 {% else %}
-##{{tesi.title}}
+
+## {{tesi.title}}
+
 {% endif %}
 
 **{{ tesi.author }}**
