@@ -13,6 +13,6 @@ layout: page
 
 ## Ph.D. Students, Collaborators and Student Members
 
-* Simone Aonzo
+* [Simone Aonzo](simone_aonzo)
 * Enrico Russo
-* Andrea Valenza
+* [Andrea Valenza](andrea_valenza)
