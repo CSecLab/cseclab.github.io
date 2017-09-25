@@ -1,9 +1,7 @@
 --- 
 layout: page
-title: Homepage of Andrea Valenza
+title: Andrea Valenza
 ---
-
-# Homepage of Andrea Valenza
 
 ![Andrea's pic is missing.](/pics/valenza.jpg)
 

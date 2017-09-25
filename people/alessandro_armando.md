@@ -1,10 +1,7 @@
 --- 
 layout: page
-title: Homepage of Alessandro Armando
+title: Alessandro Armando
 ---
-
-# Homepage of Alessandro Armando
-
 
 ![Alessandro's pic is missing.](http://www.dibris.unige.it/public/staff/img/foto_54567.jpg)
 
