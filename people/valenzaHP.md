@@ -11,7 +11,7 @@ title: Homepage of Andrea Valenza
 ## Short Bio
 - Born in [Albenga](https://en.wikipedia.org/wiki/Albenga), [Liguria](https://en.wikipedia.org/wiki/Liguria), the **30th of May, 1989**
 - **Mar. 2015**: M.Sc. (LM-18) in Computer Engineering at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
-- **Mar. 2017**: Post-degree II Level Master in *Cyber Security and Data Protection*[Master Cyber Security and Data Protection](https://mastercybersecurity.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
+- **Mar. 2017**: Post-degree II Level [Master Cyber Security and Data Protection](https://mastercybersecurity.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 
 
 ## Previous Jobs
