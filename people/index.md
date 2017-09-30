@@ -14,3 +14,4 @@ layout: page
 * [Simone Aonzo](simone_aonzo)
 * Enrico Russo
 * [Andrea Valenza](andrea_valenza)
+* [Luca Demetrio](luca_demetrio)
