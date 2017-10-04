@@ -8,6 +8,7 @@ title: Projects
 ## International Projects
 
 - **[SPaCIoS Project](http://www.spacios.eu)**, Project no. 257876, FP7-ICT-2009-5, ICT-2009.1.4: Trustworthy ICT, funded by EC. Total funding: €3.610.000. 
+
 ## National Projects
 
 - **[Smart Intelligent and Eco-friendly Mobility Project](http://www.s3lab.polito.it/progetti/progetti_in_corso/mie)**, funded by the Italian Ministry of Education, University and Research (MIUR). Total funding: € 7.782.800. 
