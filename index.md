@@ -32,4 +32,4 @@ The Computer Security Lab (CSecLab), hosted at DIBRIS, University of Genoa, has 
 - Phone: +39 010 353 6545
 
 ### This lab is part of the National Lab for Cyber Security
-![The Laboratorio Nazionale logo should be here :( ](/pics/lab-naz-logo.png)
+![The Laboratorio Nazionale logo should be here :( ](/pics/labo-naz-logo.png)
