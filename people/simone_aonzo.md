@@ -1,9 +1,7 @@
 --- 
 layout: page
-title: Homepage of Simone Aonzo
+title: Simone Aonzo
 ---
-
-# Homepage of Simone Aonzo
 
 
 ![Simone's pic is missing.](/pics/aonzo.jpg)
