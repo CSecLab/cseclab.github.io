@@ -1,9 +1,7 @@
 --- 
 layout: page
-title: Homepage of Simone Aonzo
+title: Simone Aonzo
 ---
-
-# Homepage of Simone Aonzo
 
 
 ![Simone's pic is missing.](/pics/aonzo.jpg)
@@ -11,7 +9,7 @@ title: Homepage of Simone Aonzo
 
 ## Short Bio
 - Born in [Savona](https://en.wikipedia.org/wiki/Savona), [Liguria](https://en.wikipedia.org/wiki/Liguria), the **1st of Aug. 1988**
-- **Oct. 2015**: M.Sc. (LM-18) *cum laude* in Computer Science at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
+- **Oct. 2015**: Master of Science (LM-18) *cum laude* in Computer Science at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 
 
 ## Previous Jobs
@@ -43,8 +41,8 @@ title: Homepage of Simone Aonzo
 
 ## Personal Links
 
-- [Blog](https://sixthevicious.wordpress.com/) 
-- [GitHub](https://github.com/six110) 
+- [Blog](https://packmad.github.io) 
+- [GitHub](https://github.com/packmad) 
 
 
 ## Contacts
@@ -52,4 +50,3 @@ title: Homepage of Simone Aonzo
 - **Office**: [Viale Francesco Causa, 13, I-16145, Genoa, Italy.](https://www.google.it/maps/place/44°24'07.0%22N+8°57'38.7%22E/@44.4019444,8.9596557,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d44.401932!4d8.960757)
 - **Email**: simone.aonzo (A) dibris.unige.it 
 - **Phone**: +39 010 353 2344
-

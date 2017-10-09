@@ -249,7 +249,7 @@ title: Homepage of Alessio Merlo
 
 ### Ph.D. Supervision
 
-- **2017-2019**: Doctoral Supervisor of *[Simone Aonzo](https://it.linkedin.com/pub/simone-aonzo/88/ab6/796)* (Cycle XXXII), DIBRIS, University of Genoa. 
+- **2017-2019**: Doctoral Supervisor of *[Simone Aonzo](http://csec.it/people/simone_aonzo/)* (Cycle XXXII), DIBRIS, University of Genoa. 
 - **2013-2016**: Doctoral Supervisor of *[Luca Verderame](https://it.linkedin.com/in/lucaverderame)* (Cycle XXVIII), DIBRIS, University of Genoa.
 
 
