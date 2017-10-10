@@ -46,7 +46,7 @@ Simone Aonzo (Ph.D. Student, DIBRIS, Genoa)
 *3:10 p.m. - 3:40 p.m.*
 
 ![Luca's pic is missing.](https://0.academia-photos.com/5425175/12959777/14326083/s200_luca.caviglione.png){:height="100px"}
-Luca Caviglione
+Luca Caviglione (Researcher, ISSIA-CNR, Genoa)
 
 **Abstract**: Information hiding techniques are increasingly used by malware to hide itsexistence and communication attempts. Investigating how covert channels can empower
 malicious software is essential to fully understand the cybersecurity panorama. This talk
@@ -65,7 +65,7 @@ facility.
 *3:55 p.m. - 4:55 p.m.*
 
 ![Michele's pic is missing.](https://regmedia.co.uk/2016/11/21/michele_orru_antisnatchor_87587.jpg){:height="100px"}
-Michele Orrù 
+Michele Orrù (freelancer Security Expert)
 
 **Abstract**: Phishing is a quick, reliable and cost-efficient way of hacking humans.
 Since human evolution goes way slower than common beliefs, exploiting software through people, rather than just exploiting software, is convenient. This talk will discuss phishing techniques from an offensive
