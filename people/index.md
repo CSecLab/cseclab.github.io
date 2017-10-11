@@ -7,7 +7,9 @@ layout: page
 
 * [Alessandro Armando](alessandro_armando)
 * [Gabriele Costa](gabriele_costa)
+* Giovanni Lagorio
 * [Alessio Merlo](alessio_merlo)
+
 
 # Ph.D. Students, Collaborators and Student Members
 
@@ -15,3 +17,8 @@ layout: page
 * Enrico Russo
 * [Andrea Valenza](andrea_valenza)
 * [Luca Demetrio](luca_demetrio)
+
+# Externals
+
+* Gabriel Claudiu Georgiu
+* Luca Verderame
