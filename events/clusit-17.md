@@ -1,13 +1,13 @@
 ---
 layout: page
-title: 2017 CSecLab Workshop on Hot Topics in Computer Security
+title: 2017 Workshop on Hot Topics in Computer Security
 ---
 
 {:style="text-align: center"}
 ![clusit](/events/clusit.jpg){:style="height:100px; margin: 10px 10px;"}
 ![unige](/events/unige.png){:style="height:100px; margin: 10px 10px"}
 
-The Computer Security Lab Research Group at [DIBRIS - University of Genoa](http://www.dibris.unige.it/en). in collaboration with [CLUSIT The Italian Association for Computer Security)](http://www.clusit.it/) is proud to organize the "2017 CSecLab Workshop on Hot Topics in Computer Security". The event is organized within the framework of the [European Cyber Security Month (ECSM)](http://cybersecuritymonth.eu/).
+The [University of Genoa](http://www.unige.it), in collaboration with [CLUSIT The Italian Association for Computer Security)](http://www.clusit.it/), is proud to organize the "2017 Workshop on Hot Topics in Computer Security". The event is organized within the framework of the [European Cyber Security Month (ECSM)](http://cybersecuritymonth.eu/).
 
 - **Date:** October 17, 2017.
 - **Time:** From 2:00 p.m. to 5:00 p.m.
