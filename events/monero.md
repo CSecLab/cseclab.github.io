@@ -4,8 +4,11 @@ title: Monero: the dark side of cryptocurrencies
 ---
 
 **TITLE:** *Monero: the dark side of cryptocurrencies*
+
 **SPEAKER:** prof. Massimiliano Sala (Università di Trento)
+
 **WHEN:** Friday, Oct 20, 2017 at 4:00pm
+
 **WHERE:** DIBRIS, Università di Genova, Aula 710, Via Dodecaneso, 35 - Genova
 
 **ABSTRACT:** While Bitcoin aims at achieving anonimity, specific de-anonymization techniques have been developed that often work in practice. The problem lies in the restricted set of cryptographic primitives that is used in Bitcoin. On the other hand, Monero is a cryptocurrency employing ring signatures and other advanced cryptographic primitives, hiding thus much better both sender and receiver, while concealing completely the exchanged amount. Anedoctal evidence suggests that the black market is leaving Bitcoin to adopt Monero as a standard cryptocurrency.
