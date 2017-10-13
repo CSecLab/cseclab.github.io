@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Monero: the dark side of cryptocurrencies
+title: "Monero: the dark side of cryptocurrencies"
 ---
 
 *TITLE:* **Monero: the dark side of cryptocurrencies**
