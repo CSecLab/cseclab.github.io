@@ -5,7 +5,7 @@ title: Home of the Computer Security Lab (CSecLab)
 
 # Computer Security Lab
 
-![The CSecLab logo should be here :( ](/pics/logo.png)
+# ![The CSecLab logo should be here :( ](/pics/logo.png)
 
 ### [DIBRIS](http://www.dibris.unige.it/en) - [University of Genoa](http://www.unige.it/en)
 ## Mission
