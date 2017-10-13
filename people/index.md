@@ -18,7 +18,7 @@ layout: page
 * [Andrea Valenza](andrea_valenza)
 * [Luca Demetrio](luca_demetrio)
 
-# Externals
+# External Members
 
-* Gabriel Claudiu Georgiu
-* Luca Verderame
+* Gabriel Claudiu Georgiu ([Talos Security](http://www.talos-sec.com))
+* Luca Verderame ([Talos Security](http://www.talos-sec.com))
