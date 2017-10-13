@@ -3,7 +3,7 @@ layout: page
 title: Computer Security Lab (CSecLab)
 ---
 
-![The CSecLab logo should be here :( ](/pics/logo.png)
+# ![The CSecLab logo should be here :( ](/pics/logo.png)
 
 ## [DIBRIS](http://www.dibris.unige.it/en) - [University of Genoa](http://www.unige.it/en)
 
