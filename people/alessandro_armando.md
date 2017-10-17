@@ -100,7 +100,10 @@ I have been Program Chair of the following scientific events:
 
 I served in the Program Committee of the following scientific events:
 
-- 30th AAAI Conference on Artificial Intelligence, (AAAI-16), 2016.
+- 31st IEEE Computer Security Foundations Symposium (CSF 2018), 2018.
+- 23rd ACM Symposium on Access Control Models and Technologies (SACMAT'18), 2018.
+- Italian Conference on Cybersecurity (ITASEC), 2017 and 2018 (2 editions).
+- 30th AAAI Conference on Artificial Intelligence (AAAI-16), 2016.
 - 4th International Seminar on Program Verification, Automated Debugging and Symbolic Computation (PAS 2015), Beijing, China, October 21-23, 2015.
 - Conference on Principles of Security and Trust (POST), 2015 and 2016 (2 editions).
 - 10th International Symposium on Trustworthy Global Computing (TGC), 2015.
