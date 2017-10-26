@@ -10,8 +10,8 @@ Besides a detailed description of the vulnerabilities discovered during the anal
 Please fill this form to receive a copy of the report.
 
 <form style="margin: 0 auto;" action="https://cseclab-mailing-list.herokuapp.com/" method="POST">
-    <input type="text" name="first_name" placeholder="First name"><br/>
-    <input type="text" name="last_name" placeholder="Last name"><br/>
-    <input type="email" name="email" placeholder="your@email.com"><br/>
+    <input type="text" name="first_name" placeholder="First name" required><br/>
+    <input type="text" name="last_name" placeholder="Last name" required><br/>
+    <input type="email" name="email" placeholder="your@email.com" required><br/>
     <button type="submit">Submit</button>
 </form>
