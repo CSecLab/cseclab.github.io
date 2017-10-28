@@ -17,3 +17,6 @@ title: Projects
 - **[Security and Cloud Computing Project](https://sites.google.com/a/manydesigns.com/cloud_security/)**, POR Liguria, funded by Liguria Region. 
 - **[SINTESIS Project](http://www.siitscpa.it/index.php/progetti/2011-09-24-14-26-54/sintesis)**, funded by the Italian Ministry of Education, University and Research (MIUR). 
 
+# Reports
+
+- [Mobile Banking Applications 2017](report-banking-app)
