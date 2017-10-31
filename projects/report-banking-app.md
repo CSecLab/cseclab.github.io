@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mobile Banking Application Report
+title: Mobile Banking Security Report
 ---
 
 This report (available in Italian) is a joint effort among Computer Security Lab (CSecLab) at the University of Genova, the Italian Financial Cert ([CERTFin](https://www.certfin.it/)) and [Talos](https://www.talos-sec.com/).
