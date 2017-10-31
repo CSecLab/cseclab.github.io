@@ -19,4 +19,4 @@ title: Projects
 
 # Reports
 
-- [Mobile Banking Applications 2017](report-banking-app)
+- [Mobile Banking Security Report 2017](report-banking-app)
