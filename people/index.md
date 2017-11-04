@@ -7,7 +7,7 @@ layout: page
 
 * [Alessandro Armando](alessandro_armando)
 * [Gabriele Costa](gabriele_costa)
-* Giovanni Lagorio
+* [Giovanni Lagorio](giovanni_lagorio)
 * [Alessio Merlo](alessio_merlo)
 
 
