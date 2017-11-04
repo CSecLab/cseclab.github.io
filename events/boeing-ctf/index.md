@@ -1,7 +1,11 @@
 ---
-title: Boeing CTF
+title: Boeing Capture The Flag (CTF) competition
 layout: page
 ---
+
+Two 5000$ scholarships will be granted to the two top participants.
+
+[Official call](bando-boeing-ctf.pdf)
 
 
 # Rulebook
