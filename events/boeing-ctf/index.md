@@ -1,9 +1,16 @@
 ---
-title: Boeing Capture The Flag (CTF) competition
+title: Boeing-UNIGE Scholarship Project  2017/2018
 layout: page
 ---
 
-Two 5000$ scholarships will be granted to the two top participants.
+Il Dipartimento di Informatica, Bioingegneria, Robotica e Ingegneria dei Sistemi (DIBRIS) dell’Università degli Studi di Genova in collaborazione con Boeing Company ha istituito 2 Borse di Studio per l’a.a. 2017/2018 nell’ambito del Progetto “BOEING-UNIGE Scholarship Project”. 
+
+L’assegnazione delle borse è riservata a studenti regolarmente iscritti, entro la durata normale, a tempo pieno ad un corso di studio di Laurea Triennale o di Laurea Magistrale dell’Università degli Studi di Genova che siano risultati i 2 migliori nella prova di selezione del “Boeing-UNIGE Scholarship Project 2017/2018”.
+
+La prova di selezione si terrà nel mese di febbraio 2018 e consisterà in una esercitazione pratica di Cybersecurity stile “Capture the Flag” (CTF).
+
+
+
 
 [Official call](bando-boeing-ctf.pdf)
 
