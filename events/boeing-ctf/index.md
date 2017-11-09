@@ -11,7 +11,11 @@ Per maggiori informazioni gli interessati sono invitati a consultare il [Bando u
 
 La prova di selezione (Boeing-UNIGE CTF 17/18) si terrà il 5/2/2018 e consisterà in una esercitazione pratica di Cybersecurity stile “Capture the Flag” (CTF).
 
-In preparazione della prova di selezione ai candidati verrà data la possibilità di partecipare ad un ciclo di incontri e di esercitazioni pratiche al calcolatore (hands-on sessions).
+In preparazione della prova di selezione verrà organizzato un ciclo di incontri e di esercitazioni pratiche al calcolatore (hands-on sessions) su:
+* penetation testing
+* web security
+* mobile security
+* binary analysis
 
 Gli studenti interessati sono invitati registrarsi preventivamemente alla pagina AulaWeb dedicata al [Boeing-UNIGE Scholarship Project 2017/2018][...] dove troveranno:
 
