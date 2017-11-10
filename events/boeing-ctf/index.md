@@ -3,7 +3,7 @@ title: Boeing-UNIGE Scholarship Project  2017/2018
 layout: page
 ---
 
-Il Dipartimento di Informatica, Bioingegneria, Robotica e Ingegneria dei Sistemi (DIBRIS) dell’Università degli Studi di Genova in collaborazione con Boeing Company ha istituito 2 Borse di Studio per l’a.a. 2017/2018 nell’ambito del Progetto “Boeing-UNIGE Scholarship Project”. 
+Il Dipartimento di Informatica, Bioingegneria, Robotica e Ingegneria dei Sistemi ([DIBRIS](http://www.dibris.unige.it)) dell’Università degli Studi di Genova in collaborazione con [Boeing Company](http://www.boeing.com/) ha istituito 2 Borse di Studio per l’a.a. 2017/2018 nell’ambito del Progetto “Boeing-UNIGE Scholarship Project”. 
 
 L’assegnazione delle borse è riservata a studenti regolarmente iscritti, entro la durata normale, a tempo pieno ad un corso di studio di Laurea Triennale o di Laurea Magistrale dell’Università degli Studi di Genova che siano risultati i 2 migliori nella prova di selezione del “Boeing-UNIGE Scholarship Project 2017/2018”.
 
@@ -17,17 +17,16 @@ In preparazione della prova di selezione verrà organizzato un ciclo di incontri
 * mobile security
 * binary analysis
 
-Gli studenti interessati sono invitati registrarsi preventivamemente alla pagina AulaWeb dedicata al [Boeing-UNIGE Scholarship Project 2017/2018][...] dove troveranno:
+Gli studenti interessati sono invitati registrarsi preventivamemente alla pagina AulaWeb dedicata al [Boeing-UNIGE Scholarship Project 2017/2018](https://dibris.aulaweb.unige.it/mod/reservation/view.php?id=33092) dove troveranno:
 
-* la *form* per esprimere la propria candidatura (da effettuarsi inderogabilmente entro il GG/MM/AAAA),
+* la *form* per esprimere la propria candidatura (da effettuarsi inderogabilmente entro il 31/01/2017),
 * il calendario degli incontri di preparazione alla CFT e
 * il Regolamento della CTF.
 
 ### Date importanti:
 
-* Invio della candidatura: GG/MM/AAAA
+* Termine di invio della candidatura: 31/01/2018
 * Prova di selezione (Boeing-UNIGE CTF 17/18)
-
 
 
 
