@@ -17,7 +17,7 @@ Gli studenti interessati sono invitati registrarsi preventivamemente alla pagina
 
 * la *form* per esprimere la propria candidatura (da effettuarsi inderogabilmente entro il 15/01/2018),
 * il calendario degli incontri di preparazione alla CFT e
-* il [Regolamento](regolamento.md) della CTF.
+* il Regolamento della CTF.
 
 ### Date importanti:
 
