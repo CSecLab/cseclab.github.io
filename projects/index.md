@@ -3,6 +3,10 @@ layout: page
 title: Projects
 ---
 
+# Training Projects
+
+- **[Boeing-UNIGE Scholarship Project](/events/boeing-ctf/index)**, funded by Boeing Company. 
+
 # Research Projects
 
 ## International Projects
