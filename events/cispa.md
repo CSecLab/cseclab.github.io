@@ -3,7 +3,7 @@ layout: page
 title: CISPA Public Presentation at DIBRIS
 ---
 
-October 5, 2018
+October 5, 2017
 ===============
 
 10:00-11:00: **CISPA – One of Europe’s leading research sites of IT security**
