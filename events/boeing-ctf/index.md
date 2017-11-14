@@ -21,5 +21,5 @@ Gli studenti interessati sono invitati registrarsi preventivamemente alla pagina
 
 ### Date importanti:
 
-* Termine di invio della candidatura: 15/01/2018, ore 12
+* Termine di invio della candidatura: 15/01/2018, ore 12:00
 * Prova di selezione (Boeing-UNIGE CTF 17/18)
