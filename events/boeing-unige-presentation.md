@@ -36,20 +36,20 @@ title: Boeing-UNIGE Scholarship Project 2017/2018 - Presentation to the Students
 <br><br>
 ![Amazena](/events/boeing-ctf/photos/amazena2.jpg)
 <br><br>
-![Amazena](/events/boeing-ctf/photos/sanity_check_.jpg)
+![Amazena](/events/boeing-ctf/photos/sanity_check.jpg)
 <br><br>
 ![Amazena](/events/boeing-ctf/photos/barbie.jpg)
 <br><br>
 ![Amazena](/events/boeing-ctf/photos/winner.jpg)
 *Enrico Russo and Andrea Valenza present Amazena to the audience: a simplified CTF with real prizes*
 <br><br>
-![Vestito](/events/boeing-ctf/photos/Vestito1.jpg)
+![Vestito](/events/boeing-ctf/photos/vestito1.jpg)
 <br><br>
-![Vestito](/events/boeing-ctf/photos/Vestito3.jpg)
+![Vestito](/events/boeing-ctf/photos/vestito3.jpg)
 <br><br>
-![Vestito](/events/boeing-ctf/photos/Vestito5.jpg)
+![Vestito](/events/boeing-ctf/photos/vestito5.jpg)
 <br><br>
-![Vestito](/events/boeing-ctf/photos/Vestito6.jpg)
+![Vestito](/events/boeing-ctf/photos/vestito6.jpg)
 *Gen. F. Vestito during his speech*
 <br><br>
 ![Vestito](/events/boeing-ctf/photos/audience1.jpg)
