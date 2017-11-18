@@ -20,6 +20,7 @@ title: Luca Demetrio
 * [Wattpad](https://www.wattpad.com/user/LucaDemetrio)
 
 # What Am I Interested In?
+* [Decompilers](https://en.wikipedia.org/wiki/Decompiler)
 * [Cyber Security](https://en.wikipedia.org/wiki/Computer_security)
 * [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 * [Videogames Development](https://en.wikipedia.org/wiki/Video_game_development)
@@ -27,5 +28,5 @@ title: Luca Demetrio
 
 # How to Reach Me?
 * **Office**: find Room 309 (see sections above) and ask for me!
-* **Email**: [3763706 (A) studenti.unige.it](mailto://3763706@studenti.unige.it)
-* **Phone**: not sure if I'll have one...
+* **Email**: luca.demetrio (A) dibris.unige.it
+* **Phone**: 6616
