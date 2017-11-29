@@ -3,7 +3,7 @@ title: Events
 layout: page
 ---
 
-* Dec 11-18 - [*PhD course: Introduction to reverse engineering and exploitation of binary programs*](phd-course-binaries), prof. Giovanni Lagorio (Università di Genova)
+* Dec 11-18, 2017 - [*PhD course: Introduction to reverse engineering and exploitation of binary programs*](phd-course-binaries), prof. Giovanni Lagorio (Università di Genova)
 * Nov 14, 2017, 4:30pm - [*Boeing-UNIGE Scholarship Project 2017/2018: presentation to the students*](boeing-unige-presentation)
 * Oct 20, 2017, 4:00pm - Technical Seminar: [*Monero: the dark side of cryptocurrencies*](monero), Prof. Massimiliano Sala (Università di Trento)
 * Oct 17, 2017, 2:00pm - Workshop [2017 CLUSIT Workshop on Hot Topics in Computer Security](clusit-17)
