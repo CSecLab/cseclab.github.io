@@ -12,9 +12,9 @@ title: Simone Aonzo
 - **Oct. 2015**: Master of Science (LM-18) *cum laude* in Computer Science at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 
 
-## Previous Jobs
+## Jobs
 - **Network and Computer Systems Administrators** at [Tekmeria](http://teknoos.it) (2008-2010)
-- **Security Software Developer** at [Talos](http://www.talos-sec.com) (2015-2016)
+- **Security Developer / Pentester** at [Talos](http://www.talos-sec.com) (2015-now, collaborator)
 
 
 ## Current position
@@ -26,14 +26,14 @@ title: Simone Aonzo
   * [Mobile Security](https://en.wikipedia.org/wiki/Mobile_security)
   * [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
   * [Binary/Malware Analysis](https://en.wikipedia.org/wiki/Malware_analysis)
-  * [Exploitation Techniques](https://en.wikipedia.org/wiki/Exploit_(computer_security))
+  * [Exploitation Techniques](https://en.wikipedia.org/wiki/Exploit_(computer_security)
+
 
 ## Publications
 - [DBLP](http://dblp.uni-trier.de/pers/hd/a/Aonzo:Simone)
 - [Semantic Scholar](https://www.semanticscholar.org/author/Simone-Aonzo/23164826)
 
 
-http://dblp.uni-trier.de/pers/hd/a/Aonzo:Simone
 ## Teaching Activity
 
 ### (2017-now) Teaching support, DIBRIS, University of Genoa.
@@ -48,10 +48,11 @@ http://dblp.uni-trier.de/pers/hd/a/Aonzo:Simone
 
 - [Blog](https://packmad.github.io)
 - [GitHub](https://github.com/packmad)
+- [ZenHack CTF team](http://zenhack.team/)
 
 
 ## Contacts
 
-- **Office**: [Viale Francesco Causa, 13, I-16145, Genoa, Italy.](https://www.google.it/maps/place/44°24'07.0%22N+8°57'38.7%22E/@44.4019444,8.9596557,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d44.401932!4d8.960757)
 - **Email**: simone.aonzo (A) dibris.unige.it
-- **Phone**: +39 010 353 2344
+- **Phone**: +39 010 353 6545
+- **Office**: [Viale Francesco Causa, 13, I-16145, Genoa, Italy.](https://www.google.it/maps/place/44°24'07.0%22N+8°57'38.7%22E/@44.4019444,8.9596557,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d44.401932!4d8.960757)
