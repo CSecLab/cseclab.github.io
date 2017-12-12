@@ -19,21 +19,24 @@ Lectures will contain practical activities, therefore participants need to bring
 
 The exam consists in the exploitation of some 32/64-bit programs (a different set for each student), and a subsequent discussion of the used techniques and tools.
 
-# Contents
+# Laptop setup
+Assuming a Debian-based distro
+* [Radare2](http://www.radare.org/r/) (and more) [installation instructions](https://ghostbin.com/paste/ayf9g)
+* My [.radare2rc](https://ghostbin.com/paste/xywks)
+
+# Course contents and materials
 * x86/x64 Assembly on Linux
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/x86intro_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/x86intro_files.tgz)
-  * [Radare2](http://www.radare.org/r/) (and more) [installation instructions](https://ghostbin.com/paste/ayf9g)
-  * My [.radare2rc](https://ghostbin.com/paste/xywks)
-  * Videos on Youtube: [Part1](https://www.youtube.com/watch?v=cZPPF4z21A8) [Part2](https://www.youtube.com/watch?v=ffrtzZ0QwVM) [Part3](https://www.youtube.com/watch?v=N2VNq-cWHPU)
+  * Lectures on Youtube: [Part1](https://www.youtube.com/watch?v=cZPPF4z21A8) [Part2](https://www.youtube.com/watch?v=ffrtzZ0QwVM) [Part3](https://www.youtube.com/watch?v=N2VNq-cWHPU)
 * Binary Reversing
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/reversing_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/reversing_files.tgz)
-  * Videos on Youtube: *upcoming*
+  * Lectures on Youtube: *upcoming*
 * Binary Exploitation on Linux
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/exploitation_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/exploitation_files.tgz)
-  * Videos on Youtube: *upcoming*
+  * Lectures on Youtube: *upcoming*
 * Fuzzying
   * ... *maybe* ... (working on it!)
 
