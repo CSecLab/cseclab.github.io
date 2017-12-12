@@ -19,7 +19,7 @@ Lectures will contain practical activities, therefore participants need to bring
 
 The exam consists in the exploitation of some 32/64-bit programs (a different set for each student), and a subsequent discussion of the used techniques and tools.
 
-# Laptop setup
+# Laptop (VM?) setup
 Assuming a Debian-based distro
 * [Radare2](http://www.radare.org/r/) (and more) [installation instructions](https://ghostbin.com/paste/ayf9g)
 * My [.radare2rc](https://ghostbin.com/paste/xywks)
