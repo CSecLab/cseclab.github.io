@@ -26,6 +26,7 @@ Assuming a Debian-based distro
 * My [.radare2rc](https://ghostbin.com/paste/xywks)
 
 # Course contents and materials
+Lectures (in Italian) are available on [Youtube](https://www.youtube.com/playlist?list=PLR11TQ3H_K1uRaoCvgdoldzLmksw9D06B)
 * x86/x64 Assembly on Linux
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/x86intro_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/x86intro_files.tgz)
@@ -33,11 +34,11 @@ Assuming a Debian-based distro
 * Binary Reversing
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/reversing_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/reversing_files.tgz)
-  * Lectures on Youtube: *upcoming*
+  * Lectures on Youtube: [Part 4](https://www.youtube.com/watch?v=zwUYxLYJWhQ) and [Part 5](https://www.youtube.com/watch?v=u6GEM5R5u9E)
 * Binary Exploitation on Linux
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/exploitation_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/exploitation_files.tgz)
-  * Lectures on Youtube: *upcoming*
+  * Lectures on Youtube: [Part 6](https://www.youtube.com/watch?v=DhE9e-pVQ-o)
 * Fuzzying
   * ... *maybe* ... (working on it!)
 
