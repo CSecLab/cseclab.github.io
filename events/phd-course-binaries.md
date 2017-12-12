@@ -38,7 +38,7 @@ Lectures (in Italian) are available on [Youtube](https://www.youtube.com/playlis
 * Binary Exploitation on Linux
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/exploitation_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/exploitation_files.tgz)
-  * Lectures on Youtube: [Part 6](https://www.youtube.com/watch?v=DhE9e-pVQ-o)
+  * Lectures on Youtube: [Part 6](https://www.youtube.com/watch?v=DhE9e-pVQ-o), ... *to be continued* ...
 * Fuzzying
   * ... *maybe* ... (I'm working on it!)
 
