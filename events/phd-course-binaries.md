@@ -30,15 +30,15 @@ Lectures (in Italian) are available on [Youtube](https://www.youtube.com/playlis
 * x86/x64 Assembly on Linux
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/x86intro_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/x86intro_files.tgz)
-  * Lectures on Youtube: [Part 1](https://www.youtube.com/watch?v=cZPPF4z21A8), [Part 2](https://www.youtube.com/watch?v=ffrtzZ0QwVM) and [Part 3](https://www.youtube.com/watch?v=N2VNq-cWHPU)
+  * Lectures on Youtube: [Part 1](https://www.youtube.com/watch?v=cZPPF4z21A8), [Part 2](https://www.youtube.com/watch?v=ffrtzZ0QwVM), [Part 3](https://www.youtube.com/watch?v=N2VNq-cWHPU) and [Part 4](https://www.youtube.com/watch?v=zwUYxLYJWhQ)
 * Binary Reversing
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/reversing_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/reversing_files.tgz)
-  * Lectures on Youtube: [Part 4](https://www.youtube.com/watch?v=zwUYxLYJWhQ) and [Part 5](https://www.youtube.com/watch?v=u6GEM5R5u9E)
+  * Lecture on Youtube: [Part 5](https://www.youtube.com/watch?v=u6GEM5R5u9E)
 * Binary Exploitation on Linux
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/exploitation_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/exploitation_files.tgz)
   * Lectures on Youtube: [Part 6](https://www.youtube.com/watch?v=DhE9e-pVQ-o)
 * Fuzzying
-  * ... *maybe* ... (working on it!)
+  * ... *maybe* ... (I'm working on it!)
 
