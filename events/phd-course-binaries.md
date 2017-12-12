@@ -28,7 +28,7 @@ Assuming a Debian-based distro
 * x86/x64 Assembly on Linux
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/x86intro_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/x86intro_files.tgz)
-  * Lectures on Youtube: [Part1](https://www.youtube.com/watch?v=cZPPF4z21A8) [Part2](https://www.youtube.com/watch?v=ffrtzZ0QwVM) [Part3](https://www.youtube.com/watch?v=N2VNq-cWHPU)
+  * Lectures on Youtube: [Part 1](https://www.youtube.com/watch?v=cZPPF4z21A8), [Part 2](https://www.youtube.com/watch?v=ffrtzZ0QwVM) and [Part 3](https://www.youtube.com/watch?v=N2VNq-cWHPU)
 * Binary Reversing
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/reversing_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/reversing_files.tgz)
