@@ -32,7 +32,7 @@ Assuming a Debian-based distro (examples tested on Ubuntu 16.04); tools:
 
 # Course contents and materials
 Lectures (in Italian) are available on [Youtube](https://www.youtube.com/playlist?list=PLR11TQ3H_K1uRaoCvgdoldzLmksw9D06B)
-* x86/x64 Assembly on Linux
+* x86/x64 Assembly
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/x86intro_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/x86intro_files.tgz)
   * Lectures on Youtube: [Part 1](https://www.youtube.com/watch?v=cZPPF4z21A8), [Part 2](https://www.youtube.com/watch?v=ffrtzZ0QwVM), [Part 3](https://www.youtube.com/watch?v=N2VNq-cWHPU) and [Part 4](https://www.youtube.com/watch?v=zwUYxLYJWhQ)
@@ -40,7 +40,7 @@ Lectures (in Italian) are available on [Youtube](https://www.youtube.com/playlis
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/reversing_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/reversing_files.tgz)
   * Lecture on Youtube: [Part 5](https://www.youtube.com/watch?v=u6GEM5R5u9E)
-* Binary Exploitation on Linux
+* Binary Exploitation
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/exploitation_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/exploitation_files.tgz)
   * Lectures on Youtube: [Part 6](https://www.youtube.com/watch?v=DhE9e-pVQ-o), [Part 7](https://www.youtube.com/watch?v=8gkr0i6JZtY), [Part 8](https://www.youtube.com/watch?v=SwYPRXW9u3Q), [Part 9](https://www.youtube.com/watch?v=IICGJfqg_Jc), ... *to be continued* ...
