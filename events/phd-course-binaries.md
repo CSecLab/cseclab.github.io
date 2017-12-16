@@ -9,7 +9,7 @@ title: "Introduction to reverse engineering and exploitation of binary programs"
 PhD course lectures:
 - ~~11/12/2017 14:30-18:30, room: 710 @ [DIBRIS - Via Dodecaneso 35, I-16146, Genoa, Italy.](https://www.google.it/maps/place/Via+Dodecaneso,+35,+16146+Genova+GE/@44.403165,8.9696801,17z/data=!3m1!4b1!4m5!3m4!1s0x12d3430b2216399f:0xe215417b3e571fb4!8m2!3d44.403165!4d8.9718688?hl=en)~~
 - ~~12/12/2017 14:30-18:30, room: 710 @ [DIBRIS - Via Dodecaneso 35, I-16146, Genoa, Italy.](https://www.google.it/maps/place/Via+Dodecaneso,+35,+16146+Genova+GE/@44.403165,8.9696801,17z/data=!3m1!4b1!4m5!3m4!1s0x12d3430b2216399f:0xe215417b3e571fb4!8m2!3d44.403165!4d8.9718688?hl=en)~~
-- 13/12/2017 14:00-18:00, room: 710 @ [DIBRIS - Via Dodecaneso 35, I-16146, Genoa, Italy.](https://www.google.it/maps/place/Via+Dodecaneso,+35,+16146+Genova+GE/@44.403165,8.9696801,17z/data=!3m1!4b1!4m5!3m4!1s0x12d3430b2216399f:0xe215417b3e571fb4!8m2!3d44.403165!4d8.9718688?hl=en)
+- ~~13/12/2017 14:00-18:00, room: 710 @ [DIBRIS - Via Dodecaneso 35, I-16146, Genoa, Italy.](https://www.google.it/maps/place/Via+Dodecaneso,+35,+16146+Genova+GE/@44.403165,8.9696801,17z/data=!3m1!4b1!4m5!3m4!1s0x12d3430b2216399f:0xe215417b3e571fb4!8m2!3d44.403165!4d8.9718688?hl=en)~~
 - 18/12/2017 14:00-18:00, room: 710 @ [DIBRIS - Via Dodecaneso 35, I-16146, Genoa, Italy.](https://www.google.it/maps/place/Via+Dodecaneso,+35,+16146+Genova+GE/@44.403165,8.9696801,17z/data=!3m1!4b1!4m5!3m4!1s0x12d3430b2216399f:0xe215417b3e571fb4!8m2!3d44.403165!4d8.9718688?hl=en)
 
 # Abstract
@@ -21,9 +21,13 @@ Lectures will contain practical activities, therefore participants need to bring
 The exam consists in the exploitation of some 32/64-bit programs (a different set for each student), and a subsequent discussion of the used techniques and tools.
 
 # Laptop (VM?) setup
-Assuming a Debian-based distro
-* [Radare2](http://www.radare.org/r/) (and more) [installation instructions](https://ghostbin.com/paste/ayf9g)
-* My [.radare2rc](https://ghostbin.com/paste/xywks)
+Assuming a Debian-based distro (examples tested on Ubuntu 16.04); tools:
+* [Radare2](http://www.radare.org/r/), my [.radare2rc](https://ghostbin.com/paste/xywks)
+* [Pwntools](https://github.com/Gallopsled/pwntools#readme)
+* [Ropper](https://github.com/sashs/Ropper)
+* [Libformatstr](https://github.com/hellman/libformatstr)
+* [American Fuzzer Lop](http://lcamtuf.coredump.cx/afl/)
+[Installation instructions](https://ghostbin.com/paste/ayf9g) (except for AFL; just download the [latest version](http://lcamtuf.coredump.cx/afl/releases/afl-latest.tgz) and follow the [quickstart guide](http://lcamtuf.coredump.cx/afl/QuickStartGuide.txt))
 
 # Course contents and materials
 Lectures (in Italian) are available on [Youtube](https://www.youtube.com/playlist?list=PLR11TQ3H_K1uRaoCvgdoldzLmksw9D06B)
@@ -38,7 +42,7 @@ Lectures (in Italian) are available on [Youtube](https://www.youtube.com/playlis
 * Binary Exploitation on Linux
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/exploitation_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/exploitation_files.tgz)
-  * Lectures on Youtube: [Part 6](https://www.youtube.com/watch?v=DhE9e-pVQ-o), ... *to be continued* ...
+  * Lectures on Youtube: [Part 6](https://www.youtube.com/watch?v=DhE9e-pVQ-o), [Part 7](https://www.youtube.com/watch?v=8gkr0i6JZtY), [Part 8](https://www.youtube.com/watch?v=SwYPRXW9u3Q), [Part 9](https://www.youtube.com/watch?v=IICGJfqg_Jc), ... *to be continued* ...
 * Fuzzying
   * ... *maybe* ... (I'm working on it!)
 
