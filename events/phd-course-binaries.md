@@ -27,6 +27,7 @@ Assuming a Debian-based distro (examples tested on Ubuntu 16.04); tools:
 * [Ropper](https://github.com/sashs/Ropper)
 * [Libformatstr](https://github.com/hellman/libformatstr)
 * [American Fuzzer Lop](http://lcamtuf.coredump.cx/afl/)
+
 [Installation instructions](https://ghostbin.com/paste/ayf9g) (except for AFL; just download the [latest version](http://lcamtuf.coredump.cx/afl/releases/afl-latest.tgz) and follow the [quickstart guide](http://lcamtuf.coredump.cx/afl/QuickStartGuide.txt))
 
 # Course contents and materials
