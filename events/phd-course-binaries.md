@@ -45,5 +45,7 @@ Lectures (in Italian) are available on [Youtube](https://www.youtube.com/playlis
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/exploitation_files.tgz)
   * Lectures on Youtube: [Part 6](https://www.youtube.com/watch?v=DhE9e-pVQ-o), [Part 7](https://www.youtube.com/watch?v=8gkr0i6JZtY), [Part 8](https://www.youtube.com/watch?v=SwYPRXW9u3Q), [Part 9](https://www.youtube.com/watch?v=IICGJfqg_Jc), ... *to be continued* ...
 * Fuzzing
-  * ...
+  * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/fuzzing_slides.pdf)
+  * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/fuzzing_files.tgz)
+  * Lectures on Youtube: *upcoming*
 
