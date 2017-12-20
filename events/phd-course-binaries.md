@@ -31,7 +31,8 @@ Assuming a Debian-based distro (examples tested on Ubuntu 16.04); tools:
 [Installation instructions](https://ghostbin.com/paste/ayf9g) (except for AFL; just download the [latest version](http://lcamtuf.coredump.cx/afl/releases/afl-latest.tgz) and follow the [quickstart guide](http://lcamtuf.coredump.cx/afl/QuickStartGuide.txt))
 
 # Course contents and materials
-Lectures (in Italian) are available on [Youtube](https://www.youtube.com/playlist?list=PLR11TQ3H_K1uRaoCvgdoldzLmksw9D06B)
+The [playlist](https://www.youtube.com/playlist?list=PLR11TQ3H_K1uRaoCvgdoldzLmksw9D06B) of the lectures (in Italian) is available on Youtube.
+
 * x86/x64 Assembly
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/x86intro_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/x86intro_files.tgz)
