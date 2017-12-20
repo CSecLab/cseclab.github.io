@@ -10,7 +10,7 @@ PhD course lectures:
 - ~~11/12/2017 14:30-18:30, room: 710 @ [DIBRIS - Via Dodecaneso 35, I-16146, Genoa, Italy.](https://www.google.it/maps/place/Via+Dodecaneso,+35,+16146+Genova+GE/@44.403165,8.9696801,17z/data=!3m1!4b1!4m5!3m4!1s0x12d3430b2216399f:0xe215417b3e571fb4!8m2!3d44.403165!4d8.9718688?hl=en)~~
 - ~~12/12/2017 14:30-18:30, room: 710 @ [DIBRIS - Via Dodecaneso 35, I-16146, Genoa, Italy.](https://www.google.it/maps/place/Via+Dodecaneso,+35,+16146+Genova+GE/@44.403165,8.9696801,17z/data=!3m1!4b1!4m5!3m4!1s0x12d3430b2216399f:0xe215417b3e571fb4!8m2!3d44.403165!4d8.9718688?hl=en)~~
 - ~~13/12/2017 14:00-18:00, room: 710 @ [DIBRIS - Via Dodecaneso 35, I-16146, Genoa, Italy.](https://www.google.it/maps/place/Via+Dodecaneso,+35,+16146+Genova+GE/@44.403165,8.9696801,17z/data=!3m1!4b1!4m5!3m4!1s0x12d3430b2216399f:0xe215417b3e571fb4!8m2!3d44.403165!4d8.9718688?hl=en)~~
-- 18/12/2017 14:00-18:00, room: 710 @ [DIBRIS - Via Dodecaneso 35, I-16146, Genoa, Italy.](https://www.google.it/maps/place/Via+Dodecaneso,+35,+16146+Genova+GE/@44.403165,8.9696801,17z/data=!3m1!4b1!4m5!3m4!1s0x12d3430b2216399f:0xe215417b3e571fb4!8m2!3d44.403165!4d8.9718688?hl=en)
+- ~~18/12/2017 14:00-18:00, room: 710 @ [DIBRIS - Via Dodecaneso 35, I-16146, Genoa, Italy.](https://www.google.it/maps/place/Via+Dodecaneso,+35,+16146+Genova+GE/@44.403165,8.9696801,17z/data=!3m1!4b1!4m5!3m4!1s0x12d3430b2216399f:0xe215417b3e571fb4!8m2!3d44.403165!4d8.9718688?hl=en)~~
 
 # Abstract
 The course introduces techniques and tools to reverse engineer and exploit x86/64 binary programs.
@@ -43,9 +43,9 @@ Lectures (in Italian) are available on [Youtube](https://www.youtube.com/playlis
 * Binary Exploitation
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/exploitation_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/exploitation_files.tgz)
-  * Lectures on Youtube: [Part 6](https://www.youtube.com/watch?v=DhE9e-pVQ-o), [Part 7](https://www.youtube.com/watch?v=8gkr0i6JZtY), [Part 8](https://www.youtube.com/watch?v=SwYPRXW9u3Q), [Part 9](https://www.youtube.com/watch?v=IICGJfqg_Jc), ... *to be continued* ...
+  * Lectures on Youtube: [Part 6](https://www.youtube.com/watch?v=DhE9e-pVQ-o), [Part 7](https://www.youtube.com/watch?v=8gkr0i6JZtY), [Part 8](https://www.youtube.com/watch?v=SwYPRXW9u3Q), [Part 9](https://www.youtube.com/watch?v=IICGJfqg_Jc), [Part 10 (incomplete due to network error during streaming; we'll record it again)](https://www.youtube.com/watch?v=Fx7SKyOig_s&list=PLR11TQ3H_K1uRaoCvgdoldzLmksw9D06B&index=10), [Part 11](https://www.youtube.com/watch?v=bPhos_kmxR0&list=PLR11TQ3H_K1uRaoCvgdoldzLmksw9D06B&index=11) and [Part 12](https://www.youtube.com/watch?v=xDQp4GNL7h0&list=PLR11TQ3H_K1uRaoCvgdoldzLmksw9D06B&index=12)
 * Fuzzing
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/fuzzing_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/fuzzing_files.tgz)
-  * Lectures on Youtube: *upcoming*
+  * Lectures on Youtube: [Part 13](https://www.youtube.com/watch?v=ZPg-w6OIUnw&list=PLR11TQ3H_K1uRaoCvgdoldzLmksw9D06B&index=13)
 
