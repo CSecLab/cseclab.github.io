@@ -34,18 +34,43 @@ Assuming a Debian-based distro (examples tested on Ubuntu 16.04); tools:
 The [playlist](https://www.youtube.com/playlist?list=PLR11TQ3H_K1uRaoCvgdoldzLmksw9D06B) of the lectures (in Italian) is available on Youtube.
 
 * x86/x64 Assembly
+  * Topics:
+    * Introduction
+    * x86 and x65 ISA
+    * ELF and System V ABI
+    * Compilation and linking process
+    * Library Interposition
+    * Process tracing
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/x86intro_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/x86intro_files.tgz)
   * Lectures on Youtube: [Part 1](https://www.youtube.com/watch?v=cZPPF4z21A8), [Part 2](https://www.youtube.com/watch?v=ffrtzZ0QwVM), [Part 3](https://www.youtube.com/watch?v=N2VNq-cWHPU) and [Part 4](https://www.youtube.com/watch?v=zwUYxLYJWhQ)
 * Binary Reversing
+  * Topics:
+    * Introduction
+    * Radare: The good, the bad and the ugly
+    * ASLR
+    * Suggested workflow
+    * IOLI Crackmes
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/reversing_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/reversing_files.tgz)
   * Lecture on Youtube: [Part 5](https://www.youtube.com/watch?v=u6GEM5R5u9E)
 * Binary Exploitation
+  * Topics:
+    * Pwntools
+    * Memory corruption attacks
+    * Stack Canaries
+    * Non-executable stack
+      * Format-string attacks
+      * ROP
+    * Address-Space Layout Randomization
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/exploitation_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/exploitation_files.tgz)
   * Lectures on Youtube: [Part 6](https://www.youtube.com/watch?v=DhE9e-pVQ-o), [Part 7](https://www.youtube.com/watch?v=8gkr0i6JZtY), [Part 8](https://www.youtube.com/watch?v=SwYPRXW9u3Q), [Part 9](https://www.youtube.com/watch?v=IICGJfqg_Jc), [Part 10 (incomplete due to network error during streaming; we'll record it again)](https://www.youtube.com/watch?v=Fx7SKyOig_s&list=PLR11TQ3H_K1uRaoCvgdoldzLmksw9D06B&index=10), [Part 11](https://www.youtube.com/watch?v=bPhos_kmxR0&list=PLR11TQ3H_K1uRaoCvgdoldzLmksw9D06B&index=11) and [Part 12](https://www.youtube.com/watch?v=xDQp4GNL7h0&list=PLR11TQ3H_K1uRaoCvgdoldzLmksw9D06B&index=12)
 * Fuzzing
+  * Topics:
+    * Introduction
+    * Installation and configuration
+    * Using AFL
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/fuzzing_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/fuzzing_files.tgz)
   * Lectures on Youtube: [Part 13](https://www.youtube.com/watch?v=ZPg-w6OIUnw&list=PLR11TQ3H_K1uRaoCvgdoldzLmksw9D06B&index=13)
