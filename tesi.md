@@ -7,17 +7,11 @@ title: Theses
 
 ---
 
-{% if tesi.link %}
-
-## [{{ tesi.title }}]({{ tesi.link }})
-
+{{ tesi.author }}. {% if tesi.link %}
+[{{ tesi.title }}]({{ tesi.link }})
 {% else %}
-
-## {{tesi.title}}
-
+{{tesi.title}}
 {% endif %}
-
-**{{ tesi.author }}**
 
 *{{ tesi.period }}*
 
@@ -30,7 +24,7 @@ Hosted by {{ tesi.host }}
 {% endif %}
 
 {% if tesi.pubblications %}
-### Publications
+Publications
     {% for pub in tesi.pubblications %}
 
     {% if pub.link %}
