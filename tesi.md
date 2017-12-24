@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tesi
+title: Theses
 ---
 
 {% for tesi in site.data.tesi %}
