@@ -8,12 +8,11 @@ title: Theses
 ---
 
 {{ tesi.author }}. {% if tesi.link %}
-[{{ tesi.title }}]({{ tesi.link }})
+[{{ tesi.title }}]({{ tesi.link }}). {{tesi.year}}
 {% else %}
-{{tesi.title}}
+{{tesi.title}}. {{tesi.year}}
 {% endif %}
 
-*{{ tesi.period }}*
 
     {% for sup in tesi.supervisors %}
 Supervisor: [{{ sup.name }}]({{ sup.url }})
