@@ -1,32 +1,11 @@
-- title: Security Analysis of the Android Operating System
-  author: Luca Verderame
-  period: 9/2011 - 3/2012
-  year: 2012
-  link: /MSTheses/Verderame.pdf
-  supervisors:
-    - name: Alessandro Armando
-      url: /people/alessandro  
-    - name: Alessio Merlo
-      url: /people/alessio
-  pubblications:
-    - title: A. Armando, A. Merlo, M. Migliardi, L. Verderame, "Would You Mind Forking This Process? A Denial of Service Attack on Android (and Some Countermeasures)", in Proc. od SEC 2012. 
-      link: https://link.springer.com/chapter/10.1007/978-3-642-30436-1_2
-    - title: A. Armando, A. Merlo, M. Migliardi, L. Verderame, "Breaking and Fixing the Android Launching Flow", in Computers and Security, 39 104-115 (2013). 
-      link: http://www.sciencedirect.com/science/article/pii/S0167404813000540
-         
-- title: "Energy-Aware Security: tools and analytic models for energy consumption in the Android OS"
-  author: Monica Curti, Simone Schiappacasse
-  period: 09/2012 - 03/2013
-  year: 2013
-  link: /MSTheses/CurtiSchiappacasse.pdf
+- title: Building behavioural models for the security analysis of iOS applications
+  author: Gianluca Barbera
+  period: 11/2016 - 7/2017
+  year: 2017
+  link: /MSTheses/Barbera.pdf
   supervisors: 
       - name: Alessio Merlo
         url: /people/alessio
-      - name: Mauro Migliardi
-        url: http://geas.dei.unipd.it/harness/migliardi/index.html
-  pubblications:
-    - title: M. Curti, A. Merlo, M. Migliardi, S. Schiappacasse, "Towards energy-aware intrusion detection systems on mobile devices", in Proc. of HPCS 2013.
-      link: http://ieeexplore.ieee.org/document/6641428/
 
 - title: TEA - Enabling THCE on Android devices
   author: Luca Lorrai
@@ -38,83 +17,30 @@
     - title: A. Merlo, L. Lorrai, L. Verderame, "Efficient trusted host-based card emulation on TEE-enabled Android devices", in Proc. of HPCS 2016.
       link: http://ieeexplore.ieee.org/document/7568370/?reload=true
 
+- title: Android Malware Detection Using Network Behavior Analysis And Machine Learning Classifiers
+  author: Hamidreza Aria
+  period: 7/2016 - 3/2017
+  year: 2017
+  link: /MSTheses/Aria.pdf
+  supervisors: 
+      - name: Gabriele Costa
+        url: /people/gabriele
+        
+- title: A Framework for Designing Attack Strategies in Cyber Range Scenarios
+  author: Hossein Ghodrati
+  period: 1/2017 - 7/2017
+  year: 2017
+  link: /MSTheses/Ghodrati.pdf
+  supervisors: 
+    - name: Gabriele Costa
+      url: /people/gabriele
+
 - title: Building behavioural models for the security analysis of iOS applications
   author: Gianluca Barbera
   period: 1/11/2016 - 21/7/2017
   year: 2017
   supervisor: Alessio Merlo
   supervisorurl: http://www.csec.it/people/alessio
-
-
-- title: A Centralized Approach for the Management of Mobile Code Security Policies
-  author: Gabriele De Maglie, Fabio Tollini
-  period: 9/2012 - 3/2013
-  year: 2013
-  supervisors: 
-      - name: Alessandro Armando
-        url: /people/alessandro
-      - name: Gabriele Costa
-        url: /people/gabriele
-      - name: Alessio Merlo
-        url: /people/alessio
-
-- title: Inlined Reference Monitor for Android Platforms
-  author: Daniele Fiori, Fabio Brizzolara
-  period: 9/2012 - 3/2013
-  year: 2013
-  supervisors: 
-      - name: Alessandro Armando
-        url: /people/alessandro
-      - name: Gabriele Costa
-        url: /people/gabriele
-      - name: Alessio Merlo
-        url: /people/alessio
-      
-- title: "EveC: an object-oriented programming language for efficient computation"
-  author: Luca Roverelli, Gabriele Zereik, Nicolò Zereik
-  period: 9/2012 - 3/2013
-  year: 2013
-  link: /MSTheses/RoverelliZereikZereik.pdf
-  supervisors: 
-      - name: Alessio Merlo
-        url: /people/alessio
-      - name: Mauro Migliardi
-        url: http://geas.dei.unipd.it/harness/migliardi/index.html
-
-          
-- title: Energy Optimisation Strategies through Intrusion Prevention Systems
-  author: Diego Raso, Elena Spadacini
-  period: 9/2013 - 3/2014
-  year: 2014
-  link: /MSTheses/RasoSpadacini.pdf
-  supervisors: 
-      - name: Alessio Merlo
-        url: /people/alessio
-      - name: Mauro Migliardi
-        url: http://geas.dei.unipd.it/harness/migliardi/index.html
-  pubblications: 
-    - title: A. Merlo, M. Migliardi, D. Raso, E. Spadacini, "Optimizing Network Energy Consumption through Intrusion Prevention Systems", in Proc. of CISIS 2014.
-      link: https://link.springer.com/chapter/10.1007/978-3-319-07995-0_50
-    - title: A. Merlo, M. Migliardi, E. Spadacini, "Balancing Delays and Energy Consumption in IPS-Enabled Networks", in Proc. of AINA 2016. 
-      link: http://ieeexplore.ieee.org/document/7471211/
-    - title: A. Merlo, E. Spadacini, M. Migliardi, "IPS-based reduction of network energy consumption", in Logic J. of the IGPL (2016).
-      link: https://academic.oup.com/jigpal/article-abstract/24/6/982/2662381/IPS-based-reduction-of-network-energy-consumption
-
-- title: "Energy-Aware Security: Tools and Analytic models to estimate energetic consumption in the Android operating systems" 
-  author: Paolo Fontanelli
-  period: 10/2013 - 7/2014
-  year: 2014
-  link: /MSTheses/Fontanelli.pdf
-  supervisors: 
-      - name: Alessio Merlo
-        url: /people/alessio
-      - name: Mauro Migliardi
-        url: http://geas.dei.unipd.it/harness/migliardi/index.html
-  pubblications:
-    - title: A. Merlo, M. Migliardi, P. Fontanelli, "On energy-based profiling of malware in Android", Proc. of HPCS 2014.  
-      link: http://ieeexplore.ieee.org/document/6903732/
-    - title: A. Merlo, M. Migliardi, P. Fontanelli, "Measuring and estimating power consumption in Android to support energy-based intrusion detection", J. of Computer Security, 23(5), pp. 611-637 (2015). 
-      link: http://content.iospress.com/articles/journal-of-computer-security/jcs530
 
 - title: Dynamic verification of access permissions in an extension of the Android Security Framework
   author: Giulio Puri
@@ -187,29 +113,101 @@
     - title: A. Merlo, G. C. Georgiu, "RiskInDroid - Machine Learning-Based Risk Analysis on Android", in Proc. of IFIP SEC 2017.
       link: https://link.springer.com/chapter/10.1007/978-3-319-58469-0_36
 
-- title: Android Malware Detection Using Network Behavior Analysis And Machine Learning Classifiers
-  author: Hamidreza Aria
-  period: 7/2016 - 3/2017
-  year: 2017
-  link: /MSTheses/Aria.pdf
-  supervisors: 
-      - name: Gabriele Costa
-        url: /people/gabriele
-        
-- title: A Framework for Designing Attack Strategies in Cyber Range Scenarios
-  author: Hossein Ghodrati
-  period: 1/2017 - 7/2017
-  year: 2017
-  link: /MSTheses/Ghodrati.pdf
-  supervisors: 
-    - name: Gabriele Costa
-      url: /people/gabriele
-           
-- title: Building behavioural models for the security analysis of iOS applications
-  author: Gianluca Barbera
-  period: 11/2016 - 7/2017
-  year: 2017
-  link: /MSTheses/Barbera.pdf
+- title: "Energy-Aware Security: Tools and Analytic models to estimate energetic consumption in the Android operating systems" 
+  author: Paolo Fontanelli
+  period: 10/2013 - 7/2014
+  year: 2014
+  link: /MSTheses/Fontanelli.pdf
   supervisors: 
       - name: Alessio Merlo
         url: /people/alessio
+      - name: Mauro Migliardi
+        url: http://geas.dei.unipd.it/harness/migliardi/index.html
+  pubblications:
+    - title: A. Merlo, M. Migliardi, P. Fontanelli, "On energy-based profiling of malware in Android", Proc. of HPCS 2014.  
+      link: http://ieeexplore.ieee.org/document/6903732/
+    - title: A. Merlo, M. Migliardi, P. Fontanelli, "Measuring and estimating power consumption in Android to support energy-based intrusion detection", J. of Computer Security, 23(5), pp. 611-637 (2015). 
+      link: http://content.iospress.com/articles/journal-of-computer-security/jcs530
+
+- title: Energy Optimisation Strategies through Intrusion Prevention Systems
+  author: Diego Raso, Elena Spadacini
+  period: 9/2013 - 3/2014
+  year: 2014
+  link: /MSTheses/RasoSpadacini.pdf
+  supervisors: 
+      - name: Alessio Merlo
+        url: /people/alessio
+      - name: Mauro Migliardi
+        url: http://geas.dei.unipd.it/harness/migliardi/index.html
+  pubblications: 
+    - title: A. Merlo, M. Migliardi, D. Raso, E. Spadacini, "Optimizing Network Energy Consumption through Intrusion Prevention Systems", in Proc. of CISIS 2014.
+      link: https://link.springer.com/chapter/10.1007/978-3-319-07995-0_50
+    - title: A. Merlo, M. Migliardi, E. Spadacini, "Balancing Delays and Energy Consumption in IPS-Enabled Networks", in Proc. of AINA 2016. 
+      link: http://ieeexplore.ieee.org/document/7471211/
+    - title: A. Merlo, E. Spadacini, M. Migliardi, "IPS-based reduction of network energy consumption", in Logic J. of the IGPL (2016).
+      link: https://academic.oup.com/jigpal/article-abstract/24/6/982/2662381/IPS-based-reduction-of-network-energy-consumption
+
+- title: A Centralized Approach for the Management of Mobile Code Security Policies
+  author: Gabriele De Maglie, Fabio Tollini
+  period: 9/2012 - 3/2013
+  year: 2013
+  supervisors: 
+      - name: Alessandro Armando
+        url: /people/alessandro
+      - name: Gabriele Costa
+        url: /people/gabriele
+      - name: Alessio Merlo
+        url: /people/alessio
+
+- title: Inlined Reference Monitor for Android Platforms
+  author: Daniele Fiori, Fabio Brizzolara
+  period: 9/2012 - 3/2013
+  year: 2013
+  supervisors: 
+      - name: Alessandro Armando
+        url: /people/alessandro
+      - name: Gabriele Costa
+        url: /people/gabriele
+      - name: Alessio Merlo
+        url: /people/alessio
+      
+- title: "EveC: an object-oriented programming language for efficient computation"
+  author: Luca Roverelli, Gabriele Zereik, Nicolò Zereik
+  period: 9/2012 - 3/2013
+  year: 2013
+  link: /MSTheses/RoverelliZereikZereik.pdf
+  supervisors: 
+      - name: Alessio Merlo
+        url: /people/alessio
+      - name: Mauro Migliardi
+        url: http://geas.dei.unipd.it/harness/migliardi/index.html
+
+- title: "Energy-Aware Security: tools and analytic models for energy consumption in the Android OS"
+  author: Monica Curti, Simone Schiappacasse
+  period: 09/2012 - 03/2013
+  year: 2013
+  link: /MSTheses/CurtiSchiappacasse.pdf
+  supervisors: 
+      - name: Alessio Merlo
+        url: /people/alessio
+      - name: Mauro Migliardi
+        url: http://geas.dei.unipd.it/harness/migliardi/index.html
+  pubblications:
+    - title: M. Curti, A. Merlo, M. Migliardi, S. Schiappacasse, "Towards energy-aware intrusion detection systems on mobile devices", in Proc. of HPCS 2013.
+      link: http://ieeexplore.ieee.org/document/6641428/
+
+- title: Security Analysis of the Android Operating System
+  author: Luca Verderame
+  period: 9/2011 - 3/2012
+  year: 2012
+  link: /MSTheses/Verderame.pdf
+  supervisors:
+    - name: Alessandro Armando
+      url: /people/alessandro  
+    - name: Alessio Merlo
+      url: /people/alessio
+  pubblications:
+    - title: A. Armando, A. Merlo, M. Migliardi, L. Verderame, "Would You Mind Forking This Process? A Denial of Service Attack on Android (and Some Countermeasures)", in Proc. od SEC 2012. 
+      link: https://link.springer.com/chapter/10.1007/978-3-642-30436-1_2
+    - title: A. Armando, A. Merlo, M. Migliardi, L. Verderame, "Breaking and Fixing the Android Launching Flow", in Computers and Security, 39 104-115 (2013). 
+      link: http://www.sciencedirect.com/science/article/pii/S0167404813000540
