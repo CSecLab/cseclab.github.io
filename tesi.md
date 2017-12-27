@@ -12,11 +12,7 @@ title: Theses
 {% else %}
 {{tesi.title}}. {{tesi.year}}
 {% endif %}
-
-
-    {% for sup in tesi.supervisors %}
-Supervisor: [{{ sup.name }}]({{ sup.url }})
-    {% endfor %}
+Supervisors: {% for sup in tesi.supervisors %} [{{ sup.name }}]({{ sup.url }}) {% endfor %}
 
 {% if tesi.host %}
 Hosted by {{ tesi.host }}
