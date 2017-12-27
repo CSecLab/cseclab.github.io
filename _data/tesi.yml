@@ -11,8 +11,9 @@
   author: Luca Lorrai
   period: 1/9/2015 - 31/03/2016
   year: 2016
-  supervisor: Alessio Merlo
-  supervisorurl: http://www.csec.it/people/alessio
+  supervisors:
+      - name: Alessio Merlo
+        url: /people/alessio
   pubblications:
     - title: A. Merlo, L. Lorrai, L. Verderame, "Efficient trusted host-based card emulation on TEE-enabled Android devices", in Proc. of HPCS 2016.
       link: http://ieeexplore.ieee.org/document/7568370/?reload=true
@@ -34,13 +35,6 @@
   supervisors: 
     - name: Gabriele Costa
       url: /people/gabriele
-
-- title: Building behavioural models for the security analysis of iOS applications
-  author: Gianluca Barbera
-  period: 1/11/2016 - 21/7/2017
-  year: 2017
-  supervisor: Alessio Merlo
-  supervisorurl: http://www.csec.it/people/alessio
 
 - title: Dynamic verification of access permissions in an extension of the Android Security Framework
   author: Giulio Puri
