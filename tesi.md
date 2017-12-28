@@ -3,16 +3,19 @@ layout: page
 title: Theses
 ---
 
+Theses developed within CSecLab, listed in reverse chronological order.
+
+
 {% for tesi in site.data.tesi %}
 
 ---
 
 {{ tesi.author }}. {% if tesi.link %}
-[{{ tesi.title }}]({{ tesi.link }}). {{tesi.year}}
+[{{ tesi.title }}]({{ tesi.link }}). {{ tesi.year }}
 {% else %}
-{{tesi.title}}. {{tesi.year}}
+{{tesi.title}}. {{ tesi.year }}
 {% endif %}
-Supervisors: {% for sup in tesi.supervisors %} [{{ sup.name }}]({{ sup.url }}) {% endfor %}
+Supervisors: {% assign first=1 %} {% for sup in tesi.supervisors %} {% unless first==1 %}, {% endunless %} [{{ sup.name }}]({{ sup.url }}) {% assign first=0 %} {% endfor %}
 
 {% if tesi.host %}
 Hosted by {{ tesi.host }}
