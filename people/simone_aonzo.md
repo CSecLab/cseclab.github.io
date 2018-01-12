@@ -54,4 +54,4 @@ title: Simone Aonzo
 ## Contacts
 
 - **Email**: simone.aonzo (A) dibris.unige.it
-- **Office**: [room 309, DIBRIS - sede di Valle Puggia, Department of Mathematics, Via Dodecaneso, 35, 16146 Genova - Italy](https://goo.gl/maps/kTyTs2YKMkL2)
+- **Office**: [room 309, DIBRIS - Department of Mathematics, Via Dodecaneso, 35, 16146 Genova - Italy](https://goo.gl/maps/kTyTs2YKMkL2)
