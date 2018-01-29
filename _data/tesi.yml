@@ -1,3 +1,11 @@
+- title: Provision of web security training services through per-user sandboxing
+  author: Loris Piana
+  period: 03/2017  - 12/2017
+  year: 2017
+  link: /MSTheses/Piana.pdf
+  supervisors: 
+      - name: Alessio Merlo
+        url: /people/alessio
 - title: Building behavioural models for the security analysis of iOS applications
   author: Gianluca Barbera
   period: 11/2016 - 7/2017
@@ -11,6 +19,7 @@
   author: Luca Lorrai
   period: 1/9/2015 - 31/03/2016
   year: 2016
+  link: /MSTheses/Lorrai.pdf
   supervisors:
       - name: Alessio Merlo
         url: /people/alessio

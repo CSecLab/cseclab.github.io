@@ -26,7 +26,7 @@ title: Simone Aonzo
   * [Mobile Security](https://en.wikipedia.org/wiki/Mobile_security)
   * [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
   * [Binary/Malware Analysis](https://en.wikipedia.org/wiki/Malware_analysis)
-  * [Exploitation Techniques](https://en.wikipedia.org/wiki/Exploit_(computer_security)
+  * [Exploitation Techniques](https://en.wikipedia.org/wiki/Exploit_(computer_security))
 
 
 ## Publications
@@ -54,5 +54,4 @@ title: Simone Aonzo
 ## Contacts
 
 - **Email**: simone.aonzo (A) dibris.unige.it
-- **Phone**: +39 010 353 6545
-- **Office**: [Viale Francesco Causa, 13, I-16145, Genoa, Italy.](https://www.google.it/maps/place/44°24'07.0%22N+8°57'38.7%22E/@44.4019444,8.9596557,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d44.401932!4d8.960757)
+- **Office**: [room 309, DIBRIS - Department of Mathematics, Via Dodecaneso, 35, 16146 Genova - Italy](https://goo.gl/maps/kTyTs2YKMkL2)
