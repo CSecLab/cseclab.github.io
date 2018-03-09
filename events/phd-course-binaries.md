@@ -36,7 +36,7 @@ The [playlist](https://www.youtube.com/playlist?list=PLR11TQ3H_K1uRaoCvgdoldzLmk
 * x86/x64 Assembly
   * Topics:
     * Introduction
-    * x86 and x65 ISA
+    * x86 and x64 ISA
     * ELF and System V ABI
     * Compilation and linking process
     * Library Interposition
