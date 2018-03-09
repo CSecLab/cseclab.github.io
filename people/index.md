@@ -16,6 +16,8 @@ layout: page
 * [Luca Demetrio](luca_demetrio)
 * [Enrico Russo](enrico_russo)
 * [Andrea Valenza](andrea_valenza)
+* Lorenzo Maffia
+* Federico Lucini
 
 
 # External Collaborators
