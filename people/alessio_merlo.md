@@ -22,13 +22,14 @@ title: Homepage of Alessio Merlo
 
 
 ### Current positions
-- **Assistant Professor** at DIBRIS, University of Genova. 
+- **Assistant Professor (RTD-B)** at DIBRIS, University of Genova. 
 - **Founder and C.T.O.** at [Talos  s.r.l.s](http://www.talos-sec.com).
 
 
 ## Publications
 
-[Google Scholar](https://scholar.google.com/citations?update_op=accept_invitation&email_for_op=alessio.mrl%40gmail.com&invitation_id=9656939844049668502&user=F3Bkg_MAAAAJ&cstart=40&pagesize=20) - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=15136674200) - [DBLP](http://dblp.uni-trier.de/pers/hd/m/Merlo:Alessio) - [Semantic Scholar](https://www.semanticscholar.org/author/Alessio-Merlo/2611687)
+[//]: # ([Google Scholar](https://scholar.google.com/citations?update_op=accept_invitation&email_for_op=alessio.mrl%40gmail.com&invitation_id=9656939844049668502&user=F3Bkg_MAAAAJ&cstart=40&pagesize=20) -) 
+[//]: # ([Scopus](https://www.scopus.com/authid/detail.uri?authorId=15136674200) - [DBLP](http://dblp.uni-trier.de/pers/hd/m/Merlo:Alessio) [Semantic Scholar](https://www.semanticscholar.org/author/Alessio-Merlo/2611687))
 
 
 ### Books
@@ -36,7 +37,12 @@ title: Homepage of Alessio Merlo
 - L. Caviglione, M. Coccoli, A. Merlo (Eds.). "Social Network Engineering for Secure Web Data and Services". [DOI: 10.4018/978-1-4666-3926-3](http://www.igi-global.com/book/social-network-engineering-secure-web/72359), IGI-Global.
 
 ### International Journals
--  M. Guerar, A. Merlo, M. Migliardi. "Completely Automated Public Physical test to tell Computers and Humans Apart: A Usability Study on Mobile Devices". *Future Generation Computer Systems*, Elsevier (to appear). [DOI: http://dx.doi.org/10.1016/j.future.2017.03.012](http://dx.doi.org/10.1016/j.future.2017.03.012). 
+- S. Al-Haj Baddar, A. Merlo, M. Migliardi. "Behavioral Anomaly Detection in Forensics Analysis", *IEEE Security & Privacy", to appear.
+- S. Limet, A. Merlo, L. Spalazzi. "HPC & Co.: Where are distributed paradigms heading toward?", *Concurrency and Computation: Practice and Experience*, [DOI: 10.1002/cpe.4431](http://onlinelibrary.wiley.com/doi/10.1002/cpe.4431/abstract)
+- S. Al-Haj Baddar, A. Merlo, M. Migliardi, F. Palmieri. "Saving energy in aggressive intrusion detection through dynamic latency sensitivity recognition", *Computers and Security*, [DOI: 10.1016/j.cose.2017.12.003](https://doi.org/10.1016/j.cose.2017.12.003)
+- S. Aonzo, A. Merlo, M. Migliardi, L. Oneto, F. Palmieri. "Low-Resource Footprint, Data-driven Malware Detection on Android", *IEEE Trans. on Sustainable Computing*, Vol. PP, no. 99, pp. 1-1, [DOI: 10.1109/TSUSC.2017.2774184](https://doi.org/10.1109/TSUSC.2017.2774184).
+- M. Guerar, A. Merlo, M. Migliardi. "ClickPattern: A Pattern Lock System Resilient to Smudge and Side-channel Attacks", *Journal of Wireless Mobile Networks, Ubiquitous Computing and Dependable Applications*, 5(2), pp. 64-78.
+-  M. Guerar, A. Merlo, M. Migliardi. "Completely Automated Public Physical test to tell Computers and Humans Apart: A Usability Study on Mobile Devices". *Future Generation Computer Systems*, Elsevier (to appear). [DOI: 10.1016/j.future.2017.03.012](http://dx.doi.org/10.1016/j.future.2017.03.012). 
 - M. Guerar, M. Migliardi, A. Merlo, M. Benmohammed, F. Palmieri, A. Castiglione. "Using Screen Brightness to Improve Security in Mobile Social Network Access", *IEEE Trans. on Dependable and Secure Computing*. [DOI: 10.1109/TDSC.2016.2601603](http://dx.doi.org/10.1109/TDSC.2016.2601603).
 - G. Costa, A. Merlo, L. Verderame, A. Armando. "Automatic Security Verification of Mobile App Configurations", *Future Generation Computer Systems*, Elsevier. [DOI: 10.1016/j.future.2016.06.014](http://dx.doi.org/10.1016/j.future.2016.06.014).
 - A. Merlo, M. Migliardi, E. Spadacini. "IPS-Based Reduction of Network Energy Consumption", *Logic Journal of the IGPL*, Oxford Press. [DOI: 10.1093/jigpal/jzw053](http://dx.doi.org/10.1093/jigpal/jzw053).
@@ -74,7 +80,8 @@ title: Homepage of Alessio Merlo
 
 
 ### International Conference Proceedings
-
+- S. Aonzo, G. Lagorio, A. Merlo. "RmPerm: a Tool for Android Permissions Removal", in Proc. of the 14th International Conference on Security and Cryptography ([SECRYPT 2017](http://www.secrypt.icete.org/)), Madrid, Spain.
+- M. Migliardi, S. Al-Haj Baddar, A. Merlo. "Reducing the Impact of Traffic Sanitization on Latency Sensitive Applications", in Proc. of the 11th International Conference on Complex, Intelligent and Intensive Software Systems ([CISIS 2017](http://voyager.ce.fit.ac.jp/conf/cisis/2017/)), July 10-12, Turin, Italy. [DOI: 10.1007/978-3-319-61566-0_96](https://doi.org/10.1007/978-3-319-61566-0_96)
 - A. Merlo, G. C. Georgiu. "RiskInDroid: Machine Learning-based Risk Analysis on Android", in Proc. of the 32nd International Conference on ICT Systems Security and Privacy Protection ([IFIP-SEC 2017](http://ifipsec.org/2017/)), Rome, Italy. 
 - A. Merlo. "BYODCert: Toward a Cross-Organizational BYOD paradigm", in Proc. of the 12th International Conference on Green, Pervasive and Cloud Computing ([GCP 2017](http://gpc2017.di.unisa.it/gpc2017/)), Cetara, Italy.
 - S. Al Haj Baddar, A. Merlo, M. Migliardi, F. Palmieri. "Dynamic Latency Sensitivity Recognition: an Application to Energy Saving", in Proc. of the 12th International Conference on Green, Pervasive and Cloud Computing ([GCP 2017](http://gpc2017.di.unisa.it/gpc2017/)), Cetara, Italy.
@@ -124,7 +131,7 @@ title: Homepage of Alessio Merlo
 - **Lead Guest Editor** of the [Special Issue on Advances in High Performance Computing and Simulations](http://www.cc-pe.net/journalinfo/issues/2016.html#HPCS2016), [Concurrency and Computation: Practice and Experience](http://www.cc-pe.net/journalinfo/), Wiley.
 -  **Member of the Editorial Advisory Board** of the book [Security Solutions and Applied Cryptography in Smart Grid Communications](http://www.igi-global.com/book/security-solutions-applied-cryptography-smart/166368), IGI-Global.
 - **Associate Editor** at [Journal of High Speed Networks](http://www.iospress.nl/journal/journal-of-high-speed-networks/), IoS Press.
-- **Reviewer** for [ACM Transactions on Cyber-Physical Systems](http://tcps.acm.org/), [The Journal of Supercomputing](http://link.springer.com/journal/11227), [Computers & Electrical Engineering](https://www.journals.elsevier.com/computers-and-electrical-engineering/), [Telematics and Informatics](https://www.journals.elsevier.com/telematics-and-informatics/),  [Mobile Information Systems](https://www.hindawi.com/journals/misy/),  [Journal of Systems and Software](https://www.journals.elsevier.com/journal-of-systems-and-software/), [Journal of High Speed Networks](http://www.iospress.nl/journal/journal-of-high-speed-networks/), [Computers & Security](https://www.journals.elsevier.com/computers-and-security/), [Future Generation Computer Systems](https://www.journals.elsevier.com/future-generation-computer-systems/), [Journal of Network and Computer Applications](https://www.journals.elsevier.com/journal-of-network-and-computer-applications), [Concurrency and Computation: Practice and Experience](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1532-0634).
+- **Reviewer** for [Pervasive and Mobile Computing](https://www.journals.elsevier.com/pervasive-and-mobile-computing/), [ACM Transactions on Cyber-Physical Systems](http://tcps.acm.org/), [The Journal of Supercomputing](http://link.springer.com/journal/11227), [Computers & Electrical Engineering](https://www.journals.elsevier.com/computers-and-electrical-engineering/), [Telematics and Informatics](https://www.journals.elsevier.com/telematics-and-informatics/),  [Mobile Information Systems](https://www.hindawi.com/journals/misy/),  [Journal of Systems and Software](https://www.journals.elsevier.com/journal-of-systems-and-software/), [Journal of High Speed Networks](http://www.iospress.nl/journal/journal-of-high-speed-networks/), [Computers & Security](https://www.journals.elsevier.com/computers-and-security/), [Future Generation Computer Systems](https://www.journals.elsevier.com/future-generation-computer-systems/), [Journal of Network and Computer Applications](https://www.journals.elsevier.com/journal-of-network-and-computer-applications), [Concurrency and Computation: Practice and Experience](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1532-0634).
 
 ### International Conference Chair
 
@@ -162,14 +169,18 @@ title: Homepage of Alessio Merlo
 - Session: Job Scheduling and Environment Sensing, 27th IEEE International Conference on Advanced Information Networking and Applications ([AINA 2013](http://voyager.ce.fit.ac.jp/conf/aina/2013/)), Mar. 25-28, 2013, Barcelona, Spain.
 
 ### TCP Membership
-
+- 13th International Conference on Green, Pervasive and Cloud Computing ([GPC 2018](http://www.gpc2018.org/)), Mar. 11-13, 2018, Hangzhou, China.
+- 14th IEEE International Conference on Information Assurance and Security ([IAS 2018](http://www.mirlabs.net/ias18)), Dec. 13-15, 2018, Porto, Portugal.
+- 13th International Workshop on Security and High Performance Computing ([SHPCS 2018](http://hpcs2018.cisedu.info/2-conference/workshops---hpcs2018/workshop10-shpcs)), July, 16-20, 2018, Orleans, France.
+- 33nd ACM SIGAPP Symposium On Applied Computing ([SAC 2018](http://www.sigapp.org/sac/sac2018/)), Apr. 9-13, 2018, Pau, France. 
+- 4th International Workshop on Energy-Aware Systems, Communications and Security ([EASyCoSe 2017](http://wpage.unina.it/fpalmier/EAsyCoSe2017/EAsyCoSe2017/Home.html)), July 10-12, 2017, Turin, Italy. 
 - 3rd International Conference on Mobile, Secure and Programmable Networking ([MSPN 2017](http://cedric.cnam.fr/workshops/mspn2017/)), June 29-30, 2017, Paris, France.
 - 8th International Conference on Emerging Ubiquitous Systems and Pervasive Networks ([EUSPN 2017](http://cs-conferences.acadiau.ca/euspn-17/organizing-commitee.html)), Sep. 18-20, 2017, Lund, Sweden.
 - 31st IEEE International Conference on Advanced Information Networking and Applications ([AINA 2017](http://voyager.ce.fit.ac.jp/conf/aina/2017/tpc.html)), Mar. 27-29, Taipei, Taiwan.
 - 12th International Conference on Green, Pervasive and Cloud Computing ([GPC 2017](http://gpc2017.di.unisa.it/gpc2017/)), May 11-14, Cetara, Italy.
 - 32nd International Conference on High Performance Computing & Simulation ([HPCS 2017](http://hpcs2017.cisedu.info/)), July 17-21, 2017, Genoa, Italy.
-- 7th International Workshop on Security and Performance in Cloud Computing (SPCloud 2017), July 17-21, 2017, Genoa, Italy.
-- 13th International Workshop on Security and High Performance Computing (SHPCS 2017), July 17-21, 2017, Genoa, Italy.
+- 7th International Workshop on Security and Performance in Cloud Computing ([SPCloud 2017](http://hpcs2017.cisedu.info/conference/workshops---hpcs2017)), July 17-21, 2017, Genoa, Italy.
+- 13th International Workshop on Security and High Performance Computing ([SHPCS 2017](http://hpcs2017.cisedu.info/conference/workshops---hpcs2017)), July 17-21, 2017, Genoa, Italy.
 - 32nd ACM SIGAPP Symposium On Applied Computing ([SAC 2017](http://infohost.nmt.edu/~zheng/doku.php?id=sac2017)), Apr. 3-7, 2017, Marrakech, Morocco.
 - 8th ACM CCS International Workshop on Managing Insider Security Threats ([MIST@CCS 2016](http://isyou.info/conf/mist16/)), In Conjunction with ACM CCS 2016, Oct. 24-28, 2016, Vienna, Austria.
 - 10th International Conference on Information Security Theory and Practice ([WISTP 2016](http://www.wistp.org/committees/)), Sep. 26-27, 2016, Heraklion, Crete, Greece.
@@ -206,6 +217,9 @@ title: Homepage of Alessio Merlo
 
 ## Projects and Grants
 
+- **FINSEC Project**, grant nr. 786727, H2020-CIP-2016-2017, *PaCo*. 
+- Grants for setting the joint research Lab FINSEC, funded by [GFT](www.gft.com)
+- Research contract from the Department of Information Security [DIS](https://www.sicurezzanazionale.gov.it/sisr.nsf/chi-siamo/organizzazione/dis.html) of the Presidency of the Council of Italian Ministers.
 - **BYODCert Project**, funded by the University of Genoa. Total funding: € 16.000. *Principal Investigator*.
 - **[EduOpen Project](http://en.eduopen.org/)**, funded by the Italian Ministry of Education, University and Research (MIUR). *Faculty participant*. 
 - **[Smart Intelligent and Eco-friendly Mobility Project](http://www.s3lab.polito.it/progetti/progetti_in_corso/mie)**, funded by the Italian Ministry of Education, University and Research (MIUR). Total funding: € 7.782.800. *Faculty participant*. 
@@ -216,7 +230,7 @@ title: Homepage of Alessio Merlo
 - **[SINTESIS Project](http://www.siitscpa.it/index.php/progetti/2011-09-24-14-26-54/sintesis)**, funded by the Italian Ministry of Education, University and Research (MIUR). Total funding: € 3.600.00. *Faculty participant*.
 
 
-## Teaching Activity
+## Main Teaching Activity
 
 
 ### (2014- ) Assistant Professor, DIBRIS, University of Genoa.
@@ -224,6 +238,7 @@ title: Homepage of Alessio Merlo
 |                Degree               |      Course Taught      | ECTS | From: (a.y.) | To: (a.y.) | Tot. yrs. |
 |:-----------------------------------:|:-----------------------:|:----:|:------------:|:----------:|:---------:|
 |        M.Sc. Computer Science       |       Data Privacy      |   6  |    2016/17   |     now    |     1     |
+|        M. Digital Humanities        |       Web App Development      |   3  |    2016/17   |     now    |     1     |
 |     B. Eng. Computer Engineering    |   Android Programming   |   6  |    2014/15   |     now    |     3     |
 |        Ph.D. Computer Science       |     Mobile Security     |   3  |    2014/15   |     now    |     3     |
 | Postgrad. Diploma in Cyber Security |       Web Security      |   3  |    2014/15   |     now    |     3     |
@@ -255,12 +270,12 @@ title: Homepage of Alessio Merlo
 
 ## Contacts
 
-- **Office**: [Viale Francesco Causa, 13, I-16145, Genoa, Italy.](https://www.google.it/maps/place/44°24'07.0%22N+8°57'38.7%22E/@44.4019444,8.9596557,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d44.401932!4d8.960757)
+- **Office**: [Villa Bonino: Viale Francesco Causa, 13, I-16145, Genoa, Italy.](https://www.google.it/maps/place/44°24'07.0%22N+8°57'38.7%22E/@44.4019444,8.9596557,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d44.401932!4d8.960757) and [Valletta Puggia (Office 102): Via Dodecaneso, 35, I-16146, Genoa, Italy.](https://www.google.it/maps/place/Via+Dodecaneso,+35,+16146+Genova+GE/@44.4031688,8.9696801,17z/data=!3m1!4b1!4m5!3m4!1s0x12d3430b2216399f:0xe215417b3e571fb4!8m2!3d44.403165!4d8.9718688?hl=it)
 - **Email**: ![Alessio's mail should be here.](/pics/merlo_mail.png)
 - **Phone**: +39 010 353 2344
 - **Fax**: +39 010 353 2948
 - **PGP Key**: [C81BCD20](/C81BCD20.asc)
-- **Complete CV**: [Italian version](http://www.dibris.unige.it/public/staff/cv_pdf/cv_701287.pdf) - [English version](http://www.dibris.unige.it/public/staff/cv_pdf_en/cv_en_701287.pdf)
+[//]: # (- **Complete CV**: [Italian version](http://www.dibris.unige.it/public/staff/cv_pdf/cv_701287.pdf) - [English version](http://www.dibris.unige.it/public/staff/cv_pdf_en/cv_en_701287.pdf))
 
 
 
