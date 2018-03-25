@@ -37,7 +37,7 @@ title: Homepage of Alessio Merlo
 - L. Caviglione, M. Coccoli, A. Merlo (Eds.). "Social Network Engineering for Secure Web Data and Services". [DOI: 10.4018/978-1-4666-3926-3](http://www.igi-global.com/book/social-network-engineering-secure-web/72359), IGI-Global.
 
 ### International Journals
-- S. Al-Haj Baddar, A. Merlo, M. Migliardi. "Behavioral Anomaly Detection in Forensics Analysis", *IEEE Security & Privacy", to appear.
+- S. Al-Haj Baddar, A. Merlo, M. Migliardi. "Behavioral Anomaly Detection in Forensics Analysis", *IEEE Security & Privacy*, to appear.
 - S. Limet, A. Merlo, L. Spalazzi. "HPC & Co.: Where are distributed paradigms heading toward?", *Concurrency and Computation: Practice and Experience*, [DOI: 10.1002/cpe.4431](http://onlinelibrary.wiley.com/doi/10.1002/cpe.4431/abstract)
 - S. Al-Haj Baddar, A. Merlo, M. Migliardi, F. Palmieri. "Saving energy in aggressive intrusion detection through dynamic latency sensitivity recognition", *Computers and Security*, [DOI: 10.1016/j.cose.2017.12.003](https://doi.org/10.1016/j.cose.2017.12.003)
 - S. Aonzo, A. Merlo, M. Migliardi, L. Oneto, F. Palmieri. "Low-Resource Footprint, Data-driven Malware Detection on Android", *IEEE Trans. on Sustainable Computing*, Vol. PP, no. 99, pp. 1-1, [DOI: 10.1109/TSUSC.2017.2774184](https://doi.org/10.1109/TSUSC.2017.2774184).
