@@ -141,8 +141,7 @@ I served in the Program Committee of the following scientific events:
 
 ## Research Projects
 
-I am (or have been) scientific coordinator of the following research
-projects:
+I am (or have been) scientific coordinator of the following research projects:
 
 - Advanced Research Workshop - ``New Generation CERT: from Response to Readiness - Strategy and Guidelines'', to be held at the School of Telecommunications of the Italian Armed Forces of Chiavari (Italy), March 28-30, 2017. Co-Directors: Alessandro Armando and Marc Henauer (Reporting and Analysis Centre for Information, Bern, Switzerland). Funded by NATO in the context of the NATO Science for Peace and Security (SPS) Programme. 
 - [A European Industrial Doctorate on Security and Trust of Next Generation Enterprise Information Systems (SECENTIS)](http://www.secentis.eu) funded by the European Commission in the context of the 2012 PEOPLE Work Programme.  Partner Institutions: FBK and SAP AG (main beneficiaries), University of Trento and TrentoRISE (associated partners). Duration: 48 months, starting on April 1, 2013. 
