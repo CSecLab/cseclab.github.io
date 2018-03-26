@@ -275,6 +275,7 @@ title: Homepage of Alessio Merlo
 - **Phone**: +39 010 353 2344
 - **Fax**: +39 010 353 2948
 - **PGP Key**: [C81BCD20](/C81BCD20.asc)
+
 [//]: # (- **Complete CV**: [Italian version](http://www.dibris.unige.it/public/staff/cv_pdf/cv_701287.pdf) - [English version](http://www.dibris.unige.it/public/staff/cv_pdf_en/cv_en_701287.pdf))
 
 
