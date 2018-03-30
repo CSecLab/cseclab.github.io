@@ -271,10 +271,11 @@ title: Homepage of Alessio Merlo
 ## Contacts
 
 - **Office**: [Villa Bonino: Viale Francesco Causa, 13, I-16145, Genoa, Italy.](https://www.google.it/maps/place/44°24'07.0%22N+8°57'38.7%22E/@44.4019444,8.9596557,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d44.401932!4d8.960757) and [Valletta Puggia (Office 102): Via Dodecaneso, 35, I-16146, Genoa, Italy.](https://www.google.it/maps/place/Via+Dodecaneso,+35,+16146+Genova+GE/@44.4031688,8.9696801,17z/data=!3m1!4b1!4m5!3m4!1s0x12d3430b2216399f:0xe215417b3e571fb4!8m2!3d44.403165!4d8.9718688?hl=it)
-- **Email**: ![Alessio's mail should be here.](/pics/merlo_mail.png)
+- **Email**: ![Alessio's mail should be here.](/pics/AM_email.png)
 - **Phone**: +39 010 353 2344
-- **Fax**: +39 010 353 2948
-- **PGP Key**: [C81BCD20](/C81BCD20.asc)
+- **Mobile**: +39 366 6060 815
+- **Fax**: Are you kidding... ?!?
+- **PGP Key**: [8C8EB623](/8C8EB623.asc)
 
 [//]: # (- **Complete CV**: [Italian version](http://www.dibris.unige.it/public/staff/cv_pdf/cv_701287.pdf) - [English version](http://www.dibris.unige.it/public/staff/cv_pdf_en/cv_en_701287.pdf))
 
