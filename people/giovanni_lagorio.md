@@ -3,7 +3,7 @@ layout: page
 title: Giovanni Lagorio
 ---
 
-![Giovanni's pic is missing.](http://www.dibris.unige.it/public/staff/img/foto_700231.jpg)
+![Giovanni's pic is missing.](/pics/lagorio.jpg)
 
 
 ## Contacts
@@ -20,3 +20,4 @@ title: Giovanni Lagorio
   - [r2 cheatsheet](https://github.com/zxgio/r2-cheatsheet)
   - [gdb cheatsheet](https://github.com/zxgio/gdb-cheatsheet)
 - [G+](https://plus.google.com/+GiovanniLagorio)
+
