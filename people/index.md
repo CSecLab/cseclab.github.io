@@ -13,9 +13,12 @@ layout: page
 # Ph.D. Students, Collaborators and Student Members
 
 * [Simone Aonzo](simone_aonzo)
+* [Luca Demetrio](luca_demetrio)
 * [Enrico Russo](enrico_russo)
 * [Andrea Valenza](andrea_valenza)
-* [Luca Demetrio](luca_demetrio)
+* Lorenzo Maffia
+* Federico Lucini
+
 
 # External Collaborators
 

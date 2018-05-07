@@ -36,7 +36,7 @@ The [playlist](https://www.youtube.com/playlist?list=PLR11TQ3H_K1uRaoCvgdoldzLmk
 * x86/x64 Assembly
   * Topics:
     * Introduction
-    * x86 and x65 ISA
+    * x86 and x64 ISA
     * ELF and System V ABI
     * Compilation and linking process
     * Library Interposition
@@ -65,7 +65,7 @@ The [playlist](https://www.youtube.com/playlist?list=PLR11TQ3H_K1uRaoCvgdoldzLmk
     * Address-Space Layout Randomization
   * [Slides](https://bart.disi.unige.it/zxgio/phd-course-2017/exploitation_slides.pdf)
   * [Files](https://bart.disi.unige.it/zxgio/phd-course-2017/exploitation_files.tgz)
-  * Lectures on Youtube: [Part 6](https://www.youtube.com/watch?v=DhE9e-pVQ-o), [Part 7](https://www.youtube.com/watch?v=8gkr0i6JZtY), [Part 8](https://www.youtube.com/watch?v=SwYPRXW9u3Q), [Part 9](https://www.youtube.com/watch?v=IICGJfqg_Jc), [Part 10 (incomplete due to network error during streaming; we'll record it again)](https://www.youtube.com/watch?v=Fx7SKyOig_s&list=PLR11TQ3H_K1uRaoCvgdoldzLmksw9D06B&index=10), [Part 11](https://www.youtube.com/watch?v=bPhos_kmxR0&list=PLR11TQ3H_K1uRaoCvgdoldzLmksw9D06B&index=11) and [Part 12](https://www.youtube.com/watch?v=xDQp4GNL7h0&list=PLR11TQ3H_K1uRaoCvgdoldzLmksw9D06B&index=12)
+  * Lectures on Youtube: [Part 6](https://www.youtube.com/watch?v=DhE9e-pVQ-o), [Part 7](https://www.youtube.com/watch?v=8gkr0i6JZtY), [Part 8](https://www.youtube.com/watch?v=SwYPRXW9u3Q), [Part 9](https://www.youtube.com/watch?v=IICGJfqg_Jc), [Part 10 (few minutes of the recording are missing due to network error during streaming)](https://www.youtube.com/watch?v=Fx7SKyOig_s&list=PLR11TQ3H_K1uRaoCvgdoldzLmksw9D06B&index=10), [Part 11](https://www.youtube.com/watch?v=bPhos_kmxR0&list=PLR11TQ3H_K1uRaoCvgdoldzLmksw9D06B&index=11) and [Part 12](https://www.youtube.com/watch?v=xDQp4GNL7h0&list=PLR11TQ3H_K1uRaoCvgdoldzLmksw9D06B&index=12)
 * Fuzzing
   * Topics:
     * Introduction

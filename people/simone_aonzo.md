@@ -9,6 +9,7 @@ title: Simone Aonzo
 
 ## Short Bio
 - Born in [Savona](https://en.wikipedia.org/wiki/Savona), [Liguria](https://en.wikipedia.org/wiki/Liguria), the **1st of Aug. 1988**
+- **Mar. 2013**: Bachelor's degree (L-31) in Computer Science at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 - **Oct. 2015**: Master of Science (LM-18) *cum laude* in Computer Science at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 
 
