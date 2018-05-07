@@ -3,6 +3,8 @@ title: Events
 layout: page
 ---
 
+* May 18, 2018 - [*Technical Seminar: Adversarial Machine Learning*](fabio_roli), prof. Fabio Roli (Università di Cagliari)
+* May 18, 2018 - [*Technical Seminar: Alpha-Beta Privacy (a novel and declarative way to reason about privacy)*](luca_vigano), prof. Luca Viganò (King's College)
 * Dec 11-18, 2017 - [*PhD course: Introduction to reverse engineering and exploitation of binary programs*](phd-course-binaries), prof. Giovanni Lagorio (Università di Genova)
 * Nov 14, 2017, 4:30pm - [*Boeing-UNIGE Scholarship Project 2017/2018: presentation to the students*](boeing-unige-presentation)
 * Oct 20, 2017, 4:00pm - Technical Seminar: [*Monero: the dark side of cryptocurrencies*](monero), Prof. Massimiliano Sala (Università di Trento)
