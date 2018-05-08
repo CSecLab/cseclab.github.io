@@ -7,9 +7,9 @@ title: "Alpha-Beta Privacy (a novel and declarative way to reason about privacy)
 
 *SPEAKER:* prof. Luca Viganò (King's College, London)
 
-*WHEN:* Friday, May 18, 2018
+*WHEN:* Friday, May 18, 2018 at 15:00
 
-*WHERE:* DIBRIS, Università di Genova, Aula 710, Via Dodecaneso, 35 - Genova
+*WHERE:* Sala Conferenze DIBRIS, III piano, stanza 326bis, di Via Dodecaneso 35
 
 *ABSTRACT:* Formally specifying privacy goals is not trivial. The most widely used approach in formal methods is based on the static equivalence of frames in the applied pi-calculus, basically asking whether or not the intruder is able to distinguish two given worlds. A subtle question is how we can be sure that we have specified all pairs of worlds to properly reflect our intuitive privacy goal. To address this problem, we introduce a novel and declarative way to specify privacy goals, called "alpha-beta privacy", and relate it to static equivalence. This new approach is based on specifying two formulae alpha and beta in first-order logic with Herbrand universes, where alpha reflects the intentionally released information and beta includes the actual cryptographic ("technical") messages the intruder can see. Then alpha-beta privacy means that the intruder cannot derive any "non-technical" statement from beta that he cannot derive from alpha already. We describe by a variety of examples how this notion can be used in practice. Even though alpha-beta privacy does not directly contain a notion of distinguishing between worlds, there is a close relationship to static equivalence of frames that we investigate formally. This allows us to justify (and criticize) the specifications that are currently used in verification tools, and obtain partial tool support for alpha-beta privacy. 
 
