@@ -7,7 +7,7 @@ title: "Adversarial Machine Learning"
 
 *SPEAKER:* prof. Fabio Roli (Università di Cagliari)
 
-*WHEN:* Friday, May 18, 2018, 11:00
+*WHEN:* Friday, May 18, 2018 at 11:00
 
 *WHERE:* Sala Conferenze DIBRIS, III piano, stanza 326bis, di Via Dodecaneso 35
 
