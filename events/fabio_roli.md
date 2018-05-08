@@ -7,9 +7,9 @@ title: "Adversarial Machine Learning"
 
 *SPEAKER:* prof. Fabio Roli (Università di Cagliari)
 
-*WHEN:* Friday, May 18, 2018
+*WHEN:* Friday, May 18, 2018, 11:00
 
-*WHERE:* DIBRIS, Università di Genova, Aula 710, Via Dodecaneso, 35 - Genova
+*WHERE:* Sala Conferenze DIBRIS, III piano, stanza 326bis, di Via Dodecaneso 35
 
 *ABSTRACT:* This talk aims to introduce the fundamentals of adversarial machine learning by a well-structured review of recently-proposed techniques to assess the vulnerability of machine-learning algorithms to adversarial attacks (both at training and test time), and some of the most effective countermeasures proposed to date. We report clear
 application examples including object recognition in images, biometric identity recognition, spam and malware detection. This talk is an excerpt of a larger tutorial that I’m offering in different places [(https://www.pluribus-one.it/sec-ml/wild-patterns)](https://www.pluribus-one.it/sec-ml/wild-patterns).
