@@ -7,7 +7,7 @@ title: "Alpha-Beta Privacy (a novel and declarative way to reason about privacy)
 
 *SPEAKER:* prof. Luca Viganò (King's College, London)
 
-*WHEN:* Friday, May 18, 2018 at 2:00pm
+*WHEN:* Friday, May 18, 2018 at 3:00pm
 
 *WHERE:* Sala Conferenze DIBRIS, III piano, stanza 326bis, di Via Dodecaneso 35
 
