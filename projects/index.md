@@ -25,10 +25,6 @@ title: Projects
 
   >  In 2006 the AVISPA Project received the nomination for the Descartes Prize for excellence in scientific collaborative research.  (It was one the 13 projects shortlisted out of 65 submissions.)  From the Descartes Prizes web page (http://cordis.europa.eu/science-society/descartes/home.html): ``This prize is awarded to teams of researchers who have achieved outstanding scientific or technological results through collaborative research in any field of science, including the social sciences, humanities and economics.''
   
-<<<<<<< HEAD
-- Sistema INTEgrato per la Sicurezza ad Intelligenza diStribuita (SINTESIS), Distretto Tecnologico Ligure.  Duration: 18 months from March 1, 2009.
-=======
->>>>>>> 9fbe0225ec5c777711284134f2a975ed94190f94
 - Verifica automatica dei protocolli di sicurezza (RBAU01P5SS) funded by the Italian Ministry of Scientific and Technological Research in the context of the FIRB 2001 Programme. Partner Institutions: DIST, U. di Genova (Prof. A. Armando, coordinator); University of Trento (Prof. F. Massacci); University of Napoli (Prof.M. Benerecetti).  Duration: 36 months starting from July 1, 2003.  
 - Decision Procedures for Software Model Checking (2003097383-002) funded by the Italian Ministry of Scientific and Technological Research in the context of the PRIN 2003 Programme. Duration: 24 months from November 20, 2003.  
 - AVISS: Automated Verification of Infinite State Systems (IST-2000-26410) funded by the European Commission in the context of the Future and Emerging Technologies Programme of the 5th Framework Programme.  Duration: 12 months from May 1, 2001.
