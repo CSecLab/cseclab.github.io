@@ -18,12 +18,14 @@ title: Homepage of Alessio Merlo
 - **Apr. 2010**: Ph.D. in Computer Science at University of Genova on HPC and Grid technologies.
 - **From Feb. 2010 to Mar. 2011**: PostDoc in Computer Security at [AI-Lab](http://www.ai-lab.it), DIST, University of Genova.
 - **From Apr. 2011 to Aug. 2014**: Assistant Professor at [E-Campus University](http://www.ecampus.it) and Associate Researcher at AI-Lab, [DIBRIS](http://www.dibris.unige.it), University of Genova.
+- **From Sep. 2014 to Aug. 2017**: Assistant Professor at [DIBRIS](http://www.dibris.unige.it), University of Genova.
 - **Apr. 2017**: *Habilitation* as "Associate Professor" both in *Computer Engineering* (S.C. 09/H1)  and in *Computer Science* (S.C. 01/B1), according to the Italian National Scientific Habilitation Procedure ([ASN 2016-2018](http://abilitazione.miur.it)).
+- **July 2018**: *Habilitation* as "Full Professor" both in *Computer Engineering* (S.C. 09/H1), according to the Italian National Scientific Habilitation Procedure ([ASN 2016-2018](http://abilitazione.miur.it)).
 
 
 ### Current positions
-- **Assistant Professor (RTD-B)** at DIBRIS, University of Genova. 
-- **Founder and C.T.O.** at [Talos  s.r.l.s](http://www.talos-sec.com).
+- **Tenured Assistant Professor (RTD-B)** at DIBRIS, University of Genova (since Oct. 2017).
+- **Founder and C.T.O.** at [Talos  s.r.l.s](http://www.talos-sec.com) (since Jan. 2016).
 
 
 ## Publications
@@ -264,6 +266,7 @@ title: Homepage of Alessio Merlo
 
 ### Ph.D. Supervision
 
+- **2018-2020**: Doctoral Supervisor of *[Davide Caputo](http://csec.it/people/davide_caputo/)* (Cycle XXXIII), DIBRIS, University of Genoa. 
 - **2017-2019**: Doctoral Supervisor of *[Simone Aonzo](http://csec.it/people/simone_aonzo/)* (Cycle XXXII), DIBRIS, University of Genoa. 
 - **2013-2016**: Doctoral Supervisor of *[Luca Verderame](https://it.linkedin.com/in/lucaverderame)* (Cycle XXVIII), DIBRIS, University of Genoa.
 
