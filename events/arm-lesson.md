@@ -16,5 +16,5 @@ The lesson materials focus on ARM achitecture (32 bit) and advanced exploitation
 
 
 # Slides
-+ [Slides](arm_lesson.pdf) 
++ [Slides](./arm-lesson/arm_lesson.pdf) 
 
