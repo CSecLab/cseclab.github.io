@@ -41,12 +41,12 @@ title: Simone Aonzo
 
 ### (2017-now) Teaching support, DIBRIS, University of Genoa.
 
-|                Degree               |      Course Taught      | From: (a.y.) | To: (a.y.) | Tot. yrs. |
-|:-----------------------------------:|:-----------------------:|:------------:|:----------:|:---------:|
-|        B.Sc. Computer Engineering   | Calcolatori Elettronici |    2017      |     now    |     1     |
+|                Degree               |      Course Taught    | From: (a.y.) | To: (a.y.) | Tot. yrs. |
+|:-----------------------------------:|:--------------------------------------------:|:----:|:---:|:-:|
+|        B.Sc. Computer Engineering   | Calcolatori Elettronici                      | 2017 | now | 1 |
 |        B.Sc. Computer Engineering   | Lab. di Progettazione e Analisi di Algoritmi | 2017 | now | 1 |
-|        B.Sc. Computer Science       | Sviluppo Applicazioni Web | 2017       | now  | 1   | 1 |
-| [Master in Cybersecurity](https://mastercybersecurity.it/) | Mobile Security | 2017 | now | 
+|        B.Sc. Computer Science       | Sviluppo Applicazioni Web                    | 2017 | now | 1 | 
+| [Master in Cybersecurity](https://mastercybersecurity.it/) | Mobile Security       | 2017 | now | 1 |
 
 ## Personal Links
 
