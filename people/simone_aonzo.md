@@ -35,7 +35,7 @@ title: Simone Aonzo
 
   2) S. Aonzo, A. Merlo, M. Migliardi, L. Oneto, F. Palmieri. "[Low-Resource Footprint, Data-driven Malware Detection on Android](/papers/Low-Resource_Footprint,Data-Driven_Malware_Detection_on_Android.pdf)", *IEEE Trans. on Sustainable Computing*, Vol. PP, no. 99, pp. 1-1, [DOI: 10.1109/TSUSC.2017.2774184](https://doi.org/10.1109/TSUSC.2017.2774184)
 
-  1) S. Aonzo, G. Lagorio, A. Merlo. "[RmPerm: a Tool for Android Permissions Removal](RmPerm_a_Tool_for_Android_Permissions_Removal.pdf)", in Proc. of the 14th International Conference on Security and Cryptography ([SECRYPT 2017](http://www.icete.org/Abstracts/2017/SECRYPT_2017_Abstracts.htm)), Madrid, Spain.
+  1) S. Aonzo, G. Lagorio, A. Merlo. "[RmPerm: a Tool for Android Permissions Removal](/papers/RmPerm_a_Tool_for_Android_Permissions_Removal.pdf)", in Proc. of the 14th International Conference on Security and Cryptography ([SECRYPT 2017](http://www.icete.org/Abstracts/2017/SECRYPT_2017_Abstracts.htm)), Madrid, Spain.
 
 ## Teaching Activity
 
