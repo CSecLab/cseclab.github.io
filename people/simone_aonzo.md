@@ -10,15 +10,12 @@ title: Simone Aonzo
 ### Short Bio
 - Born in [Savona](https://en.wikipedia.org/wiki/Savona), [Liguria](https://en.wikipedia.org/wiki/Liguria), the **1st of Aug. 1988**
 - **2010-2015**: Master of Science (LM-18) *cum laude* in Computer Science at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
+- **From Jan. 2017**: PhD student in Computer Science and Systems Engineering of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 
 
 ### Jobs
 - **Network and Computer Systems Administrators** at [Teknoos](http://teknoos.it) (2008-2010)
 - **Security Developer / Pentester** at [Talos](http://www.talos-sec.com) (2015-now)
-
-
-### Current position
-- **From Jan. 2017**: PhD student in Computer Science and Systems Engineering of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 
 
 ### Research Topics by Keywords
