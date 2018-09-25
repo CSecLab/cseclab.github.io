@@ -46,7 +46,7 @@ title: Simone Aonzo
 |        B.Sc. Computer Engineering   | Calcolatori Elettronici |    2017      |     now    |     1     |
 |        B.Sc. Computer Engineering   | Lab. di Progettazione e Analisi di Algoritmi | 2017 | now | 1 |
 |        B.Sc. Computer Science       | Sviluppo Applicazioni Web | 2017       | now  | 1   | 1 |
-| [Master in Cybersecurity](https://mastercybersecurity.it/) | Mobile Security | 2017 | now | 1 |
+| [Master in Cybersecurity](https://mastercybersecurity.it/) | Mobile Security | 2017 | now | 
 
 ## Personal Links
 
