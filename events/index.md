@@ -3,7 +3,7 @@ title: Events
 layout: page
 ---
 
-* July 30, 2018, 11:00am - [*Advanced RISC Machine, from Architecture to eXploitation*](arm_lesson), [Simone Aonzo](/people/simone_aonzo) (Università di Genova)
+* July 30, 2018, 11:00am - [*Advanced RISC Machine, from Architecture to eXploitation*](arm-lesson), [Simone Aonzo](/people/simone_aonzo) (Università di Genova)
 * May 18, 2018, 11:00am - [*Technical Seminar: Adversarial Machine Learning*](fabio_roli), prof. Fabio Roli (Università di Cagliari)
 * May 18, 2018, 3:00pm - [*Technical Seminar: Alpha-Beta Privacy (a novel and declarative way to reason about privacy)*](luca_vigano), prof. Luca Viganò (King's College, London)
 * March 16, 2018 - [*CYBERSECURITY: Formazione, Addestramento e Prospettive della Sicurezza Informatica*](https://unige.it/eventi/eventi.php?id=1585)
