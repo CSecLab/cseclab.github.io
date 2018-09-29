@@ -3,7 +3,7 @@ layout: page
 title: SATMC: a SAT-based Model-Checker for Security Protocols
 ---
 
-# SATMC: a SAT-based Model-Checker for Security Protocols
+# *SATMC: a SAT-based Model-Checker for Security Protocols*
 
 Even under the assumption of perfect cryptography, the design of security protocols is notoriously error-prone. Many published protocols have been implemented and deployed in real applications only to be found flawed years later. The problem is that often security protocols hide subtle flaws that are difficult to detect by a human inspection.
 
