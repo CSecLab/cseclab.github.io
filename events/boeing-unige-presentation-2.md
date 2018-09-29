@@ -5,7 +5,7 @@ title: 2nd Boeing-UNIGE CTF 2018/2019 - Presentation to Students
 
 *When:* Oct 5, 2018 at 14:30
 
-*Venue:* Sala Conferenze DIBRIS, III piano, stanza 326bis, di Via Dodecaneso 35
+*Venue:* Sala Conferenze DIBRIS, III piano, stanza 326bis, di Via Dodecaneso 35, Genova
 
 *Agenda:*
 
@@ -16,5 +16,6 @@ title: 2nd Boeing-UNIGE CTF 2018/2019 - Presentation to Students
 * 16:00: Coffee Break
 * 16:15: Test your Cyber Skills: a Mini Cyber Exercise (F. Picasso, RealityNet)
 * 16:45: Closing Remarks
+* 17:00: End of event
 
 
