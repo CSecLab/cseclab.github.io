@@ -8,6 +8,7 @@ layout: page
 * [Alessandro Armando](alessandro_armando)
 * [Giovanni Lagorio](giovanni_lagorio)
 * [Alessio Merlo](alessio_merlo)
+* [Marina Ribaudo](https://www.dibris.unige.it/ribaudo-marina)
 
 
 # Ph.D. Students, Collaborators and Student Members
