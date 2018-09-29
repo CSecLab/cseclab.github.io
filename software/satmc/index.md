@@ -12,9 +12,9 @@ Even under the assumption of perfect cryptography, the design of security protoc
     *   check the protocol against complex temporal properties (e.g. fair exchange);
     *   analyze protocols (e.g. browser-based protocols) that assume messages are carried over _secure channels_ (e.g. SSL/TLS channels).
 *   **Success Stories:** SATMC has been used to detect
-    *   a [serious vulnerability](http://www.ai-lab.it/armando/GoogleSSOVulnerability.html) on the [SAML-based Single Sign-On service for Google Apps](http://code.google.com/apis/apps/sso/saml_reference_implementation.html);
+    *   a [serious vulnerability](https://csec.it/software/GoogleSSOVulnerability) on the [SAML-based Single Sign-On service for Google Apps](http://code.google.com/apis/apps/sso/saml_reference_implementation.html);
     *   a flaw in a "patched" version of the Asokan, Weidner, Shoup protocol for optimistic fair exchange \[[csf2007](publications.html#csf2007)\];
-    *   an authentication flaw in the SAML 2.0 Web Browser SSO Profile \[[sec2011](publications.html#sec2011)\].SATMC has also been used by SAP Research to perform a complete formal analysis of the SAP NetWeaver SAML Next Generation Single Sign-On.
+    *   an authentication flaw in the SAML 2.0 Web Browser SSO Profile \[[sec2011](publications.html#sec2011)\]. SATMC has also been used by SAP Research to perform a complete formal analysis of the SAP NetWeaver SAML Next Generation Single Sign-On.
 *   **Usage:** SATMC is used in several advanced research prototypes and industrial tools:
     *   SATMC is one of the back-ends of the [AVISPA Tool](http://www.avispa-project.org) and of the [AVANTSSAR Platform](http://www.avantssar.eu).
     *   SATMC is used as an automated testcase generator in [Tookan](http://secgroup.ext.dsi.unive.it/tookan), a tool for analysing PKCS#11 security tokens;
