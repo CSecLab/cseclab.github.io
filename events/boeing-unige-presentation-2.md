@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2nd Boeing-UNIGE CTF 2018/2019 - Presentation to Students
+title: Cybersecurity Training @ DIBRIS
 ---
 
 *When:* Oct 5, 2018 at 14:15
@@ -10,7 +10,7 @@ title: 2nd Boeing-UNIGE CTF 2018/2019 - Presentation to Students
 *Agenda:*
 
 * 14:15: Welcome - Cybersecurity Training @ DIBRIS  (A. Armando)
-* 14:30: The 2nd Boeing-UNIGE CTF (G. Lagorio & A. Valenza) 
+* 14:30: Hands-on Cybersecurity Activities (G. Lagorio & A. Valenza) 
 * 15:00: Testimonials (M. Ribaudo, L. Sciolla, F. Lucini, L. Maffia)
 * 15:30: Cyber Defence (Gen. F. Vestito, Comandante del Comando Interforze Operazione Cibernetiche) 
 * 16:00: Coffee Break
