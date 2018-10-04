@@ -14,7 +14,7 @@ title: Cybersecurity Training @ DIBRIS
 * 15:00: Testimonials (M. Ribaudo, L. Sciolla, F. Lucini, L. Maffia)
 * 15:30: Cyber Defence (Gen. F. Vestito, Comandante del Comando Interforze Operazione Cibernetiche) 
 * 16:00: Coffee Break
-* 16:15: Test your Cyber Skills: a Mini Cyber Exercise (F. Picasso, RealityNet)
+* 16:15: DFIR - Digital Forensics & Incident Response (F. Picasso)
 * 16:45: Closing Remarks
 * 17:00: End of event
 
