@@ -3,7 +3,7 @@ title: Events
 layout: page
 ---
 
-* Oct 5, 2018, 2:30pm - [*2nd Boeing-UNIGE CFT 2017/2018: presentation to the students*](boeing-unige-presentation-2)
+* Oct 5, 2018, 2:15pm - [*Cybersecurity Training @ DIBRIS*](cybersecurity-training-at-dibris)
 * Jul 30, 2018, 11:00am - [*Advanced RISC Machine, from Architecture to eXploitation*](arm-lesson), [Simone Aonzo](/people/simone_aonzo) (Università di Genova)
 * May 18, 2018, 11:00am - [*Technical Seminar: Adversarial Machine Learning*](fabio_roli), prof. Fabio Roli (Università di Cagliari)
 * May 18, 2018, 3:00pm - [*Technical Seminar: Alpha-Beta Privacy (a novel and declarative way to reason about privacy)*](luca_vigano), prof. Luca Viganò (King's College, London)
