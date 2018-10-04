@@ -3,7 +3,7 @@ layout: page
 title: Cybersecurity Training @ DIBRIS
 ---
 
-*When:* Oct 5, 2018 at 14:15
+*When:* Oct 5, 2018 at 2:15pm
 
 *Venue:* Sala Conferenze DIBRIS, III piano, stanza 326bis, di Via Dodecaneso 35, Genova
 
