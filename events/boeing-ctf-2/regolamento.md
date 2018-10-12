@@ -21,7 +21,8 @@ The final score is a combination of:
 2. reporting, both online and offline.
 
 **Challenge score** is be automatically assigned when a task is completed.
-Each task has a score depending on its estimated difficulty (e.g.: 100 for Easy tasks) and the score assigned also takes into consideration the completion time (e.g.: 100 points, minus 1 point for each 10 minutes passed from the beginning of the competition).
+Each task has a score depending on the number of times the task is solved
+(this score is automatically adjusted during the competition).
 
 **Reporting score** is assigned by the jury.
 When the CTF is over, participants hand in a *write-up*, i.e., a report where they summarize their activity during the challenge.
