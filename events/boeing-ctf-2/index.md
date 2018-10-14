@@ -1,5 +1,5 @@
 ---
-title: Boeing-UNIGE Scholarship Project  2018/2019  -- ***IN COSTRUZIONE***
+title: Boeing-UNIGE Scholarship Project  2018/2019
 layout: page
 ---
 
