@@ -3,7 +3,7 @@ title: CSecLab
 email: info@csec.it
 description: "Computer Security Lab - UniGe"
 baseurl: ""
-url: "http://cseclab-new.herokuapp.com"
+url: "https://csec.it"
 github_username:  CSecLab
 
 # Build settings
