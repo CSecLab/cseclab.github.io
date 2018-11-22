@@ -21,4 +21,4 @@ Gli studenti interessati sono invitati registrarsi preventivamemente alla pagina
 ### Date importanti:
 
 * Termine di invio della candidatura: 30/11/2018, ore 12:00
-* Prova di selezione: 20/12/2018, 14:00
+* Prova di selezione (CTF): 20/12/2018, 14:00
