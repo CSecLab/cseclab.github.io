@@ -12,11 +12,7 @@ Per maggiori informazioni gli interessati sono invitati a consultare il [Bando u
 
 In preparazione della prova di selezione verrà organizzato un ciclo di incontri e di esercitazioni pratiche al calcolatore (hands-on sessions) su: penetration testing, web security, mobile security e binary analysis.  Maggiori informazioni sono disponibili sul sito di [ZenHack Team](http://zenhack.team).
 
-Gli studenti interessati sono invitati registrarsi preventivamemente alla pagina AulaWeb dedicata al [Boeing-UNIGE Scholarship Project 2018](https://dibris.aulaweb.unige.it/course/view.php?id=1168) dove troveranno:
-
-* la *form* per esprimere la propria candidatura (da effettuarsi inderogabilmente entro il 30/11/2018),
-* il calendario degli incontri di preparazione alla CFT e
-* il Regolamento della CTF.
+Gli studenti interessati devono registrarsi preventivamemente alla pagina AulaWeb dedicata al [Boeing-UNIGE Scholarship Project 2018](https://dibris.aulaweb.unige.it/course/view.php?id=1168).
 
 ### Date importanti:
 
