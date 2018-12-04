@@ -33,5 +33,4 @@ title: Davide Caputo
 ### Contacts
 
 - **Office**: [room 314, DIBRIS - Department of Mathematics, Via Dodecaneso, 35, 16146 Genova - Italy](https://goo.gl/maps/kTyTs2YKMkL2)
-- **Email**: 3928125 (A) studenti.unige.it 
-
+- **Email**: davide.caputo (A) dibris.unige.it
