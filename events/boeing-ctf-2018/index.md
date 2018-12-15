@@ -14,13 +14,13 @@ In preparazione della prova di selezione verrà organizzato un ciclo di incontri
 
 Gli studenti interessati devono registrarsi preventivamemente alla pagina AulaWeb dedicata al [Boeing-UNIGE Scholarship Project 2018](https://dibris.aulaweb.unige.it/course/view.php?id=1168).
 
-### Date importanti:
+### Date importanti
 
 * Termine di invio della candidatura: 30/11/2018, ore 12:00
 * Prova di selezione (CTF): 20/12/2018, 14:00
 
 
-### Informazioni importanti:
+### Informazioni importanti
 
 * La prova si svolgerà  in Aula G1, via all’Opera Pia, 15A, Genova
 * Presentarsi in aula G1 dalle 13:00 all 13:30 per prendere posizione. (NB: a chi si presentarà dopo le 13:30 non sarà possibile garantire l'accesso alla prova.)
