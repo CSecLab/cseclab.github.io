@@ -17,4 +17,16 @@ Gli studenti interessati devono registrarsi preventivamemente alla pagina AulaWe
 ### Date importanti:
 
 * Termine di invio della candidatura: 30/11/2018, ore 12:00
-* Prova di selezione (CTF): 20/12/2018, 14:00
+* Prova di selezione (CTF): 20/12/2018, 14:00 in Aula G1, via all’Opera Pia, 15A, Genova
+
+---
+**IMPORTANTE** 
+
+* Presentarsi in aula G1 entro dalle 13:00 all 13:30 per prendere posizione. 
+* A chi si presentarà dopo le 13:30 non sarà possibile garantire l'accesso alla prova.
+---
+
+
+
+
+
