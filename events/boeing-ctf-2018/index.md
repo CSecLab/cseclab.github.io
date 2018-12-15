@@ -23,8 +23,7 @@ Gli studenti interessati devono registrarsi preventivamemente alla pagina AulaWe
 ### Informazioni importanti:
 
 * La prova si svolgerà  in Aula G1, via all’Opera Pia, 15A, Genova
-* Presentarsi in aula G1 dalle 13:00 all 13:30 per prendere posizione.
-* A chi si presentarà dopo le 13:30 non sarà possibile garantire l'accesso alla prova.
+* Presentarsi in aula G1 dalle 13:00 all 13:30 per prendere posizione. (NB: a chi si presentarà dopo le 13:30 non sarà possibile garantire l'accesso alla prova.)
 
 
 
