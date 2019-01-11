@@ -13,3 +13,6 @@ CSecLab is part of the Cyber Security National Laboratory
 
 <img src="/pics/labo-naz-logo.png" width="300" />
 
+NEWS
+
+* Sept. 26, 2018: Members from the CSecLab and Eurecom discovered new phishing attacks on Android. [INFO](http://csec.it/projects/modern-android-phishing/)

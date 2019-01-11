@@ -15,5 +15,7 @@ As such, this lesson is called "practical" because it aims to teach exploitation
 The lesson materials focus on ARM achitecture (32 bit) and advanced exploitation topics (circumventing protection mechanisms) using Linux as the platform as a basis to learn the ARM architecture but with the obvious applications being platforms running on mobile phones, tablets, embedded devices, etc.
 
 
-# Laptop (VM?) setup
-TDB
+# Slides
++ [Slides](/events/arm-lesson/arm_lesson.pdf) 
++ [Slides1](arm-lesson/arm_lesson.pdf) 
+

@@ -92,8 +92,7 @@ I have been Program Chair of the following scientific events:
 
 - (with Hilarie Orman) 2nd Workshop on Semantic Computing for Security and Privacy (WSCS'12), May 24, 2012.
 - (with Maria Paola Bonacina) Rich-Model Toolkit Meeting, Torino, Italy October 3-4, 2011.
-(with G. Lowe) Joint Workshop on Automated
-- Reasoning for Security Protocol Analysis and Issues in the Theory of Security (ARSPA-WITS 2010), Cyprus, March 2010.
+- (with G. Lowe) Joint Workshop on Automated Reasoning for Security Protocol Analysis and Issues in the Theory of Security (ARSPA-WITS 2010), Cyprus, March 2010.
 - (with P. Baumgartner and G. Dowek) 4th International Joint Conference on Automated Reasoning (IJCAR 2008), Sidney, August 11-16, 2008.
 - (with A. Cimatti) 3rd Workshop on Pragmatics of Decision Procedures in Automated Reasoning (PDPAR'05), Edinburgh (UK), July 12, 2005.
 - (with Luca Vigano) Automated Reasoning for Security Protocols Analysis (ARSPA'04), Cork, Ireland, July 4, 2004.
@@ -162,7 +161,7 @@ Principal investigator of the following research projects:
 
 - [FilieraSicura](http://www.filierasicura.it) (Securing the Supply Chain of Domestic Critical Infrastructures from Cyber Attacks) funded by CISCO.  Partner institutions: U. of Rome "La Sapienza" (coordinator), U. of Genova, U. of Napoli ``Federico II'', U of Trento, U. of Venice "Ca' Foscari", Politecnico di Milano, Politecnico di Torino, IMT School for Advanced Studies Lucca. Duration: 36 months, starting on January, 2017.
 - FIDES (Federated Identity Management in Europe) funded by the European Institute of Innovation and Technology (EIT ICT Labs) in the context of Action Line on Privacy, Security and Trust 2015.  Partner institutions: Poste Italiane (coordinator), FBK, Reply, DFKI, and Politecnico di Torino, Eotvos Lorand University, Telecom Italia, TNO.  Duration: 12 months, starting on January 1, 2015.
-- Security Horizons (2010XSEMLC006), funded by the Italian Ministry of Scientific and Technological Research in the context of the PRIN 2011 Programme.  
+- Security Horizons (2010XSEMLC006), funded by the Italian Ministry of Scientific and Technological Research in the context of the PRIN 2011 Programme.
 - [Secure Provision and Consumption in the Internet of Services (SPaCIoS)](http://www.spacios.eu), STREP project number 257876, funded by the EU in the context of the 7th Framework Programme, THEME ICT-1-1.4 -- Secure, dependable and trusted Infrastructures.  Partner Institutions: U. of Verona (coordinator), U. of Genova, ETHZ, SAP Research, Siemens AG, Karlsruhe Institute of Technology, Institut Polytechnique de Grenoble.  Duration: 36 months from October 11, 2010.  
 - [Automated Validation of Trust and Security of Service-oriented Architectures (AVANTSSAR)](http://www.avantssar.eu), STREP project number 216471, funded by the EU in the context of the 7th Framework Programme, THEME ICT-1-1.4 -- Secure, dependable and trusted Infrastructures.  Partner Institutions: U. of Verona (coordinator), U. of Genova, ETHZ, SAP Research, Siemens AG, INRIA-Lorraine, IRIT, OpenTrust, Institute e-Austria Timisoara.  Duration: 36 months from January 1, 2008.  
 - Sistema INTEgrato per la Sicurezza ad Intelligenza diStribuita (SINTESIS), Distretto Tecnologico Ligure.  Duration: 18 months from March 1, 2009.

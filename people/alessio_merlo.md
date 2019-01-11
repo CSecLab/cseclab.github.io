@@ -20,7 +20,7 @@ title: Homepage of Alessio Merlo
 - **From Apr. 2011 to Aug. 2014**: Assistant Professor at [E-Campus University](http://www.ecampus.it) and Associate Researcher at AI-Lab, [DIBRIS](http://www.dibris.unige.it), University of Genova.
 - **From Sep. 2014 to Aug. 2017**: Assistant Professor at [DIBRIS](http://www.dibris.unige.it), University of Genova.
 - **Apr. 2017**: *Habilitation* as "Associate Professor" both in *Computer Engineering* (S.C. 09/H1)  and in *Computer Science* (S.C. 01/B1), according to the Italian National Scientific Habilitation Procedure ([ASN 2016-2018](http://abilitazione.miur.it)).
-- **July 2018**: *Habilitation* as "Full Professor" both in *Computer Engineering* (S.C. 09/H1), according to the Italian National Scientific Habilitation Procedure ([ASN 2016-2018](http://abilitazione.miur.it)).
+- **July 2018**: *Habilitation* as "Full Professor" in *Computer Engineering* (S.C. 09/H1), according to the Italian National Scientific Habilitation Procedure ([ASN 2016-2018](http://abilitazione.miur.it)).
 
 
 ### Current positions

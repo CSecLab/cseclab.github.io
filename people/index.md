@@ -8,11 +8,13 @@ layout: page
 * [Alessandro Armando](alessandro_armando)
 * [Giovanni Lagorio](giovanni_lagorio)
 * [Alessio Merlo](alessio_merlo)
+* [Marina Ribaudo](https://www.dibris.unige.it/ribaudo-marina)
 
 
 # Ph.D. Students, Collaborators and Student Members
 
 * [Simone Aonzo](simone_aonzo)
+* [Davide Caputo](davide_caputo)
 * [Luca Demetrio](luca_demetrio)
 * [Enrico Russo](enrico_russo)
 * [Andrea Valenza](andrea_valenza)

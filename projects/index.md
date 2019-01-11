@@ -5,7 +5,8 @@ title: Projects
 
 # Training Projects
 
-- **[Boeing-UNIGE Scholarship Project](/events/boeing-ctf/index)**, funded by Boeing Company. 
+- **[Boeing-UNIGE Scholarship Project 2017](/events/boeing-ctf/index)**, funded by Boeing Company. 
+- **[Boeing-UNIGE Scholarship Project 2018](/events/boeing-ctf-2018/index)**, funded by Boeing Company. 
 
 # Research Projects
 
