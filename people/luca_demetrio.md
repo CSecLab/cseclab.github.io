@@ -17,24 +17,20 @@ title: Luca Demetrio
 * Teacher assistant for **Tecniche avanzate di programmazione** (TAP) during academic year 2017-2018
 * Teacher assistant for **Binary Analysis and Secure Coding** (BASC) during academic year 2018-2019
 
-# Office
-* Room 309: [Via Dodecaneso, 35 I-16146 Genova, Italy](https://www.google.com/maps/place/Universit%C3%A0+degli+Studi+di+Genova+-+Dipartimento+di+Informatica,+Bioingegneria,+Robotica+e+Ingegneria+dei+Sistemi/@44.4033504,8.9718396,17.37z/data=!4m5!3m4!1s0x0:0x36191c714ef37673!8m2!3d44.4032971!4d8.9723245?hl=en-US)
-
-# Other virtual places
-* [ZenHack CTF Team](https://zenhack.it)
-* [GitHub](https://github.com/zangobot)
-* [Gamejolt](https://gamejolt.com/@wireluca)
-* [Twitter](https://twitter.com/wireluca)
-* [Wattpad](https://www.wattpad.com/user/LucaDemetrio)
-
 # Personal interests
 * [Adversarial Machine Learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning)
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 * [Exploitation](https://en.wikipedia.org/wiki/Exploit_(computer_security))
 * [Videogames Development](https://en.wikipedia.org/wiki/Video_game_development)
 
+# Other virtual places
+* [ZenHack CTF Team](https://zenhack.it)
+* [GitHub](https://github.com/zangobot)
+* [Twitter](https://twitter.com/zangobot)
+
+# Office
+* Room 309: [Via Dodecaneso, 35 I-16146 Genova, Italy](https://www.google.com/maps/place/Universit%C3%A0+degli+Studi+di+Genova+-+Dipartimento+di+Informatica,+Bioingegneria,+Robotica+e+Ingegneria+dei+Sistemi/@44.4033504,8.9718396,17.37z/data=!4m5!3m4!1s0x0:0x36191c714ef37673!8m2!3d44.4032971!4d8.9723245?hl=en-US)
 
 # Contacts
-* **Office**: find Room 309 (see sections above) and ask for me
 * **Email**: luca.demetrio (A) dibris.unige.it
 * **Phone**: 6616
