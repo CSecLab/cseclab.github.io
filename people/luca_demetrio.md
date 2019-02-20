@@ -11,7 +11,7 @@ title: Luca Demetrio
 * **25/07/2017**: Graduated cum laude in Computer Science at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 * **From 1/11/2017**: PhD student in Computer Science of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 
-# Pubblications
+# Publications
 * Demetrio Luca, Battista Biggio, Giovanni Lagorio, Fabio Roli, Alessandro Armando\\
 [Explaining Vulnerabilities of Deep Learning to Adversarial Malware Binaries](https://arxiv.org/abs/1901.03583)\\
 Open proceedings ITASEC 2019
