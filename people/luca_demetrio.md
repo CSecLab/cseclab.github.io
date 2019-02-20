@@ -11,17 +11,23 @@ title: Luca Demetrio
 * **25/07/2017**: Graduated cum laude in Computer Science at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 * **From 1/11/2017**: PhD student in Computer Science of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 
-# Teaching assistant activities
-* Tutor for **Introduzione alla programmazione** (IP) during academic year 2016-2017 and 2017-2018
-* Tutor for **Algoritmi e Strutture Dati** (ASD) during academic year 2016-2017 and 2017-2018
-* Teacher assistant for **Tecniche avanzate di programmazione** (TAP) during academic year 2017-2018
-* Teacher assistant for **Binary Analysis and Secure Coding** (BASC) during academic year 2018-2019
+# Pubblications
+* Demetrio Luca, Battista Biggio, Giovanni Lagorio, Fabio Roli, Alessandro Armando\\
+[Explaining Vulnerabilities of Deep Learning to Adversarial Malware Binaries](https://arxiv.org/abs/1901.03583)\\
+Open proceedings ITASEC 2019
 
 # Personal interests
 * [Adversarial Machine Learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning)
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 * [Exploitation](https://en.wikipedia.org/wiki/Exploit_(computer_security))
 * [Videogames Development](https://en.wikipedia.org/wiki/Video_game_development)
+
+# Teaching assistant activities
+* Tutor for **Introduzione alla programmazione** (IP) during academic year 2016-2017 and 2017-2018
+* Tutor for **Algoritmi e Strutture Dati** (ASD) during academic year 2016-2017 and 2017-2018
+* Teacher assistant for **Tecniche avanzate di programmazione** (TAP) during academic year 2017-2018
+* Teacher assistant for **Binary Analysis and Secure Coding** (BASC) during academic year 2018-2019
+
 
 # Other virtual places
 * [ZenHack CTF Team](https://zenhack.it)
