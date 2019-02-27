@@ -3,6 +3,7 @@ title: Events
 layout: page
 ---
 
+* Mar 1, 2019, 10:00am - [*CYBERSECURITY: Formazione, Addestramento e Prospettive della Sicurezza Informatica*](https://unige.it/notizie/documents/2019_Cybersecurity_Programma.pdf)
 * Oct 5, 2018, 2:15pm - [*Cybersecurity Training @ UNIGE*](cybersecurity-training)
 * Jul 30, 2018, 11:00am - [*Advanced RISC Machine, from Architecture to eXploitation*](arm-lesson), [Simone Aonzo](/people/simone_aonzo) (Università di Genova)
 * May 18, 2018, 11:00am - [*Technical Seminar: Adversarial Machine Learning*](fabio_roli), prof. Fabio Roli (Università di Cagliari)
