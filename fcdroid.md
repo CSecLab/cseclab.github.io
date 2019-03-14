@@ -3,4 +3,4 @@ layout: page
 title: FCDroid
 ---
 
-**FCDroid** (**F**rame **C**onfusion And**roid**) --> *Coming soon*
+**FCDroid** (**F**rame **C**onfusion An**droid**) --> *Coming soon*
