@@ -5,6 +5,14 @@ title: Enrico Russo
 
 ![Enrico's pic is missing.](/pics/enriquez.png){:height="50%" width="50%"}
 
+### Short Bio
+- Born in [Genoa](https://en.wikipedia.org/wiki/Genoa) - Zêna, [Liguria](https://en.wikipedia.org/wiki/Liguria), the **20th of Sep. 1976**
+- **1995-2001**: Master of Science in Computer Science at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
+- **Mar. 2017**: Post-degree II Level [Master Cyber Security and Data Protection](https://mastercybersecurity.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa) 
+- **From Nov. 2018**: PhD student in Computer Science and Systems Engineering of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University
+ of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
+
+
 ### Publications
   - L. Demetrio, G. Lagorio, M. Ribaudo, E. Russo and A. Valenza. "ZenHackAdemy: Ethical Hacking @ DIBRIS", in Proc. of the 11th International Conference on Computer Supported Education (CSEDU 2019), Heraklion, Crete - Greece.
   
@@ -17,3 +25,11 @@ title: Enrico Russo
 ## Contacts
 - **Office**: [room 314, DIBRIS, Via Dodecaneso, 35, 16146 Genova - Italy](https://goo.gl/maps/kTyTs2YKMkL2)
 - **Email**: enrico.russo (A) dibris.unige.it 
+- **Twitter**: [@springchickenz](https://twitter.com/springchickenz)
+
+## Personal links
+- [Twitter](https://twitter.com/springchickenz)
+- [GitHub](https://github.com/enricorusso)
+- [CTFtime](https://ctftime.org/user/24956)
+- [ZenHack CTF Team](https://zenhack.it)
+
