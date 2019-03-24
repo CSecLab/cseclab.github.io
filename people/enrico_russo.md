@@ -25,7 +25,6 @@ title: Enrico Russo
 ## Contacts
 - **Office**: [room 314, DIBRIS, Via Dodecaneso, 35, 16146 Genova - Italy](https://goo.gl/maps/kTyTs2YKMkL2)
 - **Email**: enrico.russo (A) dibris.unige.it 
-- **Twitter**: [@springchickenz](https://twitter.com/springchickenz)
 
 ## Personal links
 - [Twitter](https://twitter.com/springchickenz)
