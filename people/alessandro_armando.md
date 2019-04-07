@@ -36,6 +36,7 @@ His focus is on developing cutting-edge automated reasoning techniques and on us
 
 ## Invited Talks and Lectures
 
+- "Securing Distributed Applications: Introduction to Cryptographic Protocols", [29th Summer PhD School of Information Engineering SSIE 2019](http://ssie.dei.unipd.it/wp-content/uploads/2019/03/SSIE2019_program.pdf), Bressanone (Italy), July 8-12, 2019.
 - "Formal Methods for Security: Challenges and Opportunities", IACR Cryptology School on Security Correctness in the Internet of Things 2017, Graz (Austria), May 8-12, 2017.
 - "Countering the Cyber Threat: Automated Vulnerability Assessment", seminario internazionale "Il pericolo corre in rete la nuova frontiera della minaccia cibernetica" organizzato dalla Delegazione italiana presso l'Assemblea parlamentare della NATO in collaborazione con il Centro Studi Americani, Roma, Camera dei Deputati, 15 giugno 2017.
 - "Automated Security Analysis of Applications", Workshop "Cyber Risk e Mercato Assicurativo", Genova, May 5, 2017.
@@ -159,6 +160,8 @@ I am (or have been) scientific coordinator of the following research projects:
 
 Principal investigator of the following research projects:
 
+- [Special projects for advanced research and technology in Europe (SPARTA)(https://www.sparta.eu/), project number 786727 (call H2020-SU-ICT-2018-2), funded by the EU in the context of H2020 Programme. Grant agreement No 830892. Partner institutions: CEA (coordinator), CINI-Cybersecurity National Lab together with 42 other institutions. Duration: 36 months from Feb 1, 2019.
+- [Integrated Framework for Predictive and Collaborative Security of Financial Infrastructures (FINSEC)](https://www.finsec-project.eu), Innovation Action, project number 786727 (call CIP-2016-2017-2), funded by the EU in the context of H2020 Programme. Partner institutions: GFT (coordinator), CINI-Cybersecurity National Lab together with 20 other entities. Duration: 36 months from May 1, 2018.
 - [FilieraSicura](http://www.filierasicura.it) (Securing the Supply Chain of Domestic Critical Infrastructures from Cyber Attacks) funded by CISCO.  Partner institutions: U. of Rome "La Sapienza" (coordinator), U. of Genova, U. of Napoli ``Federico II'', U of Trento, U. of Venice "Ca' Foscari", Politecnico di Milano, Politecnico di Torino, IMT School for Advanced Studies Lucca. Duration: 36 months, starting on January, 2017.
 - FIDES (Federated Identity Management in Europe) funded by the European Institute of Innovation and Technology (EIT ICT Labs) in the context of Action Line on Privacy, Security and Trust 2015.  Partner institutions: Poste Italiane (coordinator), FBK, Reply, DFKI, and Politecnico di Torino, Eotvos Lorand University, Telecom Italia, TNO.  Duration: 12 months, starting on January 1, 2015.
 - Security Horizons (2010XSEMLC006), funded by the Italian Ministry of Scientific and Technological Research in the context of the PRIN 2011 Programme.
