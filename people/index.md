@@ -25,5 +25,5 @@ layout: page
 # External Collaborators
 
 * [Gabriele Costa](gabriele_costa) ([IMT Lucca](https://www.imtlucca.it))
-* Gabriel Claudiu Georgiu ([Talos Security](http://www.talos-sec.com))
+* Gabriel Claudiu Georgiu ([CINI](https://www.consorzio-cini.it))
 * Luca Verderame ([Talos Security](http://www.talos-sec.com))
