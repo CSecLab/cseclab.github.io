@@ -12,9 +12,13 @@ title: Luca Demetrio
 * **From 1/11/2017**: PhD student in Computer Science of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 
 # Publications
+* Demetrio Luca, Lagorio Giovanni, Ribaudo Marina, Russo Enrico and Valenza Andrea.\\
+"ZenHackAdemy: Ethical Hacking @ DIBRIS"\\
+in Proc. of the 11th International Conference on Computer Supported Education ([CSEDU 2019](http://www.csedu.org/)), Heraklion, Crete - Greece.
+
 * Demetrio Luca, Battista Biggio, Giovanni Lagorio, Fabio Roli, Alessandro Armando\\
-[Explaining Vulnerabilities of Deep Learning to Adversarial Malware Binaries](https://arxiv.org/abs/1901.03583)\\
-Open proceedings ITASEC 2019
+"[Explaining Vulnerabilities of Deep Learning to Adversarial Malware Binaries](https://arxiv.org/abs/1901.03583)"\\
+in Proc. of the 3rd Italian Conference on CyberSecuritythe ([ITASEC 2019](https://www.itasec.it/)), Pisa - Italy.
 
 # Personal interests
 * [Adversarial Machine Learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning)
