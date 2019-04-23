@@ -27,7 +27,7 @@ title: Davide Caputo
 
 ### Personal Links
 
-- [Blog](https://www.davidecaputo.com/) 
+- [Blog](https://dado1513.github.io/) 
 - [GitHub](https://github.com/Dado1513) 
 
 ### Contacts
