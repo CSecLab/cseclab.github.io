@@ -14,6 +14,8 @@ title: Enrico Russo
 
 
 ### Publications
+  - E. Russo, L. Verderame and A. Merlo. "Towards Policy-driven Monitoring of Fog Applications", in Proc. of the 28th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2019), Capri, Italy.
+
   - L. Demetrio, G. Lagorio, M. Ribaudo, E. Russo and A. Valenza. "ZenHackAdemy: Ethical Hacking @ DIBRIS", in Proc. of the 11th International Conference on Computer Supported Education (CSEDU 2019), Heraklion, Crete - Greece.
   
   - E. Russo, G. Costa, A. Armando. "Scenario Design and Validation for Next Generation Cyber Ranges", in Proc. of the 17th International Symposium on Networking Computing and Applications (NCA 2018), Cambridge, MA USA.
