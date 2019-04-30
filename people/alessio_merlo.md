@@ -6,7 +6,7 @@ title: Homepage of Alessio Merlo
 # Homepage of Alessio Merlo
 
 
-![Alessio's pic is missing.](http://www.dibris.unige.it/public/staff/img/foto_701287.jpg)
+![Alessio's pic is missing.](/pics/alessio.png)
 
 
 ## Short Bio
