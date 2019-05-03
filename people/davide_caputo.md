@@ -3,8 +3,7 @@ layout: page
 title: Davide Caputo
 ---
 
-![Davide's pic is missing.](/pics/caputo.jpg)
-
+![Davide's pic is missing.](/pics/caputo.png){:height="25%" width="25%"}
 
 ### Short Bio
 
@@ -23,6 +22,7 @@ title: Davide Caputo
 |                Degree               |      Course Taught    | From: (a.y.) | To: (a.y.) | Tot. yrs. |
 |:-----------------------------------:|:--------------------------------------------:|:----:|:---:|:-:|
 |        M.Sc. Computer Engineering   | Data Protection and Privacy                      | 2018 | now | 1 |
+|        B. Eng. Computer Engineering | Android Programming                      | 2018 | now | 1 |
 
 
 ### Personal Links
