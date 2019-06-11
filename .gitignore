@@ -1,3 +1,4 @@
 _site/
 *.scssc
 .DS_Store
+pics/.DS_Store
