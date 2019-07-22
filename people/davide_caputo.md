@@ -12,6 +12,9 @@ title: Davide Caputo
 - **Oct. 2018**: M.Sc. (LM-32) *cum laude* in Computer Engineering at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 - **From Nov. 2018**: PhD student in Computer Science and Systems Engineering of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 
+### Publications
+    - D. Caputo, L. Verderame, S. Aonzo, A. Merlo. "[Droids in Disarray: Detecting Frame Confusion in Hybrid Android Apps](../papers/Droids_in_Disarray_DetectingFrame_ConfusioninHybrid_Android_Apps.pdf)" in IFIP Annual Conference on Data Applications Security and Privacy (DBSec 2019), pp 121-139. Springer, Cham
+
 ### Research topics
 
 - [Cyber Security](https://en.wikipedia.org/wiki/Computer_security)
