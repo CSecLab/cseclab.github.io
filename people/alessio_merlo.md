@@ -3,7 +3,6 @@ layout: page
 title: Homepage of Alessio Merlo
 ---
 
-# Homepage of Alessio Merlo
 
 
 ![Alessio's pic is missing.](/pics/alessio.png)
