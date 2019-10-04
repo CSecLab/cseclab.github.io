@@ -3,7 +3,7 @@ layout: page
 title: Luca Demetrio
 ---
 
-![Ops, something went wrong. This picture is missing!](/pics/demetrio.jpg)
+<img src="/pics/demetrio.png" alt="Ops, something went wrong. This picture is missing!" width="300"/>
 
 # Short Bio
 * Born in Genova, on **25/01/1993**.
