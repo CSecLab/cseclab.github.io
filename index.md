@@ -4,7 +4,7 @@ title: Computer Security Laboratory
 ---
 
 <!-- ![The CSecLab logo should be here :( ](/pics/logo.png) -->
-
+<!-- <img src="/pics/logo_new.png" alt="The CSecLab logo should be here :( " width="200"/> -->
 # [DIBRIS](http://www.dibris.unige.it/en) - [University of Genova](http://www.unige.it/en)
 
 The Computer Security Lab (CSecLab), hosted at DIBRIS, University of Genoa, has been founded in 2014. The mission of the lab is to bring together researchers, students and practitioners interested in Computer Security. The main research topics of the lab are Mobile and Web Security.
