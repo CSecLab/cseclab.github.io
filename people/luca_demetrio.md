@@ -3,7 +3,7 @@ layout: page
 title: Luca Demetrio
 ---
 
-![Ops, something went wrong. This picture is missing!](/pics/demetrio.jpg)
+<img src="/pics/demetrio.png" alt="Ops, something went wrong. This picture is missing!" width="300"/>
 
 # Short Bio
 * Born in Genova, on **25/01/1993**.
@@ -13,7 +13,7 @@ title: Luca Demetrio
 
 # Publications
 * Demetrio Luca, Lagorio Giovanni, Ribaudo Marina, Russo Enrico and Valenza Andrea.\\
-"ZenHackAdemy: Ethical Hacking @ DIBRIS"\\
+"[ZenHackAdemy: Ethical Hacking @ DIBRIS](http://insticc.org/node/TechnicalProgram/csedu/presentationDetails/77471)"\\
 in Proc. of the 11th International Conference on Computer Supported Education ([CSEDU 2019](http://www.csedu.org/)), Heraklion, Crete - Greece.
 
 * Demetrio Luca, Battista Biggio, Giovanni Lagorio, Fabio Roli, Alessandro Armando\\

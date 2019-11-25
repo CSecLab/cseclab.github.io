@@ -1,12 +1,11 @@
 --- 
 layout: page
-title: Homepage of Alessio Merlo
+title: Alessio Merlo's Homepage
 ---
 
-# Homepage of Alessio Merlo
 
 
-![Alessio's pic is missing.](http://www.dibris.unige.it/public/staff/img/foto_701287.jpg)
+![Alessio's pic is missing.](/pics/alessio.png)
 
 
 ## Short Bio
@@ -27,6 +26,7 @@ title: Homepage of Alessio Merlo
 - **Tenured Assistant Professor (RTD-B)** at DIBRIS, University of Genova (since Oct. 2017).
 - **Founder and C.T.O.** at [Talos  s.r.l.s](http://www.talos-sec.com) (since Jan. 2016).
 
+### My full CV is available [here](https://www.dibris.unige.it/public/staff/cv_pdf_en/cv_en_701287.pdf).
 
 ## Publications
 
@@ -82,6 +82,21 @@ title: Homepage of Alessio Merlo
 
 
 ### International Conference Proceedings
+- M. Guerar, L. Verderame, M. Migliardi, A. Merlo. "[2GesturePIN: Securing PIN-based Authenticationon Smartwatches](../papers/2GesturePIN_short.pdf)", in Proc. of the 28th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises ([WETICE 2019](http://home.ing.unisannio.it/wetice2019/)), Capri, Italy.
+- E. Russo, L. Verderame, A. Merlo. "[Towards Policy-driven Monitoring of Fog Applications](../papers/MoonFog.pdf)", in Proc. of the 28th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises ([WETICE 2019](http://home.ing.unisannio.it/wetice2019/)), Capri, Italy.
+- D. Caputo, L. Verderame, S. Aonzo, A. Merlo.
+"Droids in Disarray: Detecting Frame Confusion in Hybrid Android Apps", in Proc. of the 33rd Annual IFIP WG 11.3
+Conference on Data and Applications Security and Privacy ([DBSec 2019](https://dbsec2019.cse.sc.edu/)), Charleston, South Carolina, USA.
+- M. Guerar, L. Verderame, A. Merlo, M. Migliardi.
+"Blockchain-based risk mitigation for invoice financing". Proc. of the 23rd International Database Engineering & Applications Symposium ([IDEAS 2019](http://confsys.encs.concordia.ca/IDEAS/ideas19/ideas19.php)), Athens, Greece.
+- L. Caviglione, A. Merlo, M. Migliardi.
+"Covert Channels in IoT Deployments Through Data Hiding Techniques". Proc. of 32nd IEEE International Conference on
+Advanced Information Networking and Applications ([AINA 2018](http://voyager.ce.fit.ac.jp/conf/aina/2018/)) Krakov, Poland.
+- S. Aonzo, A. Merlo, G. Tavella, Y. Fratantonio. "Phishing Attacks on Modern Android". Proc. of the ACM Conference on Computer and Communications Security 2018 ([ACM CCS 2018](https://www.sigsac.org/ccs/CCS2018/)), Toronto, Canada.
+- V. Conti, S. Sante Ruffo, A. Merlo, M. Migliardi, S. Vitabile.
+"A Bio-inspired Approach to Attack Graphs Analysis", in Proc. of the 10th Int. Symposium on Cyberspace Safety and Security, ([CSS 2018](http://css2018.di.unisa.it/)], Amalfi, Italy.
+- D. Pedrini, M. Migliardi, C. Ferrari, A. Merlo. 
+"On The Case of Blockchain Adoption in the Internet of Things", in Proc. of the 12th Int. Conf. on Ubiquitous Compouting and Ambient Intelligence ([UCAmI 2018](http://mamilab.esi.uclm.es/ucami2018/), Punta Cana, Dominican Republic.
 - S. Aonzo, G. Lagorio, A. Merlo. "RmPerm: a Tool for Android Permissions Removal", in Proc. of the 14th International Conference on Security and Cryptography ([SECRYPT 2017](http://www.secrypt.icete.org/)), Madrid, Spain.
 - M. Migliardi, S. Al-Haj Baddar, A. Merlo. "Reducing the Impact of Traffic Sanitization on Latency Sensitive Applications", in Proc. of the 11th International Conference on Complex, Intelligent and Intensive Software Systems ([CISIS 2017](http://voyager.ce.fit.ac.jp/conf/cisis/2017/)), July 10-12, Turin, Italy. [DOI: 10.1007/978-3-319-61566-0_96](https://doi.org/10.1007/978-3-319-61566-0_96)
 - A. Merlo, G. C. Georgiu. "RiskInDroid: Machine Learning-based Risk Analysis on Android", in Proc. of the 32nd International Conference on ICT Systems Security and Privacy Protection ([IFIP-SEC 2017](http://ifipsec.org/2017/)), Rome, Italy. 
