@@ -12,11 +12,16 @@ title: Luca Demetrio
 * **From 1/11/2017**: PhD student in Computer Science of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 
 # Publications
+
+* Valenza Andrea, Demetrio Luca, Costa Gabriele, Lagorio Giovanni\\
+"[WAF-A-MoLE: An adversarial tool for assessing ML-based WAFs](https://doi.org/10.1016/j.softx.2019.100367)"\\
+in [SoftwareX, Volume 11, 2020](https://www.sciencedirect.com/journal/softwarex)
+
 * Demetrio Luca, Lagorio Giovanni, Ribaudo Marina, Russo Enrico and Valenza Andrea.\\
 "[ZenHackAdemy: Ethical Hacking @ DIBRIS](http://insticc.org/node/TechnicalProgram/csedu/presentationDetails/77471)"\\
 in Proc. of the 11th International Conference on Computer Supported Education ([CSEDU 2019](http://www.csedu.org/)), Heraklion, Crete - Greece.
 
-* Demetrio Luca, Battista Biggio, Giovanni Lagorio, Fabio Roli, Alessandro Armando\\
+* Demetrio Luca, Biggio Battista, Lagorio Giovanni, Roli Fabio, Armando Alessandro\\
 "[Explaining Vulnerabilities of Deep Learning to Adversarial Malware Binaries](https://arxiv.org/abs/1901.03583)"\\
 in Proc. of the 3rd Italian Conference on CyberSecuritythe ([ITASEC 2019](https://www.itasec.it/)), Pisa - Italy.
 
@@ -43,4 +48,3 @@ in Proc. of the 3rd Italian Conference on CyberSecuritythe ([ITASEC 2019](https:
 
 # Contacts
 * **Email**: luca.demetrio (A) dibris.unige.it
-* **Phone**: 6616
