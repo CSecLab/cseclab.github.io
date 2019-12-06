@@ -17,7 +17,6 @@ title: Giovanni Lagorio
 ## Personal links
 - [Twitter](https://twitter.com/zxgio)
 - [GitHub](https://github.com/zxgio); in particular:
+  - [gdb+GEF cheatsheet](https://github.com/zxgio/gdb_gef-cheatsheet) and [gdb cheatsheet](https://github.com/zxgio/gdb-cheatsheet)
   - [r2 cheatsheet](https://github.com/zxgio/r2-cheatsheet)
-  - [gdb cheatsheet](https://github.com/zxgio/gdb-cheatsheet)
-- [G+](https://plus.google.com/+GiovanniLagorio)
 
