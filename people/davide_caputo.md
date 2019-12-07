@@ -14,18 +14,19 @@ title: Davide Caputo
 
 ### Publications
 
-- D. Caputo, L. Verderame, S. Aonzo, A. Merlo. "[Droids in Disarray: Detecting Frame Confusion in Hybrid Android Apps](../papers/Droids_in_Disarray_DetectingFrame_ConfusioninHybrid_Android_Apps.pdf)" in IFIP Annual Conference on Data Applications Security and Privacy (DBSec 2019), pp 121-139. Springer, Cham
+- D. Caputo, L. Verderame, S. Aonzo, A. Merlo. "[Droids in Disarray: Detecting Frame Confusion in Hybrid Android Apps](../papers/Droids_in_Disarray_DetectingFrame_ConfusioninHybrid_Android_Apps.pdf)" in Proc. of the 33rd Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy ([DBSec 2019](https://dbsec2019.cse.sc.edu/)), Charleston, South Carolina, USA.
 
 ### Research topics
 
 - [Cyber Security](https://en.wikipedia.org/wiki/Computer_security)
   * [Mobile Security](https://en.wikipedia.org/wiki/Mobile_security)
+  * IoT Security
 
 ### Teaching Activity
 
 |                Degree               |      Course Taught    | From: (a.y.) | To: (a.y.) | Tot. yrs. |
 |:-----------------------------------:|:--------------------------------------------:|:----:|:---:|:-:|
-|        M.Sc. Computer Engineering   | Data Protection and Privacy                      | 2018 | now | 1 |
+|        M.Sc. Computer Engineering   | Data Protection and Privacy                      | 2018 | now | 2 |
 |        B. Eng. Computer Engineering | Android Programming                      | 2018 | now | 1 |
 
 
