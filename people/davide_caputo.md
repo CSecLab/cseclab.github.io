@@ -15,12 +15,13 @@ title: Davide Caputo
 ### Publications
 
 - D. Caputo, L. Verderame, S. Aonzo, A. Merlo. "[Droids in Disarray: Detecting Frame Confusion in Hybrid Android Apps](../papers/Droids_in_Disarray_DetectingFrame_ConfusioninHybrid_Android_Apps.pdf)" in Proc. of the 33rd Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy ([DBSec 2019](https://dbsec2019.cse.sc.edu/)), Charleston, South Carolina, USA.
+- N. Dejon, D. Caputo, L. Verderame, A. Armando and A. Merlo. "Automated Security Analysis of IoT Software Updates" in 13th WISTP International Conference on Information Security Theory and Practice ([WISTP' 2019](http://www.wistp.org/)).
 
 ### Research topics
 
 - [Cyber Security](https://en.wikipedia.org/wiki/Computer_security)
   * [Mobile Security](https://en.wikipedia.org/wiki/Mobile_security)
-  * IoT Security
+  * [IoT Security](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project)
 
 ### Teaching Activity
 
