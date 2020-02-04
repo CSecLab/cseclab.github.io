@@ -3,7 +3,7 @@ layout: page
 title: Alessandro Armando
 ---
 
-![Alessandro's pic is missing.](http://www.dibris.unige.it/public/staff/img/foto_54567.jpg)
+![Alessandro's pic is missing.](/pics/alessandro-armando-2020.jpg)
 
 
 ## Contacts
