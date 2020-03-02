@@ -14,7 +14,8 @@ title: Davide Caputo
 
 ### Publications
 
-- N. Dejon, D. Caputo, L. Verderame, A. Armando and A. Merlo. "Automated Security Analysis of IoT Software Updates" in 13th WISTP International Conference on Information Security Theory and Practice ([WISTP' 2019](http://www.wistp.org/)).
+- N. Dejon, D. Caputo, L. Verderame, A. Armando and A. Merlo. "[Automated Security Analysis of IoT Software Updates](https://link.springer.com/chapter/10.1007%2F978-3-030-41702-4_14)" in 13th WISTP International Conference on Information Security Theory and Practice ([WISTP' 2019](http://www.wistp.org/)).
+
 - D. Caputo, L. Verderame, S. Aonzo, A. Merlo. "[Droids in Disarray: Detecting Frame Confusion in Hybrid Android Apps](../papers/Droids_in_Disarray_DetectingFrame_ConfusioninHybrid_Android_Apps.pdf)" in Proc. of the 33rd Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy ([DBSec 2019](https://dbsec2019.cse.sc.edu/)), Charleston, South Carolina, USA.
 
 ### Research topics
