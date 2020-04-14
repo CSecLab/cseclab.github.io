@@ -30,7 +30,7 @@ Please use the following bibtex entry to cite our work:
 }
 ```
 
-### Teams
+### Team
 - [Luca Verderame](https://www.talos-sec.com/), PostDoc, University of Genova, Italy
 - [Davide Caputo](../people/davide_caputo/), Ph.D Student, University of Genova, Italy
 - [Andrea Romdhana](../people/andrea_romdhana/), Ph.D Student, University of Genova, Italy
