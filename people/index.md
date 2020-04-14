@@ -16,6 +16,7 @@ layout: page
 * [Simone Aonzo](simone_aonzo)
 * [Davide Caputo](davide_caputo)
 * [Luca Demetrio](luca_demetrio)
+* [Andrea Romdhana](andrea_romdhana)
 * [Enrico Russo](enrico_russo)
 * [Andrea Valenza](andrea_valenza)
 * Lorenzo Maffia
