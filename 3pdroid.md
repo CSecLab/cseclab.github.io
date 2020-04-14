@@ -16,7 +16,7 @@ To request access to 3PDroid demo or obtain the source code, please contact luca
 
 ***On the (Un)Reliability of Privacy Policies in Android Apps***  
 Luca Verderame, Davide Caputo, Andrea Romdhana, and Alessio Merlo  
-In Proc. of the 2020 IEEE World Congress on Computational Intelligence (WCCI 2020).  
+In Proc. of the IEEE International Joint Conference on Neural Networks (IJCNN 2020).  
 [[PDF](/papers/On_the_UnReliability_of_Privacy_Policies_in_Android.pdf)]  
 {: style="text-align: justify"}
 
@@ -27,7 +27,7 @@ Please use the following bibtex entry to cite our work:
 @InProceedings{3pdroid,
   author = {Luca Verderame and Davide Caputo and Andrea Romdhana and Alessio Merlo},
   title = {On the (Un)Reliability of Privacy Policies in Android Apps},
-  booktitle = {Proc. of the 2020 IEEE World Congress on Computational Intelligence (WCCI 2020)},
+  booktitle = {Proc. of the IEEE International Joint Conference on Neural Networks (IJCNN 2020)},
   month = {July},
   year = {2020},
   address = {Glasgow, UK}
