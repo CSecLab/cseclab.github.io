@@ -15,7 +15,7 @@ Complete experimental results are available [here](../data/3pdroid_results.zip).
 ### The Paper
 ***On the (Un)Reliability of Privacy Policies in Android Apps***  
 Luca Verderame, Davide Caputo, Andrea Romdhana, and Alessio Merlo  
-In the Proceedings of the 2020 IEEE World Congress on Computational Intelligence (WCCI 2020)[PDF]()  
+In the Proceedings of the 2020 IEEE World Congress on Computational Intelligence (WCCI 2020) [PDF]()  
 
 Please use the following bibtex entry to cite our work:
 
