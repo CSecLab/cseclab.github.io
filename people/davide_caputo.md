@@ -14,7 +14,7 @@ title: Davide Caputo
 
 ### Publications
 
-- D. Caputo, L. Verderame, A. Ranieri, A. Merlo and L. Caviglione "[Fine-hearing Google Home: why silence will not protect your privacy](https://dx.doi.org/10.22667/JOWUA.2020.03.31.035)" in Journal ofWireless Mobile Networks, Ubiquitous Computing, and Dependable Applications (JoWUA).
+- D. Caputo, L. Verderame, A. Ranieri, A. Merlo and L. Caviglione "[Fine-hearing Google Home: why silence will not protect your privacy](https://dx.doi.org/10.22667/JOWUA.2020.03.31.035)" in Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications (JoWUA).
 
 - L. Verderame, D. Caputo, M. Migliardi and A. Merlo. "[AppIoTTE: An Architecture for the Security Assessment of Mobile-IoT Ecosystems](https://link.springer.com/chapter/10.1007%2F978-3-030-44038-1_79)" in Web, Artificial Intelligence and Network Applications
 
