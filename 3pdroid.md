@@ -10,7 +10,7 @@ Experimental  results suggest  that  more  than  95%  of  apps  access  user’s
 
 ### Demo and Results
 The results of the experimental evaluation described in the paper can be downloaded [here](../data/3pdroid_results.zip).  
-To request the access to 3PDroid demo or obtain the source code, please contact luca.verderame(A)dibris.unige.it  
+To request access to 3PDroid demo or obtain the source code, please contact luca.verderame(A)dibris.unige.it  
 
 ### The Paper
 ***On the (Un)Reliability of Privacy Policies in Android Apps***  
