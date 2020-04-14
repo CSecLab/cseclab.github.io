@@ -9,9 +9,8 @@ We  implemented  our  methodology  in  a  tool,  **3PDroid**,  and  we carried o
 Experimental  results suggest  that  more  than  95%  of  apps  access  user’s  privacy-sensitive information, but just a negligible subset of them (≈1%) fully  complies  with  the  Google  Play  privacy  guidelines. 
 
 ### Demo and Results
-For further information and for 3PDroid source code please contact <luca.verderame@dibris.unige.it>.    
-The results are available [here](../data/3pdroid_results.zip). 
-
+Source code is available, please contact: <luca.verderame@dibris.unige.it>.    
+Complete experimental results are available [here](../data/3pdroid_results.zip). 
 
 ### The Paper
 ***On the (Un)Reliability of Privacy Policies in Android Apps***  
