@@ -10,7 +10,7 @@ layout: page
 * [Alessio Merlo](alessio_merlo)
 * [Marina Ribaudo](https://www.dibris.unige.it/ribaudo-marina)
 
-# PostDoc Research Fellows
+# PostDoc Researchers
 
 * [Luca Verderame](luca_verderame)
 
