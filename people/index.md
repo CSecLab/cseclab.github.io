@@ -10,6 +10,9 @@ layout: page
 * [Alessio Merlo](alessio_merlo)
 * [Marina Ribaudo](https://www.dibris.unige.it/ribaudo-marina)
 
+# PostDoc Research Fellows
+
+* [Luca Verderame](luca_verderame)
 
 # Ph.D. Students, Collaborators and Student Members
 
@@ -19,12 +22,10 @@ layout: page
 * [Andrea Romdhana](andrea_romdhana)
 * [Enrico Russo](enrico_russo)
 * [Andrea Valenza](andrea_valenza)
+* Gabriel Claudiu Georgiu ([CINI](https://www.consorzio-cini.it))
 * Lorenzo Maffia
 * Federico Lucini
 
 
 # External Collaborators
-
 * [Gabriele Costa](gabriele_costa) ([IMT Lucca](https://www.imtlucca.it))
-* Gabriel Claudiu Georgiu ([CINI](https://www.consorzio-cini.it))
-* Luca Verderame ([Talos Security](http://www.talos-sec.com))
