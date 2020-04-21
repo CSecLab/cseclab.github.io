@@ -37,7 +37,7 @@ title: Alessio Merlo's Homepage
 - L. Caviglione, M. Coccoli, A. Merlo (Eds.). "Social Network Engineering for Secure Web Data and Services". [DOI: 10.4018/978-1-4666-3926-3](http://www.igi-global.com/book/social-network-engineering-secure-web/72359), IGI-Global.
 
 ### International Journals
-1. S. Aonzo, G. C. Georghiu, L. Verderame, A. Merlo. "Obfuscapk: an open-source black-box obfuscation tool for Android apps", in *SoftwareX*, Elsevier. [DOI: 10.1016/j.softx.2020.100403](https://doi.org/10.1016/j.softx.2020.100403).
+- S. Aonzo, G. C. Georghiu, L. Verderame, A. Merlo. "Obfuscapk: an open-source black-box obfuscation tool for Android apps", in *SoftwareX*, Elsevier. [DOI: 10.1016/j.softx.2020.100403](https://doi.org/10.1016/j.softx.2020.100403).
 - D. Caputo, L. Verderame, A. Ranieri, A. Merlo, L. Caviglione. "Fine-hearing Google Home: why silence will not protect your privacy", in *Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications*. [DOI: 10.22667/JOWUA.2020.03.31.035](https://dx.doi.org/10.22667/JOWUA.2020.03.31.035)
 - M. Guerar, M. Migliardi, L. Verderame, F. Palmieri, A. Merlo. "A Fraud-resilient, Blockchain-based Solution for Invoice Financing", in *IEEE Transactions on Engineering Management*. [DOI:
 10.1109/TEM.2020.2971865](https://doi.org/10.1109/TEM.2020.2971865).
@@ -80,7 +80,7 @@ Cloud-Edge Computing Architecture for Metagenomics Analysis", in *Future Generat
 
 ### Book Chapters
 
-1. L. Caviglione, M. Coccoli, A. Merlo. "A Graph-based Approach to Model Privacy and Security Issues of Online Social Networks", in *Social Network Engineering for Secure Web Data and Services*, pp. 184-205, IGI-Global. [DOI: 10.4018/978-1-4666-3926-3.ch009](http://www.igi-global.com/chapter/graph-based-approach-model-privacy/75893).
+- L. Caviglione, M. Coccoli, A. Merlo. "A Graph-based Approach to Model Privacy and Security Issues of Online Social Networks", in *Social Network Engineering for Secure Web Data and Services*, pp. 184-205, IGI-Global. [DOI: 10.4018/978-1-4666-3926-3.ch009](http://www.igi-global.com/chapter/graph-based-approach-model-privacy/75893).
 - L. Caviglione, M. Coccoli, A. Merlo. "On Social Network Engineering for Secure Web Data and Services", in *Social Network Engineering for Secure Web Data and Services*, pp. 1-4, IGI Global. [DOI: 10.4018/978-1-4666-3926-3.ch001](http://www.igi-global.com/chapter/social-network-engineering-secure-web/75885). 
 - L. Caviglione, A. Merlo. "Analysis and Development of Green-Aware Security Mechanisms for Modern Internet Applications", in *Handbook of Green Information and Communication Systems*, pp. 589-610, Wiley. [DOI: 10.1016/B978-0-12-415844-3.00023-1](http://www.elsevier.com/books/handbook-of-green-information-and-communication-systems/obaidat/978-0-12-415844-3).
 - A. Merlo, A. Corana, V. Gianuzzi, A. Clematis. "SoRTSim: A high-level simulator for the evaluation of QoS models on Grid", *Remote Instrumentation for eScience and Related Aspects*, Springer, pp. 161-176, Springer, ISBN 978-1-4614-0507-8, [DOI: 10.1007/978-1-4614-0508-5_11](http://www.springer.com/us/book/9781461405078).
@@ -90,7 +90,7 @@ Cloud-Edge Computing Architecture for Metagenomics Analysis", in *Future Generat
 
 
 ### International Conference Proceedings
-1. A. Mantovani, S. Aonzo, X. Ugarte-Pedrero, A. Merlo, D. Balzarotti. "[Prevalence and Impact of Low-Entropy Packing Schemes in the Malware Ecosystem](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24297.pdf)" in Proc. of the Network and Distributed System Security Symposium ([NDSS 2020](https://www.ndss-symposium.org/ndss2020/))
+- A. Mantovani, S. Aonzo, X. Ugarte-Pedrero, A. Merlo, D. Balzarotti. "[Prevalence and Impact of Low-Entropy Packing Schemes in the Malware Ecosystem](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24297.pdf)" in Proc. of the Network and Distributed System Security Symposium ([NDSS 2020](https://www.ndss-symposium.org/ndss2020/))
 - N. Dejon, D Caputo, L. Verderame, A. Armando, A. Merlo. "[Automated Security Analysis of IoT Software Updates](../papers/WISTP2019.pdf)", in Proc. of the IFIP International Conference on Information Security Theory and Practice ([WISTP 2019](http://www.wistp.org/))
 - D. Caputo, L. Verderame, S. Aonzo, A. Merlo. "[Droids in Disarray: Detecting Frame Confusion in Hybrid Android Apps](../papers/DBSec_2019.pdf)", in Proc. of the IFIP Annual Conference on Data and Applications Security and Privacy 2019 ([DBSec 2019](https://dbsec2019.cse.sc.edu/)), Charleston, South Carolina, USA.
 - M. Guerar, L. Verderame, M. Migliardi, A. Merlo. "[2GesturePIN: Securing PIN-based Authenticationon Smartwatches](../papers/2GesturePIN_short.pdf)", in Proc. of the 28th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises ([WETICE 2019](http://home.ing.unisannio.it/wetice2019/)), Capri, Italy.
