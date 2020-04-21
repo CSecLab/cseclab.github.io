@@ -12,20 +12,23 @@ layout: page
 
 # PostDoc Researchers
 
+* Giorgia Gazzarata
 * [Luca Verderame](luca_verderame)
 
-# Ph.D. Students, Collaborators and Student Members
+# Ph.D. Students and Collaborators 
 
-* [Simone Aonzo](simone_aonzo)
+
 * [Davide Caputo](davide_caputo)
 * [Luca Demetrio](luca_demetrio)
+* Gabriel Claudiu Georgiu ([CINI](https://www.consorzio-cini.it))
 * [Andrea Romdhana](andrea_romdhana)
 * [Enrico Russo](enrico_russo)
 * [Andrea Valenza](andrea_valenza)
-* Gabriel Claudiu Georgiu ([CINI](https://www.consorzio-cini.it))
-* Lorenzo Maffia
-* Federico Lucini
 
 
-# External Collaborators
-* [Gabriele Costa](gabriele_costa) ([IMT Lucca](https://www.imtlucca.it))
+
+
+# Former Members
+* [Gabriele Costa](https://www.imtlucca.it/it/gabriele.costa) ([IMT Lucca](https://www.imtlucca.it))
+* [Simone Aonzo](http://www.eurecom.fr/en/people/aonzo-simone) ([Eurecom France](
+https://www.eurecom.fr))
