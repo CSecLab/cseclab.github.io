@@ -26,8 +26,6 @@ title: Alessio Merlo's Homepage
 - **Tenured Assistant Professor (RTD-B)** at DIBRIS, University of Genova (since Oct. 2017).
 - **Founder and C.T.O.** at [Talos  s.r.l.s](http://www.talos-sec.com) (since Jan. 2016).
 
-### My full CV is available [here](https://www.dibris.unige.it/public/staff/cv_pdf_en/cv_en_701287.pdf).
-
 ## Publications
 
 [//]: # ([Google Scholar](https://scholar.google.com/citations?update_op=accept_invitation&email_for_op=alessio.mrl%40gmail.com&invitation_id=9656939844049668502&user=F3Bkg_MAAAAJ&cstart=40&pagesize=20) -) 
