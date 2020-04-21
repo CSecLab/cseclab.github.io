@@ -149,9 +149,11 @@ Advanced Information Networking and Applications ([AINA 2018](http://voyager.ce.
 - A. Clematis, A. Corana, D. D’Agostino, V. Gianuzzi, A. Merlo. "Resource selection and application execution in a Grid: A migration experience from GT2 to GT4", in *Proc. of the International Conference on Grid computing, high-performAnce and Distributed Applications* ([GADA 2006](http://www.onthemove-conferences.org/index.php/previousevents/otm06/conf06/gada06)), LNCS, n. 4276, pp. 1132-1142, Springer, [DOI: 10.1007/11914952_4](http://link.springer.com/chapter/10.1007%2F11914952_4#page-1).
 
 
+<!--
 ## Services to the Profession
 
 ### Editorial Activity
+
 
 - **Lead Guest Editor** of the [Special Issue on Advances in High Performance Computing and Simulations](http://www.cc-pe.net/journalinfo/issues/2016.html#HPCS2016), [Concurrency and Computation: Practice and Experience](http://www.cc-pe.net/journalinfo/), Wiley.
 -  **Member of the Editorial Advisory Board** of the book [Security Solutions and Applied Cryptography in Smart Grid Communications](http://www.igi-global.com/book/security-solutions-applied-cryptography-smart/166368), IGI-Global.
@@ -287,14 +289,29 @@ Advanced Information Networking and Applications ([AINA 2018](http://voyager.ce.
 | Postgrad. Diploma in ICT Systems |       Databases       |   6  |    2013/14   |   2013/14  |     1     |
 | Postgrad. Diploma in ICT Systems |  Information Systems  |   6  |    2013/14   |   2013/14  |     1     |
 
-### Ph.D. Supervision
+--> 
 
+## Supervision
+
+### PostDoc
+- **2016-**: *[Luca Verderame](https://scholar.google.it/citations?user=I0C4tI0AAAAJ&hl=it)*.
+- **2017-**: *[Meriem Guerar](http://scholar.google.com/citations?user=xTeFW1wAAAAJ&hl=fr)*.
+
+### Ph.D. Students 
+- **2019-2021**: Ph.D supervision of *Marco Zuppelli* (Cycle XXXIV), DIBRIS, University of Genoa.
+- **2019-2021**: Ph.D supervision of *[Andrea Romdhana](http://csec.it/people/andrea_romdhana/)* (Cycle XXXIV), DIBRIS, University of Genoa.
 - **2018-2020**: Doctoral Supervisor of *[Davide Caputo](http://csec.it/people/davide_caputo/)* (Cycle XXXIII), DIBRIS, University of Genoa. 
 - **2017-2019**: Doctoral Supervisor of *[Simone Aonzo](http://csec.it/people/simone_aonzo/)* (Cycle XXXII), DIBRIS, University of Genoa. 
 - **2013-2016**: Doctoral Supervisor of *[Luca Verderame](https://it.linkedin.com/in/lucaverderame)* (Cycle XXVIII), DIBRIS, University of Genoa.
 
+## Other info:
+- **[Scopus ID: 15136674200](https://www.scopus.com/authid/detail.uri?authorId=15136674200)**
+- **[DBLP: https://dblp.uni-trier.de/pers/m/Merlo:Alessio.html](https://dblp.uni-trier.de/pers/m/Merlo:Alessio.html)**
+- **[Orcid: 0000-0002-2272-2376](http://orcid.org/0000-0002-2272-2376)**
+- **[Semantic Scholar: 2611687](https://www.semanticscholar.org/author/Alessio-Merlo/2611687)**
+- **[ResearchGate: https://www.researchgate.net/profile/Alessio_Merlo](https://www.researchgate.net/profile/Alessio_Merlo)**
 
-## Contacts
+## Contacts and Full CV
 
 - **Office**: [Villa Bonino: Viale Francesco Causa, 13, I-16145, Genoa, Italy.](https://www.google.it/maps/place/44°24'07.0%22N+8°57'38.7%22E/@44.4019444,8.9596557,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d44.401932!4d8.960757) and [Valletta Puggia (Office 102): Via Dodecaneso, 35, I-16146, Genoa, Italy.](https://www.google.it/maps/place/Via+Dodecaneso,+35,+16146+Genova+GE/@44.4031688,8.9696801,17z/data=!3m1!4b1!4m5!3m4!1s0x12d3430b2216399f:0xe215417b3e571fb4!8m2!3d44.403165!4d8.9718688?hl=it)
 - **Email**: ![Alessio's mail should be here.](/pics/AM-email.png)
@@ -302,6 +319,7 @@ Advanced Information Networking and Applications ([AINA 2018](http://voyager.ce.
 - **Mobile**: +39 366 6060 815
 - **Fax**: Are you kidding... ?!?
 - **PGP Key**: [8C8EB623](/8C8EB623.asc)
+- **Full CV** available [here](http://www.dibris.unige.it/public/staff/cv_pdf_en/cv_en_701287.pdf).
 
 [//]: # (- **Complete CV**: [Italian version](http://www.dibris.unige.it/public/staff/cv_pdf/cv_701287.pdf) - [English version](http://www.dibris.unige.it/public/staff/cv_pdf_en/cv_en_701287.pdf))
 
