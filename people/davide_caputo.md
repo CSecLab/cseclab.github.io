@@ -14,10 +14,10 @@ title: Davide Caputo
 
 ### Publications
 
-- L. Verderame, D. Caputo, A. Romdhana, A. Merlo. "[On the (Un)Reliability of Privacy Policies in Android Apps](../../papers/On_the_UnReliability_of_Privacy_Policies_in_Android.pdf)" in Proc. of the 2020 World Congress on COmputational Intelligence, Jul 19-24, 2020, Glasgow, Scotland.
+- L. Verderame, D. Caputo, A. Romdhana, A. Merlo. "[On the (Un)Reliability of Privacy Policies in Android Apps](../../papers/On_the_UnReliability_of_Privacy_Policies_in_Android.pdf)" in Proc. of the 2020 World Congress on Computational Intelligence, Jul 19-24, 2020, Glasgow, Scotland.
 - D. Caputo, L. Verderame, A. Ranieri, A. Merlo and L. Caviglione. "[Fine-hearing Google Home: why silence will not protect your privacy](https://dx.doi.org/10.22667/JOWUA.2020.03.31.035)" in Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications (JoWUA).
 - L. Verderame, D. Caputo, M. Migliardi and A. Merlo. "[AppIoTTE: An Architecture for the Security Assessment of Mobile-IoT Ecosystems](https://link.springer.com/chapter/10.1007%2F978-3-030-44038-1_79)" in Web, Artificial Intelligence and Network Applications
-- D. Caputo, L. Verderame, A. Merlo, A. Ranieri, L. Caviglione. "[Are you (Google) Home? Detecting Users' Presence through Traffic Analysis](../../papers/Are_you_google_home_itasec_20.pdf)" in Proc. of the 4th Italian Conference on Cybersecurity, Feb 4-7, 2020, Ancona, Italy.
+- D. Caputo, L. Verderame, A. Merlo, A. Ranieri, L. Caviglione. "[Are you (Google) Home? Detecting Users' Presence through Traffic Analysis](http://ceur-ws.org/Vol-2597/paper-10.pdf)" in Proc. of the 4th Italian Conference on Cybersecurity, Feb 4-7, 2020, Ancona, Italy.
 - N. Dejon, D. Caputo, L. Verderame, A. Armando and A. Merlo. "[Automated Security Analysis of IoT Software Updates](https://link.springer.com/chapter/10.1007%2F978-3-030-41702-4_14)" of 13th WISTP International Conference on Information Security Theory and Practice ([WISTP' 2019](http://www.wistp.org/)).
 - D. Caputo, L. Verderame, S. Aonzo, A. Merlo. "[Droids in Disarray: Detecting Frame Confusion in Hybrid Android Apps](https://link.springer.com/chapter/10.1007/978-3-030-22479-0_7)" in Proc. of the 33rd Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy ([DBSec 2019](https://dbsec2019.cse.sc.edu/)), Charleston, South Carolina, USA.
 
