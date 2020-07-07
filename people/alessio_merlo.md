@@ -26,8 +26,6 @@ title: Alessio Merlo's Homepage
 - **Tenured Assistant Professor (RTD-B)** at DIBRIS, University of Genova (since Oct. 2017).
 - **Founder and C.T.O.** at [Talos  s.r.l.s](http://www.talos-sec.com) (since Jan. 2016).
 
-### My full CV is available [here](https://www.dibris.unige.it/public/staff/cv_pdf_en/cv_en_701287.pdf).
-
 ## Publications
 
 [//]: # ([Google Scholar](https://scholar.google.com/citations?update_op=accept_invitation&email_for_op=alessio.mrl%40gmail.com&invitation_id=9656939844049668502&user=F3Bkg_MAAAAJ&cstart=40&pagesize=20) -) 
@@ -39,11 +37,21 @@ title: Alessio Merlo's Homepage
 - L. Caviglione, M. Coccoli, A. Merlo (Eds.). "Social Network Engineering for Secure Web Data and Services". [DOI: 10.4018/978-1-4666-3926-3](http://www.igi-global.com/book/social-network-engineering-secure-web/72359), IGI-Global.
 
 ### International Journals
-- S. Al-Haj Baddar, A. Merlo, M. Migliardi. "Behavioral Anomaly Detection in Forensics Analysis", *IEEE Security & Privacy*, to appear.
+- S. Aonzo, G. C. Georghiu, L. Verderame, A. Merlo. "Obfuscapk: an open-source black-box obfuscation tool for Android apps", in *SoftwareX*, Elsevier. [DOI: 10.1016/j.softx.2020.100403](https://doi.org/10.1016/j.softx.2020.100403).
+- D. Caputo, L. Verderame, A. Ranieri, A. Merlo, L. Caviglione. "Fine-hearing Google Home: why silence will not protect your privacy", in *Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications*. [DOI: 10.22667/JOWUA.2020.03.31.035](https://dx.doi.org/10.22667/JOWUA.2020.03.31.035)
+- M. Guerar, M. Migliardi, L. Verderame, F. Palmieri, A. Merlo. "A Fraud-resilient, Blockchain-based Solution for Invoice Financing", in *IEEE Transactions on Engineering Management*. [DOI:
+10.1109/TEM.2020.2971865](https://doi.org/10.1109/TEM.2020.2971865).
+- G. Guerar, L. Verderame, A. Merlo, F. Palmieri, M. Migliardi, L. Vallerini. "CirclePIN: a novel
+authentication mechanism for smartwatches to prevent unauthorized access to IoT devices", in *ACM
+Transactions on Cyber-Physical Systems*. [DOI: 10.1145/3365995](https://doi.org/10.1145/3365995).
+- L. Verderame, I. Merelli, L. Morganti, E. Corni, D. Cesini, D. D'Agostino, A. Merlo. "A Secure
+Cloud-Edge Computing Architecture for Metagenomics Analysis", in *Future Generation Computer Systems*, [DOI: 10.1016/j.future.2019.09.013](https://doi.org/10.1016/j.future.2019.09.013).
+- M. Guerar, M. Migliardi, F. Palmieri, L. Verderame, A. Merlo. "Securing PIN-based Authentication in Smartwatches With just Two Gestures", in *Concurrency and Computation: Practice and Experience*, [DOI: 10.1002/cpe.5549](https://doi.org/10.1002/cpe.5549).
+- S. Al-Haj Baddar, A. Merlo, M. Migliardi. "Behavioral Anomaly Detection in Forensics Analysis", *IEEE Security & Privacy*, pp. 55-62, Vol 17(1), 2019. [DOI: 10.1109/MSEC.2019.2894917](https://doi.org/10.1109/MSEC.2019.2894917).
 - S. Limet, A. Merlo, L. Spalazzi. "HPC & Co.: Where are distributed paradigms heading toward?", *Concurrency and Computation: Practice and Experience*, [DOI: 10.1002/cpe.4431](http://onlinelibrary.wiley.com/doi/10.1002/cpe.4431/abstract)
 - S. Al-Haj Baddar, A. Merlo, M. Migliardi, F. Palmieri. "Saving energy in aggressive intrusion detection through dynamic latency sensitivity recognition", *Computers and Security*, [DOI: 10.1016/j.cose.2017.12.003](https://doi.org/10.1016/j.cose.2017.12.003)
 - S. Aonzo, A. Merlo, M. Migliardi, L. Oneto, F. Palmieri. "Low-Resource Footprint, Data-driven Malware Detection on Android", *IEEE Trans. on Sustainable Computing*, Vol. PP, no. 99, pp. 1-1, [DOI: 10.1109/TSUSC.2017.2774184](https://doi.org/10.1109/TSUSC.2017.2774184).
-- M. Guerar, A. Merlo, M. Migliardi. "ClickPattern: A Pattern Lock System Resilient to Smudge and Side-channel Attacks", *Journal of Wireless Mobile Networks, Ubiquitous Computing and Dependable Applications*, 5(2), pp. 64-78.
+- M. Guerar, A. Merlo, M. Migliardi. "ClickPattern: A Pattern Lock System Resilient to Smudge and Side-channel Attacks", *Journal of Wireless Mobile Networks, Ubiquitous Computing and Dependable Applications*, 5(2), pp. 64-78, [DOI:10.22667/JOWUA.2017.06.31.064](https://doi.org/10.22667/JOWUA.2017.06.31.064).
 -  M. Guerar, A. Merlo, M. Migliardi. "Completely Automated Public Physical test to tell Computers and Humans Apart: A Usability Study on Mobile Devices". *Future Generation Computer Systems*, Elsevier (to appear). [DOI: 10.1016/j.future.2017.03.012](http://dx.doi.org/10.1016/j.future.2017.03.012). 
 - M. Guerar, M. Migliardi, A. Merlo, M. Benmohammed, F. Palmieri, A. Castiglione. "Using Screen Brightness to Improve Security in Mobile Social Network Access", *IEEE Trans. on Dependable and Secure Computing*. [DOI: 10.1109/TDSC.2016.2601603](http://dx.doi.org/10.1109/TDSC.2016.2601603).
 - G. Costa, A. Merlo, L. Verderame, A. Armando. "Automatic Security Verification of Mobile App Configurations", *Future Generation Computer Systems*, Elsevier. [DOI: 10.1016/j.future.2016.06.014](http://dx.doi.org/10.1016/j.future.2016.06.014).
@@ -53,8 +61,8 @@ title: Alessio Merlo's Homepage
 - A. Merlo, M. Migliardi, P. Fontanelli. "Measuring and Estimating Power Consumption in Android to Support Energy-based Intrusion Detection", *Journal of Computer Security*, 23(5):611-637, IoS Press. [DOI: 10.3233/JCS-150530](http://content.iospress.com/articles/journal-of-computer-security/jcs530).
 - A. Merlo, M. Migliardi, L. Caviglione. "A Survey on Energy-Aware Security Mechanisms", *Pervasive & Mobile Computing*, Vol. 24, pp. 77-90, Dec. 2015, Elsevier. [DOI:10.1016/j.pmcj.2015.05.005](http://dx.doi.org/10.1016/j.pmcj.2015.05.005).
 - A. Armando, G. Costa, A. Merlo, L. Verderame. "Modeling and Enforcing Bring Your Own Device Policies", *International Journal of Information Security*, (2015) 14(2):123-140, Springer, [DOI: 10.1007/s10207-014-0252-y](http://link.springer.com/article/10.1007%2Fs10207-014-0252-y).
-- A. Armando, G. Bocci, G. Chiarelli, G. Costa, G. De Maglie, R. Mammoliti, A. Merlo. "Mobile App Security Analysis with the MAVeriC Static Analysis Module", *Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications*, (2014) 5(4):103-119.
-- S. Al-Haj Baddar, A. Merlo, M. Migliardi. "Anomaly Detection in Computer Networks: A State of-the-Art Review", *Journal of Wireless Mobile Networks*, Ubiquitous Computing, and Dependable Applications, (2014) 5(4):29-64.
+- A. Armando, G. Bocci, G. Chiarelli, G. Costa, G. De Maglie, R. Mammoliti, A. Merlo. "Mobile App Security Analysis with the MAVeriC Static Analysis Module", *Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications*, (2014) 5(4):103-119, [DOI:10.22667/JOWUA.2014.12.31.103](https://doi.org/10.22667/JOWUA.2014.12.31.103).
+- S. Al-Haj Baddar, A. Merlo, M. Migliardi. "Anomaly Detection in Computer Networks: A State of-the-Art Review", *Journal of Wireless Mobile Networks*, Ubiquitous Computing, and Dependable Applications, (2014) 5(4):29-64, [DOI:10.22667/JOWUA.2014.12.31.029](https://doi.org/10.22667/JOWUA.2014.12.31.029).
 - A. Armando, A. Merlo, L. Verderame. "Security considerations related to the use of mobile devices in the operation of critical infrastructures", *International Journal of Critical Infrastructure Protection*, (2015) 7(4):247-256, Elsevier, [DOI: 10.1016/j.ijcip.2014.10.002](http://www.sciencedirect.com/science/article/pii/S1874548214000626).
 - A. Armando, G. Costa, A. Merlo, L. Verderame. "Securing the Bring Your Own Device Paradigm", *IEEE Computer*, (2014) 47(6):26-34. [DOI: 10.1109/MC.2014.164](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6838866).
 - A. Merlo, M. Migliardi, N. Gobbo, F. Palmieri, A. Castiglione. "A Denial of Service Attack to UMTS Networks Using SIM-less Devices", *IEEE Transactions on Dependable and Secure Computing*, (2014) 11(3):280–291, [DOI: 10.1109/TDSC.2014.2315198](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6782287). **Featured Article at [IEEE CyberSecurity Initiative](http://cybersecurity.ieee.org/), 2015**.
@@ -82,11 +90,11 @@ title: Alessio Merlo's Homepage
 
 
 ### International Conference Proceedings
+- A. Mantovani, S. Aonzo, X. Ugarte-Pedrero, A. Merlo, D. Balzarotti. "[Prevalence and Impact of Low-Entropy Packing Schemes in the Malware Ecosystem](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24297.pdf)" in Proc. of the Network and Distributed System Security Symposium ([NDSS 2020](https://www.ndss-symposium.org/ndss2020/))
+- N. Dejon, D Caputo, L. Verderame, A. Armando, A. Merlo. "[Automated Security Analysis of IoT Software Updates](../papers/WISTP2019.pdf)", in Proc. of the IFIP International Conference on Information Security Theory and Practice ([WISTP 2019](http://www.wistp.org/))
+- D. Caputo, L. Verderame, S. Aonzo, A. Merlo. "[Droids in Disarray: Detecting Frame Confusion in Hybrid Android Apps](../papers/DBSec_2019.pdf)", in Proc. of the IFIP Annual Conference on Data and Applications Security and Privacy 2019 ([DBSec 2019](https://dbsec2019.cse.sc.edu/)), Charleston, South Carolina, USA.
 - M. Guerar, L. Verderame, M. Migliardi, A. Merlo. "[2GesturePIN: Securing PIN-based Authenticationon Smartwatches](../papers/2GesturePIN_short.pdf)", in Proc. of the 28th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises ([WETICE 2019](http://home.ing.unisannio.it/wetice2019/)), Capri, Italy.
 - E. Russo, L. Verderame, A. Merlo. "[Towards Policy-driven Monitoring of Fog Applications](../papers/MoonFog.pdf)", in Proc. of the 28th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises ([WETICE 2019](http://home.ing.unisannio.it/wetice2019/)), Capri, Italy.
-- D. Caputo, L. Verderame, S. Aonzo, A. Merlo.
-"Droids in Disarray: Detecting Frame Confusion in Hybrid Android Apps", in Proc. of the 33rd Annual IFIP WG 11.3
-Conference on Data and Applications Security and Privacy ([DBSec 2019](https://dbsec2019.cse.sc.edu/)), Charleston, South Carolina, USA.
 - M. Guerar, L. Verderame, A. Merlo, M. Migliardi.
 "Blockchain-based risk mitigation for invoice financing". Proc. of the 23rd International Database Engineering & Applications Symposium ([IDEAS 2019](http://confsys.encs.concordia.ca/IDEAS/ideas19/ideas19.php)), Athens, Greece.
 - L. Caviglione, A. Merlo, M. Migliardi.
@@ -141,9 +149,11 @@ Advanced Information Networking and Applications ([AINA 2018](http://voyager.ce.
 - A. Clematis, A. Corana, D. D’Agostino, V. Gianuzzi, A. Merlo. "Resource selection and application execution in a Grid: A migration experience from GT2 to GT4", in *Proc. of the International Conference on Grid computing, high-performAnce and Distributed Applications* ([GADA 2006](http://www.onthemove-conferences.org/index.php/previousevents/otm06/conf06/gada06)), LNCS, n. 4276, pp. 1132-1142, Springer, [DOI: 10.1007/11914952_4](http://link.springer.com/chapter/10.1007%2F11914952_4#page-1).
 
 
+<!--
 ## Services to the Profession
 
 ### Editorial Activity
+
 
 - **Lead Guest Editor** of the [Special Issue on Advances in High Performance Computing and Simulations](http://www.cc-pe.net/journalinfo/issues/2016.html#HPCS2016), [Concurrency and Computation: Practice and Experience](http://www.cc-pe.net/journalinfo/), Wiley.
 -  **Member of the Editorial Advisory Board** of the book [Security Solutions and Applied Cryptography in Smart Grid Communications](http://www.igi-global.com/book/security-solutions-applied-cryptography-smart/166368), IGI-Global.
@@ -279,14 +289,29 @@ Advanced Information Networking and Applications ([AINA 2018](http://voyager.ce.
 | Postgrad. Diploma in ICT Systems |       Databases       |   6  |    2013/14   |   2013/14  |     1     |
 | Postgrad. Diploma in ICT Systems |  Information Systems  |   6  |    2013/14   |   2013/14  |     1     |
 
-### Ph.D. Supervision
+--> 
 
+## Supervision
+
+### PostDoc
+- **2016-**: *[Luca Verderame](https://scholar.google.it/citations?user=I0C4tI0AAAAJ&hl=it)*.
+- **2017-**: *[Meriem Guerar](http://scholar.google.com/citations?user=xTeFW1wAAAAJ&hl=fr)*.
+
+### Ph.D. Students 
+- **2019-2021**: Ph.D supervision of *Marco Zuppelli* (Cycle XXXIV), DIBRIS, University of Genoa.
+- **2019-2021**: Ph.D supervision of *[Andrea Romdhana](http://csec.it/people/andrea_romdhana/)* (Cycle XXXIV), DIBRIS, University of Genoa.
 - **2018-2020**: Doctoral Supervisor of *[Davide Caputo](http://csec.it/people/davide_caputo/)* (Cycle XXXIII), DIBRIS, University of Genoa. 
 - **2017-2019**: Doctoral Supervisor of *[Simone Aonzo](http://csec.it/people/simone_aonzo/)* (Cycle XXXII), DIBRIS, University of Genoa. 
 - **2013-2016**: Doctoral Supervisor of *[Luca Verderame](https://it.linkedin.com/in/lucaverderame)* (Cycle XXVIII), DIBRIS, University of Genoa.
 
+## Other info:
+- **[Scopus ID: 15136674200](https://www.scopus.com/authid/detail.uri?authorId=15136674200)**
+- **[DBLP: https://dblp.uni-trier.de/pers/m/Merlo:Alessio.html](https://dblp.uni-trier.de/pers/m/Merlo:Alessio.html)**
+- **[Orcid: 0000-0002-2272-2376](http://orcid.org/0000-0002-2272-2376)**
+- **[Semantic Scholar: 2611687](https://www.semanticscholar.org/author/Alessio-Merlo/2611687)**
+- **[ResearchGate: https://www.researchgate.net/profile/Alessio_Merlo](https://www.researchgate.net/profile/Alessio_Merlo)**
 
-## Contacts
+## Contacts and Full CV
 
 - **Office**: [Villa Bonino: Viale Francesco Causa, 13, I-16145, Genoa, Italy.](https://www.google.it/maps/place/44°24'07.0%22N+8°57'38.7%22E/@44.4019444,8.9596557,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d44.401932!4d8.960757) and [Valletta Puggia (Office 102): Via Dodecaneso, 35, I-16146, Genoa, Italy.](https://www.google.it/maps/place/Via+Dodecaneso,+35,+16146+Genova+GE/@44.4031688,8.9696801,17z/data=!3m1!4b1!4m5!3m4!1s0x12d3430b2216399f:0xe215417b3e571fb4!8m2!3d44.403165!4d8.9718688?hl=it)
 - **Email**: ![Alessio's mail should be here.](/pics/AM-email.png)
@@ -294,6 +319,7 @@ Advanced Information Networking and Applications ([AINA 2018](http://voyager.ce.
 - **Mobile**: +39 366 6060 815
 - **Fax**: Are you kidding... ?!?
 - **PGP Key**: [8C8EB623](/8C8EB623.asc)
+- **Full CV** available [here](http://www.dibris.unige.it/public/staff/cv_pdf_en/cv_en_701287.pdf).
 
 [//]: # (- **Complete CV**: [Italian version](http://www.dibris.unige.it/public/staff/cv_pdf/cv_701287.pdf) - [English version](http://www.dibris.unige.it/public/staff/cv_pdf_en/cv_en_701287.pdf))
 

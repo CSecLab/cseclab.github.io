@@ -17,10 +17,8 @@ Unlike other tools, **RiskInDroid** does not take into consideration only the pe
 
 From the above sets of permissions (and considering only the official list of Android permissions), feature vectors (made by `0`s and `1`s) are built and given to the classifiers, which then compute a risk value. The precision and the reliability of **RiskInDroid** have been empirically tested on a dataset made of more than 6K malware samples and 112K apps.
 
+For more information visit [https://github.com/ClaudiuGeorgiu/RiskInDroid](https://github.com/ClaudiuGeorgiu/RiskInDroid).
+
 ### Publications
 
-* A. Merlo, G.C. Georgiu. "[RiskInDroid: Machine Learning-based Risk Analysis on Android](https://github.com/ClaudiuGeorgiu/RiskInDroid/raw/master/RiskInDroid_paper.pdf)" ([official pubblication link](https://link.springer.com/chapter/10.1007/978-3-319-58469-0_36)), in *Proc. of the 32nd International Conference on ICT Systems Security and Privacy Protection* ([IFIP-SEC 2017](http://www.ifipsec.org/)).
-
-### Demo
-
-If you want to quickly see the tool in action, visit [https://www.riskindroid.com](https://www.riskindroid.com) to browse the full experimental results and calculate the risk of other apps, otherwise visit [https://github.com/ClaudiuGeorgiu/RiskInDroid](https://github.com/ClaudiuGeorgiu/RiskInDroid) to view the source code or to install **RiskInDroid** on your own computer.
+* A. Merlo, G.C. Georgiu. "[RiskInDroid: Machine Learning-based Risk Analysis on Android](https://raw.githubusercontent.com/ClaudiuGeorgiu/RiskInDroid/master/docs/paper/RiskInDroid.pdf)" ([official pubblication link](https://link.springer.com/chapter/10.1007/978-3-319-58469-0_36)), in *Proc. of the 32nd International Conference on ICT Systems Security and Privacy Protection* ([IFIP-SEC 2017](http://www.ifipsec.org/)).

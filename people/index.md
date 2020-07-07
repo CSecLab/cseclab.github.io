@@ -10,20 +10,25 @@ layout: page
 * [Alessio Merlo](alessio_merlo)
 * [Marina Ribaudo](https://www.dibris.unige.it/ribaudo-marina)
 
+# PostDoc Researchers
 
-# Ph.D. Students, Collaborators and Student Members
+* Giorgia Gazzarata
+* [Luca Verderame](luca_verderame)
 
-* [Simone Aonzo](simone_aonzo)
+# Ph.D. Students and Collaborators 
+
+
 * [Davide Caputo](davide_caputo)
 * [Luca Demetrio](luca_demetrio)
+* Gabriel Claudiu Georgiu ([CINI](https://www.consorzio-cini.it))
+* [Andrea Romdhana](andrea_romdhana)
 * [Enrico Russo](enrico_russo)
 * [Andrea Valenza](andrea_valenza)
-* Lorenzo Maffia
-* Federico Lucini
 
 
-# External Collaborators
 
-* [Gabriele Costa](gabriele_costa) ([IMT Lucca](https://www.imtlucca.it))
-* Gabriel Claudiu Georgiu ([CINI](https://www.consorzio-cini.it))
-* Luca Verderame ([Talos Security](http://www.talos-sec.com))
+
+# Former Members
+* [Gabriele Costa](https://www.imtlucca.it/it/gabriele.costa) ([IMT Lucca](https://www.imtlucca.it))
+* [Simone Aonzo](http://www.eurecom.fr/en/people/aonzo-simone) ([Eurecom France](
+https://www.eurecom.fr))
