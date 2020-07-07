@@ -9,10 +9,10 @@ title: Alessandro Armando
 ## Contacts
 
 - **Office**: [Viale Francesco Causa, 13, I-16145, Genoa, Italy.](https://www.google.it/maps/place/44°24'07.0%22N+8°57'38.7%22E/@44.4019444,8.9596557,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d44.401932!4d8.960757)
-- **Email**: *firstname*.*surname*@unige.it
+- **Email**: *firstname*.*surname*@unige.it, *firstname*.*surname*@consorzio-cini.it
 - **Phone**: +39 010 353 2216
 - **Fax**: +39 010 353 2948
-- **PGP Key**: [1B184B03](/alessandro.gpg)
+- **PGP Public Key**: [D8099910C2B86E0F](/AlessandroArmando-CINI.asc)
 
 
 ## Short Bio
