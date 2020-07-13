@@ -317,7 +317,7 @@ Advanced Information Networking and Applications ([AINA 2018](http://voyager.ce.
 - **Email**: ![Alessio's mail should be here.](/pics/AM-email.png)
 - **Phone**: +39 010 353 2344
 - **Mobile**: +39 366 6060 815
-- **Fax**: Are you kidding... ?!?
+- **Fax**: Are you kidding...?!?
 - **PGP Key**: [F12A704D](/people/AlessioMerlo-F12A704D.asc)
 - **Full CV** available [here](http://www.dibris.unige.it/public/staff/cv_pdf_en/cv_en_701287.pdf).
 
