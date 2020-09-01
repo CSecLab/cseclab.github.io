@@ -11,6 +11,7 @@ Furthermore,  the  methodology  also allows checking the compliance of third-par
 The results of the experimental evaluation described in the paper can be downloaded [here](../data/3pdroid_results.zip).
 
 The source code is available on [Github](https://github.com/Mobile-IoT-Security-Lab/3PDroid-public).
+
 For more information please contact luca.verderame(A)dibris.unige.it.
 {: style="text-align: justify"}
 
