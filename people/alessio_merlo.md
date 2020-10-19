@@ -23,7 +23,7 @@ title: Alessio Merlo's Homepage
 
 
 ### Current positions
-- **Tenured Assistant Professor (RTD-B)** at DIBRIS, University of Genova (since Oct. 2017).
+- **Associate Professor** at DIBRIS, University of Genova (since Oct. 2017).
 - **Founder and C.T.O.** at [Talos  s.r.l.s](http://www.talos-sec.com) (since Jan. 2016).
 
 ## Publications
