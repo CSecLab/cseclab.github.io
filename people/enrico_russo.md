@@ -14,11 +14,16 @@ title: Enrico Russo
 
 
 ### Publications
-   - E. Russo, L. Verderame, A. Armando, and A. Merlo. "Enabling Next-Generation Cyber Ranges with Mobile Security Components", in Proc. of 32nd IFIP International Conference on Testing Software and Systems (ICTSS 2020), Naples, Italy.
+
+### International Journals
 
    - E. Russo, L. Verderame, A. Armando, and A. Merlo. "DIOXIN: Run-time Security Policy Enforcement of Fog Applications". International Journal of Grid andUtility Computing", 2020. In press.
 
    - E. Russo, G. Costa, and A. Armando. "Building Next Generation CyberRanges with CRACK". Computers & Security, 95:101837, 2020.
+
+### International Conference Proceedings
+
+   - E. Russo, L. Verderame, A. Armando, and A. Merlo. "Enabling Next-Generation Cyber Ranges with Mobile Security Components", in Proc. of 32nd IFIP International Conference on Testing Software and Systems (ICTSS 2020), Naples, Italy.
 
   - E. Russo, L. Verderame and A. Merlo. "Towards Policy-driven Monitoring of Fog Applications", in Proc. of the 28th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2019), Capri, Italy.
 
@@ -31,7 +36,7 @@ title: Enrico Russo
   - A. G. Bruzzone, R.Di Matteo, M. Massei, E.Russo, M. Cantilli, K.Sinelshchikov, G. L. Maglione. "Interoperable Simulation and Serious Games for creating an Open Cyber Range", in Proc. of 7th International Defense and Homeland Security Simulation Workshop (DHSS 2017), Barcelona, Spain.
 
 ## Contacts
-- **Office**: [room 314, DIBRIS, Via Dodecaneso, 35, 16146 Genova - Italy](https://goo.gl/maps/kTyTs2YKMkL2)
+<!-- - **Office**: [room 314, DIBRIS, Via Dodecaneso, 35, 16146 Genova - Italy](https://goo.gl/maps/kTyTs2YKMkL2) -->
 - **Email**: enrico.russo (A) dibris.unige.it 
 
 ## Personal links
@@ -39,4 +44,7 @@ title: Enrico Russo
 - [GitHub](https://github.com/enricorusso)
 - [CTFtime](https://ctftime.org/user/24956)
 - [ZenHack CTF Team](https://zenhack.it)
+- [ResearchGate](https://www.researchgate.net/profile/Enrico_Russo2)
+- [ORCID](https://orcid.org/0000-0002-1077-2771)
+
 
