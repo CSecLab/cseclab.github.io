@@ -15,13 +15,13 @@ title: Enrico Russo
 
 ### Publications
 
-### International Journals
+#### International Journals
 
    - E. Russo, L. Verderame, A. Armando, and A. Merlo. "DIOXIN: Run-time Security Policy Enforcement of Fog Applications". International Journal of Grid andUtility Computing", 2020. In press.
 
    - E. Russo, G. Costa, and A. Armando. "Building Next Generation CyberRanges with CRACK". Computers & Security, 95:101837, 2020.
 
-### International Conference Proceedings
+#### International Conference Proceedings
 
    - E. Russo, L. Verderame, A. Armando, and A. Merlo. "Enabling Next-Generation Cyber Ranges with Mobile Security Components", in Proc. of 32nd IFIP International Conference on Testing Software and Systems (ICTSS 2020), Naples, Italy.
 
