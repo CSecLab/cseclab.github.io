@@ -14,6 +14,12 @@ title: Enrico Russo
 
 
 ### Publications
+   - E. Russo, L. Verderame, A. Armando, and A. Merlo. "Enabling Next-Generation Cyber Ranges with Mobile Security Components", in Proc. of 32nd IFIP International Conference on Testing Software and Systems (ICTSS 2020), Naples, Italy.
+
+   - E. Russo, L. Verderame, A. Armando, and A. Merlo. "DIOXIN: Run-time Security Policy Enforcement of Fog Applications". International Journal of Grid andUtility Computing", 2020. In press.
+
+   - E. Russo, G. Costa, and A. Armando. "Building Next Generation CyberRanges with CRACK". Computers & Security, 95:101837, 2020.
+
   - E. Russo, L. Verderame and A. Merlo. "Towards Policy-driven Monitoring of Fog Applications", in Proc. of the 28th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2019), Capri, Italy.
 
   - L. Demetrio, G. Lagorio, M. Ribaudo, E. Russo and A. Valenza. "ZenHackAdemy: Ethical Hacking @ DIBRIS", in Proc. of the 11th International Conference on Computer Supported Education (CSEDU 2019), Heraklion, Crete - Greece.
