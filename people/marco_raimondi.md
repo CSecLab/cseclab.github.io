@@ -3,7 +3,7 @@ layout: page
 title: Marco Raimondi
 ---
 
-![Marco's pic is missing.](/pics/raimondi.png)
+![Marco's pic is missing.](/pics/raimondi.png){:height="25%" width="25%"}
 
 ### Short Bio
 
