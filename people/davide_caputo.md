@@ -37,7 +37,7 @@ title: Davide Caputo
 
 |                Degree               |      Course Taught    | From: (a.y.) | To: (a.y.) | Tot. yrs. |
 |:-----------------------------------:|:--------------------------------------------:|:----:|:---:|:-:|
-|        M.Sc. Computer Engineering   | Data Protection and Privacy                      | 2018 | now | 2 |
+|        M.Sc. Computer Engineering   | Data Protection and Privacy                      | 2018 | now | 3 |
 |        B. Eng. Computer Engineering | Android Programming                      | 2018 | now | 2 |
 
 
@@ -47,5 +47,5 @@ title: Davide Caputo
 
 ### Contacts
 
-- **Office**: [room 314, DIBRIS - Department of Mathematics, Via Dodecaneso, 35, 16146 Genova - Italy](https://goo.gl/maps/kTyTs2YKMkL2)
+- **Office**: [room 320, DIBRIS - Department of Mathematics, Via Dodecaneso, 35, 16146 Genova - Italy](https://goo.gl/maps/kTyTs2YKMkL2)
 - **Email**: davide.caputo (A) dibris.unige.it
