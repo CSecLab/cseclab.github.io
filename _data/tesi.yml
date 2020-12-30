@@ -11,7 +11,7 @@
   pubblications:
     - title: A. Merlo, A. Ruggia, L. Sciolla, L. Verderame , "You Shall not Repackage! A Journey into the World of Anti-Repackaging on Android" in arXiv preprint arXiv:2009.04718.
       link: https://arxiv.org/abs/2009.04718
-    - title: A. Merlo, A. Ruggia, L. Sciolla, L. Verderame , "ARMAND: Anti-Repackaging through Multi-patternAnti-tampering based on Native Detection"  arXiv preprint arXiv:2012.09292..
+    - title: A. Merlo, A. Ruggia, L. Sciolla, L. Verderame , "ARMAND Anti-Repackaging through Multi-patternAnti-tampering based on Native Detection"  arXiv preprint arXiv:2012.09292..
       link: https://arxiv.org/abs/2012.09292
 
 - title: "HideDroid: App-level Runtime Data Anonymization on Mobile"
