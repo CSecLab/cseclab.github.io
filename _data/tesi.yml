@@ -65,6 +65,8 @@
   supervisors: 
       - name: Alessio Merlo
         url: /people/alessio
+      - name: Luca Verderame
+        url: /people/luca_verderame
 
 - title: TEA - Enabling THCE on Android devices
   author: Luca Lorrai
@@ -74,6 +76,8 @@
   supervisors:
       - name: Alessio Merlo
         url: /people/alessio
+      - name: Luca Verderame
+        url: /people/luca_verderame
   pubblications:
     - title: A. Merlo, L. Lorrai, L. Verderame, "Efficient trusted host-based card emulation on TEE-enabled Android devices", in Proc. of HPCS 2016.
       link: http://ieeexplore.ieee.org/document/7568370/?reload=true
