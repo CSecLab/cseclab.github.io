@@ -20,8 +20,8 @@
     - name: Alessio Merlo
       url: /people/alessio
   pubblications:
-    - name: "Verderame, L., Caputo, D., Romdhana, A., & Merlo, A. (2020, December). APPregator: A Large-Scale Platform for Mobile Security Analysis. In IFIP International Conference on Testing Software and Systems (pp. 73-88). Springer, Cham"
-    - link: https://link.springer.com/chapter/10.1007%2F978-3-030-64881-7_5
+    - name: "Verderame, L., Caputo, D., Romdhana, A., & Merlo, A. APPregator: A Large-Scale Platform for Mobile Security Analysis. In IFIP International Conference on Testing Software and Systems (ICTSS 2020)."
+      link: https://link.springer.com/chapter/10.1007%2F978-3-030-64881-7_5
 
 - title: "Analysis of user profiling libraries on Android"
   author: Mattia Parrinello
@@ -45,8 +45,8 @@
     - name: Alessio Merlo
       url: /people/alessio
   pubblications:
-    - name: "Caputo, D., Verderame, L., Aonzo, S., & Merlo, A. (2019, July). Droids in disarray: detecting frame confusion in hybrid android apps. In IFIP Annual Conference on Data and Applications Security and Privacy (pp. 121-139). Springer, Cham."
-    - link: https://link.springer.com/chapter/10.1007%2F978-3-030-22479-0_7 
+    - name: "Caputo, D., Verderame, L., Aonzo, S., & Merlo, A. Droids in disarray: detecting frame confusion in hybrid android apps. In IFIP Annual Conference on Data and Applications Security and Privacy (DBSec 19)"
+      link: https://link.springer.com/chapter/10.1007%2F978-3-030-22479-0_7 
 
 - title: Provision of web security training services through per-user sandboxing
   author: Loris Piana
