@@ -1,3 +1,53 @@
+- title: "HideDroid: App-level Runtime Data Anonymization on Mobile"
+  author: Francesco Pagano, Giovanni Bottino
+  period: 07/2020 - 12/2020
+  year: 2020
+  link: /MSTheses/Bottino_pagano_HideDroid_dicembre_2020.pdf
+  supervisors:
+    - name: Davide Caputo
+      url: /people/davide_caputo
+    - name: Alessio Merlo
+      url: /people/alessio
+
+- title: "Appregator: a Large-Scale Platform for Mobile Security Analysis"
+  author: Federico Lucini
+  period: 09/2019 - 03/2020
+  year: 2020
+  link: /MSTheses/Lucini_Federico_2020_Appregator.pdf
+  supervisors:
+    - name: Luca Verderame
+      url: /people/luca_verderame
+    - name: Alessio Merlo
+      url: /people/alessio
+  publications:
+    - name: "Verderame, L., Caputo, D., Romdhana, A., & Merlo, A. (2020, December). APPregator: A Large-Scale Platform for Mobile Security Analysis. In IFIP International Conference on Testing Software and Systems (pp. 73-88). Springer, Cham"
+    - link: https://link.springer.com/chapter/10.1007%2F978-3-030-64881-7_5
+
+- title: "Analysis of user profiling libraries on Android"
+  author: Mattia Parrinello
+  period: 02/2019 - 12/2019
+  year: 2019
+  link: /MSTheses/Parrinello_analisi_librerie_dicembre_2019.pdf
+  supervisors:
+    - name: Davide Caputo
+      url: /people/davide_caputo
+    - name: Alessio Merlo
+      url: /people/alessio
+ 
+- title: "FCDroid: a tool for identifying frame confusion in mobile apps"
+  author: Davide Caputo
+  period: 03/2018 - 10/2018
+  year: 2018
+  link: /MSTheses/Tesi_Davide_FCDroid_ottobre_2018.pdf
+  supervisors:
+    - name: Luca Verderame
+      url: /people/luca_verderame
+    - name: Alessio Merlo
+      url: /people/alessio
+  publications:
+    - name: "Caputo, D., Verderame, L., Aonzo, S., & Merlo, A. (2019, July). Droids in disarray: detecting frame confusion in hybrid android apps. In IFIP Annual Conference on Data and Applications Security and Privacy (pp. 121-139). Springer, Cham."
+    - link: https://link.springer.com/chapter/10.1007%2F978-3-030-22479-0_7 
+
 - title: Provision of web security training services through per-user sandboxing
   author: Loris Piana
   period: 03/2017  - 12/2017
@@ -6,6 +56,7 @@
   supervisors: 
       - name: Alessio Merlo
         url: /people/alessio
+
 - title: Building behavioural models for the security analysis of iOS applications
   author: Gianluca Barbera
   period: 11/2016 - 7/2017
