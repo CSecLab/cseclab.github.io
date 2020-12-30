@@ -20,7 +20,7 @@
     - name: Alessio Merlo
       url: /people/alessio
   pubblications:
-    - name: L. Verderame, D. Caputo, A. Romdhana, A. Merlo, "APPregator A Large-Scale Platform for Mobile Security Analysis", in IFIP International Conference on Testing Software and Systems (ICTSS 2020).
+    - title: L. Verderame, D. Caputo, A. Romdhana, A. Merlo, "APPregator A Large-Scale Platform for Mobile Security Analysis", in IFIP International Conference on Testing Software and Systems (ICTSS 2020).
       link: https://link.springer.com/chapter/10.1007%2F978-3-030-64881-7_5
 
 - title: "Analysis of user profiling libraries on Android"
@@ -45,7 +45,7 @@
     - name: Alessio Merlo
       url: /people/alessio
   pubblications:
-    - name: D. Caputo, L. Verderame, S. Aonzo, A. Merlo, "Droids in disarray detecting frame confusion in hybrid android apps", in IFIP Annual Conference on Data and Applications Security and Privacy (DBSec 19).
+    - title: D. Caputo, L. Verderame, S. Aonzo, A. Merlo, "Droids in disarray detecting frame confusion in hybrid android apps", in IFIP Annual Conference on Data and Applications Security and Privacy (DBSec 19).
       link: https://link.springer.com/chapter/10.1007%2F978-3-030-22479-0_7 
 
 - title: Provision of web security training services through per-user sandboxing
