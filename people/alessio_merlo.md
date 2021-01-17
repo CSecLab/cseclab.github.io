@@ -298,18 +298,15 @@ Advanced Information Networking and Applications ([AINA 2018](http://voyager.ce.
 
 --> 
 
-## Supervision
+## Ph.D. Progeny
 
-### PostDoc
-- **2016-**: *[Luca Verderame](https://scholar.google.it/citations?user=I0C4tI0AAAAJ&hl=it)*.
-- **2017-**: *[Meriem Guerar](http://scholar.google.com/citations?user=xTeFW1wAAAAJ&hl=fr)*.
-
-### Ph.D. Students 
-- **2019-2021**: Ph.D supervision of *Marco Zuppelli* (Cycle XXXIV), DIBRIS, University of Genoa.
-- **2019-2021**: Ph.D supervision of *[Andrea Romdhana](http://csec.it/people/andrea_romdhana/)* (Cycle XXXIV), DIBRIS, University of Genoa.
-- **2018-2020**: Doctoral Supervisor of *[Davide Caputo](http://csec.it/people/davide_caputo/)* (Cycle XXXIII), DIBRIS, University of Genoa. 
-- **2017-2019**: Doctoral Supervisor of *[Simone Aonzo](http://csec.it/people/simone_aonzo/)* (Cycle XXXII), DIBRIS, University of Genoa. 
-- **2013-2016**: Doctoral Supervisor of *[Luca Verderame](https://it.linkedin.com/in/lucaverderame)* (Cycle XXVIII), DIBRIS, University of Genoa.
+- **2020-2022**: *[Antonio Ruggia](https://csec.it/people/antonio_ruggia/)* (Cycle XXXV).
+- **2020-2020**: *[Marco Raimondi](https://csec.it/people/marco_raimondi/)* (Cycle XXXV).
+- **2019-2021**: *Marco Zuppelli* (Cycle XXXIV).
+- **2019-2021**: *[Andrea Romdhana](http://csec.it/people/andrea_romdhana/)* (Cycle XXXIV), DIBRIS, University of Genoa.
+- **2018-2020**: *[Davide Caputo](http://csec.it/people/davide_caputo/)* (Cycle XXXIII), DIBRIS, University of Genoa. 
+- **2017-2019**: *[Simone Aonzo](https://www.eurecom.fr/en/people/aonzo-simone)* (Cycle XXXI); now [researcher](https://www.eurecom.fr/en/people/aonzo-simone) at [EURECOM](https://www.eurecom.fr/en). 
+- **2013-2016**: *[Luca Verderame](https://it.linkedin.com/in/lucaverderame)* (Cycle XXVIII); now [postdoc](https://csec.it/people/luca_verderame) at DIBRIS, University of Genoa.
 
 ## Contacts
 - **Office**: [Valletta Puggia (Office 102): Via Dodecaneso, 35, I-16146, Genoa, Italy.](https://www.google.it/maps/place/Via+Dodecaneso,+35,+16146+Genova+GE/@44.4031688,8.9696801,17z/data=!3m1!4b1!4m5!3m4!1s0x12d3430b2216399f:0xe215417b3e571fb4!8m2!3d44.403165!4d8.9718688?hl=it)
