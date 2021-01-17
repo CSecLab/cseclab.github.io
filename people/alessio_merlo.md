@@ -301,7 +301,7 @@ Advanced Information Networking and Applications ([AINA 2018](http://voyager.ce.
 ## Ph.D. Progeny
 
 - **2020-2022**: *[Antonio Ruggia](https://csec.it/people/antonio_ruggia/)* (Cycle XXXV).
-- **2020-2020**: *[Marco Raimondi](https://csec.it/people/marco_raimondi/)* (Cycle XXXV).
+- **2020-2022**: *[Marco Raimondi](https://csec.it/people/marco_raimondi/)* (Cycle XXXV).
 - **2019-2021**: *Marco Zuppelli* (Cycle XXXIV).
 - **2019-2021**: *[Andrea Romdhana](http://csec.it/people/andrea_romdhana/)* (Cycle XXXIV), DIBRIS, University of Genoa.
 - **2018-2020**: *[Davide Caputo](http://csec.it/people/davide_caputo/)* (Cycle XXXIII), DIBRIS, University of Genoa. 
