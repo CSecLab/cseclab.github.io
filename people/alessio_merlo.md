@@ -300,13 +300,13 @@ Advanced Information Networking and Applications ([AINA 2018](http://voyager.ce.
 
 ## Ph.D. Progeny
 
-- **2020-2022**: *[Antonio Ruggia](https://csec.it/people/antonio_ruggia/)* (Cycle XXXV).
-- **2020-2022**: *[Marco Raimondi](https://csec.it/people/marco_raimondi/)* (Cycle XXXV).
-- **2019-2021**: *Marco Zuppelli* (Cycle XXXIV).
-- **2019-2021**: *[Andrea Romdhana](http://csec.it/people/andrea_romdhana/)* (Cycle XXXIV), DIBRIS, University of Genoa.
-- **2018-2020**: *[Davide Caputo](http://csec.it/people/davide_caputo/)* (Cycle XXXIII), DIBRIS, University of Genoa. 
-- **2017-2019**: *[Simone Aonzo](https://www.eurecom.fr/en/people/aonzo-simone)* (Cycle XXXI); now [researcher](https://www.eurecom.fr/en/people/aonzo-simone) at [EURECOM](https://www.eurecom.fr/en). 
-- **2013-2016**: *[Luca Verderame](https://it.linkedin.com/in/lucaverderame)* (Cycle XXVIII); now [postdoc](https://csec.it/people/luca_verderame) at DIBRIS, University of Genoa.
+- **2020-2023**: *[Antonio Ruggia](https://csec.it/people/antonio_ruggia/)* (Cycle XXXV).
+- **2020-2023**: *[Marco Raimondi](https://csec.it/people/marco_raimondi/)* (Cycle XXXV).
+- **2019-2022**: *[Marco Zuppelli](https://www.linkedin.com/in/marco-zuppelli-6a2619183/)* (Cycle XXXIV).
+- **2019-2022**: *[Andrea Romdhana](http://csec.it/people/andrea_romdhana/)* (Cycle XXXIV), DIBRIS, University of Genoa.
+- **2018-2021**: *[Davide Caputo](http://csec.it/people/davide_caputo/)* (Cycle XXXIII), DIBRIS, University of Genoa. 
+- **2017-2020**: *[Simone Aonzo](https://www.eurecom.fr/en/people/aonzo-simone)* (Cycle XXXI); now [researcher](https://www.eurecom.fr/en/people/aonzo-simone) at [EURECOM](https://www.eurecom.fr/en). 
+- **2013-2017**: *[Luca Verderame](https://it.linkedin.com/in/lucaverderame)* (Cycle XXVIII); now [postdoc](https://csec.it/people/luca_verderame) at DIBRIS, University of Genoa.
 
 ## Contacts
 - **Office**: [Valletta Puggia (Office 102): Via Dodecaneso, 35, I-16146, Genoa, Italy.](https://www.google.it/maps/place/Via+Dodecaneso,+35,+16146+Genova+GE/@44.4031688,8.9696801,17z/data=!3m1!4b1!4m5!3m4!1s0x12d3430b2216399f:0xe215417b3e571fb4!8m2!3d44.403165!4d8.9718688?hl=it)
