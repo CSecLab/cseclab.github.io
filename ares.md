@@ -10,7 +10,7 @@ The state space of Android apps is huge and its thorough exploration during test
 
 # Results
 
-The source code is available on "[https://github.com/H2SO4T/ARES](GitHub)".
+The source code is available on "[GitHub](https://github.com/H2SO4T/ARES)".
 For more information please contact andrea.romdhana(A)dibris.unige.it.
 {: style="text-align: justify"}
 
