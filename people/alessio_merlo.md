@@ -20,17 +20,26 @@ title: Alessio Merlo's Homepage
 - **From Sep. 2014 to Aug. 2017**: Assistant Professor at [DIBRIS](http://www.dibris.unige.it), University of Genova.
 - **Apr. 2017**: *Habilitation* as "Associate Professor" both in *Computer Engineering* (S.C. 09/H1)  and in *Computer Science* (S.C. 01/B1), according to the Italian National Scientific Habilitation Procedure ([ASN 2016-2018](http://abilitazione.miur.it)).
 - **July 2018**: *Habilitation* as "Full Professor" in *Computer Engineering* (S.C. 09/H1), according to the Italian National Scientific Habilitation Procedure ([ASN 2016-2018](http://abilitazione.miur.it)).
+- **Nov. 2020**: *Habilitation* as "Full Professor" in *Computer Science* (S.C. 01/B1), according to the Italian National Scientific Habilitation Procedure ([ASN 2016-2018](http://abilitazione.miur.it)).
 
 
 ### Current positions
-- **Associate Professor** at DIBRIS, University of Genova (since Oct. 2017).
+- **Associate Professor** at DIBRIS, University of Genova (since Oct. 2020).
 - **Founder and C.T.O.** at [Talos  s.r.l.s](http://www.talos-sec.com) (since Jan. 2016).
 
+## Publications:
+- **[Google Scholar](https://scholar.google.com/citations?update_op=accept_invitation&email_for_op=alessio.mrl%40gmail.com&invitation_id=9656939844049668502&user=F3Bkg_MAAAAJ&cstart=40&pagesize=20)** 
+- **[Scopus ID: 15136674200](https://www.scopus.com/authid/detail.uri?authorId=15136674200)**
+- **[DBLP: https://dblp.uni-trier.de/pers/m/Merlo:Alessio.html](https://dblp.uni-trier.de/pers/m/Merlo:Alessio.html)**
+- **[Orcid: 0000-0002-2272-2376](http://orcid.org/0000-0002-2272-2376)**
+- **[Semantic Scholar: 2611687](https://www.semanticscholar.org/author/Alessio-Merlo/2611687)**
+- **[ResearchGate: https://www.researchgate.net/profile/Alessio_Merlo](https://www.researchgate.net/profile/Alessio_Merlo)**
+
+<!--
 ## Publications
 
 [//]: # ([Google Scholar](https://scholar.google.com/citations?update_op=accept_invitation&email_for_op=alessio.mrl%40gmail.com&invitation_id=9656939844049668502&user=F3Bkg_MAAAAJ&cstart=40&pagesize=20) -) 
 [//]: # ([Scopus](https://www.scopus.com/authid/detail.uri?authorId=15136674200) - [DBLP](http://dblp.uni-trier.de/pers/hd/m/Merlo:Alessio) [Semantic Scholar](https://www.semanticscholar.org/author/Alessio-Merlo/2611687))
-
 
 ### Books
 - A. Merlo, M. Migliardi, S. Al-Haj Baddar (Eds.). "Adaptive Mobile Computing: Advances in Processing of Mobile Data Sets" Elsevier. ISBN: [9780128046036](https://www.elsevier.com/books/adaptive-mobile-computing/migliardi/978-0-12-804603-6). Expected release: 2017, 2Q.
@@ -148,8 +157,6 @@ Advanced Information Networking and Applications ([AINA 2018](http://voyager.ce.
 - A. Clematis, A. Corana, D. D’Agostino, V. Gianuzzi, A. Merlo, A. Quarati. "A Distributed Approach for Structured Resource Discovery on Grid", in *Proc. of the 2nd International Conference on Complex, Intelligent and Software Intensive Systems* ([CISIS 2008](http://voyager.ce.fit.ac.jp/conf/cisis/2013/)), pp. 117-125. IEEE, [DOI: 10.1109/CISIS.2008.112](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4606671).
 - A. Clematis, A. Corana, D. D’Agostino, V. Gianuzzi, A. Merlo. "Resource selection and application execution in a Grid: A migration experience from GT2 to GT4", in *Proc. of the International Conference on Grid computing, high-performAnce and Distributed Applications* ([GADA 2006](http://www.onthemove-conferences.org/index.php/previousevents/otm06/conf06/gada06)), LNCS, n. 4276, pp. 1132-1142, Springer, [DOI: 10.1007/11914952_4](http://link.springer.com/chapter/10.1007%2F11914952_4#page-1).
 
-
-<!--
 ## Services to the Profession
 
 ### Editorial Activity
@@ -291,35 +298,23 @@ Advanced Information Networking and Applications ([AINA 2018](http://voyager.ce.
 
 --> 
 
-## Supervision
+## Ph.D. Progeny
 
-### PostDoc
-- **2016-**: *[Luca Verderame](https://scholar.google.it/citations?user=I0C4tI0AAAAJ&hl=it)*.
-- **2017-**: *[Meriem Guerar](http://scholar.google.com/citations?user=xTeFW1wAAAAJ&hl=fr)*.
+- **2020-2023**: *[Antonio Ruggia](https://csec.it/people/antonio_ruggia/)* (Cycle XXXV).
+- **2020-2023**: *[Marco Raimondi](https://csec.it/people/marco_raimondi/)* (Cycle XXXV).
+- **2019-2022**: *[Marco Zuppelli](https://www.linkedin.com/in/marco-zuppelli-6a2619183/)* (Cycle XXXIV).
+- **2019-2022**: *[Andrea Romdhana](http://csec.it/people/andrea_romdhana/)* (Cycle XXXIV), DIBRIS, University of Genoa.
+- **2018-2021**: *[Davide Caputo](http://csec.it/people/davide_caputo/)* (Cycle XXXIII), DIBRIS, University of Genoa. 
+- **2017-2020**: *[Simone Aonzo](https://www.eurecom.fr/en/people/aonzo-simone)* (Cycle XXXI); now [researcher](https://www.eurecom.fr/en/people/aonzo-simone) at [EURECOM](https://www.eurecom.fr/en). 
+- **2013-2017**: *[Luca Verderame](https://it.linkedin.com/in/lucaverderame)* (Cycle XXVIII); now [postdoc](https://csec.it/people/luca_verderame) at DIBRIS, University of Genoa.
 
-### Ph.D. Students 
-- **2019-2021**: Ph.D supervision of *Marco Zuppelli* (Cycle XXXIV), DIBRIS, University of Genoa.
-- **2019-2021**: Ph.D supervision of *[Andrea Romdhana](http://csec.it/people/andrea_romdhana/)* (Cycle XXXIV), DIBRIS, University of Genoa.
-- **2018-2020**: Doctoral Supervisor of *[Davide Caputo](http://csec.it/people/davide_caputo/)* (Cycle XXXIII), DIBRIS, University of Genoa. 
-- **2017-2019**: Doctoral Supervisor of *[Simone Aonzo](http://csec.it/people/simone_aonzo/)* (Cycle XXXII), DIBRIS, University of Genoa. 
-- **2013-2016**: Doctoral Supervisor of *[Luca Verderame](https://it.linkedin.com/in/lucaverderame)* (Cycle XXVIII), DIBRIS, University of Genoa.
-
-## Other info:
-- **[Scopus ID: 15136674200](https://www.scopus.com/authid/detail.uri?authorId=15136674200)**
-- **[DBLP: https://dblp.uni-trier.de/pers/m/Merlo:Alessio.html](https://dblp.uni-trier.de/pers/m/Merlo:Alessio.html)**
-- **[Orcid: 0000-0002-2272-2376](http://orcid.org/0000-0002-2272-2376)**
-- **[Semantic Scholar: 2611687](https://www.semanticscholar.org/author/Alessio-Merlo/2611687)**
-- **[ResearchGate: https://www.researchgate.net/profile/Alessio_Merlo](https://www.researchgate.net/profile/Alessio_Merlo)**
-
-## Contacts and Full CV
-
-- **Office**: [Villa Bonino: Viale Francesco Causa, 13, I-16145, Genoa, Italy.](https://www.google.it/maps/place/44°24'07.0%22N+8°57'38.7%22E/@44.4019444,8.9596557,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d44.401932!4d8.960757) and [Valletta Puggia (Office 102): Via Dodecaneso, 35, I-16146, Genoa, Italy.](https://www.google.it/maps/place/Via+Dodecaneso,+35,+16146+Genova+GE/@44.4031688,8.9696801,17z/data=!3m1!4b1!4m5!3m4!1s0x12d3430b2216399f:0xe215417b3e571fb4!8m2!3d44.403165!4d8.9718688?hl=it)
+## Contacts
+- **Office**: [Valletta Puggia (Office 102): Via Dodecaneso, 35, I-16146, Genoa, Italy.](https://www.google.it/maps/place/Via+Dodecaneso,+35,+16146+Genova+GE/@44.4031688,8.9696801,17z/data=!3m1!4b1!4m5!3m4!1s0x12d3430b2216399f:0xe215417b3e571fb4!8m2!3d44.403165!4d8.9718688?hl=it)
 - **Email**: ![Alessio's mail should be here.](/pics/AM-email.png)
 - **Phone**: +39 010 353 2344
 - **Mobile**: +39 366 6060 815
-- **Fax**: Are you kidding...?!?
 - **PGP Key**: [F12A704D](/people/AlessioMerlo-F12A704D.asc)
-- **Full CV** available [here](http://www.dibris.unige.it/public/staff/cv_pdf_en/cv_en_701287.pdf).
+- **CV**: write me an email :)
 
 [//]: # (- **Complete CV**: [Italian version](http://www.dibris.unige.it/public/staff/cv_pdf/cv_701287.pdf) - [English version](http://www.dibris.unige.it/public/staff/cv_pdf_en/cv_en_701287.pdf))
 

@@ -14,6 +14,8 @@ title: Davide Caputo
 
 ### Publications
 
+- L. Verderame, D. Caputo, A. Romdhana, &  A. Merlo. "[APPregator: A Large-Scale Platform for Mobile Security Analysis](https://link.springer.com/chapter/10.1007/978-3-030-64881-7_5)". In IFIP International Conference on Testing Software and Systems (pp. 73-88). Springer, Cham.
+- D. Caputo, L. Verderame, & A. Merlo. "[MobHide: App-Level Runtime Data Anonymization on Mobile](https://link.springer.com/chapter/10.1007/978-3-030-61638-0_27)". In International Conference on Applied Cryptography and Network Security (pp. 490-507). Springer, Cham.
 - L. Verderame, D. Caputo, A. Romdhana, A. Merlo. "[On the (Un)Reliability of Privacy Policies in Android Apps](../../papers/On_the_UnReliability_of_Privacy_Policies_in_Android.pdf)" in Proc. of the 2020 World Congress on Computational Intelligence, Jul 19-24, 2020, Glasgow, Scotland.
 - D. Caputo, L. Verderame, A. Ranieri, A. Merlo and L. Caviglione. "[Fine-hearing Google Home: why silence will not protect your privacy](https://dx.doi.org/10.22667/JOWUA.2020.03.31.035)" in Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications (JoWUA).
 - L. Verderame, D. Caputo, M. Migliardi and A. Merlo. "[AppIoTTE: An Architecture for the Security Assessment of Mobile-IoT Ecosystems](https://link.springer.com/chapter/10.1007%2F978-3-030-44038-1_79)" in Web, Artificial Intelligence and Network Applications
@@ -35,7 +37,7 @@ title: Davide Caputo
 
 |                Degree               |      Course Taught    | From: (a.y.) | To: (a.y.) | Tot. yrs. |
 |:-----------------------------------:|:--------------------------------------------:|:----:|:---:|:-:|
-|        M.Sc. Computer Engineering   | Data Protection and Privacy                      | 2018 | now | 2 |
+|        M.Sc. Computer Engineering   | Data Protection and Privacy                      | 2018 | now | 3 |
 |        B. Eng. Computer Engineering | Android Programming                      | 2018 | now | 2 |
 
 
@@ -45,5 +47,5 @@ title: Davide Caputo
 
 ### Contacts
 
-- **Office**: [room 314, DIBRIS - Department of Mathematics, Via Dodecaneso, 35, 16146 Genova - Italy](https://goo.gl/maps/kTyTs2YKMkL2)
+- **Office**: [room 320, DIBRIS - Department of Mathematics, Via Dodecaneso, 35, 16146 Genova - Italy](https://goo.gl/maps/kTyTs2YKMkL2)
 - **Email**: davide.caputo (A) dibris.unige.it

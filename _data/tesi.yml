@@ -1,3 +1,108 @@
+- title: "Demystifying Anti-Repackaging on Android"
+  author: Antonio Ruggia, Luigi Sciolla
+  period: 03/2020 - 10/2020
+  year: 2020
+  link: /MSTheses/_Thesis_Oct__2020__Anti_Repackaging.pdf
+  supervisors:
+    - name: Luca Verderame
+      url: /people/luca_verderame
+    - name: Alessio Merlo
+      url: /people/alessio
+  pubblications:
+    - title: A. Merlo, A. Ruggia, L. Sciolla, L. Verderame , "You Shall not Repackage! A Journey into the World of Anti-Repackaging on Android" in arXiv preprint arXiv:2009.04718.
+      link: https://arxiv.org/abs/2009.04718
+    - title: A. Merlo, A. Ruggia, L. Sciolla, L. Verderame , "ARMAND Anti-Repackaging through Multi-patternAnti-tampering based on Native Detection"  arXiv preprint arXiv:2012.09292..
+      link: https://arxiv.org/abs/2012.09292
+
+- title: "HideDroid: App-level Runtime Data Anonymization on Mobile"
+  author: Francesco Pagano, Giovanni Bottino
+  period: 07/2020 - 12/2020
+  year: 2020
+  link: /MSTheses/Bottino_pagano_HideDroid_dicembre_2020.pdf
+  supervisors:
+    - name: Davide Caputo
+      url: /people/davide_caputo
+    - name: Alessio Merlo
+      url: /people/alessio
+
+- title: "Appregator: a Large-Scale Platform for Mobile Security Analysis"
+  author: Federico Lucini
+  period: 09/2019 - 03/2020
+  year: 2020
+  link: /MSTheses/Lucini_Federico_2020_Appregator.pdf
+  supervisors:
+    - name: Luca Verderame
+      url: /people/luca_verderame
+    - name: Alessio Merlo
+      url: /people/alessio
+  pubblications:
+    - title: L. Verderame, D. Caputo, A. Romdhana, A. Merlo, "APPregator A Large-Scale Platform for Mobile Security Analysis", in IFIP International Conference on Testing Software and Systems (ICTSS 2020).
+      link: https://link.springer.com/chapter/10.1007%2F978-3-030-64881-7_5
+
+- title: "Analysis of user profiling libraries on Android"
+  author: Mattia Parrinello
+  period: 02/2019 - 12/2019
+  year: 2019
+  link: /MSTheses/Parrinello_analisi_librerie_dicembre_2019.pdf
+  supervisors:
+    - name: Davide Caputo
+      url: /people/davide_caputo
+    - name: Alessio Merlo
+      url: /people/alessio
+
+- title: "A framework for the automatic security analysis of IoT device applications"
+  author: Nicolas Dejon
+  period: 02/2019 - 09/2019
+  year: 2019
+  link: /MSTheses/Nicolas__Thesis.pdf
+  supervisors:
+    - name: Luca Verderame
+      url: /people/luca_verderame
+    - name: Alessio Merlo
+      url: /people/alessio
+  pubblications:
+    - title: N. Dejon, D. Caputo, L. Verderame, A. Armando, A. Merlo, "Automated Security Analysis of IoT Software Updates", in IFIP International Conference on Information Security Theory and Practice (2019, December).
+      link: https://link.springer.com/chapter/10.1007%2F978-3-030-41702-4_14 
+
+- title: "Appiotte: a framework for integrating mobile and IoT Android-based app security analysis"
+  author: Fabio Parodi
+  period: 09/2018 - 03/2019
+  year: 2019
+  link: /MSTheses/Appiotte_Parodi_Fabio.pdf
+  supervisors:
+    - name: Luca Verderame
+      url: /people/luca_verderame
+    - name: Alessio Merlo
+      url: /people/alessio
+  pubblications:
+    - title: L. Verderame, D. Caputo, M. Migliardi, A. Merlo, "AppIoTTE An Architecture for the Security Assessment of Mobile-IoT Ecosystems",  in Workshops of the International Conference on Advanced Information Networking and Applications (2020, April).
+      link: https://link.springer.com/chapter/10.1007%2F978-3-030-44038-1_79 
+
+- title: "CAPDroid: Combining Analysis Processes for Android"
+  author: Sara Martino, Luca Perazzo
+  period: 03/2018 - 10/2018
+  year: 2018
+  link: /MSTheses/CAPDroid__Combining_Analysis_Processes_for_Android-2.pdf
+  supervisors:
+    - name: Luca Verderame
+      url: /people/luca_verderame
+    - name: Alessio Merlo
+      url: /people/alessio
+
+- title: "FCDroid: a tool for identifying frame confusion in mobile apps"
+  author: Davide Caputo
+  period: 03/2018 - 10/2018
+  year: 2018
+  link: /MSTheses/Tesi_Davide_FCDroid_ottobre_2018.pdf
+  supervisors:
+    - name: Luca Verderame
+      url: /people/luca_verderame
+    - name: Alessio Merlo
+      url: /people/alessio
+  pubblications:
+    - title: D. Caputo, L. Verderame, S. Aonzo, A. Merlo, "Droids in disarray detecting frame confusion in hybrid android apps", in IFIP Annual Conference on Data and Applications Security and Privacy (DBSec 19).
+      link: https://link.springer.com/chapter/10.1007%2F978-3-030-22479-0_7 
+
 - title: Provision of web security training services through per-user sandboxing
   author: Loris Piana
   period: 03/2017  - 12/2017
@@ -6,6 +111,7 @@
   supervisors: 
       - name: Alessio Merlo
         url: /people/alessio
+
 - title: Building behavioural models for the security analysis of iOS applications
   author: Gianluca Barbera
   period: 11/2016 - 7/2017
@@ -14,6 +120,8 @@
   supervisors: 
       - name: Alessio Merlo
         url: /people/alessio
+      - name: Luca Verderame
+        url: /people/luca_verderame
 
 - title: TEA - Enabling THCE on Android devices
   author: Luca Lorrai
@@ -23,6 +131,8 @@
   supervisors:
       - name: Alessio Merlo
         url: /people/alessio
+      - name: Luca Verderame
+        url: /people/luca_verderame
   pubblications:
     - title: A. Merlo, L. Lorrai, L. Verderame, "Efficient trusted host-based card emulation on TEE-enabled Android devices", in Proc. of HPCS 2016.
       link: http://ieeexplore.ieee.org/document/7568370/?reload=true

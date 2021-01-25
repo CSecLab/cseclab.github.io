@@ -20,7 +20,9 @@ layout: page
 
 * [Davide Caputo](davide_caputo)
 * Gabriel Claudiu Georgiu ([CINI](https://www.consorzio-cini.it))
+* [Marco Raimondi](marco_raimondi)
 * [Andrea Romdhana](andrea_romdhana)
+* [Antonio Ruggia](antonio_ruggia)
 * [Enrico Russo](enrico_russo)
 * [Andrea Valenza](andrea_valenza)
 
