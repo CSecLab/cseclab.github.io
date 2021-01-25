@@ -7,9 +7,9 @@ title: Luca Demetrio
 
 # Short Bio
 * Born in Genova, on **25/01/1993**.
+* **1/11/2017 to 20/01/2021**: PhD student in Computer Science of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 * **13/07/2016 to 9/9/2016**: two month Internship with [Miniclip Italia](https://corporate.miniclip.com/where-we-are/)
 * **25/07/2017**: Graduated cum laude in Computer Science at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
-* **From 1/11/2017**: PhD student in Computer Science of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 
 # Publications
 * Demetrio Luca, Coull E. Scott, Biggio Battista, Lagorio Giovanni, Armando Alessandro, Roli Fabio\\

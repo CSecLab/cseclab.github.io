@@ -19,7 +19,6 @@ layout: page
 
 
 * [Davide Caputo](davide_caputo)
-* [Luca Demetrio](luca_demetrio)
 * Gabriel Claudiu Georgiu ([CINI](https://www.consorzio-cini.it))
 * [Andrea Romdhana](andrea_romdhana)
 * [Enrico Russo](enrico_russo)
@@ -27,8 +26,8 @@ layout: page
 
 
 
-
 # Former Members
 * [Gabriele Costa](https://www.imtlucca.it/it/gabriele.costa) ([IMT Lucca](https://www.imtlucca.it))
 * [Simone Aonzo](http://www.eurecom.fr/en/people/aonzo-simone) ([Eurecom France](
 https://www.eurecom.fr))
+* [Luca Demetrio](luca_demetrio) ([PRA Lab](https://pralab.diee.unica.it/en))
