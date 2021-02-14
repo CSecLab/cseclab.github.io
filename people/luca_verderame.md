@@ -3,7 +3,7 @@ layout: page
 title: Luca Verderame's Homepage
 ---
 
-![Luca's pic is missing.](/pics/lucav.jpeg)
+![Luca's pic is missing.](/pics/lucav-new.jpeg)
 
 ## Current positions
 - **Postdoctoral Research Fellow** at [CSecLab](http://www.csec.it), DIBRIS, University of Genova (since Dec. 2018).
@@ -37,7 +37,7 @@ __Keywords:__ Trust of Software Ecosystems, IoT Security, Mobile Security.
 ### International Journals
 
 - A. Merlo, A. Ruggia, L. Sciolla, __L. Verderame__. "You Shall not Repackage! Demystifying Anti-Repackaging on Android". 
-*Computer \& Security* (2021) [DOI:10.1016/j.cose.2021.102181](https://doi.org/10.1016/j.cose.2021.102181) 
+*Computer & Security* (2021) [DOI:10.1016/j.cose.2021.102181](https://doi.org/10.1016/j.cose.2021.102181) 
 - M. Guerar, __L. Verderame__, A. Merlo, F. Palmieri, M. Migliardi, L. Vallerini. "CirclePIN: A Novel Authentication Mechanism for Smartwatches to Prevent Unauthorized Access to IoT Devices" *ACM Transaction on Cyberphysical Systems*	(2020) [DOI: 10.1145/3365995](http://dx.doi.org/10.1145/3365995).
 - D. Caputo, __L. Verderame__, A. Ranieri, A. Merlo, L. Caviglione. "Fine-hearing Google Home: why silence will not protect your privacy in *Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications (JoWUA)* (2020) [DOI: 10.22667/JOWUA.2020.03.31.035](https://dx.doi.org/10.22667/JOWUA.2020.03.31.035).														
 - M. Guerar, A. Merlo, M. Migliardi, F. Palmieri, __L. Verderame__. "A Fraud-Resilient Blockchain-Based Solution for Invoice Financing" *IEEE Transactions on Engineering Management* (2020) [DOI: 10.1109/TEM.2020.2971865](http://dx.doi.org/10.1109/TEM.2020.2971865).
