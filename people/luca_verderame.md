@@ -3,17 +3,17 @@ layout: page
 title: Luca Verderame's Homepage
 ---
 
-
-
 ![Luca's pic is missing.](/pics/lucav.jpeg)
 
-### Current positions
+## Current positions
 - **Postdoctoral Research Fellow** at [CSecLab](http://www.csec.it), DIBRIS, University of Genova (since Dec. 2018).
 - **Founder and C.E.O.** at [Talos  s.r.l.s](http://www.talos-sec.com) (since Jan. 2016).
 
-### Research Interests
+## Research Interests
 
+<p align="justify">
 My research interests mainly cover the many aspects of security and privacy for software and systems, specifically on emerging computing platforms and the complex environments in which they operate. A special focus is devoted to mobile and IoT environments.
+</p>
 
 __Keywords:__ Trust of Software Ecosystems, IoT Security, Mobile Security.
 
@@ -82,6 +82,43 @@ __Keywords:__ Trust of Software Ecosystems, IoT Security, Mobile Security.
 
 - G. Costa, A. Armando, __L. Verderame__, D. Biondo, G. Bocci, R. Mammoliti, A. Toma. "Effective Security Assessment of Mobile Apps with MAVeriC: Design, Implementation, and Integration of a Unified Analysis Environment for Mobile Apps. Design, Implementation, and Integration of a Unified Analysis Environment for Mobile Apps."	(2017)	*Adaptive Mobile Computing: Advances in Processing Mobile Data Sets* [DOI: 10.1016/B978-0-12-804603-6.00011-5](http://dx.doi.org/10.1016/B978-0-12-804603-6.00011-5).
 
+## Teaching Activity
+
+### Lecturer, DIBRIS, University of Genoa, Italy
+
+|                Degree               |      Course Taught    | From: (a.y.) | To: (a.y.) |
+|:-----------------------------------:|:--------------------------------------------:|:----:|:---:|
+|        B.sc. Maritime Science and Technology   | ICT 2            | 2020/2021 | now |
+|        B.sc. Maritime Science and Technology   | ICT              | 2019/2020 | 2019/2020 |
+|        Ph.D Computer Engineering | Mobile Security              | 2019/2020 | now | 
+|        2nd level Master Degree | Mobile Security | 2017/2018 | 2017/2018 | 
+|        2nd level Master Degree | Security Driven Design for Critical Infrastructures | 2017/2018 | now |
+|        2nd level Master Degree | IoT Application Security | 2017/2018 | now |
+|        Undergrad. Diploma in IFTS | Microsoft .NET Framework | 2020/2021 | now |
+|        Undergrad. Diploma in IFTS | Object Oriented programming C# | 2020/2021 | now |
+|        Undergrad. Diploma in IFTS | Server Side and Client Side programming | 2020/2021 | now |
+|        Undergrad. Diploma in ICT | Web programming | 2014/2015 | 2014/2015 |
+
+### Teaching Assistant, DIBRIS, University of Genoa, Italy
+
+|                Degree               |      Course Taught    | From: (a.y.) | To: (a.y.) |
+|:-----------------------------------:|:--------------------------------------------:|:----:|:---:|
+|        M.sc. Computer Engineering | Formal Languages and Compilers              | 2013/2014 | 2013/2014 |
+|        M.sc. Computer Engineering | Computer Security              | 2014/2015 | 2015/2016 |
+|        Ph.D Computer Engineering | Computer Security              | 2014/2015 | 2015/2016 |
+
+### Lecturer, Telecommunication School for Italian Armed Forces, Chiavari, Italy
+
+|                Degree               |      Course Taught    | From: (a.y.) | To: (a.y.) |
+|:-----------------------------------:|:--------------------------------------------:|:----:|:---:|
+|        Vocat. Training in ICT Systems | Java Programming              | 2014/2015 | 2016/2017 |
+|       1st level Master Degree | ASP.net Programming              | 2016/2017 | 2016/2017 |
+
+### Lecturer, University of Modena and Reggio Emilia, Italy
+
+|                Degree               |      Course Taught    | From: (a.y.) | To: (a.y.) |
+|:-----------------------------------:|:--------------------------------------------:|:----:|:---:|
+|        2nd level Master Degree | Management of the vulnerability assessment process | 2020/2021 | now | 
 
 ## Contacts
 
