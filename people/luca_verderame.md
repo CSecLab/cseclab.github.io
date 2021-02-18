@@ -18,7 +18,7 @@ My research interests mainly cover the many aspects of security and privacy for 
 __Keywords:__ Trust of Software Ecosystems, IoT Security, Mobile Security.
 
 ## Short Bio
-{:refdef: .text-justify}
+
 - Born in [Finale Ligure](https://en.wikipedia.org/wiki/Finale_Ligure), [Liguria](https://en.wikipedia.org/wiki/Liguria), the **17th of March 1987**.
 - **March 2009**: B.Sc. in Computer Engineering at the University of Genova.
 - **March 2011**: M.Sc. *cum laude* in System, Platform and Networks Engineering at the University of Genova.
@@ -27,7 +27,7 @@ __Keywords:__ Trust of Software Ecosystems, IoT Security, Mobile Security.
 - **From Feb. 2016 to Jan. 2017**: PostDoc in Computer Security at [CSecLab](http://www.csec.it), DIBRIS, University of Genova.
 - **From Jul. 2018 to Nov. 2018**: Postdoctoral Researcher at [CINI](https://www.consorzio-cini.it/index.php/it/), Rome.
 - **Nov. 2020**: Habilitation as “Associate Professor” in Computer Engineering (S.C. 09/H1), according to the Italian National Scientific Habilitation Procedure ([ASN 2018-2010](https://abilitazione.miur.it/public/index.php)).
-{: refdef}
+
 
 ## Publications
 
@@ -36,7 +36,7 @@ __Keywords:__ Trust of Software Ecosystems, IoT Security, Mobile Security.
 
 
 ### International Journals
-{:refdef: .text-justify}
+
 - A. Merlo, A. Ruggia, L. Sciolla, __L. Verderame__. "You Shall not Repackage! Demystifying Anti-Repackaging on Android". 
 *Computer & Security* (2021) [DOI:10.1016/j.cose.2021.102181](https://doi.org/10.1016/j.cose.2021.102181) 
 - M. Guerar, __L. Verderame__, A. Merlo, F. Palmieri, M. Migliardi, L. Vallerini. "CirclePIN: A Novel Authentication Mechanism for Smartwatches to Prevent Unauthorized Access to IoT Devices" *ACM Transaction on Cyberphysical Systems*	(2020) [DOI: 10.1145/3365995](http://dx.doi.org/10.1145/3365995).
@@ -52,16 +52,16 @@ __Keywords:__ Trust of Software Ecosystems, IoT Security, Mobile Security.
 - A. Armando, G. Costa, A. Merlo, __L. Verderame__. "Securing the Bring Your Own Device Paradigm", *IEEE Computer*, (2014) 47(6):26-34. [DOI: 10.1109/MC.2014.164](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6838866).
 - A. Armando, A. Merlo, M. Migliardi, __L. Verderame__. "Breaking and Fixing the Android Launching Flow", *Computer & Security*, (2013) 39A:104-115, Elsevier, [DOI: 10.1016/j.cose.2013.03.009](http://www.sciencedirect.com/science/article/pii/S0167404813000540).
 - A. Armando, G. Costa, A. Merlo, __L. Verderame__. "Securing the Bring Your Own Device Policy", *Journal of Internet Services and Information Security* (2012), 2(3):3-16. __Best Paper Award at [MIST 2012](http://isyou.info/conf/mist12/)__.
-{: refdef}
+
 
 ### International Conference Proceedings
-{:refdef: .text-justify}
-- __L. Verderame__, D. Caputo, A. Merlo. "MobHide: App-level runtime data anonymization on mobile". In Proc. of the \texttt{ACNS 2020: Applied Cryptography and Network Security Workshops (ACNS 2020)}, Rome, IT. [DOI: 10.1007/978-3-030-61638-0_27](https://doi.org/10.1007/978-3-030-61638-0_27)
-- E. Russo, __L. Verderame__, A. Merlo. "Enabling Next-Generation Cyber Ranges with Mobile Security Components". In Proc. of the \texttt{IFIP International Conference on Testing Software and Systems ([ICTSS 2020](http://home.ing.unisannio.it/ictss2020/))}, Naples, IT. [DOI: 10.1007/978-3-030-64881-7_10](https://doi.org/10.1007/978-3-030-64881-7_10)
-- __L. Verderame__, D. Caputo, A. Romdhana, A. Merlo. "APPregator: A Large-Scale Platform for Mobile Security Analysis". In Proc. of the \texttt{IFIP International Conference on Testing Software and Systems ([ICTSS 2020](http://home.ing.unisannio.it/ictss2020/))}, Naples, IT. [DOI: 10.1007/978-3-030-64881-7_5](https://doi.org/10.1007/978-3-030-64881-7_5) 
-- G. Gazzarata, E. Troiano, __L. Verderame__, M. Aiello, I. Vaccari, E. Cambiaso, A. Merlo. "FINSTIX: a Cyber-Physical Data Model for Financial Critical Infrastructures". In Proc. of the \texttt{1st International Workshop on Cyber-Physical Security for Critical Infrastructures Protection Co-located([CPS4CIP](https://sites.google.com/fbk.eu/cps4cip20))}, Guildford, UK. (To Appear)
-- __L. Verderame__, D. Caputo, A. Romdhana, A. Merlo. "On the reliability of privacy policies in Android". In Proc. of the \texttt{International Joint Conference on Neural Networks ([IJCNN 2020](https://wcci2020.org))}, Glasgow, UK. [DOI: 10.1109/IJCNN48605.2020.9206660](https://doi.org/10.1109/IJCNN48605.2020.9206660)
-- D. Caputo, __L. Verderame__, A. Merlo, A. Ranieri, L. Caviglione. "Are you (Google) home? Detecting users’ presence through traffic analysis of smart speakers". In Proc. of the \texttt{4th Italian Conference on Cyber Security ([ITASEC 2020](https://itasec.it/itasec-2020/))}, Ancona, Italy.
+
+- __L. Verderame__, D. Caputo, A. Merlo. "MobHide: App-level runtime data anonymization on mobile". In Proc. of the ACNS 2020: Applied Cryptography and Network Security Workshops (ACNS 2020), Rome, IT. [DOI: 10.1007/978-3-030-61638-0_27](https://doi.org/10.1007/978-3-030-61638-0_27)
+- E. Russo, __L. Verderame__, A. Merlo. "Enabling Next-Generation Cyber Ranges with Mobile Security Components". In Proc. of the IFIP International Conference on Testing Software and Systems ([ICTSS 2020](http://home.ing.unisannio.it/ictss2020/)), Naples, IT. [DOI: 10.1007/978-3-030-64881-7_10](https://doi.org/10.1007/978-3-030-64881-7_10)
+- __L. Verderame__, D. Caputo, A. Romdhana, A. Merlo. "APPregator: A Large-Scale Platform for Mobile Security Analysis". In Proc. of the IFIP International Conference on Testing Software and Systems ([ICTSS 2020](http://home.ing.unisannio.it/ictss2020/)), Naples, IT. [DOI: 10.1007/978-3-030-64881-7_5](https://doi.org/10.1007/978-3-030-64881-7_5) 
+- G. Gazzarata, E. Troiano, __L. Verderame__, M. Aiello, I. Vaccari, E. Cambiaso, A. Merlo. "FINSTIX: a Cyber-Physical Data Model for Financial Critical Infrastructures". In Proc. of the 1st International Workshop on Cyber-Physical Security for Critical Infrastructures Protection Co-located([CPS4CIP](https://sites.google.com/fbk.eu/cps4cip20)), Guildford, UK. [DOI: 10.1007/978-3-030-69781-5_4](https://doi.org/10.1007/978-3-030-69781-5_4)
+- __L. Verderame__, D. Caputo, A. Romdhana, A. Merlo. "On the reliability of privacy policies in Android". In Proc. of the International Joint Conference on Neural Networks ([IJCNN 2020](https://wcci2020.org)), Glasgow, UK. [DOI: 10.1109/IJCNN48605.2020.9206660](https://doi.org/10.1109/IJCNN48605.2020.9206660)
+- D. Caputo, __L. Verderame__, A. Merlo, A. Ranieri, L. Caviglione. "Are you (Google) home? Detecting users’ presence through traffic analysis of smart speakers". In Proc. of the 4th Italian Conference on Cyber Security ([ITASEC 2020](https://itasec.it/itasec-2020/)), Ancona, Italy.
 - __L. Verderame__, D. Caputo, M. Migliardi and A. Merlo. "[AppIoTTE: An Architecture for the Security Assessment of Mobile-IoT Ecosystems](https://link.springer.com/chapter/10.1007%2F978-3-030-44038-1_79)" in Web, Artificial Intelligence and Network Applications ([WAINA 2020](http://voyager.ce.fit.ac.jp/conf/aina/2020/workshops.php)), Caserta, Italy. [DOI:10.1007/978-3-030-44038-1_78](https://doi.org/10.1007/978-3-030-44038-1_78)
 - __L. Verderame__, D. Caputo, M. Migliardi and A. Merlo. "Towards a SIP-based DDoS Attack to the 4G Network" in Web, Artificial Intelligence and Network Applications ([WAINA 2020](http://voyager.ce.fit.ac.jp/conf/aina/2020/workshops.php)), Caserta, Italy. [DOI:10.1007/978-3-030-44038-1_79](https://doi.org/10.1007/978-3-030-44038-1_79)
 - N. Dejon, D. Caputo, __L. Verderame__, A. Armando and A. Merlo. "[Automated Security Analysis of IoT Software Updates](https://link.springer.com/chapter/10.1007%2F978-3-030-41702-4_14)" in 13th WISTP International Conference on Information Security Theory and Practice ([WISTP' 2019](http://www.wistp.org/)), Paris, France.[DOI:10.1007/978-3-030-41702-4_14]
@@ -77,15 +77,15 @@ __Keywords:__ Trust of Software Ecosystems, IoT Security, Mobile Security.
 - A. Armando, A. Merlo, __L. Verderame__. "An Empirical Evaluation of the Android Security Framework", in *Proc. of the 28th International Conference on ICT Systems Security and Privacy Protection* ([IFIP-SEC 2013](http://www.ifipsec.org/)), LNCS, Vol. 405, pp. 176-189, Springer, [DOI: 10.1007/978-3-642-39218-4_14](http://link.springer.com/chapter/10.1007%2F978-3-642-39218-4_14).
 - A. Armando, A. Castiglione, G. Costa, U. Fiore, A. Merlo, __L. Verderame__, I. You. "Trustworthy Opportunistic Access to the Internet of Services", in *Proc. of the 1st Information and Communication Technology Eurasia Conference* ([EurAsia 2013](http://www.ifs.tuwien.ac.at/ict-eurasia/history/eurasia2013/)), LNCS, Vol. 7804, 2013, pp. 469-478, Springer, [DOI: 10.1007/978-3-642-36818-9_52](http://link.springer.com/chapter/10.1007%2F978-3-642-36818-9_52).
 - A. Armando, A. Merlo, A. Migliardi, __L. Verderame__. "Would you mind forking this process? A Denial-of-Service attack on Android (and some countermeasures)", in *Proc. of the 27th International Conference on ICT Systems Security and Privacy Protection* ([IFIP-SEC 2012](http://www.ifipsec.org/)), LNCS IFIP AICT n.376, pp. 13-24, Springer, [DOI: 10.1007/978-3-642-30436-1_2](http://link.springer.com/chapter/10.1007%2F978-3-642-30436-1_2). __Best Paper Award__.
-{: refdef}
+
 
 ### Book Chapters
 
-{:refdef: .text-justify}
+
 - D. Caputo, __L. Verderame__, A. Merlo, L. Caviglione. “Investigating Traffic of Smart Speakers and IoT Devices: Security Issues and Privacy Threats.”, *Internet of Things and Secure Smart Environments: Success and Pitfalls*, CRC press [DOI:10.1201/9780367276706](https://doi.org/10.1201/9780367276706)
 
 - G. Costa, A. Armando, __L. Verderame__, D. Biondo, G. Bocci, R. Mammoliti, A. Toma. "Effective Security Assessment of Mobile Apps with MAVeriC: Design, Implementation, and Integration of a Unified Analysis Environment for Mobile Apps. Design, Implementation, and Integration of a Unified Analysis Environment for Mobile Apps."	(2017)	*Adaptive Mobile Computing: Advances in Processing Mobile Data Sets* [DOI: 10.1016/B978-0-12-804603-6.00011-5](http://dx.doi.org/10.1016/B978-0-12-804603-6.00011-5).
-{: refdef}
+
 
 ## Teaching Activity
 
