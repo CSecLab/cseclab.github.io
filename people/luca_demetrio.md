@@ -34,7 +34,7 @@ in Proc. of the 11th International Conference on Computer Supported Education ([
 
 * Demetrio Luca, Biggio Battista, Lagorio Giovanni, Roli Fabio, Armando Alessandro\\
 "[Explaining Vulnerabilities of Deep Learning to Adversarial Malware Binaries](https://arxiv.org/abs/1901.03583)"\\
-in Proc. of the 3rd Italian Conference on CyberSecuritythe ([ITASEC 2019](https://www.itasec.it/)), Pisa - Italy.
+in Proc. of the 3rd Italian Conference on CyberSecurity ([ITASEC 2019](https://www.itasec.it/)), Pisa - Italy.
 
 # Posters & Talks
 * Presented poster at [CyberSecAI 2019](https://cybersecai.com/2019-highlights/)

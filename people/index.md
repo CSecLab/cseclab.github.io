@@ -32,4 +32,4 @@ layout: page
 * [Gabriele Costa](https://www.imtlucca.it/it/gabriele.costa) ([IMT Lucca](https://www.imtlucca.it))
 * [Simone Aonzo](http://www.eurecom.fr/en/people/aonzo-simone) ([Eurecom France](
 https://www.eurecom.fr))
-* [Luca Demetrio](luca_demetrio) ([PRA Lab](https://pralab.diee.unica.it/en))
+* [Luca Demetrio](https://zangobot.github.io) ([PRA Lab](https://pralab.diee.unica.it/en))
