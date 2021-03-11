@@ -15,7 +15,7 @@ title: Luca Verderame's Homepage
 My research interests mainly cover the many aspects of security and privacy for software and systems, specifically on emerging computing platforms and the complex environments in which they operate. A special focus is devoted to mobile and IoT environments.
 </p>
 
-__Keywords:__ Trust of Software Ecosystems, IoT Security, Mobile Security.
+__Keywords:__ Trustworthy Software Ecosystems, IoT Security, Mobile Security.
 
 ## Short Bio
 
