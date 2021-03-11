@@ -29,5 +29,5 @@ layout: page
 * [Simone Aonzo](http://www.eurecom.fr/en/people/aonzo-simone) ([Eurecom France](
 https://www.eurecom.fr))
 * [Gabriele Costa](https://www.imtlucca.it/it/gabriele.costa) ([IMT Lucca](https://www.imtlucca.it))
-* Luca Demetrio ([PRA Lab](https://pralab.diee.unica.it/en))
 *  Andrea Valenza ([IMQ Minded Security](https://mindedsecurity.com/))
+* [Luca Demetrio](https://zangobot.github.io) ([PRA Lab](https://pralab.diee.unica.it/en))
