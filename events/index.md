@@ -3,7 +3,7 @@ title: Events
 layout: page
 ---
 
-* Mar 24, 2021, 09:00am - [*1st Workshop on Trustworthy Software Ecosystems*](/events/workshop-ecosystem)
+* Mar 24, 2021, 09:00am - [*1st Workshop on Trustworthy Software Ecosystems*](workshop-ecosystem)
 * Mar 1, 2019, 10:00am - [*CYBERSECURITY: Formazione, Addestramento e Prospettive della Sicurezza Informatica*](https://unige.it/notizie/documents/2019_Cybersecurity_Programma.pdf)
 * Oct 5, 2018, 2:15pm - [*Cybersecurity Training @ UNIGE*](cybersecurity-training)
 * Jul 30, 2018, 11:00am - [*Advanced RISC Machine, from Architecture to eXploitation*](arm-lesson), [Simone Aonzo](/people/simone_aonzo) (Università di Genova)

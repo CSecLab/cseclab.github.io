@@ -16,6 +16,6 @@ CSecLab is part of the Cyber Security National Laboratory
 NEWS
 
 * Mar 24, 2021, 09:00am: *1st Workshop on Trustworthy Software Ecosystems* [Link to the Event](/events/workshop-ecosystem)
-<!-- 
-* Sept. 29, 2020: Members of the Cybersecurity National Lab found vulnerabilities in Metasploit Pro (CVE-2020-7354 and 2020-7355). [Press release](https://cybersecnatlab.it/laboratorio-nazionale-cybersecurity-vulnerabilita-metasploit-pro/)
-* Sept. 26, 2018: Members from the CSecLab and Eurecom discovered new phishing attacks on Android. [INFO](http://csec.it/projects/modern-android-phishing/)-->
+
+# * Sept. 29, 2020: Members of the Cybersecurity National Lab found vulnerabilities in Metasploit Pro (CVE-2020-7354 and 2020-7355). [Press release](https://cybersecnatlab.it/laboratorio-nazionale-cybersecurity-vulnerabilita-metasploit-pro/)
+# * Sept. 26, 2018: Members from the CSecLab and Eurecom discovered new phishing attacks on Android. [INFO](http://csec.it/projects/modern-android-phishing/)-->

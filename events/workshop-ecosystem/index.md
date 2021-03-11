@@ -3,6 +3,7 @@ title: 1st Workshop on Trustworthy Software Ecosystems
 layout: page
 ---
 
+<p align="justify">
 Over the years, pervasive computing and communication technologies have fostered new computing paradigms such as the Internet of Things (IoT), Cloud, and Mobile Computing. The ubiquity of these paradigms, their expandability, and their applicability in different problem spaces have made them invaluable in modern computing solutions. 
 At the same time, however, security becomes a real concern, especially since these systems moved from single, isolated paradigms to complex ecosystems built by the fruitful interactions among several computing paradigms. 
 The workshop's primary goal is to discuss the many aspects of security and privacy of emerging software ecosystems, with a specific focus on Mobile, IoT, and Cloud computing platforms. This half-day event presents a broad perspective of this subject and fosters the discussion for possible interconnections and new research ideas. The workshop hosts four speakers:
@@ -11,6 +12,7 @@ The workshop's primary goal is to discuss the many aspects of security and priva
 * Henrik Plate, Senior Researcher at SAP (France);
 * Eleonora Losiouk, Postdoc at SPRITZ Lab, University of Padova (Italy)
 * Andrea Saracino, Researcher at CNR-IIT (Italy)
+</p>
 
 ### Date
 
