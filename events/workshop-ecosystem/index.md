@@ -30,4 +30,4 @@ At the end of the registration process, each participant will receive the detail
 
 ### Program
 
-[FULL-PROGRAM](Workshop-program.pdf)
+[FULL-PROGRAM](/Workshop-program.pdf)
