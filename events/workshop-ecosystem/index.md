@@ -11,10 +11,10 @@ The workshop hosts four talks:
 
 </p>
 
-* “The Android Virtualization Technique: a Double-Edged Sword for Developing Attacks and Defences” by Eleonora Losiouk, Postdoc at SPRITZ Lab, University of Padua (Italy)
-* “Threats to the Secure Consumption of Open Source” by Henrik Plate, Senior Researcher at SAP (France);
-* “Security and Privacy in Smart Home ecosystems” by Andrea Saracino, Researcher at CNR-IIT (Italy)
-* “Emerging software ecosystems: a glimpse of challenges and opportunities” by Luca Verderame, Postdoc at CSEC Lab, University of Genoa (Italy)
+* [[[SLIDES](/slides/Losiouk.pdf)] “The Android Virtualization Technique: a Double-Edged Sword for Developing Attacks and Defences” by Eleonora Losiouk, Postdoc at SPRITZ Lab, University of Padua (Italy)
+* [[SLIDES](/slides/Plate.pdf)] “Threats to the Secure Consumption of Open Source” by Henrik Plate, Senior Researcher at SAP (France);
+* [[SLIDES](/slides/Saracino.pdf)] “Security and Privacy in Smart Home ecosystems” by Andrea Saracino, Researcher at CNR-IIT (Italy)
+* [[SLIDES](/slides/Verderame.pdf)] “Emerging software ecosystems: a glimpse of challenges and opportunities” by Luca Verderame, Postdoc at CSEC Lab, University of Genoa (Italy)
 
 ### Date
 
