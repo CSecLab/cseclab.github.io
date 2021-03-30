@@ -11,7 +11,7 @@ The workshop hosts four talks:
 
 </p>
 
-* [[[SLIDES](/slides/Losiouk.pdf)] “The Android Virtualization Technique: a Double-Edged Sword for Developing Attacks and Defences” by Eleonora Losiouk, Postdoc at SPRITZ Lab, University of Padua (Italy)
+* [[SLIDES](/slides/Losiouk.pdf)] “The Android Virtualization Technique: a Double-Edged Sword for Developing Attacks and Defences” by Eleonora Losiouk, Postdoc at SPRITZ Lab, University of Padua (Italy)
 * [[SLIDES](/slides/Plate.pdf)] “Threats to the Secure Consumption of Open Source” by Henrik Plate, Senior Researcher at SAP (France);
 * [[SLIDES](/slides/Saracino.pdf)] “Security and Privacy in Smart Home ecosystems” by Andrea Saracino, Researcher at CNR-IIT (Italy)
 * [[SLIDES](/slides/Verderame.pdf)] “Emerging software ecosystems: a glimpse of challenges and opportunities” by Luca Verderame, Postdoc at CSEC Lab, University of Genoa (Italy)
@@ -20,7 +20,7 @@ The workshop hosts four talks:
 
 * March 24, 2021, 09:30-13:15
 
-### Join the Event
+<!-- ### Join the Event
 
 The workshop will take place online on Google Meet. The event is *completely free* for the participants. 
 
@@ -28,8 +28,12 @@ To join the workshop, please register to the Eventbrite event using the link bel
 
 [REGISTRATION](https://www.eventbrite.it/e/biglietti-1st-workshop-on-trustworthy-software-ecosystems-141830977271)
 
-At the end of the registration process, each participant will receive the details to join the online event.
+At the end of the registration process, each participant will receive the details to join the online event. -->
 
 ### Program
 
 [FULL-PROGRAM](/Workshop-program.pdf)
+
+### Next Edition
+
+The 2nd Edition of the workshop will be in 2022. For any questions, please contact Luca Verderame - luca.verderame (A) dibris.unige.it
