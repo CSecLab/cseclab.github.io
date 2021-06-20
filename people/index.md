@@ -12,23 +12,22 @@ layout: page
 
 # PostDoc Researchers
 
-* Giorgia Gazzarata
+* [Enrico Russo](enrico_russo)
 * [Luca Verderame](luca_verderame)
 
-# Ph.D. Students and Collaborators 
-
+# Ph.D. Students
 
 * [Davide Caputo](davide_caputo)
-* [Luca Demetrio](luca_demetrio)
-* Gabriel Claudiu Georgiu ([CINI](https://www.consorzio-cini.it))
+* [Marco Raimondi](marco_raimondi)
 * [Andrea Romdhana](andrea_romdhana)
-* [Enrico Russo](enrico_russo)
-* [Andrea Valenza](andrea_valenza)
+* [Antonio Ruggia](antonio_ruggia)
 
-
-
+# Collaborators 
+* Gabriel Claudiu Georgiu ([CINI](https://www.consorzio-cini.it) e [Talos Security](https://www.talos-sec.com))
 
 # Former Members
-* [Gabriele Costa](https://www.imtlucca.it/it/gabriele.costa) ([IMT Lucca](https://www.imtlucca.it))
 * [Simone Aonzo](http://www.eurecom.fr/en/people/aonzo-simone) ([Eurecom France](
 https://www.eurecom.fr))
+* [Gabriele Costa](https://www.imtlucca.it/it/gabriele.costa) ([IMT Lucca](https://www.imtlucca.it))
+*  Andrea Valenza ([IMQ Minded Security](https://mindedsecurity.com/))
+* [Luca Demetrio](https://zangobot.github.io) ([PRA Lab](https://pralab.diee.unica.it/en))

@@ -42,4 +42,4 @@ Please use the following bibtex entry to cite our work:
 - [Luca Verderame](../people/luca_verderame/), PostDoc, University of Genova, Italy
 - [Davide Caputo](../people/davide_caputo/), Ph.D Student, University of Genova, Italy
 - [Andrea Romdhana](../people/andrea_romdhana/), Ph.D Student, University of Genova, Italy
-- [Alessio Merlo](../people/alessio_merlo/), Senior Assistant Professor, University of Genova, Italy
+- [Alessio Merlo](../people/alessio_merlo/), Associate Professor, University of Genova, Italy
