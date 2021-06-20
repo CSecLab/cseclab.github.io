@@ -9,56 +9,6 @@
 </head>
 <!--CEURLANG=eng -->
 <body>
-<pre># Editing instructions
-# The following variables need to be adapted by you:
-# JJJJ=2021
-# YYYY=2021
-# NNNN=ITASEC 2021
-# DD=Day of submission of the workshop proceedings to CEUR-WS.org
-# MM=05
-# The variable 
-# XXX=Volume number of the proceedings with CEUR-WS.org
-# shall be set by CEUR-WS.org. CEUR-WS.org shall also set the publication date.
-#
-#
-# (*) Replace title of the workshop in the title element 
-# (*) Replace title of the workshop in the heading h1 element 
-# (*) Note that the style file ceur-ws.css and the image CEUR-WS-logo.png are referring to files within
-#     the CEUR-WS.org web site; they are not part of the submission directory
-# (*) Remove lines starting with #  or &lt;pre&gt;# when preparing the file index.html
-# 
-# Some elements are tagged with a "class=CEUR..." clause. Be careful to maintain these tags!
-# They are used both for formatting purposes and for identifying bibliographic elements.
-# The CEUR class tags are as follows:
-#          CEURLANG: the main language of the proceedings (eng, deu, fra, spa, rus, ita, por, ...)
-#                 according to ISO 639-2/T (http://en.wikipedia.org/wiki/List_of_ISO_639-2_codes)
-#          CEURVOLNR: the volume number of the proceedings **set by us**
-#          CEURPUBYEAR: the year in which the proceedings volume was created (see also YYYY)
-#          CEURURN: the URN of the volume **set by us**
-#          CEURVOLACRONYM: the acronym of the workshop plus YYYY (year of the workshop)
-#                 the acronym may contain '-'; between acronym and year is either a blank
-#                 or a '-'. The year is exactly 4 digits, e.g. 2012
-#          CEURVOLTITLE: the title of the proceedings
-#          CEURFULLTITLE: the long title of the proceedings
-#          CEURCOLOCATED: the acronym and year of the conference where this workshop was 
-#              co-located with; use "NONE" if the workshop was not co-located with a conference
-#          CEURLOCTIME: the place and time when the workshop took place
-#          CEURVOLEDITOR: full name of an editor of the proceedings
-#          CEURTOC: indicator for the start of the table of contents
-#          CEURSESSION (optional): separator for a section within the table of contents
-#          CEURTITLE: title of a paper within the table of contents
-#          CEURPAGES (optional): numerical range of pages of a paper, e.g. 10-20
-#          CEURAUTHOR: one author of a paper (use full names, do not include affiliations);
-#                 multiple authors should be separated by commas
-#          CEURPUBDATE: the precise date of publication at CEUR-WS.org **set by us**
-#          CEURSUBMITTEDPAPERS: the total number of papers submitted for peer review to this volume
-#          CEURACCEPTEDPAPERS: the total number of accepted peer-reviewed papers (excl. invited papers, keynotes etc)
-#          CEURACCEPTEDREGULARPAPERS: the number of regular-size accepted peer-reviewed papers (optional)
-#          CEURACCEPTEDSHORTPAPERS: the number of short accepted peer-reviewed papers  (optional)
-#          
-#</pre>
-
-
 
 <table style="border: 0; border-spacing: 0; border-collapse: collapse; width: 95%">
 <tbody><tr>
@@ -81,32 +31,20 @@ Creative Commons License Attribution 4.0 International
 </tbody></table>
 
 <hr>
-<pre># Instructions for the Proceedings Title 
-# The layout of the proceedings title can be adapted to your needs.
-# Make sure to include all proceedings editors and their affiliations. 
-# Links to home pages are fine but not required. Some workshops have
-# a special logo. This could be included here provided that you own the
-# copyright to the logo. Do NOT include logos of companies, products, 
-# or sponsors.
-#</pre>
 
 <br><br><br>
 
-<h1><a href="https://itasec.it"><span class="CEURVOLACRONYM">NNNN YYYY</span></a><br>
+<h1><a href="https://itasec.it"><span class="CEURVOLACRONYM">ITASEC 2021</span></a><br>
 <span class="CEURVOLTITLE">Italian Conference on Cybersecurity</span></h1>
 <br>
 
 <h3>
 <span class="CEURFULLTITLE">Proceedings of the Italian Conference on Cybersecurity</span><br>
-<pre># delete one of the following two CEURCOLOCATED lines:</pre>
-<!-- co-located with <span class="CEURCOLOCATED">NONE</span> -->
-<!-- co-located with 10th International Conference on Online Publishing (<span class="CEURCOLOCATED">OPub YYYY</span>)<br> -->
 </h3>
 <h3><span class="CEURLOCTIME">All Digital Event, April 7-9, 2021</span>.</h3> 
 <br>
 <b> Edited by </b>
 <p>
-<pre># use full names, but omit any academic title</pre>
 </p><h3>
    <a href="https://csec.it/people/alessandro_armando/"><span class="CEURVOLEDITOR">Alessandro Armando</span></a> *<br>
    <a href="https://www.unibo.it/sitoweb/michele.colajanni"><span class="CEURVOLEDITOR">Michele Colajanni</span></a> **<br>
@@ -123,50 +61,9 @@ Creative Commons License Attribution 4.0 International
 
 <br><br><br>
 
-<pre># Instructions for Table of Contents 
-# The table of contents normally is a plain list of papers (with titles/authors).
-# The paper title should be linked to the paper URL (usually pdf).
-# You may include "session" subsections e.g. to reflect the track structure of your workshop.
-# Authors should be specified as comma-separated lists with full author names
-# (like John Smith). Avoid glue words like 'by' and 'and'. If applicable, then lookup how
-# the author is spelled out by DBLP.
-# You may also provide additional material such as preface, bibtex files, complete 
-# proceedings as a single pdf, and similar items. The additional items should be 
-# clearly separated from the paper list, preferably after the table of contents.
-# Please only tag original papers with the CEURTITLE/CEURAUTHOR scheme. Rather do not tag
-# additional material with this scheme!
-# For the time being, presentation slides should also not be tagged by CEURTITLE/CEURAUTHOR.
-#
-# CEUR-WS shall watermark PDF files in a published volume by its online CEUR-WS.org URL.
-# If there are certain PDF files like frontmatter or images that you like to exclude
-# from watermarking, then give it a name like 'xfrontmatter.pdf'. 
-#
-# For all other PDF files, use functional names like
-#   - paper1.pdf   (regular papers; start with paper1, then paper2,...)
-#   - invited1.pdf  (invited paper)
-#   - keynote1.pdf  (a variant for invited papers)
-#   - short1.pdf   (a short paper that still is a citable paper)
-#   - abstract1.pdf  (an abstract that is not supposed to be a citable paper)
-#   - preface.pdf   (a preface, usually not citable)
-# By default, all PDF files of a published volume will be watermarked by their online CEUR-WS URL.
-# You can disable this by prefixing the filename with the letter 'x', see xpreface below.
-#</pre>
-
-
 <div class="CEURTOC">
 <h2> Table of Contents </h2>
 
-<pre># Prefaces, frontmatter etc. typically have no explicit authors.
-# Note that the &lt;li id="..."&gt; attribute should have the same value as
-# the name of the file linked to, just without the filename extension.
-# This allows the table of contents entries to be linked to.
-# If a preface has explicit authors and has the nature of a paper with
-# more than 4-5 pages and a list of references, then use the CEUR tags like
-# for regular papers.
-# Please provide a summary sentence about the number of submitted and accepted papers. You can explain the peer-review
-# process in more detail in the preface pdf file. You can change the precise wording of the sentence to adapt it to
-# the context of your workshop/conference. The tags for REGULAR and SHORT papers are optional.
-# </pre>
 <ul>
 <li id="xpreface">
 <A href="xpreface.pdf">Preface</A><BR>
@@ -178,13 +75,6 @@ Summary: There were <span class="CEURSUBMITTEDPAPERS">49</span> papers submitted
 <BR>
 
 
-<pre># The session element is optional. It structures the table of contents.
-# Each CEURSESSION must be followed by at least one paper using the li clause
-# You can also use h3 subtitles without the CEURSESSION tag. Then, no
-# restriction is imposed.
-#</pre>
-
-<pre># The following are examples of papers without page numbers</pre>
 <ul>
 
 <li id="paper1"><a href="paper1.pdf">
@@ -193,13 +83,13 @@ Summary: There were <span class="CEURSUBMITTEDPAPERS">49</span> papers submitted
 
 <li id="paper2"><a href="paper2.pdf">
 <span class="CEURTITLE">OT Cyber Security Frameworks Comparison Tool (CSFCTool)</span></a><br>
-<span class="CEURAUTHOR">Giuseppina Murino</span><br>
+<span class="CEURAUTHOR">Giuseppina M&ugrave;rino</span><br>
 <span class="CEURAUTHOR">Marina Ribaudo</span><br>
 <span class="CEURAUTHOR">Simon Pietro Romano</span><br>
 <span class="CEURAUTHOR">Armando Tacchella</span><br>
 
 <li id="paper3"><a href="paper3.pdf">
-<span class="CEURTITLE">On the feasibility of covert channels through Short-Message-Service</span></a><br>
+<span class="CEURTITLE">On the Feasibility of Covert Channels through Short-Message-Service</span></a><br>
 <span class="CEURAUTHOR">Sara Narteni</span><br>
 <span class="CEURAUTHOR">Ivan Vaccari</span><br>
 <span class="CEURAUTHOR">Maurizio Mongelli</span><br>
@@ -207,7 +97,7 @@ Summary: There were <span class="CEURSUBMITTEDPAPERS">49</span> papers submitted
 <span class="CEURAUTHOR">Enrico Cambiaso</span><br>
 
 <li id="paper4"><a href="paper4.pdf">
-<span class="CEURTITLE">Perpetrate cyber-threats using IoT devices as attack vector: the ESP8266 use case</span></a><br>
+<span class="CEURTITLE">Perpetrate Cyber-threats using IoT Devices as Attack Vector: the ESP8266 Use Case</span></a><br>
 <span class="CEURAUTHOR">Ivan Vaccari</span><br>
 <span class="CEURAUTHOR">Sara Narteni</span><br>
 <span class="CEURAUTHOR">Maurizio Mongelli</span><br>
@@ -222,12 +112,12 @@ Summary: There were <span class="CEURSUBMITTEDPAPERS">49</span> papers submitted
 <span class="CEURAUTHOR">Christos Xenakis</span><br>
 
 <li id="paper6"><a href="paper6.pdf">
-<span class="CEURTITLE">A topological approach to secure key exchange</span></a><br>
+<span class="CEURTITLE">A Topological Approach to Secure Key Exchange</span></a><br>
 <span class="CEURAUTHOR">Filippo Cerocchi</span><br>
 <span class="CEURAUTHOR">Gabriele Rizzo</span><br>
 
 <li id="paper7"><a href="paper7.pdf">
-<span class="CEURTITLE">Identifying anomalous places, routes by GPS feature: a system for child monitoring</span></a><br>
+<span class="CEURTITLE">Identifying Anomalous Places, Routes by GPS Feature: a System for Child Monitoring</span></a><br>
 <span class="CEURAUTHOR">Giacomo Abbattista</span><br>
 <span class="CEURAUTHOR">Donato Impedovo</span><br>
 <span class="CEURAUTHOR">Giuseppe Pirlo</span><br>
@@ -235,11 +125,11 @@ Summary: There were <span class="CEURSUBMITTEDPAPERS">49</span> papers submitted
 <span class="CEURAUTHOR">Nicola Stigliano</span><br>
 
 <li id="paper8"><a href="paper8.pdf">
-<span class="CEURTITLE">On-demand deployment and orchestration of Cyber Ranges in the Cloud</span></a><br>
-<span class="CEURAUTHOR">Simon Pietro Romano</span><br>
+<span class="CEURTITLE">On-demand Deployment and Orchestration of Cyber Ranges in the Cloud</span></a><br>
 <span class="CEURAUTHOR">Alessandro Placido Luise</span><br>
 <span class="CEURAUTHOR">Gaetano Perrone</span><br>
 <span class="CEURAUTHOR">Claudio Perrotta</span><br>
+<span class="CEURAUTHOR">Simon Pietro Romano</span><br>
 
 <li id="paper9"><a href="paper9.pdf">
 <span class="CEURTITLE">Spoofing Detectability as a Property of Biometric Characteristics</span></a><br>
@@ -250,18 +140,18 @@ Summary: There were <span class="CEURSUBMITTEDPAPERS">49</span> papers submitted
 <span class="CEURAUTHOR">Andrea Bondavalli</span><br>
 
 <li id="paper10"><a href="paper10.pdf">
-<span class="CEURTITLE">Detecting phishing e-mails using Text Mining and features analysis</span></a><br>
+<span class="CEURTITLE">Detecting Phishing E-mails Using Text Mining and Features Analysis</span></a><br>
 <span class="CEURAUTHOR">Luisa Franchina</span><br>
 <span class="CEURAUTHOR">Serena Ferracci</span><br>
 <span class="CEURAUTHOR">Federico Palmaro</span><br>
 
 <li id="paper11"><a href="paper11.pdf">
-<span class="CEURTITLE">Security Testing Reuse enhancing active cyber defence in Public Administration</span></a><br>
+<span class="CEURTITLE">Security Testing Reuse Enhancing Active Cyber Defence in Public Administration</span></a><br>
 <span class="CEURAUTHOR">Christian Catalano</span><br>
 <span class="CEURAUTHOR">Paolo Afrune</span><br>
 <span class="CEURAUTHOR">Mario Angelelli</span><br>
-<span class="CEURAUTHOR">Fabrizio Striani</span><br>
 <span class="CEURAUTHOR">Giovanni Maglio</span><br>
+<span class="CEURAUTHOR">Fabrizio Striani</span><br>
 <span class="CEURAUTHOR">Francesco Tommasi</span><br>
 
 <li id="paper12"><a href="paper12.pdf">
@@ -277,7 +167,7 @@ Summary: There were <span class="CEURSUBMITTEDPAPERS">49</span> papers submitted
 <span class="CEURAUTHOR">Fausto Spoto</span><br>
 
 <li id="paper14"><a href="paper14.pdf">
-<span class="CEURTITLE">A time-series classification approach to shallow web traffic de-anonymization</span></a><br>
+<span class="CEURTITLE">A Time-series Classification Approach to Shallow Web Traffic De-anonymization</span></a><br>
 <span class="CEURAUTHOR">Axel De Nardin</span><br>
 <span class="CEURAUTHOR">Marino Miculan</span><br>
 <span class="CEURAUTHOR">Claudio Piciarelli</span><br>
@@ -296,27 +186,27 @@ Summary: There were <span class="CEURSUBMITTEDPAPERS">49</span> papers submitted
 <span class="CEURAUTHOR">Pietro Montino</span><br>
 
 <li id="paper17"><a href="paper17.pdf">
-<span class="CEURTITLE">An accelerometer-based privacy attack on smartphones</span></a><br>
+<span class="CEURTITLE">An Accelerometer-based Privacy Attack on Smartphones</span></a><br>
 <span class="CEURAUTHOR">Roberto De Prisco</span><br>
 <span class="CEURAUTHOR">Alfredo De Santis</span><br>
 <span class="CEURAUTHOR">Rocco Zaccagnino</span><br>
 
 <li id="paper18"><a href="paper18.pdf">
-<span class="CEURTITLE">Security in IoT Pairing &amp; Authentication protocols, aThreat Model, a Case Study Analysis</span></a><br>
+<span class="CEURTITLE">Security in IoT Pairing &amp; Authentication protocols, a Threat Model, a Case Study Analysis</span></a><br>
+<span class="CEURAUTHOR">Daniele Granata</span><br>
 <span class="CEURAUTHOR">Massimiliano Rak</span><br>
 <span class="CEURAUTHOR">Giovanni Salzillo</span><br>
-<span class="CEURAUTHOR">Daniele Granata</span><br>
 <span class="CEURAUTHOR">Umberto Barbato</span><br>
 
 <li id="paper19"><a href="paper19.pdf">
 <span class="CEURTITLE">PowerDecode: a PowerShell Script Decoder Dedicated to Malware Analysis</span></a><br>
 <span class="CEURAUTHOR">Giuseppe Mario Malandrone</span><br>
 <span class="CEURAUTHOR">Giovanni Virdis</span><br>
-<span class="CEURAUTHOR">Davide Maiorca</span><br>
 <span class="CEURAUTHOR">Giorgio Giacinto</span><br>
+<span class="CEURAUTHOR">Davide Maiorca</span><br>
 
 <li id="paper20"><a href="paper20.pdf">
-<span class="CEURTITLE">A benchmark framework for CAN IDS</span></a><br>
+<span class="CEURTITLE">A Benchmark Framework for CAN IDS</span></a><br>
 <span class="CEURAUTHOR">Dario Stabili</span><br>
 <span class="CEURAUTHOR">Francesco Pollicino</span><br>
 <span class="CEURAUTHOR">Alessio Rota</span><br>
@@ -339,6 +229,7 @@ Summary: There were <span class="CEURSUBMITTEDPAPERS">49</span> papers submitted
 <span class="CEURTITLE">An Artificial Intelligence Cyberattack Detection System to Improve Threat Reaction in e-Health</span></a><br>
 <span class="CEURAUTHOR">Carmelo Ardito</span><br>
 <span class="CEURAUTHOR">Tommaso Di Noia</span><br>
+<span class="CEURAUTHOR">Eugenio Di Sciascio</span><br>
 <span class="CEURAUTHOR">Domenico Lof&ugrave;</span><br>
 <span class="CEURAUTHOR">Andrea Pazienza</span><br>
 <span class="CEURAUTHOR">Felice Vitulano</span><br>
