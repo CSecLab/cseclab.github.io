@@ -9,9 +9,11 @@ title: Enrico Russo
 - Born in [Genoa](https://en.wikipedia.org/wiki/Genoa) - Zêna, [Liguria](https://en.wikipedia.org/wiki/Liguria), the **20th of Sep. 1976**
 - **1995-2001**: Master of Science in Computer Science at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 - **Mar. 2017**: Post-degree II Level [Master Cyber Security and Data Protection](https://mastercybersecurity.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa) 
-- **From Nov. 2018**: PhD student in Computer Science and Systems Engineering of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University
- of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
+- **Jan. 2021**: Ph.D. in Computer Science and Systems Engineering at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa)
 
+### Current position
+
+- **Fixed-term Assistant Professor** at [DIBRIS](https://www.dibris.unige.it/), University of Genova (since May 2021)
 
 ### Publications
 
