@@ -300,6 +300,12 @@ Advanced Information Networking and Applications ([AINA 2018](http://voyager.ce.
 
 ## Ph.D. Progeny
 
+
+<!-- 
+**2021-2024**: *[Giacomo Longo](https://csec.it/people/giacomo_longo/)* (Cycle XXXVI).
+**2021-2024**: *[Giacomo Renato Benedetti](https://csec.it/people/giacomo_benedetti/)* (Cycle XXXVI).
+**2021-2024**: *[Francesco Pagano](https://csec.it/people/francesco_pagano/)* (Cycle XXXVI).
+-->
 - **2020-2023**: *[Antonio Ruggia](https://csec.it/people/antonio_ruggia/)* (Cycle XXXV).
 - **2020-2023**: *[Marco Raimondi](https://csec.it/people/marco_raimondi/)* (Cycle XXXV).
 - **2019-2022**: *[Marco Zuppelli](https://www.linkedin.com/in/marco-zuppelli-6a2619183/)* (Cycle XXXIV).
